@@ -1,0 +1,4650 @@
+[
+  {
+    "id": 1,
+    "composer": "Lalo, Édouard",
+    "composer_id": 130.0,
+    "work": "Symphonie espagnole, Op.21",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 2,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 5 in A minor",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 3,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 11 in C major",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 4,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 5,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 24 in A minor",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 6,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 7,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Schön Rosmarin",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 8,
+    "composer": "Schalit, Heinrich",
+    "composer_id": 206.0,
+    "work": "Serenadecafter a jewish folk song",
+    "date_display": "1947/12/14",
+    "date_sort": "1947-12-14",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 9,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1949/05/20",
+    "date_sort": "1949-05-20",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live; excerpt",
+    "reference": null
+  },
+  {
+    "id": 10,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Partita for Solo Violin No. 2 in D minor, BWV 1004",
+    "date_display": "1949/05/20",
+    "date_sort": "1949-05-20",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 11,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1949/05/20",
+    "date_sort": "1949-05-20",
+    "accompanists": [
+      {
+        "name": "Rabin, Jeanne",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 12,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 5 in A minor",
+    "date_display": "1949/05/20",
+    "date_sort": "1949-05-20",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 13,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
+    "date_display": "1950/04/07",
+    "date_sort": "1950-04-07",
+    "accompanists": [
+      {
+        "name": "Blackman,Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "National Orchestra Association",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 14,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 1 in E major",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 15,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 5 in A minor",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 16,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 9 in E major",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 17,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 11 in C major",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 18,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 13 in B-flat major",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 19,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 16 in G Minor",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 20,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 18 in C major",
+    "date_display": "1950/05/19",
+    "date_sort": "1950-05-19",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 21,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 14 in E-flat major",
+    "date_display": "1950/05/25",
+    "date_sort": "1950-05-25",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 22,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
+    "date_display": "1950/05/25",
+    "date_sort": "1950-05-25",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 23,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 21 in A major",
+    "date_display": "1950/05/25",
+    "date_sort": "1950-05-25",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 24,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 24 in A minor",
+    "date_display": "1950/05/25",
+    "date_sort": "1950-05-25",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 25,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
+    "date_display": "1950/08/07",
+    "date_sort": "1950-08-07",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 26,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
+    "date_display": "1950/08/07",
+    "date_sort": "1950-08-07",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 27,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1950/08/07",
+    "date_sort": "1950-08-07",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 28,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "May Breezes, Op. 62 No. 1",
+    "date_display": "1950/12/11",
+    "date_sort": "1950-12-11",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 29,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Tambourin Chinois, Op. 3",
+    "date_display": "1950/12/11",
+    "date_sort": "1950-12-11",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 30,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1950/12/11",
+    "date_sort": "1950-12-11",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 31,
+    "composer": "Dvořák, Antonín",
+    "composer_id": 69.0,
+    "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
+    "date_display": "1951/07/09",
+    "date_sort": "1951-07-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 32,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1951/07/09",
+    "date_sort": "1951-07-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 33,
+    "composer": "Lalo, Édouard",
+    "composer_id": 130.0,
+    "work": "Symphonie espagnole, Op.21",
+    "date_display": "1951/07/09",
+    "date_sort": "1951-07-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 5th movement",
+    "reference": null
+  },
+  {
+    "id": 34,
+    "composer": "Godowsky, Leopold",
+    "composer_id": 97.0,
+    "work": "Alt Wien(Arr. by Heifetz)",
+    "date_display": "1951/10/22",
+    "date_sort": "1951-10-22",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 35,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1951/10/22",
+    "date_sort": "1951-10-22",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 1st movement",
+    "reference": null
+  },
+  {
+    "id": 36,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
+    "date_display": "1951/12/02",
+    "date_sort": "1951-12-02",
+    "accompanists": [
+      {
+        "name": "Mitropoulos, Dimitris",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live\nhttps://youtu.be/GDraRNRnYhA?si=GcwbjIpZLG1lenWR",
+    "reference": null
+  },
+  {
+    "id": 37,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Contemplation(Arr. by Heifetz), Op. 105 No. 1",
+    "date_display": "1951/12/17",
+    "date_sort": "1951-12-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Doremi",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 38,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Caprice Viennois, Op. 2",
+    "date_display": "1951/12/17",
+    "date_sort": "1951-12-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Doremi",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 39,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1951/12/17",
+    "date_sort": "1951-12-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Doremi",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 40,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
+    "date_display": "1952/01/11",
+    "date_sort": "1952-01-11",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Julliard Concert Hall, New York",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Michael Rabin plays Bach Sonata in C Major, BWV 1005 - Live, 1952"
+  },
+  {
+    "id": 41,
+    "composer": "Dvořák, Antonín",
+    "composer_id": 69.0,
+    "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 46 No. 2",
+    "date_display": "1952/03/05",
+    "date_sort": "1952-03-05",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 42,
+    "composer": "Engel, Carl",
+    "composer_id": 73.0,
+    "work": "Sea Shell(Arr. by Zimbalist)",
+    "date_display": "1952/03/05",
+    "date_sort": "1952-03-05",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 43,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1952/03/05",
+    "date_sort": "1952-03-05",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 44,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
+    "date_display": "1952/03/18",
+    "date_sort": "1952-03-18",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 45,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Carmen Fantasy, Op.25",
+    "date_display": "1952/03/18",
+    "date_sort": "1952-03-18",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 46,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "La Chasse, Caprice in the style of Cartier",
+    "date_display": "1952/03/18",
+    "date_sort": "1952-03-18",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 47,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1952/04/28",
+    "date_sort": "1952-04-28",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      },
+      {
+        "name": "Francescatti, Zino",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 1st movement",
+    "reference": null
+  },
+  {
+    "id": 48,
+    "composer": "Glazunov, Aleksandr",
+    "composer_id": 91.0,
+    "work": "Violin Concerto in A minor, Op. 82",
+    "date_display": "1952/06/09",
+    "date_sort": "1952-06-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 49,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Sweet Remembrance, Op. 19 No. 1",
+    "date_display": "1952/06/09",
+    "date_sort": "1952-06-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as July 9th.",
+    "reference": null
+  },
+  {
+    "id": 50,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Etude-Caprice in A minor, Op. 18 No. 4",
+    "date_display": "1952/06/09",
+    "date_sort": "1952-06-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as July 9th.",
+    "reference": null
+  },
+  {
+    "id": 51,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Polonaise Brilliante in D major, Op. 4",
+    "date_display": "1952/06/09",
+    "date_sort": "1952-06-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as July 9th.",
+    "reference": null
+  },
+  {
+    "id": 52,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Polonaise Brilliante in D major, Op. 4",
+    "date_display": "1952/07/02",
+    "date_sort": "1952-07-02",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 53,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1952/07/02",
+    "date_sort": "1952-07-02",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 54,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 11 in C major",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 55,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 16 in G Minor",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 56,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 21 in A major",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 57,
+    "composer": "Scriabin, Alexander",
+    "composer_id": 214.0,
+    "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 58,
+    "composer": "Godowsky, Leopold",
+    "composer_id": 97.0,
+    "work": "Alt Wien(Arr. by Heifetz)",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 59,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Tambourin Chinois, Op. 3",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 60,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Tzigane",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 61,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Chant d'autumne, Op. 37b No. 10",
+    "date_display": "1952/07/08",
+    "date_sort": "1952-07-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Raymond",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Town Hall, Sydney",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 62,
+    "composer": "Chopin, Frédéric François",
+    "composer_id": 48.0,
+    "work": "Nocturne No. 20 in C-sharp minor(Arr. by Milstein)",
+    "date_display": "1952/11/10",
+    "date_sort": "1952-11-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as September 10th.",
+    "reference": null
+  },
+  {
+    "id": 63,
+    "composer": "Falla, Manuel de",
+    "composer_id": 75.0,
+    "work": "Danse Espagnole from \"La Vida Breve\"",
+    "date_display": "1952/11/10",
+    "date_sort": "1952-11-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as September 10th.",
+    "reference": null
+  },
+  {
+    "id": 64,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1952/11/10",
+    "date_sort": "1952-11-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Parnassus indicates the date as September 10th.",
+    "reference": null
+  },
+  {
+    "id": 65,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
+    "date_display": "1953",
+    "date_sort": "1953-01-01",
+    "accompanists": [
+      {
+        "name": "Wallenstein, Alfred",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Los Angeles Philharmonic",
+    "location": "Santa Barbara",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 66,
+    "composer": "Nováček, Ottokar",
+    "composer_id": 163.0,
+    "work": "Perpetuum Mobile, Op. 5 No. 4",
+    "date_display": "1953/01/29",
+    "date_sort": "1953-01-29",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 67,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "Perpetuum Mobile, Op. 11",
+    "date_display": "1953/01/29",
+    "date_sort": "1953-01-29",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 68,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1953/01/29",
+    "date_sort": "1953-01-29",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 69,
+    "composer": "Engel, Carl",
+    "composer_id": 73.0,
+    "work": "Sea Shell(Arr. by Zimbalist)",
+    "date_display": "1953/08/17",
+    "date_sort": "1953-08-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 70,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Old Refrain",
+    "date_display": "1953/08/17",
+    "date_sort": "1953-08-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 71,
+    "composer": "Scriabin, Alexander",
+    "composer_id": 214.0,
+    "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
+    "date_display": "1953/08/17",
+    "date_sort": "1953-08-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 72,
+    "composer": "Vieuxtemps, Henri",
+    "composer_id": 249.0,
+    "work": "Violin Concerto No. 5 in A minor, Op. 37",
+    "date_display": "1953/08/17",
+    "date_sort": "1953-08-17",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; Cadenza, Adagio & Allegro con fuoco",
+    "reference": null
+  },
+  {
+    "id": 73,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Carmen Fantasy, Op.25",
+    "date_display": "1953/11/09",
+    "date_sort": "1953-11-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 74,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1953/11/09",
+    "date_sort": "1953-11-09",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 1st movement",
+    "reference": null
+  },
+  {
+    "id": 75,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Sonata No. 3 in D minor, Op. 108",
+    "date_display": "1954",
+    "date_sort": "1954-01-01",
+    "accompanists": [
+      {
+        "name": "Garvey, David",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Carnegie Hall Digital Collection"
+    ],
+    "is_live": false,
+    "notes": "video material",
+    "reference": null
+  },
+  {
+    "id": 76,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 5 in A minor",
+    "date_display": "1954",
+    "date_sort": "1954-01-01",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Carnegie Hall Digital Collection"
+    ],
+    "is_live": false,
+    "notes": "video material",
+    "reference": null
+  },
+  {
+    "id": 77,
+    "composer": "Schubert, Franz",
+    "composer_id": 210.0,
+    "work": "Violin Sonata in A major 'Duo', D. 574",
+    "date_display": "1954",
+    "date_sort": "1954-01-01",
+    "accompanists": [
+      {
+        "name": "Garvey, David",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Carnegie Hall Digital Collection"
+    ],
+    "is_live": false,
+    "notes": "video material",
+    "reference": null
+  },
+  {
+    "id": 78,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
+    "date_display": "1954/02/02",
+    "date_sort": "1954-02-02",
+    "accompanists": [
+      {
+        "name": "Wallenstein, Alfred",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Los Angeles Philharmonic",
+    "location": null,
+    "labels": [
+      "Tahra"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 79,
+    "composer": "Mohaupt, Richard",
+    "composer_id": 153.0,
+    "work": "Violin Concerto",
+    "date_display": "1954/04/29",
+    "date_sort": "1954-04-29",
+    "accompanists": [
+      {
+        "name": "Mitropoulos, Dimitris",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 80,
+    "composer": "Glazunov, Aleksandr",
+    "composer_id": 91.0,
+    "work": "Violin Concerto in A minor, Op. 82",
+    "date_display": "1954/05/02",
+    "date_sort": "1954-05-02",
+    "accompanists": [
+      {
+        "name": "Mitropoulos, Dimitris",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 81,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Havanaise, Op. 83",
+    "date_display": "1954/05/10",
+    "date_sort": "1954-05-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 82,
+    "composer": "Debussy, Claude",
+    "composer_id": 58.0,
+    "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
+    "date_display": "1954/05/10",
+    "date_sort": "1954-05-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 83,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "Perpetuum Mobile, Op. 11",
+    "date_display": "1954/05/10",
+    "date_sort": "1954-05-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 84,
+    "composer": "Moszkowski, Moritz",
+    "composer_id": 155.0,
+    "work": "Guitarre, Op. 45 No. 2",
+    "date_display": "1954/08/23",
+    "date_sort": "1954-08-23",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 85,
+    "composer": "Elgar, Edward",
+    "composer_id": 71.0,
+    "work": "La capricieuse, Op. 17",
+    "date_display": "1954/08/23",
+    "date_sort": "1954-08-23",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 86,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Liebesleid",
+    "date_display": "1954/08/23",
+    "date_sort": "1954-08-23",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 87,
+    "composer": "Nováček, Ottokar",
+    "composer_id": 163.0,
+    "work": "Perpetuum Mobile, Op. 5 No. 4",
+    "date_display": "1954/08/23",
+    "date_sort": "1954-08-23",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 88,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1954/12/12",
+    "date_sort": "1954-12-12",
+    "accompanists": [
+      {
+        "name": "Sargent, Malcolm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": "Royal Festival Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/9ea4cb0ca74e0439cc5cd2165be96efe"
+  },
+  {
+    "id": 89,
+    "composer": "Glazunov, Aleksandr",
+    "composer_id": 91.0,
+    "work": "Violin Concerto in A minor, Op. 82",
+    "date_display": "1954/12/17",
+    "date_sort": "1954-12-17",
+    "accompanists": [
+      {
+        "name": "Matačić, Lovro von",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 90,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "Violin Concerto No. 1 in D major, Op. 6",
+    "date_display": "1955/01/01",
+    "date_sort": "1955-01-01",
+    "accompanists": [
+      {
+        "name": "Matačić, Lovro von",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 91,
+    "composer": "Rachmaninov, Sergei",
+    "composer_id": 183.0,
+    "work": "Rhapsody on a Theme of Paganini(Arr. by Kreisler)",
+    "date_display": "1955/03/28",
+    "date_sort": "1955-03-28",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 92,
+    "composer": "Suk, Josef",
+    "composer_id": 230.0,
+    "work": "Burleska, Op. 17 No. 4",
+    "date_display": "1955/03/28",
+    "date_sort": "1955-03-28",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 93,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1955/03/28",
+    "date_sort": "1955-03-28",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 94,
+    "composer": "Poldini, Ede",
+    "composer_id": 174.0,
+    "work": "Dancing Doll(Arr. by Kreisler)",
+    "date_display": "1955/05/16",
+    "date_sort": "1955-05-16",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 95,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Caprice Viennois, Op. 2",
+    "date_display": "1955/05/16",
+    "date_sort": "1955-05-16",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 96,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1955/05/16",
+    "date_sort": "1955-05-16",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 97,
+    "composer": "Massenet, Jules",
+    "composer_id": 144.0,
+    "work": "Elegie, Op. 10 No. 5",
+    "date_display": "1955/05/16",
+    "date_sort": "1955-05-16",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      },
+      {
+        "name": "Sullivan, Brian",
+        "role": "tenor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 98,
+    "composer": "Dvořák, Antonín",
+    "composer_id": 69.0,
+    "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
+    "date_display": "1955/06/13",
+    "date_sort": "1955-06-13",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 99,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "La Chasse, Caprice in the style of Cartier",
+    "date_display": "1955/06/13",
+    "date_sort": "1955-06-13",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 100,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1955/06/13",
+    "date_sort": "1955-06-13",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 101,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
+    "date_display": "1955/09/30",
+    "date_sort": "1955-09-30",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 102,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
+    "date_display": "1955/09/30",
+    "date_sort": "1955-09-30",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 103,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in C minor, Op. 27 No. 4",
+    "date_display": "1955/09/30",
+    "date_sort": "1955-09-30",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 104,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
+    "date_display": "1955/10/24",
+    "date_sort": "1955-10-24",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 105,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1955/10/24",
+    "date_sort": "1955-10-24",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 106,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1955/10/24",
+    "date_sort": "1955-10-24",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 107,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Andante cantabile from String Quartet No. 1",
+    "date_display": "1955/10/24",
+    "date_sort": "1955-10-24",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 108,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1956/06/11-12",
+    "date_sort": "1956-06-11",
+    "accompanists": [
+      {
+        "name": "Galliera, Alceo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Hornsey Town Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 109,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Havanaise, Op. 83",
+    "date_display": "1956/06/12",
+    "date_sort": "1956-06-12",
+    "accompanists": [
+      {
+        "name": "Galliera, Alceo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Hornsey Town Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 110,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1956/06/13",
+    "date_sort": "1956-06-13",
+    "accompanists": [
+      {
+        "name": "Galliera, Alceo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Hornsey Town Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 111,
+    "composer": "Engel, Carl",
+    "composer_id": 73.0,
+    "work": "Sea Shell(Arr. by Zimbalist)",
+    "date_display": "1956/06/18",
+    "date_sort": "1956-06-18",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 112,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Sweet Remembrance, Op. 19 No. 1",
+    "date_display": "1956/06/18",
+    "date_sort": "1956-06-18",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 113,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": 179.0,
+    "work": "March from 'The Love for Three Oranges'(Arr. by Heifetz)",
+    "date_display": "1956/06/18",
+    "date_sort": "1956-06-18",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 114,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Caprice d'après l'Etudes en forme de Valse, Op. 52",
+    "date_display": "1956/06/18",
+    "date_sort": "1956-06-18",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 115,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Old Refrain",
+    "date_display": "1956/09/10",
+    "date_sort": "1956-09-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 116,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1956/09/10",
+    "date_sort": "1956-09-10",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Tahra",
+      "Parnassus",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live; 1st movement",
+    "reference": null
+  },
+  {
+    "id": 117,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Tzigane",
+    "date_display": "1957/01/01",
+    "date_sort": "1957-01-01",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Walthamstow Town Hal, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 118,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1957/01/02&04",
+    "date_sort": "1957-01-02",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Walthamstow Town Hal, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 119,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
+    "date_display": "1957/01/03&04",
+    "date_sort": "1957-01-03",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Walthamstow Town Hal, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 120,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Scottish Fantasy in E-flat major, Op. 46",
+    "date_display": "1957/01/04",
+    "date_sort": "1957-01-04",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Walthamstow Town Hal, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 121,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": 179.0,
+    "work": "Violin Concerto No. 2 in G minor, Op. 63",
+    "date_display": "1957/01/28",
+    "date_sort": "1957-01-28",
+    "accompanists": [
+      {
+        "name": "Cluytens, André",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "WDR Symphony Orchestra Cologne",
+    "location": null,
+    "labels": [
+      "Archipel",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 122,
+    "composer": "Glazunov, Aleksandr",
+    "composer_id": 91.0,
+    "work": "Violin Concerto in A minor, Op. 82",
+    "date_display": "1957/02/03",
+    "date_sort": "1957-02-03",
+    "accompanists": [
+      {
+        "name": "Del Mar, Norman",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/d3285a885656ea32abb9a13487e2160c"
+  },
+  {
+    "id": 123,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Romanza andaluza), Op. 22 No. 1",
+    "date_display": "1957/06/03",
+    "date_sort": "1957-06-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 124,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
+    "date_display": "1957/06/03",
+    "date_sort": "1957-06-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 125,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Scottish Fantasy in E-flat major, Op. 46",
+    "date_display": "1957/06/03",
+    "date_sort": "1957-06-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd & 4th movements",
+    "reference": null
+  },
+  {
+    "id": 126,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 9 in E major",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 127,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 128,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Havanaise, Op. 83",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [
+      {
+        "name": "Harvey, Patrick",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 129,
+    "composer": "Suk, Josef",
+    "composer_id": 230.0,
+    "work": "Burleska, Op. 17 No. 4",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [
+      {
+        "name": "Harvey, Patrick",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 130,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Contemplation(Arr. by Heifetz), Op. 105 No. 1",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [
+      {
+        "name": "Harvey, Patrick",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 131,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
+    "date_display": "1958",
+    "date_sort": "1958-01-01",
+    "accompanists": [
+      {
+        "name": "Harvey, Patrick",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "BBC Television",
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+  },
+  {
+    "id": 132,
+    "composer": "Godowsky, Leopold",
+    "composer_id": 97.0,
+    "work": "Alt Wien(Arr. by Heifetz)",
+    "date_display": "1958/02/03",
+    "date_sort": "1958-02-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "NBC Studio 6A, Radio City, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 133,
+    "composer": "Gardner, Samuel",
+    "composer_id": 87.0,
+    "work": "From the Canebreak",
+    "date_display": "1958/02/03",
+    "date_sort": "1958-02-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "NBC Studio 6A, Radio City, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 134,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Habañera), Op. 21 No. 2",
+    "date_display": "1958/02/03",
+    "date_sort": "1958-02-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "NBC Studio 6A, Radio City, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 135,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1958/02/03",
+    "date_sort": "1958-02-03",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": "NBC Studio 6A, Radio City, New York",
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live; 3rd movement",
+    "reference": null
+  },
+  {
+    "id": 136,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices(Complete), Op. 1",
+    "date_display": "1958/09/05-08",
+    "date_sort": "1958-09-05",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 137,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Pièce en Forme de Habanera",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 138,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 139,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Habañera), Op. 21 No. 2",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 140,
+    "composer": "Chopin, Frédéric François",
+    "composer_id": 48.0,
+    "work": "Nocturne in D-flat major(Arr. by Wilhelmj), Op. 27 No. 2",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 141,
+    "composer": "Mompou, Federico",
+    "composer_id": 154.0,
+    "work": "Scenes d'enfants",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 142,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": 179.0,
+    "work": "March from 'The Love for Three Oranges'(Arr. by Heifetz)",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 143,
+    "composer": "Suk, Josef",
+    "composer_id": 230.0,
+    "work": "Burleska, Op. 17 No. 4",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 144,
+    "composer": "Scriabin, Alexander",
+    "composer_id": 214.0,
+    "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 145,
+    "composer": "Elgar, Edward",
+    "composer_id": 71.0,
+    "work": "La capricieuse, Op. 17",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 146,
+    "composer": "Engel, Carl",
+    "composer_id": 73.0,
+    "work": "Sea Shell(Arr. by Zimbalist)",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 147,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
+    "date_display": "1959/03/23&25",
+    "date_sort": "1959-03-23",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 148,
+    "composer": "Debussy, Claude",
+    "composer_id": 58.0,
+    "work": "La puls que lente",
+    "date_display": "1959/04/30",
+    "date_sort": "1959-04-30",
+    "accompanists": [
+      {
+        "name": "Pommers, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio A, Capitol 46th Street Studios, New York",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 149,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Caprice Viennois, Op. 2",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 150,
+    "composer": "Dinicu, Grigorias",
+    "composer_id": 62.0,
+    "work": "Hora Staccato(Arr. by Heifetz)",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 151,
+    "composer": "Massenet, Jules",
+    "composer_id": 144.0,
+    "work": "Méditation from Thais",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 152,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 153,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "Perpetuum Mobile, Op. 11",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 154,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Old Refrain",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 155,
+    "composer": "Rimsky-Korsakov, Nikolai",
+    "composer_id": 191.0,
+    "work": "Flight of the Bumblebee",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 156,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1959/09/10-11",
+    "date_sort": "1959-09-10",
+    "accompanists": [
+      {
+        "name": "Slatkin, Felix",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "Capitol Studio, Hollywood",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 157,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 4 in D major, K. 218",
+    "date_display": "1960/02/09",
+    "date_sort": "1960-02-09",
+    "accompanists": [
+      {
+        "name": "Caston, Saul",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Denver Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 158,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1960/03/01",
+    "date_sort": "1960-03-01",
+    "accompanists": [
+      {
+        "name": "Barnett, John",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "National Orchestra Association",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Podium",
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 159,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Violin Concerto No. 2 in D minor, Op. 22",
+    "date_display": "1960/05/13",
+    "date_sort": "1960-05-13",
+    "accompanists": [
+      {
+        "name": "Goossens, Eugène",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 160,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "Violin Concerto No. 1 in D major, Op. 6",
+    "date_display": "1960/05/14",
+    "date_sort": "1960-05-14",
+    "accompanists": [
+      {
+        "name": "Goossens, Eugène",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 161,
+    "composer": "Creston, Paul",
+    "composer_id": 53.0,
+    "work": "Violin Concerto No. 2, Op. 78",
+    "date_display": "1960/11/17",
+    "date_sort": "1960-11-17",
+    "accompanists": [
+      {
+        "name": "Solti, Georg",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Los Angeles Philharmonic",
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live\nworld premier",
+    "reference": null
+  },
+  {
+    "id": 162,
+    "composer": "Dvořák, Antonín",
+    "composer_id": 69.0,
+    "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 163,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Tambourin Chinois, Op. 3",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 164,
+    "composer": "Debussy, Claude",
+    "composer_id": 58.0,
+    "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 165,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 166,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Introduction and Tarantelle, Op. 43",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 167,
+    "composer": "Falla, Manuel de",
+    "composer_id": 75.0,
+    "work": "Danse Espagnole from \"La Vida Breve\"",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 168,
+    "composer": "Schumann, Robert",
+    "composer_id": 212.0,
+    "work": "Waldscenen: 'Bird as Prophet', Op. 82",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 169,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "La Chasse, Caprice in the style of Cartier",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 170,
+    "composer": "Chopin, Frédéric François",
+    "composer_id": 48.0,
+    "work": "Nocturne in E-flat major(Arr. by Sarasate), Op. 9 No. 2",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 171,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Polonaise Brilliante in D major, Op. 4",
+    "date_display": "1961/01/03",
+    "date_sort": "1961-01-03",
+    "accompanists": [
+      {
+        "name": "Smith, Brooks",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 172,
+    "composer": "Creston, Paul",
+    "composer_id": 53.0,
+    "work": "Violin Concerto No. 2, Op. 78",
+    "date_display": "1961/01/27",
+    "date_sort": "1961-01-27",
+    "accompanists": [
+      {
+        "name": "Sopkin, Henry",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Atlanta Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 173,
+    "composer": "Fauré, Gabriel",
+    "composer_id": 76.0,
+    "work": "Violin Sonata No. 1 in A minor, Op. 13",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 174,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 175,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 5 in A minor",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 176,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 9 in E major",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 177,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 13 in B-flat major",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 178,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 14 in E-flat major",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 179,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 180,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 24 in A minor",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 181,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
+    "date_display": "1961/10/17",
+    "date_sort": "1961-10-17",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Sender Fries, Berlin",
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 182,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1961/11/10",
+    "date_sort": "1961-11-10",
+    "accompanists": [
+      {
+        "name": "Smith, William",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": null,
+    "labels": [
+      "Philadelphia Orchestra Association"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 183,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Caprice Viennois, Op. 2",
+    "date_display": "1962/02/02",
+    "date_sort": "1962-02-02",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 184,
+    "composer": "Kreisler, Fritz",
+    "composer_id": 128.0,
+    "work": "Tambourin Chinois, Op. 3",
+    "date_display": "1962/02/02",
+    "date_sort": "1962-02-02",
+    "accompanists": [
+      {
+        "name": "Voorhees, Donald",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bell Telephone Hour Orchestra",
+    "location": null,
+    "labels": [
+      "Parnassus"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 185,
+    "composer": "Creston, Paul",
+    "composer_id": 53.0,
+    "work": "Violin Concerto No. 2, Op. 78",
+    "date_display": "1962/03/19",
+    "date_sort": "1962-03-19",
+    "accompanists": [
+      {
+        "name": "Scherman, Thomas",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Little Orchestra Society",
+    "location": "Town Hall, New York",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 186,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Violin Concerto No. 3 in B minor, Op. 61",
+    "date_display": "1962/10/04",
+    "date_sort": "1962-10-04",
+    "accompanists": [
+      {
+        "name": "Bour, Ernest",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "SWR Baden-Baden Freiburg Symphony Orchestra(-2016)",
+    "location": "Baden-Baden",
+    "labels": [
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 187,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 188,
+    "composer": "Engel, Carl",
+    "composer_id": 73.0,
+    "work": "Sea Shell(Arr. by Zimbalist)",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 189,
+    "composer": "Milhaud, Darius",
+    "composer_id": 151.0,
+    "work": "Tijuca from Saudades do Brasil, Op. 67 No. 8",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 190,
+    "composer": "Spalding, Albert",
+    "composer_id": 304.0,
+    "work": "Dragonfly for Solo Violin",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 191,
+    "composer": "Szymanowski, Karol",
+    "composer_id": 232.0,
+    "work": "La Fontaine d'Aréthuse from Three Poems 'Mythes', Op. 30 No. 1",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 192,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Havanaise, Op. 83",
+    "date_display": "1962/10/30",
+    "date_sort": "1962-10-30",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "audite"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 194,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1964/10/29",
+    "date_sort": "1964-10-29",
+    "accompanists": [
+      {
+        "name": "Fjeldstad, Øivin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Oslo Philharmonic Orchestra",
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 195,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1967/07/18",
+    "date_sort": "1967-07-18",
+    "accompanists": [
+      {
+        "name": "Maazel, Lorin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Central Park Sheep Meadow, NY",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 196,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1967/08/03",
+    "date_sort": "1967-08-03",
+    "accompanists": [
+      {
+        "name": "Kubelík, Rafael",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Chicago Symphony Orchestra",
+    "location": "Ravinia Festival Pavilion, Highland Park",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live at Ravinia Festival",
+    "reference": null
+  },
+  {
+    "id": 197,
+    "composer": "Glazunov, Aleksandr",
+    "composer_id": 91.0,
+    "work": "Violin Concerto in A minor, Op. 82",
+    "date_display": "1968/03/03",
+    "date_sort": "1968-03-03",
+    "accompanists": [
+      {
+        "name": "Schmid, Erich",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Swiss Radio Orchestra Beromünster",
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 198,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": 179.0,
+    "work": "Violin Concerto No. 2 in G minor, Op. 63",
+    "date_display": "1968/07/11",
+    "date_sort": "1968-07-11",
+    "accompanists": [
+      {
+        "name": "Vandernoot, André",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Chicago Symphony Orchestra",
+    "location": "Ravinia Festival Pavilion, Highland Park",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live at Ravinia Festival",
+    "reference": null
+  },
+  {
+    "id": 199,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1969",
+    "date_sort": "1969-01-01",
+    "accompanists": [
+      {
+        "name": "Decker, Franz-Paul",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Montreal Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 200,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1969/03/03",
+    "date_sort": "1969-03-03",
+    "accompanists": [
+      {
+        "name": "Susskind, Walter",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre symphonique de Québec",
+    "location": "Palais Momtcalm, Québec",
+    "labels": [
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 201,
+    "composer": "Kroll, William",
+    "composer_id": 129.0,
+    "work": "Banjo and Fiddle",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 202,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": 262.0,
+    "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 203,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": 238.0,
+    "work": "Meditation, Op. 42 No. 1",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 204,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Carmen Fantasy, Op.25",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 205,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Malagueña), Op. 21 No. 1",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 206,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Habañera), Op. 21 No. 2",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 207,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
+    "date_display": "1969/06/12",
+    "date_sort": "1969-06-12",
+    "accompanists": [
+      {
+        "name": "Broddack, Rothar",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Studio Lankwitz, Berlin",
+    "labels": [
+      "audite",
+      "Podium"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 208,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1969/06/16-17",
+    "date_sort": "1969-06-16",
+    "accompanists": [
+      {
+        "name": "Schippers, Thomas",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Symphonie-Orchester Berlin(1956-1993)",
+    "location": "Berliner Philharmonie, Berlin",
+    "labels": [
+      "audite",
+      "Doremi",
+      "Podium"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 209,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1970/01/18",
+    "date_sort": "1970-01-18",
+    "accompanists": [
+      {
+        "name": "Malar, Gregory",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Grand Rapids Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 210,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1970/01/20",
+    "date_sort": "1970-01-20",
+    "accompanists": [
+      {
+        "name": "Andrews, Mitchell",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 211,
+    "composer": "Paganini, Niccolò",
+    "composer_id": 165.0,
+    "work": "24 Caprices, Op. 1 No. 9 in E major",
+    "date_display": "1970/01/20",
+    "date_sort": "1970-01-20",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 212,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": 199.0,
+    "work": "Spanish Dances(Habañera), Op. 21 No. 2",
+    "date_display": "1970/01/20",
+    "date_sort": "1970-01-20",
+    "accompanists": [
+      {
+        "name": "Andrews, Mitchell",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 213,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1970/02/26",
+    "date_sort": "1970-02-26",
+    "accompanists": [
+      {
+        "name": "Rozsnyai, Zoltán",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "San Diego Symphony Orchestra",
+    "location": "Civic Theater, San Diego",
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 214,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Scottish Fantasy in E-flat major, Op. 46",
+    "date_display": "1971/02/25",
+    "date_sort": "1971-02-25",
+    "accompanists": [
+      {
+        "name": "Rozsnyai, Zoltán",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "San Diego Symphony Orchestra",
+    "location": "Civic Theater, San Diego",
+    "labels": [
+      "Testament"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 193,
+    "composer": "Carpenter, John Alden",
+    "composer_id": 42.0,
+    "work": "Violin Sonata",
+    "date_display": "c1964",
+    "date_sort": "9999-99-99",
+    "accompanists": [
+      {
+        "name": "Johannesen, Grant",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "Testament"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  }
+]

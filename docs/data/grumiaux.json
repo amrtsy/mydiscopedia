@@ -1,0 +1,1800 @@
+[
+  {
+    "id": 1,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Tzigane",
+    "date_display": "1945/06/13",
+    "date_sort": "1945-06-13",
+    "accompanists": [
+      {
+        "name": "Moore, Gerald",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": null
+  },
+  {
+    "id": 2,
+    "composer": "Walton, William",
+    "composer_id": 256.0,
+    "work": "Violin Concerto in B minor",
+    "date_display": "1945/08/21",
+    "date_sort": "1945-08-21",
+    "accompanists": [
+      {
+        "name": "Lambert, Constant",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/ce12e090cbb22ea5629f28a863abd383"
+  },
+  {
+    "id": 3,
+    "composer": "Walton, William",
+    "composer_id": 256.0,
+    "work": "Violin Concerto in B minor",
+    "date_display": "1945/09/26",
+    "date_sort": "1945-09-26",
+    "accompanists": [
+      {
+        "name": "Lambert, Constant",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/0229f09d299b9232a4ce1fca552e1b06"
+  },
+  {
+    "id": 4,
+    "composer": "Franck, César",
+    "composer_id": 84.0,
+    "work": "Violin Sonata in A major",
+    "date_display": "1946/05/30",
+    "date_sort": "1946-05-30",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Broadcasting House, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/aebf2a9f1d3888c0f0c649e6c2434241"
+  },
+  {
+    "id": 5,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in E-flat major, K. 302",
+    "date_display": "1946/08/04",
+    "date_sort": "1946-08-04",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Broadcasting House, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/2a6bcda979dfca9e11cd7c4f88f0d96a"
+  },
+  {
+    "id": 6,
+    "composer": "Fauré, Gabriel",
+    "composer_id": 76.0,
+    "work": "Violin Sonata No. 1 in A minor, Op. 13",
+    "date_display": "1946/08/04",
+    "date_sort": "1946-08-04",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Broadcasting House, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/2a6bcda979dfca9e11cd7c4f88f0d96a"
+  },
+  {
+    "id": 7,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1946/08/08",
+    "date_sort": "1946-08-08",
+    "accompanists": [
+      {
+        "name": "Lambert, Constant",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at BBC Proms",
+    "reference": "https://genome.ch.bbc.co.uk/6ac19f0024acc5075c0cb74ba0e247ea"
+  },
+  {
+    "id": 8,
+    "composer": "Veracini, Francesco Maria",
+    "composer_id": 247.0,
+    "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
+    "date_display": "1946/11/21",
+    "date_sort": "1946-11-21",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Broadcasting House, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/2188a76e1b40991169be9a2843ac5e5b"
+  },
+  {
+    "id": 9,
+    "composer": "Debussy, Claude",
+    "composer_id": 58.0,
+    "work": "Violin Sonata in G minor",
+    "date_display": "1946/11/21",
+    "date_sort": "1946-11-21",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Broadcasting House, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/2188a76e1b40991169be9a2843ac5e5b"
+  },
+  {
+    "id": 10,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1946/11/24",
+    "date_sort": "1946-11-24",
+    "accompanists": [
+      {
+        "name": "Miles, Maurice",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Welbeck String Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/53c3996511c4d34410b6cac696b7e427"
+  },
+  {
+    "id": 11,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Sonata No. 3 in D minor, Op. 108",
+    "date_display": "1946/11/26",
+    "date_sort": "1946-11-26",
+    "accompanists": [
+      {
+        "name": "Wills, John",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/fb326d2c36ca8acd19b009ed5569e10f"
+  },
+  {
+    "id": 12,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in B-flat major, K. 454",
+    "date_display": "1946/12/08",
+    "date_sort": "1946-12-08",
+    "accompanists": [
+      {
+        "name": "Stone, Frederick",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/e203533eb997597b25c8ceae7d759a1d"
+  },
+  {
+    "id": 13,
+    "composer": "Walton, William",
+    "composer_id": 256.0,
+    "work": "Violin Concerto in B minor",
+    "date_display": "1947/01/23",
+    "date_sort": "1947-01-23",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": "Palais des Beaux-Arts, Brussels",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/dbcbd1f079978d0abda61203e207738a"
+  },
+  {
+    "id": 14,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": 179.0,
+    "work": "Violin Sonata No. 2 in D major, Op. 94bis",
+    "date_display": "1947/11/21",
+    "date_sort": "1947-11-21",
+    "accompanists": [
+      {
+        "name": "Degraux, Leon",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/3c0ab6f04725991e012ce69de8be3d6d"
+  },
+  {
+    "id": 15,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
+    "date_display": "1947/11/21",
+    "date_sort": "1947-11-21",
+    "accompanists": [],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/3c0ab6f04725991e012ce69de8be3d6d"
+  },
+  {
+    "id": 16,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Violin Concerto in D major",
+    "date_display": "1948/03/25",
+    "date_sort": "1948-03-25",
+    "accompanists": [
+      {
+        "name": "Goehr, Walter",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/46ddbbc41c5bc30af41b7b42601a7a22"
+  },
+  {
+    "id": 17,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in E minor, K. 304",
+    "date_display": "1948/07/29",
+    "date_sort": "1948-07-29",
+    "accompanists": [
+      {
+        "name": "Lush, Ernest",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/45db62078fb3c5eebb50b400463a28fa"
+  },
+  {
+    "id": 18,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Divertimento",
+    "date_display": "1948/07/29",
+    "date_sort": "1948-07-29",
+    "accompanists": [
+      {
+        "name": "Lush, Ernest",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/45db62078fb3c5eebb50b400463a28fa"
+  },
+  {
+    "id": 19,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Violin Concerto in D major",
+    "date_display": "1950/05/31",
+    "date_sort": "1950-05-31",
+    "accompanists": [
+      {
+        "name": "André, Franz",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Belgian National Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86040032/concert-de-bruxelles-du-31-mai-1950?rang=37"
+  },
+  {
+    "id": 20,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
+    "date_display": "1951/03/02",
+    "date_sort": "1951-03-02",
+    "accompanists": [
+      {
+        "name": "Matthews, Denis",
+        "role": "violin"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Home Service",
+    "reference": "https://genome.ch.bbc.co.uk/74d19d65ccbe9269c04ba3650ffe3faa"
+  },
+  {
+    "id": 21,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 4 in D major, K. 218",
+    "date_display": "1951/04/23",
+    "date_sort": "1951-04-23",
+    "accompanists": [
+      {
+        "name": "Solti, Georg",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "WDR Symphony Orchestra Cologne",
+    "location": "Cologne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 22,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1951/05/29",
+    "date_sort": "1951-05-29",
+    "accompanists": [
+      {
+        "name": "Remootel, Édouard van",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Belgian National Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD85017431/concert-donne-par-l-orchestre-national-de-belgique?rang=1"
+  },
+  {
+    "id": 23,
+    "composer": "Veracini, Francesco Maria",
+    "composer_id": 247.0,
+    "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
+    "date_display": "1953/04/07",
+    "date_sort": "1953-04-07",
+    "accompanists": [
+      {
+        "name": "Lush, Ernest",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/3fc7f0276702cb9116da688ebd0eaa54"
+  },
+  {
+    "id": 24,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Tzigane",
+    "date_display": "1953/04/07",
+    "date_sort": "1953-04-07",
+    "accompanists": [
+      {
+        "name": "Lush, Ernest",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 25,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Violin Concerto in D major",
+    "date_display": "1953/07/16",
+    "date_sort": "1953-07-16",
+    "accompanists": [
+      {
+        "name": "Fricsay, Ferenc",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "WDR Symphony Orchestra Cologne",
+    "location": null,
+    "labels": [
+      "Archipel"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 26,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1954/07/07",
+    "date_sort": "1954-07-07",
+    "accompanists": [
+      {
+        "name": "Müller-Kray, Hans",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Stuttgart Radio Symphony Orchestra(-2016)",
+    "location": null,
+    "labels": [
+      "SWR Classic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 27,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
+    "date_display": "1955/09/06",
+    "date_sort": "1955-09-06",
+    "accompanists": [
+      {
+        "name": "Argenta, Ataúlfo",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Salle du Parlement, Besançon",
+    "labels": [
+      "RTVE"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 28,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in B-flat major, K. 378",
+    "date_display": "1955/09/06",
+    "date_sort": "1955-09-06",
+    "accompanists": [
+      {
+        "name": "Argenta, Ataúlfo",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Salle du Parlement, Besançon",
+    "labels": [
+      "Doremi",
+      "RTVE"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 29,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Sonata No. 2 in A major, Op. 100",
+    "date_display": "1955/09/06",
+    "date_sort": "1955-09-06",
+    "accompanists": [
+      {
+        "name": "Argenta, Ataúlfo",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Salle du Parlement, Besançon",
+    "labels": [
+      "RTVE"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 30,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1955/09/07",
+    "date_sort": "1955-09-07",
+    "accompanists": [
+      {
+        "name": "Argenta, Ataúlfo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de la Société des concerts du Conservatoire",
+    "location": "Théâtre municipal, Besançon",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90010986/8eme-festival-de-besancon-concert-du-7-septembre-1955?rang=3"
+  },
+  {
+    "id": 31,
+    "composer": "Bartók, Béla",
+    "composer_id": 14.0,
+    "work": "Violin Concerto No. 2",
+    "date_display": "1956/02/23",
+    "date_sort": "1956-02-23",
+    "accompanists": [
+      {
+        "name": "Kubelík, Rafael",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": null,
+    "location": "Théâtre des Champs-Elysées, Paris",
+    "labels": [
+      "Forgotten Records"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 32,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
+    "date_display": "1956/02/23",
+    "date_sort": "1956-02-23",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Théâtre des Champs-Elysées, Paris",
+    "labels": [
+      "Forgotten Records",
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 33,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in B-flat major, K. 454",
+    "date_display": "1956/06/19",
+    "date_sort": "1956-06-19",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Palais des Fêtes, Strasbourg",
+    "labels": [
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 34,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in F major, K. 376",
+    "date_display": "1956/06/19",
+    "date_sort": "1956-06-19",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Palais des Fêtes, Strasbourg",
+    "labels": [
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 35,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in E minor, K. 304",
+    "date_display": "1956/06/19",
+    "date_sort": "1956-06-19",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Palais des Fêtes, Strasbourg",
+    "labels": [
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 36,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in A major, K. 526",
+    "date_display": "1956/06/19",
+    "date_sort": "1956-06-19",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Palais des Fêtes, Strasbourg",
+    "labels": [
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 37,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Adagio con molta espressione from Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
+    "date_display": "1956/06/19",
+    "date_sort": "1956-06-19",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Palais des Fêtes, Strasbourg",
+    "labels": [
+      "meloclassic",
+      "Solstice"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 38,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in B-flat major, K. 454",
+    "date_display": "1957/09/18",
+    "date_sort": "1957-09-18",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Théâtre municipal, Besançon",
+    "labels": [
+      "Music & Arts",
+      "Doremi",
+      "INA"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 39,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
+    "date_display": "1957/09/18",
+    "date_sort": "1957-09-18",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Théâtre municipal, Besançon",
+    "labels": [
+      "Music & Arts",
+      "INA"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 40,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Sonata in E minor, K. 304",
+    "date_display": "1957/09/18",
+    "date_sort": "1957-09-18",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Théâtre municipal, Besançon",
+    "labels": [
+      "Music & Arts",
+      "Doremi",
+      "INA"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 41,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 10 in G major, Op. 96",
+    "date_display": "1957/09/18",
+    "date_sort": "1957-09-18",
+    "accompanists": [
+      {
+        "name": "Haskil, Clara",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Théâtre municipal, Besançon",
+    "labels": [
+      "Music & Arts",
+      "INA"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 42,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Violin Concerto in D major",
+    "date_display": "1958/09/08",
+    "date_sort": "1958-09-08",
+    "accompanists": [
+      {
+        "name": "Steinberg, William",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Philharmonic Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89031690/semaines-internationales-de-musique-de-lucerne-orchestre-philharmonique-de-londres?rang=9"
+  },
+  {
+    "id": 43,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
+    "date_display": "1959/09/12",
+    "date_sort": "1959-09-12",
+    "accompanists": [
+      {
+        "name": "Hajdu, István",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011031/recital-de-violon-d-arthur-grumiaux?rang=10"
+  },
+  {
+    "id": 44,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Sonata No. 2 in A major, Op. 100",
+    "date_display": "1959/09/12",
+    "date_sort": "1959-09-12",
+    "accompanists": [
+      {
+        "name": "Hajdu, István",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011031/recital-de-violon-d-arthur-grumiaux?rang=10"
+  },
+  {
+    "id": 45,
+    "composer": "Ysaÿe, Eugène",
+    "composer_id": 267.0,
+    "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
+    "date_display": "1959/09/12",
+    "date_sort": "1959-09-12",
+    "accompanists": [
+      {
+        "name": "Hajdu, István",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011031/recital-de-violon-d-arthur-grumiaux?rang=10"
+  },
+  {
+    "id": 46,
+    "composer": "Bartók, Béla",
+    "composer_id": 14.0,
+    "work": "Romanian Folk Dances, Sz. 56",
+    "date_display": "1959/09/12",
+    "date_sort": "1959-09-12",
+    "accompanists": [
+      {
+        "name": "Hajdu, István",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011031/recital-de-violon-d-arthur-grumiaux?rang=10"
+  },
+  {
+    "id": 47,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1960/01/27",
+    "date_sort": "1960-01-27",
+    "accompanists": [
+      {
+        "name": "Ansermet, Ernest",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de la Suisse Romande",
+    "location": "Victoria Hall, Geneva",
+    "labels": [],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 48,
+    "composer": "Veracini, Francesco Maria",
+    "composer_id": 247.0,
+    "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
+    "date_display": "1960/04/26",
+    "date_sort": "1960-04-26",
+    "accompanists": [
+      {
+        "name": "Sellergren, Lars",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Royal Swedish Academy of Music, Stockholm",
+    "labels": [
+      "Valkyrie Disc"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0"
+  },
+  {
+    "id": 49,
+    "composer": "Bartók, Béla",
+    "composer_id": 14.0,
+    "work": "Romanian Folk Dances, Sz. 56",
+    "date_display": "1960/04/26",
+    "date_sort": "1960-04-26",
+    "accompanists": [
+      {
+        "name": "Sellergren, Lars",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Royal Swedish Academy of Music, Stockholm",
+    "labels": [
+      "Valkyrie Disc"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0"
+  },
+  {
+    "id": 50,
+    "composer": "Falla, Manuel de",
+    "composer_id": 75.0,
+    "work": "Jota from Seven Popular Spanish Songs(Arr. by Kochanski)",
+    "date_display": "1960/04/26",
+    "date_sort": "1960-04-26",
+    "accompanists": [
+      {
+        "name": "Sellergren, Lars",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Royal Swedish Academy of Music, Stockholm",
+    "labels": [
+      "Valkyrie Disc"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0"
+  },
+  {
+    "id": 51,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Pièce en Forme de Habanera",
+    "date_display": "1960/04/26",
+    "date_sort": "1960-04-26",
+    "accompanists": [
+      {
+        "name": "Sellergren, Lars",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Royal Swedish Academy of Music, Stockholm",
+    "labels": [
+      "Valkyrie Disc"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0"
+  },
+  {
+    "id": 52,
+    "composer": "Fiocco, Joseph Hector",
+    "composer_id": 79.0,
+    "work": "Allegro",
+    "date_display": "1960/04/26",
+    "date_sort": "1960-04-26",
+    "accompanists": [
+      {
+        "name": "Sellergren, Lars",
+        "role": "piano"
+      }
+    ],
+    "orchestra": null,
+    "location": "Royal Swedish Academy of Music, Stockholm",
+    "labels": [
+      "Valkyrie Disc"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0"
+  },
+  {
+    "id": 53,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1960/11/09",
+    "date_sort": "1960-11-09",
+    "accompanists": [
+      {
+        "name": "Kempe, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bavarian Radio Symphony Orchestra",
+    "location": "Munich",
+    "labels": [
+      "Archipel"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 54,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": 197.0,
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1965",
+    "date_sort": "1965-01-01",
+    "accompanists": [
+      {
+        "name": "Bloomfield, Theodore",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Belgian National Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/3ee2904fc19a2707ef1ed9543bad3c64"
+  },
+  {
+    "id": 55,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1966/11/05",
+    "date_sort": "1966-11-05",
+    "accompanists": [
+      {
+        "name": "Maazel, Lorin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Philharmonic Hall, New York",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 56,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1967/10/11",
+    "date_sort": "1967-10-11",
+    "accompanists": [
+      {
+        "name": "Kletzki, Paul",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de la Suisse Romande",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Arthur Grumiaux - Beethoven Violin Concerto in D -  Paul Kletzki, l’Orchestre de la Suisse Romande"
+  },
+  {
+    "id": 57,
+    "composer": "Haydn, Michael",
+    "composer_id": 312.0,
+    "work": "Violin Concerto in A major, MH 207",
+    "date_display": "1968/07/05",
+    "date_sort": "1968-07-05",
+    "accompanists": [
+      {
+        "name": "Waart, Edo de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Rotterdam Philharmonic Orchestra",
+    "location": "De Doelen, Rotterdam",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127034631?ac=dgtl%2Canlg&q=grumiaux"
+  },
+  {
+    "id": 58,
+    "composer": "Ravel, Maurice",
+    "composer_id": 188.0,
+    "work": "Tzigane",
+    "date_display": "1968/07/05",
+    "date_sort": "1968-07-05",
+    "accompanists": [
+      {
+        "name": "Waart, Edo de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Rotterdam Philharmonic Orchestra",
+    "location": "De Doelen, Rotterdam",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127034631?ac=dgtl%2Canlg&q=grumiaux"
+  },
+  {
+    "id": 59,
+    "composer": "Berg, Alban",
+    "composer_id": 20.0,
+    "work": "Violin Concerto",
+    "date_display": "1968/10/12",
+    "date_sort": "1968-10-12",
+    "accompanists": [
+      {
+        "name": "Leinsdorf, Erich",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "Symphony Hall, Boston",
+    "labels": [
+      "BSO Archives"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": null
+  },
+  {
+    "id": 60,
+    "composer": "Stravinsky, Igor",
+    "composer_id": 229.0,
+    "work": "Violin Concerto in D major",
+    "date_display": "1969/01/19",
+    "date_sort": "1969-01-19",
+    "accompanists": [
+      {
+        "name": "Bour, Ernest",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "Concertgebouw, Amsterdam",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127229131?ac=dgtl%2Canlg&q=grumiaux"
+  },
+  {
+    "id": 61,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1969/06/17",
+    "date_sort": "1969-06-17",
+    "accompanists": [
+      {
+        "name": "Maazel, Lorin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Rotterdam Philharmonic Orchestra",
+    "location": "De Doelen, Rotterdam",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127237031/asset/urn:vme:default:asset:2101608240016175121/segment/urn:vme:default:logtrackitem:2101702280764858824?ac=dgtl%2Canlg&q=grumiaux"
+  },
+  {
+    "id": 62,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1971/02/19",
+    "date_sort": "1971-02-19",
+    "accompanists": [],
+    "orchestra": "Collegium Musicum Zürich",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=1855.046&LNG_ID=ITA"
+  },
+  {
+    "id": 63,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1971/02/19",
+    "date_sort": "1971-02-19",
+    "accompanists": [],
+    "orchestra": "Collegium Musicum Zürich",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16997.046&LNG_ID=ITA"
+  },
+  {
+    "id": 64,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Adagio in E major, K. 261",
+    "date_display": "1971/02/19",
+    "date_sort": "1971-02-19",
+    "accompanists": [],
+    "orchestra": "Collegium Musicum Zürich",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16991.046&LNG_ID=ITA"
+  },
+  {
+    "id": 65,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Rondo in C major, K. 373",
+    "date_display": "1971/02/19",
+    "date_sort": "1971-02-19",
+    "accompanists": [],
+    "orchestra": "Collegium Musicum Zürich",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=17001.046&LNG_ID=ITA"
+  },
+  {
+    "id": 66,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": 147.0,
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1973/09/12",
+    "date_sort": "1973-09-12",
+    "accompanists": [
+      {
+        "name": "Suitner, Otmar",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Staatskapelle Dresden",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://youtu.be/cV5_HafrTyw?si=CPHvgDKi8yYHAcY-"
+  },
+  {
+    "id": 67,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1973/09/27",
+    "date_sort": "1973-09-27",
+    "accompanists": [
+      {
+        "name": "De Burgos, Rafael Frühbeck",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Royal Fetival Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/71ebfb7048b4f16a8b583dcce331f185"
+  },
+  {
+    "id": 68,
+    "composer": "Brahms, Johannes",
+    "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1973/11/25",
+    "date_sort": "1973-11-25",
+    "accompanists": [
+      {
+        "name": "Bouillon, Gabriel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concerts Lamoureux",
+    "location": "Salle Pleyel, Paris",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86016475/concert-brahms-de-l-orchestre-des-concerts-lamoureux?rang=50"
+  },
+  {
+    "id": 69,
+    "composer": "Berg, Alban",
+    "composer_id": 20.0,
+    "work": "Violin Concerto",
+    "date_display": "1974/10/17",
+    "date_sort": "1974-10-17",
+    "accompanists": [
+      {
+        "name": "Dixon, Dean",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Frankfurt Radio Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/b5b61f0795fcaa5f0648bd2b60eda3b9"
+  },
+  {
+    "id": 70,
+    "composer": "Bruch, Max",
+    "composer_id": 37.0,
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1976",
+    "date_sort": "1976-01-01",
+    "accompanists": [
+      {
+        "name": "Andreae, Marc",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestra della Radio Svizzera Italiana(-1991)",
+    "location": "Lugano",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/1c3f31e8cff690dfaafe1277fed34fe7"
+  },
+  {
+    "id": 71,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1977",
+    "date_sort": "1977-01-01",
+    "accompanists": [
+      {
+        "name": "Inbal, Eliahu",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Frankfurt Radio Symphony Orchestra",
+    "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/6946e498db96f67db333fb9153f0044a"
+  },
+  {
+    "id": 72,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": 253.0,
+    "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
+    "date_display": "1978/08/26",
+    "date_sort": "1978-08-26",
+    "accompanists": [
+      {
+        "name": "Maksymiuk, Jerzy",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26237.046&LNG_ID=ITA"
+  },
+  {
+    "id": 73,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": 253.0,
+    "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
+    "date_display": "1978/08/26",
+    "date_sort": "1978-08-26",
+    "accompanists": [
+      {
+        "name": "Maksymiuk, Jerzy",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26237.046&LNG_ID=ITA"
+  },
+  {
+    "id": 74,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": 253.0,
+    "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
+    "date_display": "1978/08/26",
+    "date_sort": "1978-08-26",
+    "accompanists": [
+      {
+        "name": "Maksymiuk, Jerzy",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26238.046&LNG_ID=ITA"
+  },
+  {
+    "id": 75,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": 253.0,
+    "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
+    "date_display": "1978/08/26",
+    "date_sort": "1978-08-26",
+    "accompanists": [
+      {
+        "name": "Maksymiuk, Jerzy",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26238.046&LNG_ID=ITA"
+  },
+  {
+    "id": 76,
+    "composer": "Haydn, Joseph",
+    "composer_id": 110.0,
+    "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
+    "date_display": "1980/03/04",
+    "date_sort": "1980-03-04",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=10889.046&LNG_ID=ITA"
+  },
+  {
+    "id": 77,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Violin Concerto No. 1 in B-flat major, K. 207",
+    "date_display": "1980/03/04",
+    "date_sort": "1980-03-04",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16470.046&LNG_ID=ITA"
+  },
+  {
+    "id": 78,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Romance No. 2 in F major, Op. 50",
+    "date_display": "1980/03/04",
+    "date_sort": "1980-03-04",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2625.046&LNG_ID=ITA"
+  },
+  {
+    "id": 79,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": 16.0,
+    "work": "Romance No. 1 in G major, Op. 40",
+    "date_display": "1980/03/06",
+    "date_sort": "1980-03-06",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2624.046&LNG_ID=ITA"
+  },
+  {
+    "id": 80,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Rondo in C major, K. 373",
+    "date_display": "1980/03/06",
+    "date_sort": "1980-03-06",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16471.046&LNG_ID=ITA"
+  },
+  {
+    "id": 81,
+    "composer": "Haydn, Joseph",
+    "composer_id": 110.0,
+    "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
+    "date_display": "1980/03/09",
+    "date_sort": "1980-03-09",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=21914.046&LNG_ID=ITA"
+  },
+  {
+    "id": 82,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": 156.0,
+    "work": "Rondo in C major, K. 373",
+    "date_display": "1980/03/09",
+    "date_sort": "1980-03-09",
+    "accompanists": [
+      {
+        "name": "Bamert, Matthias",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Radio-Sinfonieorchester Basel",
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=21914.046&LNG_ID=ITA"
+  },
+  {
+    "id": 83,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": 10.0,
+    "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
+    "date_display": "1980/03/09",
+    "date_sort": "1980-03-09",
+    "accompanists": [],
+    "orchestra": null,
+    "location": "Volkshaus, Basel",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2010.046&LNG_ID=ITA"
+  }
+]

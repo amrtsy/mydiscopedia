@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "stern",
+    "name": "Isaac Stern",
+    "count": 608,
+    "skipped": 1157,
+    "year_range": "1944–1997"
+  },
+  {
+    "slug": "szeryng",
+    "name": "Henryk Szeryng",
+    "count": 743,
+    "skipped": 1158,
+    "year_range": "1941–1988"
+  },
+  {
+    "slug": "menuhin",
+    "name": "Yehudi Menuhin",
+    "count": 494,
+    "skipped": 1653,
+    "year_range": "1931–1989"
+  },
+  {
+    "slug": "grumiaux",
+    "name": "Arthur Grumiaux",
+    "count": 83,
+    "skipped": 2066,
+    "year_range": "1945–1980"
+  },
+  {
+    "slug": "oistrakh",
+    "name": "David Oistrakh",
+    "count": 699,
+    "skipped": 2021,
+    "year_range": "1934–1974"
+  },
+  {
+    "slug": "francescatti",
+    "name": "Zino Francescatti",
+    "count": 420,
+    "skipped": 1175,
+    "year_range": "1922–1975"
+  },
+  {
+    "slug": "rabin",
+    "name": "Michael Rabin",
+    "count": 214,
+    "skipped": 995,
+    "year_range": "1947–1971"
+  },
+  {
+    "slug": "du-pre",
+    "name": "Jacqueline du Pré",
+    "count": 134,
+    "skipped": 892,
+    "year_range": "1961–1973"
+  }
+]
