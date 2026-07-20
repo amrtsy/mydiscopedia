@@ -18,9 +18,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Build data (from published Google Sheet CSV)
+      - name: Build data (from published Google Sheet, per-tab CSV export)
         run: |
-          python3 scripts/build.py --csv-base "${{ vars.SHEET_CSV_BASE }}"
+          python3 scripts/build.py --sheet-id "${{ vars.SHEET_ID }}" --gids scripts/gids.json
 
       - name: Generate HTML pages
         run: |

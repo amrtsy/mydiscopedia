@@ -151,32 +151,56 @@ def rows_from_csv_url(url):
     return rows
 
 
+def rows_from_csv_export(sheet_id, gid):
+    """Fetch a single sheet tab as raw CSV via the classic export endpoint.
+
+    Unlike /gviz/tq?tqx=out:csv (which infers a type per column and blanks
+    out any cell that doesn't match — e.g. a "1962/06" partial date in an
+    otherwise full-date column), this endpoint returns each cell's literal
+    text/display value, which matches what's actually typed in the sheet.
+    """
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}"
+    return rows_from_csv_url(url)
+
+
 # ---------- main ----------
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--xlsx", help="Path to local MyDiscopedia.xlsx (dev mode)")
-    ap.add_argument("--csv-base", help="Base URL for published-CSV sheets "
-                     "(prod mode). Sheet name will be URL-encoded and appended.")
+    ap.add_argument("--sheet-id", help="Google Sheet file ID (prod mode). "
+                     "Used with --gids to fetch each tab's raw CSV export.")
+    ap.add_argument("--gids", help="Path to a JSON file mapping slug -> gid "
+                     "(prod mode), e.g. scripts/gids.json")
+    ap.add_argument("--csv-base", help="[DEPRECATED] Base URL for /gviz/tq "
+                     "CSV export. Prefer --sheet-id/--gids instead: gviz "
+                     "blanks out cells that don't match the column's "
+                     "inferred type (e.g. partial dates like '1962/06').")
     ap.add_argument("--only", help="Comma-separated slugs to build (default: all)")
     args = ap.parse_args()
 
-    if not args.xlsx and not args.csv_base:
-        sys.exit("Specify either --xlsx (dev) or --csv-base (prod)")
+    if not args.xlsx and not args.csv_base and not (args.sheet_id and args.gids):
+        sys.exit("Specify --xlsx (dev), or --sheet-id + --gids (prod)")
 
     DATA_OUT.mkdir(parents=True, exist_ok=True)
 
     targets = args.only.split(",") if args.only else list(PERFORMERS.keys())
 
+    gid_map = {}
+    if args.gids:
+        gid_map = json.loads(Path(args.gids).read_text(encoding="utf-8"))
+
     summary = []
     for slug in targets:
         display_name = PERFORMERS[slug]
-        sheet_name = SHEET_NAMES.get(slug, display_name.split()[-1] if False else None)
-        # default: sheet name equals the part after slug mapping, handled below
         sheet_name = SHEET_NAMES.get(slug, _default_sheet_name(slug))
 
         if args.xlsx:
             rows = rows_from_xlsx(args.xlsx, sheet_name)
+        elif args.sheet_id and args.gids:
+            if slug not in gid_map:
+                sys.exit(f"No gid configured for '{slug}' in {args.gids}")
+            rows = rows_from_csv_export(args.sheet_id, gid_map[slug])
         else:
             import urllib.parse
             url = args.csv_base + urllib.parse.quote(sheet_name)
