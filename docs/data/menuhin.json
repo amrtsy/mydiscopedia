@@ -345,6 +345,32 @@
     "reference": ""
   },
   {
+    "id": 18,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": "238",
+    "work": "Piano Trio in A minor, Op. 50",
+    "date_display": "1936/03/03-04",
+    "date_sort": "1936-03-03",
+    "accompanists": [
+      {
+        "name": "Menuhin, Hephzibah",
+        "role": "piano"
+      },
+      {
+        "name": "Eisenberg, Maurice",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Biddulph Recordings"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 19,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
@@ -872,6 +898,29 @@
     "reference": ""
   },
   {
+    "id": 43,
+    "composer": "Lalo, Édouard",
+    "composer_id": "130",
+    "work": "Symphonie espagnole, Op.21",
+    "date_display": "1945/01/26-27",
+    "date_sort": "1945-01-26",
+    "accompanists": [
+      {
+        "name": "Monteux, Pierre",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "San Francisco Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "RCA",
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 44,
     "composer": "Bruch, Max",
     "composer_id": "37",
@@ -983,6 +1032,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/1f4801d1df74e0ef192e1346d903a8b0"
+  },
+  {
+    "id": 49,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1945/11",
+    "date_sort": "1945-11-01",
+    "accompanists": [
+      {
+        "name": "Orlov, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "USSR State Symphony Orchestra",
+    "location": "Moscow",
+    "labels": [
+      "Revelation"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
   },
   {
     "id": 50,
@@ -1405,6 +1476,29 @@
     "reference": ""
   },
   {
+    "id": 68,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Violin Concerto No. 2",
+    "date_display": "1946/01/15-16",
+    "date_sort": "1946-01-15",
+    "accompanists": [
+      {
+        "name": "Doráti, Antal",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Dallas Symphony Orchestra",
+    "location": "Fair Park Auditorium, Dallas",
+    "labels": [
+      "BMG",
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 69,
     "composer": "Elgar, Edward",
     "composer_id": "71",
@@ -1471,6 +1565,46 @@
     "reference": "17 MONTEUX, MENUHIN & CHAUSSON"
   },
   {
+    "id": 72,
+    "composer": "Lalo, Édouard",
+    "composer_id": "130",
+    "work": "Symphonie espagnole, Op.21",
+    "date_display": "1947/04/03-04",
+    "date_sort": "1947-04-03",
+    "accompanists": [
+      {
+        "name": "Fournet, Jean",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concerts Lamoureux",
+    "location": "",
+    "labels": [
+      "Forgotten Records",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 73,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Sonata for Solo Violin",
+    "date_display": "1947/06/02-03",
+    "date_sort": "1947-06-02",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 74,
     "composer": "Bartók, Béla",
     "composer_id": "14",
@@ -1490,6 +1624,30 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 75,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1947/08/28-29",
+    "date_sort": "1947-08-28",
+    "accompanists": [
+      {
+        "name": "Furtwängler, Wilhelm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "Kunsthaus, Lucerne",
+    "labels": [
+      "EMI",
+      "Testament",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -1989,6 +2147,29 @@
     "reference": ""
   },
   {
+    "id": 99,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1949/08/29-31",
+    "date_sort": "1949-08-29",
+    "accompanists": [
+      {
+        "name": "Furtwängler, Wilhelm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 100,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
@@ -2294,6 +2475,52 @@
     "reference": ""
   },
   {
+    "id": 114,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1951/01",
+    "date_sort": "1951-01-01",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "Classical Recordings Archive of America",
+      "Disco Archivia"
+    ],
+    "is_live": false,
+    "notes": "rehearsal",
+    "reference": ""
+  },
+  {
+    "id": 115,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1951/01/18-20",
+    "date_sort": "1951-01-18",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "Carnegie Hall, New York",
+    "labels": [
+      "Naxos",
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 116,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
@@ -2442,6 +2669,46 @@
     "is_live": true,
     "notes": "live",
     "reference": "Yehudi Menuhin : Live Concert 1951"
+  },
+  {
+    "id": 123,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
+    "date_display": "1951/10/15-21",
+    "date_sort": "1951-10-15",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "Tokyo",
+    "labels": [
+      "Biddulph Recordings"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 124,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Romanian Folk Dances, Sz. 56",
+    "date_display": "1951/10/15-21",
+    "date_sort": "1951-10-15",
+    "accompanists": [
+      {
+        "name": "Baller, Adolph",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Tokyo",
+    "labels": [
+      "Biddulph Recordings",
+      "RCA"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 125,
@@ -2621,6 +2888,28 @@
     "reference": ""
   },
   {
+    "id": 133,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1953/04/01-02",
+    "date_sort": "1953-04-01",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 134,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
@@ -2658,6 +2947,29 @@
     "orchestra": "Philharmonia Orchestra",
     "location": "Kingsway Hall, London",
     "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 136,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1953/04/07-08",
+    "date_sort": "1953-04-07",
+    "accompanists": [
+      {
+        "name": "Furtwängler, Wilhelm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
       "Warner"
     ],
     "is_live": false,
@@ -2821,6 +3133,28 @@
     "reference": "https://genome.ch.bbc.co.uk/2765ead5395be81e3fade3fecf02cdb7"
   },
   {
+    "id": 144,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Violin Concerto No. 3 in B minor, Op. 61",
+    "date_display": "1953/07/02-3",
+    "date_sort": "1953-07-02",
+    "accompanists": [
+      {
+        "name": "Poulet, Gaston",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 145,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
@@ -2877,6 +3211,55 @@
     "reference": "https://genome.ch.bbc.co.uk/95304f3042a8cc383c38af0be773cd22"
   },
   {
+    "id": 147,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Violin Concerto No. 2",
+    "date_display": "1953/09/12-13",
+    "date_sort": "1953-09-12",
+    "accompanists": [
+      {
+        "name": "Furtwängler, Wilhelm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 148,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1953/09/14-15",
+    "date_sort": "1953-09-14",
+    "accompanists": [
+      {
+        "name": "Bernard, Anthony",
+        "role": "conductor"
+      },
+      {
+        "name": "De Vito, Gioconda",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 149,
     "composer": "Viotti, Giovanni Battista",
     "composer_id": "251",
@@ -2898,6 +3281,28 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 150,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1954/01/06,1955/01/07",
+    "date_sort": "1954-01-06",
+    "accompanists": [
+      {
+        "name": "Pritchard, John",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -3705,6 +4110,23 @@
     "reference": ""
   },
   {
+    "id": 187,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
+    "date_display": "1956/09/06-07",
+    "date_sort": "1956-09-06",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 188,
     "composer": "Bruch, Max",
     "composer_id": "37",
@@ -3761,6 +4183,68 @@
     "location": "",
     "labels": [
       "Mercury"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 191,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
+    "date_display": "1957/03/05-10,5/27",
+    "date_sort": "1957-03-05",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 192,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1957/07/24-31",
+    "date_sort": "1957-07-24",
+    "accompanists": [
+      {
+        "name": "Richter, Karl",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Instrumental Ensemble of the Bach Festival",
+    "location": "Ansbach",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Bach Festival 1957",
+    "reference": "https://genome.ch.bbc.co.uk/c42984a42c57830b1b7ce649581dcd2a"
+  },
+  {
+    "id": 193,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1957/09/06-07",
+    "date_sort": "1957-09-06",
+    "accompanists": [
+      {
+        "name": "Kempe, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Berlin Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
     ],
     "is_live": false,
     "notes": null,
@@ -4485,6 +4969,52 @@
     "reference": ""
   },
   {
+    "id": 227,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1958/10/07-08",
+    "date_sort": "1958-10-07",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Robert Masters Chamber Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 228,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1958/10/07-08",
+    "date_sort": "1958-10-07",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Robert Masters Chamber Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 229,
     "composer": "Bartók, Béla",
     "composer_id": "14",
@@ -4531,6 +5061,50 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 231,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1959",
+    "date_sort": "1959-01-01",
+    "accompanists": [
+      {
+        "name": "Wangenheim,  Volker",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Municipal Orchestra Bonn(1959-1963)",
+    "location": "Beethovenhalle, Bonn",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 232,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": "238",
+    "work": "Violin Concerto in D major, Op. 35",
+    "date_display": "1959/02/17-18",
+    "date_sort": "1959-02-17",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Royal Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -5012,6 +5586,29 @@
     "reference": ""
   },
   {
+    "id": 254,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1960/02/05-07",
+    "date_sort": "1960-02-05",
+    "accompanists": [
+      {
+        "name": "Silvestri, Constantin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Vienna Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 255,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
@@ -5102,6 +5699,50 @@
     "location": "",
     "labels": [
       "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 259,
+    "composer": "Wieniawski, Henryk",
+    "composer_id": "262",
+    "work": "Légende, Op. 17",
+    "date_display": "1960/11/20,12/16",
+    "date_sort": "1960-11-20",
+    "accompanists": [
+      {
+        "name": "Pritchard, John",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 260,
+    "composer": "Chausson, Amédée-Ernest",
+    "composer_id": "46",
+    "work": "Poème, Op. 25",
+    "date_display": "1960/11/22,12/16",
+    "date_sort": "1960-11-22",
+    "accompanists": [
+      {
+        "name": "Pritchard, John",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "HMV"
     ],
     "is_live": false,
     "notes": null,
@@ -5383,6 +6024,124 @@
     "location": "Royal Albert Hall, London",
     "labels": [
       "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 274,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Allegro from Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [
+      {
+        "name": "Barshai, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Moscow Chamber Orchestra",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 275,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [
+      {
+        "name": "Barshai, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Moscow Chamber Orchestra",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 276,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [
+      {
+        "name": "Barshai, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Moscow Chamber Orchestra",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 277,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Adagio from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 278,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Prelude from Partita for Solo Violin No. 3 in E major, BWV 1006",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 279,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Gavotte en Rondeau from Partita for Solo Violin No. 3 in E major, BWV 1006",
+    "date_display": "1962/11",
+    "date_sort": "1962-11-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "Moscow",
+    "labels": [
+      "Melodiya",
+      "Moscow Conservatory Records"
     ],
     "is_live": true,
     "notes": "live",
@@ -5785,6 +6544,29 @@
     "is_live": true,
     "notes": "live at Bath Festival",
     "reference": "https://genome.ch.bbc.co.uk/f26f0a4513d2d58961f9cd65bc072f1e"
+  },
+  {
+    "id": 298,
+    "composer": "Bloch, Ernest",
+    "composer_id": "27",
+    "work": "Violin Concerto",
+    "date_display": "1963/06/18-19",
+    "date_sort": "1963-06-18",
+    "accompanists": [
+      {
+        "name": "Kletzki, Paul",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 299,
@@ -6508,6 +7290,29 @@
     "reference": ""
   },
   {
+    "id": 328,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Violin Concerto No. 2",
+    "date_display": "1965/02/05-6,24",
+    "date_sort": "1965-02-05",
+    "accompanists": [
+      {
+        "name": "Doráti, Antal",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 329,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
@@ -6767,6 +7572,51 @@
     "reference": ""
   },
   {
+    "id": 341,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+    "work": "Violin Concerto in B minor, Op. 61",
+    "date_display": "1965/12/28-30",
+    "date_sort": "1965-12-28",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 342,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1966/01/21-22,24-25",
+    "date_sort": "1966-01-21",
+    "accompanists": [
+      {
+        "name": "Klemperer, Otto",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 343,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -7009,6 +7859,28 @@
     "reference": ""
   },
   {
+    "id": 353,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Viola Concerto",
+    "date_display": "1966/09/28-29",
+    "date_sort": "1966-09-28",
+    "accompanists": [
+      {
+        "name": "Doráti, Antal",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 354,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -7073,6 +7945,84 @@
     "is_live": true,
     "notes": "live",
     "reference": ""
+  },
+  {
+    "id": 357,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Trio No. 1 in B-flat major, D. 898",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Kentner, Louis",
+        "role": "piano"
+      },
+      {
+        "name": "Du Pré, Jacqueline",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/fda83b57ede4fd361e6fba0c29692947"
+  },
+  {
+    "id": 358,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": "147",
+    "work": "Piano Trio No. 1 in D minor, Op. 49",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Kentner, Louis",
+        "role": "piano"
+      },
+      {
+        "name": "Du Pré, Jacqueline",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/9cb3319aa961c1a72797cd5e2dd5ea72"
+  },
+  {
+    "id": 359,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Piano Trio No. 2 in C major, Op. 87",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Hephzibah",
+        "role": "piano"
+      },
+      {
+        "name": "Du Pré, Jacqueline",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/a004cbe67d37acb118d8699d86b3bde8"
   },
   {
     "id": 360,
@@ -7208,6 +8158,28 @@
     "reference": "https://genome.ch.bbc.co.uk/93089f58d395d7542f6df2ec7a4fe5a4"
   },
   {
+    "id": 366,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+    "work": "Violin Concerto in B minor, Op. 61",
+    "date_display": "1967/11/23-27",
+    "date_sort": "1967-11-23",
+    "accompanists": [
+      {
+        "name": "Steinberg, William",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Philharmonic Hall, New York",
+    "labels": [
+      "EuroArts"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 367,
     "composer": "Elgar, Edward",
     "composer_id": "71",
@@ -7290,6 +8262,29 @@
     "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 371,
+    "composer": "Berg, Alban",
+    "composer_id": "20",
+    "work": "Violin Concerto",
+    "date_display": "1968/02/08-09",
+    "date_sort": "1968-02-08",
+    "accompanists": [
+      {
+        "name": "Boulez, Pierre",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "BBC Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
     ],
     "is_live": true,
     "notes": "live",
@@ -7409,6 +8404,29 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=1725.046&LNG_ID=ITA"
   },
   {
+    "id": 377,
+    "composer": "Walton, William",
+    "composer_id": "256",
+    "work": "Viola Concerto",
+    "date_display": "1968/10/09,11",
+    "date_sort": "1968-10-09",
+    "accompanists": [
+      {
+        "name": "Walton, William",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 378,
     "composer": "Britten, Benjamin",
     "composer_id": "36",
@@ -7512,6 +8530,55 @@
     "is_live": true,
     "notes": "live at Casals Festival; video material",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/649847110"
+  },
+  {
+    "id": 382,
+    "composer": "Walton, William",
+    "composer_id": "256",
+    "work": "Violin Concerto in B minor",
+    "date_display": "1969/07/12-15",
+    "date_sort": "1969-07-12",
+    "accompanists": [
+      {
+        "name": "Walton, William",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 383,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": "238",
+    "work": "Piano Trio in A minor, Op. 50",
+    "date_display": "1969/10/03-04",
+    "date_sort": "1969-10-03",
+    "accompanists": [
+      {
+        "name": "Menuhin, Hephzibah",
+        "role": "piano"
+      },
+      {
+        "name": "Gendron, Maurice",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 384,
@@ -7713,6 +8780,151 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": "https://genome.ch.bbc.co.uk/32ac7cc7ceb4652c8b215cb5e667e37b"
+  },
+  {
+    "id": 393,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
+    "date_display": "1971/09",
+    "date_sort": "1971-09-01",
+    "accompanists": [
+      {
+        "name": "Ashkenazy, Vladimir",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Fairfield Halls, Croydon",
+    "labels": [
+      "CRQ Editions"
+    ],
+    "is_live": true,
+    "notes": "live at Harold Craxton Memorial Concert",
+    "reference": ""
+  },
+  {
+    "id": 394,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Prelude from Partita for Solo Violin No. 3 in E major, BWV 1006",
+    "date_display": "1971/09",
+    "date_sort": "1971-09-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "Fairfield Halls, Croydon",
+    "labels": [
+      "CRQ Editions"
+    ],
+    "is_live": true,
+    "notes": "live at Harold Craxton Memorial Concert",
+    "reference": ""
+  },
+  {
+    "id": 395,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1971/11/16-18",
+    "date_sort": "1971-11-16",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Menuhin Festival Orchestra",
+    "location": "",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 396,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1971/12/17-21",
+    "date_sort": "1971-12-17",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 397,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1971/12/17-21",
+    "date_sort": "1971-12-17",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 398,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 2 in D minor, Op. 44",
+    "date_display": "1971/12/17-21",
+    "date_sort": "1971-12-17",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "Kingsway Hall, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 399,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Partita for Solo Violin No. 3 in E major, BWV 1006",
+    "date_display": "1972",
+    "date_sort": "1972-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Ascona Festival",
+    "reference": "https://genome.ch.bbc.co.uk/cb8c76090e7b1e54295f4f2a3fce3525"
   },
   {
     "id": 400,
@@ -8187,6 +9399,32 @@
     "reference": "489"
   },
   {
+    "id": 421,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1974",
+    "date_sort": "1974-01-01",
+    "accompanists": [
+      {
+        "name": "Krachmalnick, Samuel",
+        "role": "conductor"
+      },
+      {
+        "name": "Krachmalnick, Jacob",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "National ASTA String Orchestra",
+    "location": "",
+    "labels": [
+      "Custom Fidelity"
+    ],
+    "is_live": true,
+    "notes": "live; LP",
+    "reference": ""
+  },
+  {
     "id": 422,
     "composer": "Bruch, Max",
     "composer_id": "37",
@@ -8209,6 +9447,28 @@
     "reference": "https://genome.ch.bbc.co.uk/435a0e73bb4077f1dabc04e025ccfd68"
   },
   {
+    "id": 423,
+    "composer": "Martin, Frank",
+    "composer_id": "141",
+    "work": "Polyptyque",
+    "date_display": "1974/09/05-06",
+    "date_sort": "1974-09-05",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Menuhin Festival Orchestra",
+    "location": "Victoria Hall, Geneva",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 424,
     "composer": "Bartók, Béla",
     "composer_id": "14",
@@ -8229,6 +9489,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/dd42b117d0eaa77af5a57ecdaec5e209"
+  },
+  {
+    "id": 425,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1975",
+    "date_sort": "1975-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Berlin Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/45a1da46d53d427a4e391a5b40e13795"
   },
   {
     "id": 426,
@@ -8312,6 +9594,50 @@
     "is_live": true,
     "notes": "live",
     "reference": ""
+  },
+  {
+    "id": 430,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1975/12",
+    "date_sort": "1975-12-01",
+    "accompanists": [
+      {
+        "name": "Comissiona, Sergiu",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Houston Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "Disco Archivia"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 431,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1976",
+    "date_sort": "1976-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Menuhin Festival Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Schwetzingen Festival",
+    "reference": "https://genome.ch.bbc.co.uk/48f2de5b7131cb85cb449fd6643cb7b8"
   },
   {
     "id": 432,
@@ -8485,6 +9811,94 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/d1f15dc1168c3794858870781cc152c1"
+  },
+  {
+    "id": 439,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1976/08/07-14",
+    "date_sort": "1976-08-07",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Yehudi Menuhin School Orchestra",
+    "location": "",
+    "labels": [
+      "Tudor"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 440,
+    "composer": "Vaughan Williams, Ralph",
+    "composer_id": "245",
+    "work": "Violin Sonata in A minor",
+    "date_display": "1977",
+    "date_sort": "1977-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Hephzibah",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Malvern Festival 1977",
+    "reference": "https://genome.ch.bbc.co.uk/347a889991263b31c08836698cd3f2e8"
+  },
+  {
+    "id": 441,
+    "composer": "Delius, Frederick",
+    "composer_id": "60",
+    "work": "Violin Sonata No. 3",
+    "date_display": "1977",
+    "date_sort": "1977-01-01",
+    "accompanists": [
+      {
+        "name": "Fenby, Eric",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Malvern Festival 1977",
+    "reference": "https://genome.ch.bbc.co.uk/347a889991263b31c08836698cd3f2e8"
+  },
+  {
+    "id": 442,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in C major, Op. 8 No. 6 RV 180",
+    "date_display": "1977",
+    "date_sort": "1977-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "William Ellis School Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/7fd5b6b56d94dc14151f43d644a133bd"
   },
   {
     "id": 443,
@@ -8918,6 +10332,80 @@
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140125183931?ac=dgtl%2Canlg&q=menuhin"
   },
   {
+    "id": 462,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1981/11/12,16",
+    "date_sort": "1981-11-12",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
+    "id": 463,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1981/11/12,16",
+    "date_sort": "1981-11-12",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      },
+      {
+        "name": "Li, Jin",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
+    "id": 464,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
+    "date_display": "1981/11/12,16",
+    "date_sort": "1981-11-12",
+    "accompanists": [
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "conductor"
+      },
+      {
+        "name": "Camden, Anthony",
+        "role": "oboe"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
     "id": 465,
     "composer": "Bartók, Béla",
     "composer_id": "14",
@@ -8949,6 +10437,50 @@
     "accompanists": [],
     "orchestra": "",
     "location": "Wigmore Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 467,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Romance No. 2 in F major, Op. 50",
+    "date_display": "1982/05/08-09",
+    "date_sort": "1982-05-08",
+    "accompanists": [
+      {
+        "name": "Ozawa, Seiji",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Berlin Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 468,
+    "composer": "Stravinsky, Igor",
+    "composer_id": "229",
+    "work": "Violin Concerto in D major",
+    "date_display": "1982/06/01-02",
+    "date_sort": "1982-06-01",
+    "accompanists": [
+      {
+        "name": "Leinsdorf, Erich",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Avery Fisher Hall, New York",
     "labels": [
       "unissued"
     ],
@@ -9087,6 +10619,28 @@
     "reference": "Paul Jacobs collection"
   },
   {
+    "id": 475,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1984/02/02-04",
+    "date_sort": "1984-02-02",
+    "accompanists": [
+      {
+        "name": "Masur, Kurt",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cleveland Orchestra",
+    "location": "Severance Hall, Cleveland",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 476,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -9154,6 +10708,32 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 479,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Double Concerto in A minor, Op. 102",
+    "date_display": "1984/11/15-16",
+    "date_sort": "1984-11-15",
+    "accompanists": [
+      {
+        "name": "Berglund, Paavo",
+        "role": "conductor"
+      },
+      {
+        "name": "Tortelier, Paul",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "London Philharmonic Orchestra",
+    "location": "",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -9477,1592 +11057,12 @@
     "reference": ""
   },
   {
-    "id": 18,
-    "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
-    "work": "Piano Trio in A minor, Op. 50",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Hephzibah",
-        "role": "piano"
-      },
-      {
-        "name": "Eisenberg, Maurice",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "Biddulph Recordings"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 43,
-    "composer": "Lalo, Édouard",
-    "composer_id": "130",
-    "work": "Symphonie espagnole, Op.21",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Monteux, Pierre",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "San Francisco Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "RCA",
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 49,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Orlov, Alexander",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "USSR State Symphony Orchestra",
-    "location": "Moscow",
-    "labels": [
-      "Revelation"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 68,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Violin Concerto No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Doráti, Antal",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Dallas Symphony Orchestra",
-    "location": "Fair Park Auditorium, Dallas",
-    "labels": [
-      "BMG",
-      "Sony Classical"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 72,
-    "composer": "Lalo, Édouard",
-    "composer_id": "130",
-    "work": "Symphonie espagnole, Op.21",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Fournet, Jean",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Concerts Lamoureux",
-    "location": "",
-    "labels": [
-      "Forgotten Records",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 73,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Sonata for Solo Violin",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 75,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Furtwängler, Wilhelm",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Lucerne Festival Orchestra",
-    "location": "Kunsthaus, Lucerne",
-    "labels": [
-      "EMI",
-      "Testament",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 99,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Violin Concerto in D major, Op. 77",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Furtwängler, Wilhelm",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Lucerne Festival Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 114,
-    "composer": "Bruch, Max",
-    "composer_id": "37",
-    "work": "Violin Concerto No. 1 in G minor, Op. 26",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Boston Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "Classical Recordings Archive of America",
-      "Disco Archivia"
-    ],
-    "is_live": false,
-    "notes": "rehearsal",
-    "reference": ""
-  },
-  {
-    "id": 115,
-    "composer": "Bruch, Max",
-    "composer_id": "37",
-    "work": "Violin Concerto No. 1 in G minor, Op. 26",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Boston Symphony Orchestra",
-    "location": "Carnegie Hall, New York",
-    "labels": [
-      "Naxos",
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 123,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "Tokyo",
-    "labels": [
-      "Biddulph Recordings"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 124,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Romanian Folk Dances, Sz. 56",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Baller, Adolph",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Tokyo",
-    "labels": [
-      "Biddulph Recordings",
-      "RCA"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 133,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 136,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Furtwängler, Wilhelm",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 144,
-    "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
-    "work": "Violin Concerto No. 3 in B minor, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Poulet, Gaston",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 147,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Violin Concerto No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Furtwängler, Wilhelm",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 148,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Bernard, Anthony",
-        "role": "conductor"
-      },
-      {
-        "name": "De Vito, Gioconda",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 150,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Pritchard, John",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 187,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 191,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 192,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Richter, Karl",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Instrumental Ensemble of the Bach Festival",
-    "location": "Ansbach",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Bach Festival 1957",
-    "reference": "https://genome.ch.bbc.co.uk/c42984a42c57830b1b7ce649581dcd2a"
-  },
-  {
-    "id": 193,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Violin Concerto in D major, Op. 77",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Kempe, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Berlin Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 227,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Robert Masters Chamber Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 228,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 2 in E major, BWV 1042",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Robert Masters Chamber Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 231,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Wangenheim,  Volker",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Municipal Orchestra Bonn(1959-1963)",
-    "location": "Beethovenhalle, Bonn",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 232,
-    "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
-    "work": "Violin Concerto in D major, Op. 35",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Royal Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 254,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Silvestri, Constantin",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Vienna Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 259,
-    "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
-    "work": "Légende, Op. 17",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Pritchard, John",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 260,
-    "composer": "Chausson, Amédée-Ernest",
-    "composer_id": "46",
-    "work": "Poème, Op. 25",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Pritchard, John",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "",
-    "labels": [
-      "HMV"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 274,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Allegro from Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Barshai, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Moscow Chamber Orchestra",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 275,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Barshai, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Moscow Chamber Orchestra",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 276,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Barshai, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Moscow Chamber Orchestra",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 277,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Adagio from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 278,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Prelude from Partita for Solo Violin No. 3 in E major, BWV 1006",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 279,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Gavotte en Rondeau from Partita for Solo Violin No. 3 in E major, BWV 1006",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "Moscow",
-    "labels": [
-      "Melodiya",
-      "Moscow Conservatory Records"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 298,
-    "composer": "Bloch, Ernest",
-    "composer_id": "27",
-    "work": "Violin Concerto",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Kletzki, Paul",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 328,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Violin Concerto No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Doráti, Antal",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 341,
-    "composer": "Elgar, Edward",
-    "composer_id": "71",
-    "work": "Violin Concerto in B minor, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 342,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Klemperer, Otto",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 353,
-    "composer": "Bartók, Béla",
-    "composer_id": "14",
-    "work": "Viola Concerto",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Doráti, Antal",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 357,
-    "composer": "Schubert, Franz",
-    "composer_id": "210",
-    "work": "Piano Trio No. 1 in B-flat major, D. 898",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Kentner, Louis",
-        "role": "piano"
-      },
-      {
-        "name": "Du Pré, Jacqueline",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/fda83b57ede4fd361e6fba0c29692947"
-  },
-  {
-    "id": 358,
-    "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
-    "work": "Piano Trio No. 1 in D minor, Op. 49",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Kentner, Louis",
-        "role": "piano"
-      },
-      {
-        "name": "Du Pré, Jacqueline",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/9cb3319aa961c1a72797cd5e2dd5ea72"
-  },
-  {
-    "id": 359,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Piano Trio No. 2 in C major, Op. 87",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Hephzibah",
-        "role": "piano"
-      },
-      {
-        "name": "Du Pré, Jacqueline",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/a004cbe67d37acb118d8699d86b3bde8"
-  },
-  {
-    "id": 366,
-    "composer": "Elgar, Edward",
-    "composer_id": "71",
-    "work": "Violin Concerto in B minor, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Steinberg, William",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New York Philharmonic",
-    "location": "Philharmonic Hall, New York",
-    "labels": [
-      "EuroArts"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 371,
-    "composer": "Berg, Alban",
-    "composer_id": "20",
-    "work": "Violin Concerto",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boulez, Pierre",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "BBC Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 377,
-    "composer": "Walton, William",
-    "composer_id": "256",
-    "work": "Viola Concerto",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Walton, William",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 382,
-    "composer": "Walton, William",
-    "composer_id": "256",
-    "work": "Violin Concerto in B minor",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Walton, William",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 383,
-    "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
-    "work": "Piano Trio in A minor, Op. 50",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Hephzibah",
-        "role": "piano"
-      },
-      {
-        "name": "Gendron, Maurice",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 393,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ashkenazy, Vladimir",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Fairfield Halls, Croydon",
-    "labels": [
-      "CRQ Editions"
-    ],
-    "is_live": true,
-    "notes": "live at Harold Craxton Memorial Concert",
-    "reference": ""
-  },
-  {
-    "id": 394,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Prelude from Partita for Solo Violin No. 3 in E major, BWV 1006",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "Fairfield Halls, Croydon",
-    "labels": [
-      "CRQ Editions"
-    ],
-    "is_live": true,
-    "notes": "live at Harold Craxton Memorial Concert",
-    "reference": ""
-  },
-  {
-    "id": 395,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Menuhin Festival Orchestra",
-    "location": "",
-    "labels": [
-      "EMI",
-      "Warner"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 396,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Violin Concerto in D major, Op. 77",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 397,
-    "composer": "Bruch, Max",
-    "composer_id": "37",
-    "work": "Violin Concerto No. 1 in G minor, Op. 26",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 398,
-    "composer": "Bruch, Max",
-    "composer_id": "37",
-    "work": "Violin Concerto No. 2 in D minor, Op. 44",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Boult, Adrian",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "Kingsway Hall, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 399,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Partita for Solo Violin No. 3 in E major, BWV 1006",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Ascona Festival",
-    "reference": "https://genome.ch.bbc.co.uk/cb8c76090e7b1e54295f4f2a3fce3525"
-  },
-  {
-    "id": 421,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Krachmalnick, Samuel",
-        "role": "conductor"
-      },
-      {
-        "name": "Krachmalnick, Jacob",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "National ASTA String Orchestra",
-    "location": "",
-    "labels": [
-      "Custom Fidelity"
-    ],
-    "is_live": true,
-    "notes": "live; LP",
-    "reference": ""
-  },
-  {
-    "id": 423,
-    "composer": "Martin, Frank",
-    "composer_id": "141",
-    "work": "Polyptyque",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Menuhin Festival Orchestra",
-    "location": "Victoria Hall, Geneva",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 425,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Berlin Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/45a1da46d53d427a4e391a5b40e13795"
-  },
-  {
-    "id": 430,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Comissiona, Sergiu",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Houston Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "Disco Archivia"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 431,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Menuhin Festival Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Schwetzingen Festival",
-    "reference": "https://genome.ch.bbc.co.uk/48f2de5b7131cb85cb449fd6643cb7b8"
-  },
-  {
-    "id": 439,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Yehudi Menuhin School Orchestra",
-    "location": "",
-    "labels": [
-      "Tudor"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 440,
-    "composer": "Vaughan Williams, Ralph",
-    "composer_id": "245",
-    "work": "Violin Sonata in A minor",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Hephzibah",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Malvern Festival 1977",
-    "reference": "https://genome.ch.bbc.co.uk/347a889991263b31c08836698cd3f2e8"
-  },
-  {
-    "id": 441,
-    "composer": "Delius, Frederick",
-    "composer_id": "60",
-    "work": "Violin Sonata No. 3",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Fenby, Eric",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Malvern Festival 1977",
-    "reference": "https://genome.ch.bbc.co.uk/347a889991263b31c08836698cd3f2e8"
-  },
-  {
-    "id": 442,
-    "composer": "Vivaldi, Antonio",
-    "composer_id": "253",
-    "work": "Violin Concerto in C major, Op. 8 No. 6 RV 180",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "William Ellis School Orchestra",
-    "location": "Royal Albert Hall, London",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/7fd5b6b56d94dc14151f43d644a133bd"
-  },
-  {
-    "id": 462,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 2 in E major, BWV 1042",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 463,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      },
-      {
-        "name": "Li, Jin",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 464,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Menuhin, Yehudi",
-        "role": "conductor"
-      },
-      {
-        "name": "Camden, Anthony",
-        "role": "oboe"
-      }
-    ],
-    "orchestra": "London Symphony Orchestra",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 467,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Romance No. 2 in F major, Op. 50",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ozawa, Seiji",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Berlin Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 468,
-    "composer": "Stravinsky, Igor",
-    "composer_id": "229",
-    "work": "Violin Concerto in D major",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Leinsdorf, Erich",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New York Philharmonic",
-    "location": "Avery Fisher Hall, New York",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 475,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Masur, Kurt",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Cleveland Orchestra",
-    "location": "Severance Hall, Cleveland",
-    "labels": [
-      "St-Laurent Studio"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 479,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Double Concerto in A minor, Op. 102",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Berglund, Paavo",
-        "role": "conductor"
-      },
-      {
-        "name": "Tortelier, Paul",
-        "role": "cello"
-      }
-    ],
-    "orchestra": "London Philharmonic Orchestra",
-    "location": "",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
     "id": 494,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Piano Trio in A minor, Op. 50",
-    "date_display": null,
-    "date_sort": "9999-99-99",
+    "date_display": "1989/03",
+    "date_sort": "1989-03-01",
     "accompanists": [
       {
         "name": "Postnikova, Viktoria",

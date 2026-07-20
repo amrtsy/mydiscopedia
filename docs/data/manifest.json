@@ -11,26 +11,26 @@
     "name": "Henryk Szeryng",
     "count": 742,
     "skipped": 3,
-    "year_range": "1949–1988"
+    "year_range": "1941–1988"
   },
   {
     "slug": "menuhin",
     "name": "Yehudi Menuhin",
     "count": 494,
     "skipped": 6,
-    "year_range": "1931–1987"
+    "year_range": "1931–1989"
   },
   {
     "slug": "grumiaux",
     "name": "Arthur Grumiaux",
-    "count": 83,
-    "skipped": 1,
+    "count": 84,
+    "skipped": 2,
     "year_range": "1945–1980"
   },
   {
     "slug": "oistrakh",
     "name": "David Oistrakh",
-    "count": 731,
+    "count": 734,
     "skipped": 1,
     "year_range": "1934–1974"
   },
@@ -45,7 +45,7 @@
     "slug": "rabin",
     "name": "Michael Rabin",
     "count": 214,
-    "skipped": 0,
+    "skipped": 1,
     "year_range": "1947–1971"
   },
   {

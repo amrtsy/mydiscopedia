@@ -531,6 +531,72 @@
     "reference": ""
   },
   {
+    "id": 25,
+    "composer": "Kreisler, Fritz",
+    "composer_id": "128",
+    "work": "Liebesfreud",
+    "date_display": "1930/05",
+    "date_sort": "1930-05-01",
+    "accompanists": [
+      {
+        "name": "Faure, Maurice",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Dante Records"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 26,
+    "composer": "Kreisler, Fritz",
+    "composer_id": "128",
+    "work": "Liebesleid",
+    "date_display": "1930/05",
+    "date_sort": "1930-05-01",
+    "accompanists": [
+      {
+        "name": "Faure, Maurice",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Dante Records"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 27,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": "199",
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1930/05",
+    "date_sort": "1930-05-01",
+    "accompanists": [
+      {
+        "name": "Faure, Maurice",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Dante Records"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 28,
     "composer": "Eccles, Henry",
     "composer_id": "70",
@@ -619,6 +685,28 @@
     "reference": ""
   },
   {
+    "id": 32,
+    "composer": "Paganini, Niccolò",
+    "composer_id": "165",
+    "work": "Variations on a theme from 'God save the King', Op. 9",
+    "date_display": "1931/01/13&16",
+    "date_sort": "1931-01-13",
+    "accompanists": [
+      {
+        "name": "Faure, Maurice",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Dante Records"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 33,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
@@ -657,6 +745,28 @@
     "location": "Paris",
     "labels": [
       "unissued"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 35,
+    "composer": "Ravel, Maurice",
+    "composer_id": "188",
+    "work": "Tzigane",
+    "date_display": "1931/04/20&24",
+    "date_sort": "1931-04-20",
+    "accompanists": [
+      {
+        "name": "Faure, Maurice",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Dante Records"
     ],
     "is_live": false,
     "notes": null,
@@ -793,6 +903,23 @@
     "is_live": true,
     "notes": "live",
     "reference": ""
+  },
+  {
+    "id": 42,
+    "composer": "Paganini, Niccolò",
+    "composer_id": "165",
+    "work": "Violin Concerto No. 1 in D major, Op. 6",
+    "date_display": "1943",
+    "date_sort": "1943-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; Armed Forces Radio Sevice Hosted by Lionel Barrymore",
+    "reference": "https://youtu.be/K7vYhArzE_0?si=25W66RLRVJJEGshO"
   },
   {
     "id": 43,
@@ -998,6 +1125,50 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.olclc.org/archivegrid/collection/data/46660706"
+  },
+  {
+    "id": 53,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1945/11/16-17",
+    "date_sort": "1945-11-16",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://concertannals.blogspot.com/search?updated-max=2018-12-10T15:55:00-08:00&max-results=7&start=1&by-date=false"
+  },
+  {
+    "id": 54,
+    "composer": "Milhaud, Darius",
+    "composer_id": "151",
+    "work": "Suite for Violin and Orchestra",
+    "date_display": "1945/11/16-17",
+    "date_sort": "1945-11-16",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "ContraClassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
   },
   {
     "id": 55,
@@ -1470,6 +1641,29 @@
     "reference": ""
   },
   {
+    "id": 76,
+    "composer": "Ravel, Maurice",
+    "composer_id": "188",
+    "work": "Tzigane",
+    "date_display": "1947/04/03&13",
+    "date_sort": "1947-04-03",
+    "accompanists": [
+      {
+        "name": "Balsam, Artur",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Doremi",
+      "Biddulph Recordings"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 77,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
@@ -1883,6 +2077,72 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://youtu.be/MkJZNIIxWJA?si=rKl0yav8cfwEoJO6"
+  },
+  {
+    "id": 96,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Sonata No. 2 in A major, BWV 1015",
+    "date_display": "1949/01/07-08",
+    "date_sort": "1949-01-07",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 97,
+    "composer": "Debussy, Claude",
+    "composer_id": "58",
+    "work": "Violin Sonata in G minor",
+    "date_display": "1949/01/07-08",
+    "date_sort": "1949-01-07",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 98,
+    "composer": "Franck, César",
+    "composer_id": "84",
+    "work": "Violin Sonata in A major",
+    "date_display": "1949/01/07-08",
+    "date_sort": "1949-01-07",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
   },
   {
     "id": 99,
@@ -5621,6 +5881,28 @@
     "reference": ""
   },
   {
+    "id": 266,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
+    "date_display": "1957/10/21&22",
+    "date_sort": "1957-10-21",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studio, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 267,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -5906,6 +6188,72 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 280,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
+    "date_display": "1958/05/12-14",
+    "date_sort": "1958-05-12",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 281,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
+    "date_display": "1958/05/12-14",
+    "date_sort": "1958-05-12",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 282,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 10 in G major, Op. 96",
+    "date_display": "1958/05/12-14",
+    "date_sort": "1958-05-12",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -6229,6 +6577,50 @@
     "reference": "https://genome.ch.bbc.co.uk/bdc3a4cc36c74c19ac8db217e7ca884a"
   },
   {
+    "id": 298,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1958/12/10-17",
+    "date_sort": "1958-12-10",
+    "accompanists": [
+      {
+        "name": "Walter, Bruno",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "American Legion Hall, Los Angeles",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 299,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 4 in D major, K. 218",
+    "date_display": "1958/12/10-17",
+    "date_sort": "1958-12-10",
+    "accompanists": [
+      {
+        "name": "Walter, Bruno",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "American Legion Hall, Los Angeles",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 300,
     "composer": "Walton, William",
     "composer_id": "256",
@@ -6430,6 +6822,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89037678/festival-de-montreux-concert-de-l-orchestre-national-de-la-rtf-direction-andre-cluytens?rang=18"
+  },
+  {
+    "id": 309,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1961/01/23&26",
+    "date_sort": "1961-01-23",
+    "accompanists": [
+      {
+        "name": "Walter, Bruno",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "American Legion Hall, Los Angeles",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 310,
@@ -6650,6 +7064,72 @@
     "reference": ""
   },
   {
+    "id": 320,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Fantasy in C major, D. 934",
+    "date_display": "1961/05/18-19",
+    "date_sort": "1961-05-18",
+    "accompanists": [
+      {
+        "name": "Bagnoli, Eugenio",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Columbia"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
+    "id": 321,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 1 in D major, D. 384",
+    "date_display": "1961/05/18-19",
+    "date_sort": "1961-05-18",
+    "accompanists": [
+      {
+        "name": "Bagnoli, Eugenio",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Columbia"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
+    "id": 322,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 3 in G minor, D. 408",
+    "date_display": "1961/05/18-19",
+    "date_sort": "1961-05-18",
+    "accompanists": [
+      {
+        "name": "Bagnoli, Eugenio",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Columbia"
+    ],
+    "is_live": false,
+    "notes": "LP",
+    "reference": ""
+  },
+  {
     "id": 323,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -6782,6 +7262,160 @@
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89032115/orchestre-de-la-radio-suisse-italienne-emission-du-10-10-61?rang=25"
   },
   {
+    "id": 329,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 2 in A major, Op. 12 No. 2",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 330,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 331,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 4 in A major, Op. 23",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 332,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 333,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 6 in A major, Op. 30 No. 1",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 334,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 335,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
+    "date_display": "1961/10/02-07",
+    "date_sort": "1961-10-02",
+    "accompanists": [
+      {
+        "name": "Casadesus, Robert",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 336,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
@@ -6801,6 +7435,28 @@
     ],
     "is_live": false,
     "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 337,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1962",
+    "date_sort": "1962-01-01",
+    "accompanists": [
+      {
+        "name": "Cluytens, André",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "WDR Symphony Orchestra Cologne",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
     "reference": ""
   },
   {
@@ -6868,6 +7524,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126678931?ac=dgtl%2Canlg&q=francescatti"
+  },
+  {
+    "id": 341,
+    "composer": "Sibelius, Jean",
+    "composer_id": "220",
+    "work": "Violin Concerto in D minor, Op. 47",
+    "date_display": "1962/06?",
+    "date_sort": "1962-06-01",
+    "accompanists": [
+      {
+        "name": "Hannikainen, Tauno",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Helsinki Philharmonic Orchestra",
+    "location": "Helsinki",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Sibelius Festival",
+    "reference": ""
   },
   {
     "id": 342,
@@ -7290,6 +7968,29 @@
     "reference": ""
   },
   {
+    "id": 361,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1966",
+    "date_sort": "1966-01-01",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Montreal Symphony Orchestra",
+    "location": "Place des Arts, Monreal",
+    "labels": [
+      "Classical Recordings Archive of America",
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 362,
     "composer": "Bernstein, Leonard",
     "composer_id": "24",
@@ -7401,6 +8102,94 @@
     "reference": ""
   },
   {
+    "id": 367,
+    "composer": "Paganini, Niccolò",
+    "composer_id": "165",
+    "work": "I Palpiti, Op. 13",
+    "date_display": "1966/08/25-26",
+    "date_sort": "1966-08-25",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 368,
+    "composer": "Tartini, Giuseppe",
+    "composer_id": "237",
+    "work": "Violin Concerto in D minor, D. 45",
+    "date_display": "1966/08/25-26",
+    "date_sort": "1966-08-25",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 369,
+    "composer": "Tartini, Giuseppe",
+    "composer_id": "237",
+    "work": "Variations on a Theme of Corelli(Arr. by Francescatti)",
+    "date_display": "1966/08/25-26",
+    "date_sort": "1966-08-25",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 370,
+    "composer": "Vitali, Tomaso Antonio",
+    "composer_id": "252",
+    "work": "Chaconne in G minor(Arr. by Charlier)",
+    "date_display": "1966/08/25-26",
+    "date_sort": "1966-08-25",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 371,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
@@ -7446,6 +8235,58 @@
     "reference": ""
   },
   {
+    "id": 373,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1967/06/25-26",
+    "date_sort": "1967-06-25",
+    "accompanists": [
+      {
+        "name": "Waldman, Frederic",
+        "role": "conductor"
+      },
+      {
+        "name": "Morini, Erica",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "Musika Aeterna Orchestra",
+    "location": "New York",
+    "labels": [
+      "Arbiter"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 374,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Concerto for 2 Violins and Cello in D minor, RV 565",
+    "date_display": "1967/06/25-26",
+    "date_sort": "1967-06-25",
+    "accompanists": [
+      {
+        "name": "Waldman, Frederic",
+        "role": "conductor"
+      },
+      {
+        "name": "Morini, Erica",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "Musika Aeterna Orchestra",
+    "location": "New York",
+    "labels": [
+      "Arbiter"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 375,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
@@ -7463,6 +8304,28 @@
     "labels": [],
     "is_live": true,
     "notes": "live; video material",
+    "reference": ""
+  },
+  {
+    "id": 376,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1967/10/19-20",
+    "date_sort": "1967-10-19",
+    "accompanists": [
+      {
+        "name": "Kubelík, Rafael",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Bavarian Radio Symphony Orchestra",
+    "location": "Munich",
+    "labels": [
+      "En Larmes"
+    ],
+    "is_live": true,
+    "notes": "live",
     "reference": ""
   },
   {
@@ -7593,6 +8456,50 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 383,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 2 in D major, K. 211",
+    "date_display": "1968/09/13-14",
+    "date_sort": "1968-09-13",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 384,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1968/09/13-14",
+    "date_sort": "1968-09-13",
+    "accompanists": [
+      {
+        "name": "Stoutz, Edomond de",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Zurich Chamber Orchestra",
+    "location": "WInterthur",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
@@ -7835,6 +8742,72 @@
     "reference": ""
   },
   {
+    "id": 396,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1971/01/15-16",
+    "date_sort": "1971-01-15",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Mozart 39 Vn Cto 5 Francescatti Philadelphia Ormandy Jan 1971 Live"
+  },
+  {
+    "id": 397,
+    "composer": "Paganini, Niccolò",
+    "composer_id": "165",
+    "work": "24 Caprices, Op. 1 No. 9 in E major",
+    "date_display": "1971/01/15-16",
+    "date_sort": "1971-01-15",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Rozsa Theme Var Paganini Caprices Francescatti Philadelphia Ormandy Jan 1971 Live"
+  },
+  {
+    "id": 398,
+    "composer": "Paganini, Niccolò",
+    "composer_id": "165",
+    "work": "24 Caprices, Op. 1 No. 24 in A minor",
+    "date_display": "1971/01/15-16",
+    "date_sort": "1971-01-15",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Rozsa Theme Var Paganini Caprices Francescatti Philadelphia Ormandy Jan 1971 Live"
+  },
+  {
     "id": 399,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
@@ -7854,6 +8827,98 @@
     ],
     "is_live": true,
     "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 400,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1971/06/15-19",
+    "date_sort": "1971-06-15",
+    "accompanists": [
+      {
+        "name": "Baumgartner, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "",
+    "labels": [
+      "Deutsche Grammophon"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 401,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1971/06/15-19",
+    "date_sort": "1971-06-15",
+    "accompanists": [
+      {
+        "name": "Baumgartner, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "",
+    "labels": [
+      "Deutsche Grammophon"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 402,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1971/06/15-19",
+    "date_sort": "1971-06-15",
+    "accompanists": [
+      {
+        "name": "Baumgartner, Rudolf",
+        "role": "conductor"
+      },
+      {
+        "name": "Pasquier, Régis",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "Lucerne Festival Orchestra",
+    "location": "",
+    "labels": [
+      "Deutsche Grammophon"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 403,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1972",
+    "date_sort": "1972-01-01",
+    "accompanists": [
+      {
+        "name": "Groves, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Radio 3",
     "reference": ""
   },
   {
@@ -8051,6 +9116,50 @@
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/82989294"
   },
   {
+    "id": 412,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 4 in D major, K. 218",
+    "date_display": "1974",
+    "date_sort": "1974-01-01",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 413,
+    "composer": "Vitali, Tomaso Antonio",
+    "composer_id": "252",
+    "work": "Chaconne in G minor(Arr. by Charlier)",
+    "date_display": "1974",
+    "date_sort": "1974-01-01",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 414,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
@@ -8195,1115 +9304,6 @@
     "location": "Avery Fisher Hall, New York",
     "labels": [
       "Lyrinx"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 25,
-    "composer": "Kreisler, Fritz",
-    "composer_id": "128",
-    "work": "Liebesfreud",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Faure, Maurice",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Dante Records"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 26,
-    "composer": "Kreisler, Fritz",
-    "composer_id": "128",
-    "work": "Liebesleid",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Faure, Maurice",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Dante Records"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 27,
-    "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
-    "work": "Zigeunerweisen, Op. 20 No. 1",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Faure, Maurice",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Dante Records"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 32,
-    "composer": "Paganini, Niccolò",
-    "composer_id": "165",
-    "work": "Variations on a theme from 'God save the King', Op. 9",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Faure, Maurice",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Dante Records"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 35,
-    "composer": "Ravel, Maurice",
-    "composer_id": "188",
-    "work": "Tzigane",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Faure, Maurice",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Dante Records"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 42,
-    "composer": "Paganini, Niccolò",
-    "composer_id": "165",
-    "work": "Violin Concerto No. 1 in D major, Op. 6",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live; Armed Forces Radio Sevice Hosted by Lionel Barrymore",
-    "reference": "https://youtu.be/K7vYhArzE_0?si=25W66RLRVJJEGshO"
-  },
-  {
-    "id": 53,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://concertannals.blogspot.com/search?updated-max=2018-12-10T15:55:00-08:00&max-results=7&start=1&by-date=false"
-  },
-  {
-    "id": 54,
-    "composer": "Milhaud, Darius",
-    "composer_id": "151",
-    "work": "Suite for Violin and Orchestra",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "",
-    "labels": [
-      "ContraClassic"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 76,
-    "composer": "Ravel, Maurice",
-    "composer_id": "188",
-    "work": "Tzigane",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Balsam, Artur",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "",
-    "labels": [
-      "Doremi",
-      "Biddulph Recordings"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 96,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Sonata No. 2 in A major, BWV 1015",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 97,
-    "composer": "Debussy, Claude",
-    "composer_id": "58",
-    "work": "Violin Sonata in G minor",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 98,
-    "composer": "Franck, César",
-    "composer_id": "84",
-    "work": "Violin Sonata in A major",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 266,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Columbia 30th Street Studio, New York",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 280,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 281,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 282,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 10 in G major, Op. 96",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 298,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 3 in G major, K. 216",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Walter, Bruno",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Columbia Symphony Orchestra",
-    "location": "American Legion Hall, Los Angeles",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 299,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 4 in D major, K. 218",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Walter, Bruno",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Columbia Symphony Orchestra",
-    "location": "American Legion Hall, Los Angeles",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 309,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Walter, Bruno",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Columbia Symphony Orchestra",
-    "location": "American Legion Hall, Los Angeles",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 320,
-    "composer": "Schubert, Franz",
-    "composer_id": "210",
-    "work": "Fantasy in C major, D. 934",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Bagnoli, Eugenio",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Columbia"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 321,
-    "composer": "Schubert, Franz",
-    "composer_id": "210",
-    "work": "Violin Sonata No. 1 in D major, D. 384",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Bagnoli, Eugenio",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Columbia"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 322,
-    "composer": "Schubert, Franz",
-    "composer_id": "210",
-    "work": "Violin Sonata No. 3 in G minor, D. 408",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Bagnoli, Eugenio",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Columbia"
-    ],
-    "is_live": false,
-    "notes": "LP",
-    "reference": ""
-  },
-  {
-    "id": 329,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 2 in A major, Op. 12 No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 330,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 331,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 4 in A major, Op. 23",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 332,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 333,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 6 in A major, Op. 30 No. 1",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 334,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 335,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Casadesus, Robert",
-        "role": "piano"
-      }
-    ],
-    "orchestra": "",
-    "location": "Paris",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 337,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Cluytens, André",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "WDR Symphony Orchestra Cologne",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 341,
-    "composer": "Sibelius, Jean",
-    "composer_id": "220",
-    "work": "Violin Concerto in D minor, Op. 47",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Hannikainen, Tauno",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Helsinki Philharmonic Orchestra",
-    "location": "Helsinki",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live at Sibelius Festival",
-    "reference": ""
-  },
-  {
-    "id": 361,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Montreal Symphony Orchestra",
-    "location": "Place des Arts, Monreal",
-    "labels": [
-      "Classical Recordings Archive of America",
-      "St-Laurent Studio"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 367,
-    "composer": "Paganini, Niccolò",
-    "composer_id": "165",
-    "work": "I Palpiti, Op. 13",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 368,
-    "composer": "Tartini, Giuseppe",
-    "composer_id": "237",
-    "work": "Violin Concerto in D minor, D. 45",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 369,
-    "composer": "Tartini, Giuseppe",
-    "composer_id": "237",
-    "work": "Variations on a Theme of Corelli(Arr. by Francescatti)",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 370,
-    "composer": "Vitali, Tomaso Antonio",
-    "composer_id": "252",
-    "work": "Chaconne in G minor(Arr. by Charlier)",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 373,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Waldman, Frederic",
-        "role": "conductor"
-      },
-      {
-        "name": "Morini, Erica",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "Musika Aeterna Orchestra",
-    "location": "New York",
-    "labels": [
-      "Arbiter"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 374,
-    "composer": "Vivaldi, Antonio",
-    "composer_id": "253",
-    "work": "Concerto for 2 Violins and Cello in D minor, RV 565",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Waldman, Frederic",
-        "role": "conductor"
-      },
-      {
-        "name": "Morini, Erica",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "Musika Aeterna Orchestra",
-    "location": "New York",
-    "labels": [
-      "Arbiter"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 376,
-    "composer": "Brahms, Johannes",
-    "composer_id": "34",
-    "work": "Violin Concerto in D major, Op. 77",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Kubelík, Rafael",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Bavarian Radio Symphony Orchestra",
-    "location": "Munich",
-    "labels": [
-      "En Larmes"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 383,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 2 in D major, K. 211",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 384,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Stoutz, Edomond de",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Zurich Chamber Orchestra",
-    "location": "WInterthur",
-    "labels": [
-      "Sony Classical"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 396,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "Academy of Music, Philadelphia",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "Mozart 39 Vn Cto 5 Francescatti Philadelphia Ormandy Jan 1971 Live"
-  },
-  {
-    "id": 397,
-    "composer": "Paganini, Niccolò",
-    "composer_id": "165",
-    "work": "24 Caprices, Op. 1 No. 9 in E major",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "Academy of Music, Philadelphia",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "Rozsa Theme Var Paganini Caprices Francescatti Philadelphia Ormandy Jan 1971 Live"
-  },
-  {
-    "id": 398,
-    "composer": "Paganini, Niccolò",
-    "composer_id": "165",
-    "work": "24 Caprices, Op. 1 No. 24 in A minor",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "Academy of Music, Philadelphia",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "Rozsa Theme Var Paganini Caprices Francescatti Philadelphia Ormandy Jan 1971 Live"
-  },
-  {
-    "id": 400,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Baumgartner, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Lucerne Festival Orchestra",
-    "location": "",
-    "labels": [
-      "Deutsche Grammophon"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 401,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 2 in E major, BWV 1042",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Baumgartner, Rudolf",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Lucerne Festival Orchestra",
-    "location": "",
-    "labels": [
-      "Deutsche Grammophon"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 402,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Baumgartner, Rudolf",
-        "role": "conductor"
-      },
-      {
-        "name": "Pasquier, Régis",
-        "role": "violin"
-      }
-    ],
-    "orchestra": "Lucerne Festival Orchestra",
-    "location": "",
-    "labels": [
-      "Deutsche Grammophon"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": ""
-  },
-  {
-    "id": 403,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Groves, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "New Philharmonia Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live; BBC Radio 3",
-    "reference": ""
-  },
-  {
-    "id": 412,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 4 in D major, K. 218",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "",
-    "labels": [
-      "Classical Recordings Archive of America"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 413,
-    "composer": "Vitali, Tomaso Antonio",
-    "composer_id": "252",
-    "work": "Chaconne in G minor(Arr. by Charlier)",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "",
-    "labels": [
-      "Classical Recordings Archive of America"
     ],
     "is_live": true,
     "notes": "live",

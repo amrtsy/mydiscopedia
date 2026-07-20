@@ -1158,7 +1158,55 @@
     "reference": ""
   },
   {
+    "id": 54,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Double Concerto in A minor, Op. 102",
+    "date_display": "1964/04/10",
+    "date_sort": "1964-04-10",
+    "accompanists": [
+      {
+        "name": "Monteux, Pierre",
+        "role": "conductor"
+      },
+      {
+        "name": "Janigro, Antonio",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "Orchestra Sinfonica di Milano della RAI(-1994)",
+    "location": "Sala Verdi del Conservatorio, Milano",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 55,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1965",
+    "date_sort": "1965-01-01",
+    "accompanists": [
+      {
+        "name": "Bloomfield, Theodore",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Belgian National Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/3ee2904fc19a2707ef1ed9543bad3c64"
+  },
+  {
+    "id": 56,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1180,7 +1228,7 @@
     "reference": ""
   },
   {
-    "id": 56,
+    "id": 57,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1202,7 +1250,7 @@
     "reference": "Arthur Grumiaux - Beethoven Violin Concerto in D -  Paul Kletzki, l’Orchestre de la Suisse Romande"
   },
   {
-    "id": 57,
+    "id": 58,
     "composer": "Haydn, Michael",
     "composer_id": "312",
     "work": "Violin Concerto in A major, MH 207",
@@ -1224,7 +1272,7 @@
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127034631?ac=dgtl%2Canlg&q=grumiaux"
   },
   {
-    "id": 58,
+    "id": 59,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
@@ -1246,7 +1294,7 @@
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127034631?ac=dgtl%2Canlg&q=grumiaux"
   },
   {
-    "id": 59,
+    "id": 60,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1268,7 +1316,7 @@
     "reference": ""
   },
   {
-    "id": 60,
+    "id": 61,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Violin Concerto in D major",
@@ -1290,7 +1338,7 @@
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127229131?ac=dgtl%2Canlg&q=grumiaux"
   },
   {
-    "id": 61,
+    "id": 62,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1312,7 +1360,7 @@
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127237031/asset/urn:vme:default:asset:2101608240016175121/segment/urn:vme:default:logtrackitem:2101702280764858824?ac=dgtl%2Canlg&q=grumiaux"
   },
   {
-    "id": 62,
+    "id": 63,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
@@ -1329,7 +1377,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=1855.046&LNG_ID=ITA"
   },
   {
-    "id": 63,
+    "id": 64,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1346,7 +1394,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16997.046&LNG_ID=ITA"
   },
   {
-    "id": 64,
+    "id": 65,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -1363,7 +1411,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16991.046&LNG_ID=ITA"
   },
   {
-    "id": 65,
+    "id": 66,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -1380,7 +1428,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=17001.046&LNG_ID=ITA"
   },
   {
-    "id": 66,
+    "id": 67,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -1402,7 +1450,7 @@
     "reference": "https://youtu.be/cV5_HafrTyw?si=CPHvgDKi8yYHAcY-"
   },
   {
-    "id": 67,
+    "id": 68,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1424,7 +1472,7 @@
     "reference": "https://genome.ch.bbc.co.uk/71ebfb7048b4f16a8b583dcce331f185"
   },
   {
-    "id": 68,
+    "id": 69,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -1446,7 +1494,7 @@
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86016475/concert-brahms-de-l-orchestre-des-concerts-lamoureux?rang=50"
   },
   {
-    "id": 69,
+    "id": 70,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1468,7 +1516,51 @@
     "reference": "https://genome.ch.bbc.co.uk/b5b61f0795fcaa5f0648bd2b60eda3b9"
   },
   {
+    "id": 71,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1976",
+    "date_sort": "1976-01-01",
+    "accompanists": [
+      {
+        "name": "Andreae, Marc",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestra della Radio Svizzera Italiana(-1991)",
+    "location": "Lugano",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/1c3f31e8cff690dfaafe1277fed34fe7"
+  },
+  {
     "id": 72,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1977",
+    "date_sort": "1977-01-01",
+    "accompanists": [
+      {
+        "name": "Inbal, Eliahu",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Frankfurt Radio Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/6946e498db96f67db333fb9153f0044a"
+  },
+  {
+    "id": 73,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
@@ -1490,7 +1582,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26237.046&LNG_ID=ITA"
   },
   {
-    "id": 73,
+    "id": 74,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
@@ -1512,7 +1604,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26237.046&LNG_ID=ITA"
   },
   {
-    "id": 74,
+    "id": 75,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
@@ -1534,7 +1626,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26238.046&LNG_ID=ITA"
   },
   {
-    "id": 75,
+    "id": 76,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
@@ -1556,7 +1648,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=26238.046&LNG_ID=ITA"
   },
   {
-    "id": 76,
+    "id": 77,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -1578,7 +1670,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=10889.046&LNG_ID=ITA"
   },
   {
-    "id": 77,
+    "id": 78,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -1600,7 +1692,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16470.046&LNG_ID=ITA"
   },
   {
-    "id": 78,
+    "id": 79,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -1622,7 +1714,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2625.046&LNG_ID=ITA"
   },
   {
-    "id": 79,
+    "id": 80,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
@@ -1644,7 +1736,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2624.046&LNG_ID=ITA"
   },
   {
-    "id": 80,
+    "id": 81,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -1666,7 +1758,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=16471.046&LNG_ID=ITA"
   },
   {
-    "id": 81,
+    "id": 82,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -1688,7 +1780,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=21914.046&LNG_ID=ITA"
   },
   {
-    "id": 82,
+    "id": 83,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -1710,7 +1802,7 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=21914.046&LNG_ID=ITA"
   },
   {
-    "id": 83,
+    "id": 84,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
@@ -1725,71 +1817,5 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2010.046&LNG_ID=ITA"
-  },
-  {
-    "id": 54,
-    "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
-    "work": "Introduction et Rondo Capriccioso, Op. 28",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Bloomfield, Theodore",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Belgian National Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/3ee2904fc19a2707ef1ed9543bad3c64"
-  },
-  {
-    "id": 70,
-    "composer": "Bruch, Max",
-    "composer_id": "37",
-    "work": "Violin Concerto No. 1 in G minor, Op. 26",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Andreae, Marc",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Orchestra della Radio Svizzera Italiana(-1991)",
-    "location": "Lugano",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/1c3f31e8cff690dfaafe1277fed34fe7"
-  },
-  {
-    "id": 71,
-    "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
-    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
-    "date_display": null,
-    "date_sort": "9999-99-99",
-    "accompanists": [
-      {
-        "name": "Inbal, Eliahu",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Frankfurt Radio Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/6946e498db96f67db333fb9153f0044a"
   }
 ]
