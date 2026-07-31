@@ -8579,28 +8579,6 @@
   },
   {
     "id": 373,
-    "composer": "Sibelius, Jean",
-    "composer_id": "220",
-    "work": "Violin Concerto in D minor, Op. 47",
-    "date_display": "1970",
-    "date_sort": "1970-01-01",
-    "accompanists": [
-      {
-        "name": "Rudolf, Max",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Cincinnati Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "https://youtu.be/NHhNAC-B5JA?si=9P6KEXjXAKCdHRVF"
-  },
-  {
-    "id": 374,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -8620,6 +8598,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHF06050283/concert-de-l-orchestre-national-de-l-ortf-direction-jean-martinon-cycle-ludwig-van-beethoven?rang=52"
+  },
+  {
+    "id": 374,
+    "composer": "Sibelius, Jean",
+    "composer_id": "220",
+    "work": "Violin Concerto in D minor, Op. 47",
+    "date_display": "1970/03/14",
+    "date_sort": "1970-03-14",
+    "accompanists": [
+      {
+        "name": "Rudolf, Max",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cincinnati Symphony Orchestra",
+    "location": "Music Hall, Cincinnati",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://youtu.be/NHhNAC-B5JA?si=vPvbiThC-ruzNqxs"
   },
   {
     "id": 375,

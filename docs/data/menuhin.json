@@ -9354,7 +9354,7 @@
       }
     ],
     "orchestra": "Seattle Symphony Orchestra",
-    "location": "",
+    "location": "Opera House, Seattle",
     "labels": [
       "Disco Archivia"
     ],
@@ -9364,6 +9364,28 @@
   },
   {
     "id": 420,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1973/01/24",
+    "date_sort": "1973-01-24",
+    "accompanists": [
+      {
+        "name": "Abravanel, Maurice",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Utah Symphony",
+    "location": "Tabernacle, Salt Lake",
+    "labels": [
+      "Disco Archivia"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 421,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -9389,7 +9411,7 @@
     "reference": "https://youtu.be/klOztNE6HQM?si=D08FiyxRcFDpRkrR"
   },
   {
-    "id": 421,
+    "id": 422,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -9411,7 +9433,7 @@
     "reference": "https://genome.ch.bbc.co.uk/22aab90bcb2280598ff01d55b0c50d90"
   },
   {
-    "id": 422,
+    "id": 423,
     "composer": "Enescu, George",
     "composer_id": "72",
     "work": "Violin Sonata No. 3 in A minor, Op. 25",
@@ -9433,7 +9455,7 @@
     "reference": ""
   },
   {
-    "id": 423,
+    "id": 424,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
@@ -9455,7 +9477,7 @@
     "reference": ""
   },
   {
-    "id": 424,
+    "id": 425,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -9477,32 +9499,10 @@
     "reference": ""
   },
   {
-    "id": 425,
+    "id": 426,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1973/09/18",
-    "date_sort": "1973-09-18",
-    "accompanists": [
-      {
-        "name": "Conta, Iosif",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Romanian National Radio Orchestra",
-    "location": "Bucharest",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 426,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Two Violins in D minor, BWV 1043",
     "date_display": "1973/09/18",
     "date_sort": "1973-09-18",
     "accompanists": [
@@ -9522,54 +9522,28 @@
   },
   {
     "id": 427,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1973/10/05",
-    "date_sort": "1973-10-05",
-    "accompanists": [
-      {
-        "name": "Abravanel, Maurice",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Utah Symphony",
-    "location": "",
-    "labels": [
-      "Disco Archivia"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "489"
-  },
-  {
-    "id": 428,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
-    "date_display": "1974",
-    "date_sort": "1974-01-01",
+    "date_display": "1973/09/18",
+    "date_sort": "1973-09-18",
     "accompanists": [
       {
-        "name": "Krachmalnick, Samuel",
+        "name": "Conta, Iosif",
         "role": "conductor"
-      },
-      {
-        "name": "Krachmalnick, Jacob",
-        "role": "violin"
       }
     ],
-    "orchestra": "National ASTA String Orchestra",
-    "location": "",
+    "orchestra": "Romanian National Radio Orchestra",
+    "location": "Bucharest",
     "labels": [
-      "Custom Fidelity"
+      "unissued"
     ],
     "is_live": true,
-    "notes": "live; LP",
+    "notes": "live",
     "reference": ""
   },
   {
-    "id": 429,
+    "id": 428,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -9589,6 +9563,32 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/435a0e73bb4077f1dabc04e025ccfd68"
+  },
+  {
+    "id": 429,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1974/03/26",
+    "date_sort": "1974-03-26",
+    "accompanists": [
+      {
+        "name": "Krachmalnick, Samuel",
+        "role": "conductor"
+      },
+      {
+        "name": "Krachmalnick, Jacob",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "National ASTA String Orchestra",
+    "location": "Disneyland Hotel, Anaheim",
+    "labels": [
+      "Custom Fidelity"
+    ],
+    "is_live": true,
+    "notes": "live; LP",
+    "reference": ""
   },
   {
     "id": 430,
@@ -9744,8 +9744,8 @@
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1975/12",
-    "date_sort": "1975-12-01",
+    "date_display": "1975/12/15-16",
+    "date_sort": "1975-12-15",
     "accompanists": [
       {
         "name": "Comissiona, Sergiu",
@@ -9753,7 +9753,7 @@
       }
     ],
     "orchestra": "Houston Symphony Orchestra",
-    "location": "",
+    "location": "Jones Hall, Houston",
     "labels": [
       "Disco Archivia"
     ],

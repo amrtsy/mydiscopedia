@@ -2153,50 +2153,6 @@
     "reference": ""
   },
   {
-    "id": 113,
-    "composer": "Dvořák, Antonín",
-    "composer_id": "69",
-    "work": "Cello Concerto in B minor, Op104",
-    "date_display": "1969-1970",
-    "date_sort": "1969-01-01",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "Academy of Music, Philadelphia",
-    "labels": [
-      "Classical Recordings Archive of America"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
-    "id": 114,
-    "composer": "Haydn, Joseph",
-    "composer_id": "110",
-    "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
-    "date_display": "1969-1970",
-    "date_sort": "1969-01-01",
-    "accompanists": [
-      {
-        "name": "Ormandy, Eugene",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Philadelphia Orchestra",
-    "location": "Academy of Music, Philadelphia",
-    "labels": [
-      "Classical Recordings Archive of America"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": ""
-  },
-  {
     "id": 96,
     "composer": "Schumann, Robert",
     "composer_id": "212",
@@ -2636,7 +2592,7 @@
     "reference": ""
   },
   {
-    "id": 115,
+    "id": 113,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in B-flat major, Op. 11",
@@ -2661,6 +2617,50 @@
     "is_live": false,
     "notes": null,
     "reference": ""
+  },
+  {
+    "id": 114,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Cello Concerto in B minor, Op104",
+    "date_display": "1970/03/05",
+    "date_sort": "1970-03-05",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "The Philadelphia Inquirer"
+  },
+  {
+    "id": 115,
+    "composer": "Haydn, Joseph",
+    "composer_id": "110",
+    "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
+    "date_display": "1970/03/05",
+    "date_sort": "1970-03-05",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "The Philadelphia Inquirer"
   },
   {
     "id": 116,
