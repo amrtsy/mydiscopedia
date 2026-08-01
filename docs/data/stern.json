@@ -8980,8 +8980,8 @@
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
-    "date_display": "1971",
-    "date_sort": "1971-01-01",
+    "date_display": "1971/03/13-14",
+    "date_sort": "1971-03-13",
     "accompanists": [
       {
         "name": "Schippers, Thomas",
@@ -8989,7 +8989,7 @@
       }
     ],
     "orchestra": "Cincinnati Symphony Orchestra",
-    "location": "",
+    "location": "Music Hall, Cincinnati",
     "labels": [
       "unissued"
     ],
