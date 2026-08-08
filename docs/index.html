@@ -11,6 +11,17 @@
 </head>
 <body>
 
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a class="site-nav-brand" href="index.html">MyDiscopedia</a>
+    <div class="site-nav-links">
+      <a href="index.html" class="active">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+</nav>
+
 <header>
   <div class="eyebrow">MyDiscopedia</div>
   <h1>20th-Century String Virtuosi</h1>
@@ -24,11 +35,11 @@
   </a>
   <a class="performer-card" href="performers/szeryng.html">
     <div class="name">Henryk Szeryng</div>
-    <div class="meta">1949–1988 &middot; 742 recordings</div>
+    <div class="meta">1941–1988 &middot; 743 recordings</div>
   </a>
   <a class="performer-card" href="performers/menuhin.html">
     <div class="name">Yehudi Menuhin</div>
-    <div class="meta">1931–1987 &middot; 494 recordings</div>
+    <div class="meta">1931–1989 &middot; 494 recordings</div>
   </a>
   <a class="performer-card" href="performers/grumiaux.html">
     <div class="name">Arthur Grumiaux</div>
@@ -36,7 +47,7 @@
   </a>
   <a class="performer-card" href="performers/oistrakh.html">
     <div class="name">David Oistrakh</div>
-    <div class="meta">1934–1974 &middot; 731 recordings</div>
+    <div class="meta">1934–1974 &middot; 699 recordings</div>
   </a>
   <a class="performer-card" href="performers/francescatti.html">
     <div class="name">Zino Francescatti</div>
@@ -48,9 +59,25 @@
   </a>
   <a class="performer-card" href="performers/du-pre.html">
     <div class="name">Jacqueline du Pré</div>
-    <div class="meta">1961–1973 &middot; 140 recordings</div>
+    <div class="meta">1961–1973 &middot; 134 recordings</div>
   </a>
 </div>
+
+<footer class="site-footer">
+  <div class="site-footer-links">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+  <div class="site-footer-copyright">
+    Copyright &copy; <span class="copyright-year"></span> MyDiscopedia. All rights reserved.
+  </div>
+</footer>
+<script>
+  document.querySelectorAll('.copyright-year').forEach(function(el){
+    el.textContent = new Date().getFullYear();
+  });
+</script>
 
 </body>
 </html>

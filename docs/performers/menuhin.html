@@ -11,45 +11,76 @@
 </head>
 <body>
 
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a class="site-nav-brand" href="../index.html">MyDiscopedia</a>
+    <div class="site-nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../about.html">About</a>
+      <a href="../contact.html">Contact</a>
+    </div>
+  </div>
+</nav>
+
 <header>
   <div class="eyebrow">Discography</div>
   <h1>Yehudi Menuhin</h1>
-  <div class="sub">1931–1987 &middot; 494 recordings</div>
+  <div class="sub">1931–1989 &middot; 494 recordings</div>
   <a class="back-link" href="../index.html">&larr; All performers</a>
 </header>
 
 <div class="toolbar">
-  <div class="field">
-    <label for="f-composer">Composer</label>
-    <select id="f-composer"><option value="">All</option></select>
-  </div>
-  <div class="field">
-    <label for="f-label">Label</label>
-    <select id="f-label"><option value="">All</option></select>
-  </div>
-  <div class="field">
-    <label for="f-live">Type</label>
-    <select id="f-live">
-      <option value="">All</option>
-      <option value="live">Live</option>
-      <option value="studio">Studio</option>
-    </select>
-  </div>
-  <div class="field">
-    <label for="f-sort">Sort by</label>
-    <select id="f-sort">
-      <option value="composer">Composer / work</option>
-      <option value="count">Most recorded works first</option>
-    </select>
-  </div>
-  <div class="field">
-    <label for="f-search">Search (work, performers, notes)</label>
-    <input type="text" id="f-search" placeholder="e.g. Elgar, Barenboim">
+  <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="toolbar-fields">&#9776; Filters</button>
+  <div class="toolbar-fields" id="toolbar-fields">
+    <div class="field">
+      <label for="f-composer">Composer</label>
+      <select id="f-composer"><option value="">All</option></select>
+    </div>
+    <div class="field">
+      <label for="f-label">Label</label>
+      <select id="f-label"><option value="">All</option></select>
+    </div>
+    <div class="field">
+      <label for="f-live">Type</label>
+      <select id="f-live">
+        <option value="">All</option>
+        <option value="live">Live</option>
+        <option value="studio">Studio</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="f-sort">Sort by</label>
+      <select id="f-sort">
+        <option value="composer">Composer / work</option>
+        <option value="count">Most recorded works first</option>
+        <option value="date">Recording date</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="f-search">Search (work, performers, notes)</label>
+      <input type="text" id="f-search" placeholder="e.g. Elgar, Barenboim">
+    </div>
   </div>
   <div class="count" id="count"></div>
 </div>
 
 <div class="list" id="list"></div>
+
+<footer class="site-footer">
+  <div class="site-footer-links">
+    <a href="../index.html">Home</a>
+    <a href="../about.html">About</a>
+    <a href="../contact.html">Contact</a>
+  </div>
+  <div class="site-footer-copyright">
+    Copyright &copy; <span class="copyright-year"></span> MyDiscopedia. All rights reserved.
+  </div>
+</footer>
+<script>
+  document.querySelectorAll('.copyright-year').forEach(function(el){
+    el.textContent = new Date().getFullYear();
+  });
+</script>
 
 <script>
   window.DISCOGRAPHY_CONFIG = { dataUrl: '../data/menuhin.json' };

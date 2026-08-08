@@ -42,11 +42,22 @@
     return people.map(p => p.role ? `${p.name}(${p.role})` : p.name).join(', ');
   }
 
+  const menuToggle = document.getElementById('menu-toggle');
+  const toolbarFields = document.getElementById('toolbar-fields');
+  if (menuToggle && toolbarFields) {
+    menuToggle.addEventListener('click', () => {
+      const isOpen = toolbarFields.classList.toggle('open');
+      menuToggle.setAttribute('aria-expanded', String(isOpen));
+      menuToggle.textContent = isOpen ? '\u2715 Close filters' : '\u2630 Filters';
+    });
+  }
+
   function render() {
     const c = fComposer.value;
     const l = fLabel.value;
     const live = fLive.value;
     const q = fSearch.value.trim().toLowerCase();
+    const sortMode = fSort.value;
 
     const filtered = DATA.filter(d => {
       if (c && d.composer !== c) return false;
@@ -68,6 +79,40 @@
       return;
     }
 
+    listEl.innerHTML = '';
+
+    function renderRecLine(d) {
+      const line = document.createElement('div');
+      line.className = 'rec-line';
+      const labelStr = d.labels.join(' / ');
+      line.innerHTML = `
+        <div class="rec-top">${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}<span class="date">${d.date_display ?? 'undated'}</span>${d.location ? `<span class="loc-sep">|</span><span class="loc">${d.location}</span>` : ''}</div>
+        <div class="rec-detail">
+          <span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}
+          ${labelStr ? `<span class="label"> | ${labelStr}</span>` : ''}
+          ${d.notes && !d.is_live ? `<span class="label"> | ${d.notes}</span>` : ''}
+        </div>
+      `;
+      return line;
+    }
+
+    if (sortMode === 'date') {
+      // Flat chronological list — no work grouping, since the point is to
+      // browse across works in the order they were recorded.
+      const sorted = [...filtered].sort((a, b) => a.date_sort.localeCompare(b.date_sort));
+      sorted.forEach(d => {
+        const wrap = document.createElement('div');
+        wrap.className = 'work-group';
+        const titleRow = document.createElement('div');
+        titleRow.className = 'work-title-row';
+        titleRow.innerHTML = `<span class="work-title">${d.composer} — ${d.work}</span>`;
+        wrap.appendChild(titleRow);
+        wrap.appendChild(renderRecLine(d));
+        listEl.appendChild(wrap);
+      });
+      return;
+    }
+
     const groups = new Map();
     filtered.forEach(d => {
       const key = d.composer + '|' + d.work;
@@ -78,17 +123,16 @@
 
     let groupList = [...groups.values()];
 
-    if (fSort.value === 'count') {
+    if (sortMode === 'count') {
       groupList.sort((a, b) => b.recs.length - a.recs.length || a.composer.localeCompare(b.composer, 'en'));
     } else {
       groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || a.work.localeCompare(b.work, 'en'));
     }
 
-    listEl.innerHTML = '';
     let lastComposer = null;
 
     groupList.forEach(g => {
-      if (fSort.value === 'composer' && g.composer !== lastComposer) {
+      if (sortMode === 'composer' && g.composer !== lastComposer) {
         const h = document.createElement('div');
         h.className = 'composer-head';
         h.textContent = g.composer;
@@ -104,25 +148,12 @@
       const countBadge = g.recs.length > 1
         ? `<span class="work-count multi">${g.recs.length} recordings</span>`
         : `<span class="work-count">${g.recs.length}</span>`;
-      titleRow.innerHTML = (fSort.value === 'count'
+      titleRow.innerHTML = (sortMode === 'count'
         ? `<span class="work-title">${g.composer} — ${g.work}</span>`
         : `<span class="work-title">${g.work}</span>`) + countBadge;
       wrap.appendChild(titleRow);
 
-      g.recs.forEach(d => {
-        const line = document.createElement('div');
-        line.className = 'rec-line';
-        const labelStr = d.labels.join(' / ');
-        line.innerHTML = `
-          <div class="rec-top">${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}<span class="date">${d.date_display ?? 'undated'}</span>${d.location ? `<span class="loc-sep">|</span><span class="loc">${d.location}</span>` : ''}</div>
-          <div class="rec-detail">
-            <span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}
-            ${labelStr ? `<span class="label"> | ${labelStr}</span>` : ''}
-            ${d.notes && !d.is_live ? `<span class="label"> | ${d.notes}</span>` : ''}
-          </div>
-        `;
-        wrap.appendChild(line);
-      });
+      g.recs.forEach(d => wrap.appendChild(renderRecLine(d)));
 
       listEl.appendChild(wrap);
     });
