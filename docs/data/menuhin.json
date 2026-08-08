@@ -2171,8 +2171,8 @@
       "BMG",
       "Sony Classical"
     ],
-    "is_live": true,
-    "notes": "live",
+    "is_live": false,
+    "notes": null,
     "reference": ""
   },
   {
