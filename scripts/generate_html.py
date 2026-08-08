@@ -12,7 +12,20 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 PERFORMERS_DIR = ROOT / "docs" / "performers"
 
-CONTACT_EMAIL = "dasmagischend@gmail.com"
+CONTACT_EMAIL = "mydiscopedia@gmail.com"
+
+# Performer lifespans (birth–death), shown on the site instead of the
+# recording-activity date range. Source: standard biographical references.
+LIFESPANS = {
+    "stern": "1920\u20132001",
+    "szeryng": "1918\u20131988",
+    "menuhin": "1916\u20131999",
+    "grumiaux": "1921\u20131986",
+    "oistrakh": "1908\u20131974",
+    "francescatti": "1902\u20131991",
+    "rabin": "1936\u20131972",
+    "du-pre": "1945\u20131987",
+}
 
 FONTS_LINK = (
     '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
@@ -227,6 +240,7 @@ def main():
 
     cards = []
     for entry in manifest:
+        entry = {**entry, "year_range": LIFESPANS.get(entry["slug"], entry["year_range"])}
         html = PERFORMER_TEMPLATE.format(
             fonts=FONTS_LINK,
             nav=site_nav("../", None),
