@@ -106,6 +106,66 @@
     "reference": null
   },
   {
+    "id": 3,
+    "composer": "Granados, Enrique",
+    "composer_id": "100",
+    "work": "Intermezzo from Goyescas(Arr. by Cassadò)",
+    "date_display": "1962",
+    "date_sort": "1962-01-01",
+    "accompanists": [
+      {
+        "name": "Du Pré, Iris",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": "broadcasted on BBC Television on 4th Feb, 1962",
+    "reference": ""
+  },
+  {
+    "id": 4,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": "147",
+    "work": "Song without Words in D major, Op. 109",
+    "date_display": "1962",
+    "date_sort": "1962-01-01",
+    "accompanists": [
+      {
+        "name": "Du Pré, Iris",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": "broadcasted on BBC Television on 4th Feb, 1962",
+    "reference": ""
+  },
+  {
+    "id": 5,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Allegro appationato, Op. 43",
+    "date_display": "1962",
+    "date_sort": "1962-01-01",
+    "accompanists": [
+      {
+        "name": "Du Pré, Iris",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": "broadcasted on BBC Television on 4th Feb, 1962",
+    "reference": ""
+  },
+  {
     "id": 6,
     "composer": "Bach, Johann Sebastian",
     "composer_id": 10.0,
@@ -297,6 +357,28 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 14,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Cello Sonata No. 2 in D major, BWV 1028",
+    "date_display": "1962/07/15-16",
+    "date_sort": "1962-07-15",
+    "accompanists": [
+      {
+        "name": "Anderson, Ronald Kinloch",
+        "role": "harpsichord"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 15,
@@ -724,6 +806,51 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 32,
+    "composer": "Rubbra, Edmund",
+    "composer_id": "301",
+    "work": "Soliloquy, Op. 57",
+    "date_display": "1965",
+    "date_sort": "1965-01-01",
+    "accompanists": [
+      {
+        "name": "Finzi, Christopher",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Newbury String Players",
+    "location": "",
+    "labels": [
+      "Cello Classics"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 33,
+    "composer": "Delius, Frederick",
+    "composer_id": "60",
+    "work": "Cello Concerto",
+    "date_display": "1965/01/12&14",
+    "date_sort": "1965-01-12",
+    "accompanists": [
+      {
+        "name": "Sargent, Malcolm",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Philharmonic Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 34,
@@ -1205,6 +1332,52 @@
     "reference": null
   },
   {
+    "id": 53,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 3 in A major, Op. 69",
+    "date_display": "1965/12/19-23",
+    "date_sort": "1965-12-19",
+    "accompanists": [
+      {
+        "name": "Kovacevich, Stephen",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Abbey Road Studios, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 54,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
+    "date_display": "1965/12/19-23",
+    "date_sort": "1965-12-19",
+    "accompanists": [
+      {
+        "name": "Kovacevich, Stephen",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Abbey Road Studios, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 55,
     "composer": "Bach, Johann Sebastian",
     "composer_id": 10.0,
@@ -1404,6 +1577,153 @@
   },
   {
     "id": 60,
+<<<<<<< HEAD
+=======
+    "composer": "Debussy, Claude",
+    "composer_id": "58",
+    "work": "Cello Sonata in D minor",
+    "date_display": "1966/11/07",
+    "date_sort": "1966-11-07",
+    "accompanists": [
+      {
+        "name": "Kovacevich, Stephen",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Royal Festival Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/a2a3496e6778b3d90639fdb63b2c69dd"
+  },
+  {
+    "id": 61,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 2 in F major, Op. 99",
+    "date_display": "1966/11/07",
+    "date_sort": "1966-11-07",
+    "accompanists": [
+      {
+        "name": "Kovacevich, Stephen",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Royal Festival Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/a2a3496e6778b3d90639fdb63b2c69dd"
+  },
+  {
+    "id": 62,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+    "work": "Cello Concerto in E minor, Op. 85",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "The Christopher Nupen Films"
+    ],
+    "is_live": true,
+    "notes": "live; video material",
+    "reference": ""
+  },
+  {
+    "id": 73,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Trio No. 1 in B-flat major, D. 898",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Kentner, Louis",
+        "role": "piano"
+      },
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC One",
+    "reference": ""
+  },
+  {
+    "id": 74,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": "147",
+    "work": "Piano Trio No. 1 in D minor, Op. 49",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Kentner, Louis",
+        "role": "piano"
+      },
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC One",
+    "reference": ""
+  },
+  {
+    "id": 75,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Piano Trio No. 2 in C major, Op. 87",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Menuhin, Hephzibah",
+        "role": "piano"
+      },
+      {
+        "name": "Menuhin, Yehudi",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC One",
+    "reference": ""
+  },
+  {
+    "id": 63,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "composer": "Elgar, Edward",
     "composer_id": 71.0,
     "work": "Cello Concerto in E minor, Op. 85",
@@ -1652,9 +1972,17 @@
     "reference": null
   },
   {
+<<<<<<< HEAD
     "id": 74,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
+    "work": "Clarinet Trio in A minor, Op. 114",
+    "date_display": "1968",
+    "date_sort": "1968-01-01",
+=======
+    "id": 78,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
     "work": "Clarinet Trio in A minor, Op. 114",
     "date_display": "1968",
     "date_sort": "1968-01-01",
@@ -1668,6 +1996,865 @@
         "role": "clarinet"
       }
     ],
+    "orchestra": "",
+    "location": "Abbey Road Studios, London",
+    "labels": [
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 79,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 2 in F major, Op. 99",
+    "date_display": "1968",
+    "date_sort": "1968-01-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "RAI",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": false,
+    "notes": "TV",
+    "reference": "Brahms Cello Sonata No. 2 Op. 99 Du Pre Barenboim"
+  },
+  {
+    "id": 80,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Cello Concerto in A minor, Op. 129",
+    "date_display": "1968/02/16-17",
+    "date_sort": "1968-02-16",
+    "accompanists": [
+      {
+        "name": "Maazel, Lorin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Bach Ste 4 Schumann Vc Cto du Pre Philadelphia Maazel Feb 1968 Live"
+  },
+  {
+    "id": 81,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 1 in E minor, Op. 38",
+    "date_display": "1968/04",
+    "date_sort": "1968-04-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 82,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 2 in F major, Op. 99",
+    "date_display": "1968/04",
+    "date_sort": "1968-04-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 83,
+    "composer": "Strauss, Richard",
+    "composer_id": "228",
+    "work": "Don Juan, Op. 20",
+    "date_display": "1968/04/06-07&09",
+    "date_sort": "1968-04-06",
+    "accompanists": [
+      {
+        "name": "Boult, Adrian",
+        "role": "conductor"
+      },
+      {
+        "name": "Bradley, Desmond",
+        "role": "violin"
+      },
+      {
+        "name": "Downes, Herbert",
+        "role": "viola"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 84,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Cello Concerto in A minor, Op. 129",
+    "date_display": "1968/04/8-9,5/11",
+    "date_sort": "1968-04-08",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 85,
+    "composer": "Goehr, Alexander",
+    "composer_id": "302",
+    "work": "Romanza for Cello and Orchestra, Op. 24",
+    "date_display": "1968/04/28",
+    "date_sort": "1968-04-28",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Brighton",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Brighton Festival\nworld premiere performance",
+    "reference": "Alexander Goehr: Romanza for Cello and Orchestra, Op. 24 (1968)"
+  },
+  {
+    "id": 86,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 1 in E minor, Op. 38",
+    "date_display": "1968/05/20&08/18",
+    "date_sort": "1968-05-20",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 87,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Cello Sonata No. 2 in F major, Op. 99",
+    "date_display": "1968/05/20&08/18",
+    "date_sort": "1968-05-20",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 88,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Kol Nidrei, Op. 47",
+    "date_display": "1968/06",
+    "date_sort": "1968-06-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Israel Philharmonic Orchestra",
+    "location": "London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 89,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Cello Concerto in A minor, Op. 129",
+    "date_display": "1968/06/04",
+    "date_sort": "1968-06-04",
+    "accompanists": [
+      {
+        "name": "Mehta, Zubin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Israel Philharmonic Orchestra",
+    "location": "Royal Festival Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live; BBC Radio 3",
+    "reference": "https://www.valueyourmusic.com/items/186427422932-jacqueline-du-pre-zubin-mehta-1968-concert-programme-israel-philharmonic"
+  },
+  {
+    "id": 90,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Cello Concerto No. 1 in A minor, Op. 33",
+    "date_display": "1968/07/18",
+    "date_sort": "1968-07-18",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Los Angeles Philharmonic",
+    "location": "Hollywood Bowl, Los Angeles",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 91,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Cello Concerto in B minor, Op104",
+    "date_display": "1968/08/04",
+    "date_sort": "1968-08-04",
+    "accompanists": [
+      {
+        "name": "Mehta, Zubin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Berlin Philharmonic Orchestra",
+    "location": "Grosses Festspielhaus, Salzburg",
+    "labels": [
+      "Lanne Historical Collection",
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live at Salzburg Festival",
+    "reference": ""
+  },
+  {
+    "id": 92,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Cello Concerto in B minor, Op104",
+    "date_display": "1968/09/02",
+    "date_sort": "1968-09-02",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Jacqueline du Pré - Dvořák Cello Concerto – London Symphony Orchestra cond. Daniel Barenboim"
+  },
+  {
+    "id": 93,
+    "composer": "Monn, Matthias Georg",
+    "composer_id": "303",
+    "work": "Cello Concerto in G minor",
+    "date_display": "1968/09/20",
+    "date_sort": "1968-09-20",
+    "accompanists": [
+      {
+        "name": "Barbirolli, John",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "London Symphony Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 94,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Cello Concerto No. 1 in A minor, Op. 33",
+    "date_display": "1968/09/24",
+    "date_sort": "1968-09-24",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 95,
+    "composer": "Goehr, Alexander",
+    "composer_id": "302",
+    "work": "Romanza for Cello and Orchestra, Op. 24",
+    "date_display": "1968/10/22",
+    "date_sort": "1968-10-22",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Royal Festival Hall, London",
+    "labels": [
+      "intaglio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 96,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Cello Concerto in A minor, Op. 129",
+    "date_display": "1969/01/24",
+    "date_sort": "1969-01-24",
+    "accompanists": [
+      {
+        "name": "Turnovsky, Martin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "NDR Symphony Orchestra",
+    "location": "Großer Sendesaal des NDR",
+    "labels": [
+      "Madrigal",
+      "meloclassic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 97,
+    "composer": "Fauré, Gabriel",
+    "composer_id": "76",
+    "work": "Elégie in C minor, Op. 24",
+    "date_display": "1969/04/01",
+    "date_sort": "1969-04-01",
+    "accompanists": [
+      {
+        "name": "Moore, Gerald",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 98,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Cello Concerto in B minor, Op104",
+    "date_display": "1969/07/25",
+    "date_sort": "1969-07-25",
+    "accompanists": [
+      {
+        "name": "Groves, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Royal Liverpool Philharmonic Orchestra",
+    "location": "Royal Albert Hall, London",
+    "labels": [
+      "BBC Legends"
+    ],
+    "is_live": true,
+    "notes": "live at BBC Proms",
+    "reference": ""
+  },
+  {
+    "id": 99,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, Op. 1 No. 1",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 100,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in G major, Op. 1 No. 2",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 101,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in C minor, Op. 1 No. 3",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 102,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 103,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, Op. 70 No. 2",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 104,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 105,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, WoO 38",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 106,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Variations in G major 'Ich bin der Schneider Kakadu', Op. 121a",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 107,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major(Allegretto), WoO 39",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 108,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major(Allegretto), Hess 48",
+    "date_display": "1969/07/29-30,1970/1/3",
+    "date_sort": "1969-07-29",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 109,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Quintet in A major 'Trout', D. 667",
+    "date_display": "1969/08",
+    "date_sort": "1969-08-01",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Perlman, Itzhak",
+        "role": "violin"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "viola"
+      },
+      {
+        "name": "Mehta, Zubin",
+        "role": "contrabass"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "The Christopher Nupen Films"
+    ],
+    "is_live": true,
+    "notes": "live; video material",
+    "reference": ""
+  },
+  {
+    "id": 110,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+    "work": "Cello Concerto in E minor, Op. 85",
+    "date_display": "1969/08/03",
+    "date_sort": "1969-08-03",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "Koussevitzky Music Shed, Tanglewood",
+    "labels": [
+      "Classical Recordings Archive of America",
+      "BSO Live"
+    ],
+    "is_live": true,
+    "notes": "live at Tanglewood Festival ",
+    "reference": ""
+  },
+  {
+    "id": 111,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+    "work": "Cello Concerto in E minor, Op. 85",
+    "date_display": "1969/09/11",
+    "date_sort": "1969-09-11",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Danish National Symphony Orchestra",
+    "location": "Copenhagen",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 112,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Variations from Magic Flute in E-flat major, WoO 46",
+    "date_display": "1969/09/26",
+    "date_sort": "1969-09-26",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Berlin",
+    "labels": [
+      "Lanne Historical Collection"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 113,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major, Op. 11",
+    "date_display": "1970/01/30",
+    "date_sort": "1970-01-30",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "De Peyer, Gervase",
+        "role": "clarinet"
+      }
+    ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": "Abbey Road Studios, London",
     "labels": [
@@ -1789,6 +2976,9 @@
       }
     ],
     "orchestra": "New Philharmonia Orchestra",
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -1796,6 +2986,7 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
@@ -2686,18 +3877,73 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null
+=======
+    "reference": ""
+  },
+  {
+    "id": 114,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Cello Concerto in B minor, Op104",
+    "date_display": "1970/03/05",
+    "date_sort": "1970-03-05",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "The Philadelphia Inquirer"
+  },
+  {
+    "id": 115,
+    "composer": "Haydn, Joseph",
+    "composer_id": "110",
+    "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
+    "date_display": "1970/03/05",
+    "date_sort": "1970-03-05",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Academy of Music, Philadelphia",
+    "labels": [
+      "Classical Recordings Archive of America"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "The Philadelphia Inquirer"
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 116,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
     "work": "Cello Sonata No. 2 in G major, Op. 5 No. 2",
     "date_display": "1970/08/25-26",
     "date_sort": "1970-08-25",
+=======
+    "composer_id": "16",
+    "work": "Piano Trio in C minor, Op. 1 No. 3",
+    "date_display": "1970/05/06-17",
+    "date_sort": "1970-05-06",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "accompanists": [
       {
         "name": "Barenboim, Daniel",
         "role": "piano"
+<<<<<<< HEAD
       }
     ],
     "orchestra": null,
@@ -2709,18 +3955,43 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null
+=======
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "Arkadia",
+      "Aulide Classiques"
+    ],
+    "is_live": true,
+    "notes": "live at Brighton Festival",
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 117,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
     "work": "Cello Sonata No. 3 in A major, Op. 69",
     "date_display": "1970/08/25-26",
     "date_sort": "1970-08-25",
+=======
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, Op. 70 No. 2",
+    "date_display": "1970/05/06-17",
+    "date_sort": "1970-05-06",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "accompanists": [
       {
         "name": "Barenboim, Daniel",
         "role": "piano"
+<<<<<<< HEAD
       }
     ],
     "orchestra": null,
@@ -2732,18 +4003,43 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null
+=======
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "Arkadia",
+      "Aulide Classiques"
+    ],
+    "is_live": true,
+    "notes": "live at Brighton Festival",
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 118,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
     "work": "Cello Sonata No. 4 in C major, Op. 102 No. 1",
     "date_display": "1970/08/25-26",
     "date_sort": "1970-08-25",
+=======
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
+    "date_display": "1970/05/06-17",
+    "date_sort": "1970-05-06",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "accompanists": [
       {
         "name": "Barenboim, Daniel",
         "role": "piano"
+<<<<<<< HEAD
       }
     ],
     "orchestra": null,
@@ -2755,13 +4051,89 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null
+=======
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "Arkadia",
+      "Aulide Classiques"
+    ],
+    "is_live": true,
+    "notes": "live at Brighton Festival",
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 119,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
     "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
     "date_display": "1970/08/25-26",
+=======
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major, Op. 11",
+    "date_display": "1970/05/06-17",
+    "date_sort": "1970-05-06",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "De Peyer, Gervase",
+        "role": "clarinet"
+      }
+    ],
+    "orchestra": "",
+    "location": "London",
+    "labels": [
+      "Arkadia",
+      "Aulide Classiques"
+    ],
+    "is_live": true,
+    "notes": "live at Brighton Festival",
+    "reference": ""
+  },
+  {
+    "id": 120,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
+    "date_display": "1970/05/12",
+    "date_sort": "1970-05-12",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "",
+    "location": "St John 's Smith Square, London",
+    "labels": [
+      "The Christopher Nupen Films"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "https://classical-iconoclast.blogspot.com/2012/10/jacqueline-du-pre-remebered.html"
+  },
+  {
+    "id": 121,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 1 in F major, Op. 5 No. 1",
+    "date_display": "1970/08/25",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "date_sort": "1970-08-25",
     "accompanists": [
       {
@@ -2769,7 +4141,11 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -2777,6 +4153,7 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
+<<<<<<< HEAD
     "reference": null
   },
   {
@@ -2824,13 +4201,22 @@
     "is_live": false,
     "notes": null,
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 122,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
     "work": "Variations from Magic Flute in F major, Op. 66",
     "date_display": "1970/08/25-26",
+=======
+    "composer_id": "16",
+    "work": "Cello Sonata No. 3 in A major, Op. 69",
+    "date_display": "1970/08/25",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "date_sort": "1970-08-25",
     "accompanists": [
       {
@@ -2838,12 +4224,17 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
       "Warner"
     ],
+<<<<<<< HEAD
     "is_live": false,
     "notes": null,
     "reference": null
@@ -2852,6 +4243,154 @@
     "id": 123,
     "composer": "Dvořák, Antonín",
     "composer_id": 69.0,
+=======
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 123,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 4 in C major, Op. 102 No. 1",
+    "date_display": "1970/08/25",
+    "date_sort": "1970-08-25",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 124,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Variations from  Handel's Judas Maccabaeus in G major, WoO 45",
+    "date_display": "1970/08/25",
+    "date_sort": "1970-08-25",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 125,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 2 in G major, Op. 5 No. 2",
+    "date_display": "1970/08/26",
+    "date_sort": "1970-08-26",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 126,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
+    "date_display": "1970/08/26",
+    "date_sort": "1970-08-26",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 127,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Variations from Magic Flute in E-flat major, WoO 46",
+    "date_display": "1970/08/26",
+    "date_sort": "1970-08-26",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 128,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Variations from Magic Flute in F major, Op. 66",
+    "date_display": "1970/08/26",
+    "date_sort": "1970-08-26",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "EMI",
+      "Warner"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": ""
+  },
+  {
+    "id": 129,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1970/09/19",
     "date_sort": "1970-09-19",
@@ -2868,12 +4407,21 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 124,
     "composer": "Saint-Saëns, Camille",
     "composer_id": 197.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 130,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1970/09/27",
     "date_sort": "1970-09-27",
@@ -2891,12 +4439,21 @@
     ],
     "is_live": true,
     "notes": "live at Saratoga Springs",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 125,
     "composer": "Dvořák, Antonín",
     "composer_id": 69.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 131,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Silent Woods from the Bohemian forest, Op. 68",
     "date_display": "1970/11/11",
     "date_sort": "1970-11-11",
@@ -2914,12 +4471,21 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 126,
     "composer": "Dvořák, Antonín",
     "composer_id": 69.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 132,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1970/11/11",
     "date_sort": "1970-11-11",
@@ -2937,12 +4503,21 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 127,
     "composer": "Elgar, Edward",
     "composer_id": 71.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 133,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1970/11/13",
     "date_sort": "1970-11-13",
@@ -2953,7 +4528,11 @@
       }
     ],
     "orchestra": "Cincinnati Symphony Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "unissued"
     ],
@@ -2962,9 +4541,15 @@
     "reference": "Lecture | Documenting the collective memories of the lost heritage of the Basua of Bundibugyo"
   },
   {
+<<<<<<< HEAD
     "id": 128,
     "composer": "Elgar, Edward",
     "composer_id": 71.0,
+=======
+    "id": 134,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1970/11/27-28",
     "date_sort": "1970-11-27",
@@ -2981,12 +4566,21 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 129,
     "composer": "Saint-Saëns, Camille",
     "composer_id": 197.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 135,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1971/01/23",
     "date_sort": "1971-01-23",
@@ -3005,12 +4599,21 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 130,
     "composer": "Chopin, Frédéric François",
     "composer_id": 48.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 136,
+    "composer": "Chopin, Frédéric François",
+    "composer_id": "48",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Sonata in G minor, Op. 65",
     "date_display": "1971/12/10-11",
     "date_sort": "1971-12-10",
@@ -3020,7 +4623,11 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -3028,12 +4635,21 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 131,
     "composer": "Franck, César",
     "composer_id": 84.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 137,
+    "composer": "Franck, César",
+    "composer_id": "84",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Sonata in A major(Arr. by Delsart)",
     "date_display": "1971/12/10-11",
     "date_sort": "1971-12-10",
@@ -3043,7 +4659,11 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -3051,12 +4671,21 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 132,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": 238.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 138,
+    "composer": "Tchaikovsky, Pyotr Ilyich",
+    "composer_id": "238",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio in A minor, Op. 50",
     "date_display": "1972/07",
     "date_sort": "1972-07-01",
@@ -3070,7 +4699,11 @@
         "role": "violin"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Mann Auditorium, Tel Aviv",
     "labels": [
       "EMI",
@@ -3078,12 +4711,21 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 133,
     "composer": "Lalo, Édouard",
     "composer_id": 130.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 139,
+    "composer": "Lalo, Édouard",
+    "composer_id": "130",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in D minor",
     "date_display": "1973/01/04&06",
     "date_sort": "1973-01-04",
@@ -3101,12 +4743,21 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
   },
   {
     "id": 134,
     "composer": "Elgar, Edward",
     "composer_id": 71.0,
+=======
+    "reference": ""
+  },
+  {
+    "id": 140,
+    "composer": "Elgar, Edward",
+    "composer_id": "71",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1973/02/08",
     "date_sort": "1973-02-08",
@@ -3123,6 +4774,10 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   }
 ]

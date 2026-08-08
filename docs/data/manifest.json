@@ -9,29 +9,49 @@
   {
     "slug": "szeryng",
     "name": "Henryk Szeryng",
+<<<<<<< HEAD
     "count": 743,
     "skipped": 1158,
+=======
+    "count": 742,
+    "skipped": 3,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "year_range": "1941–1988"
   },
   {
     "slug": "menuhin",
     "name": "Yehudi Menuhin",
+<<<<<<< HEAD
     "count": 494,
     "skipped": 1653,
+=======
+    "count": 505,
+    "skipped": 6,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "year_range": "1931–1989"
   },
   {
     "slug": "grumiaux",
     "name": "Arthur Grumiaux",
+<<<<<<< HEAD
     "count": 83,
     "skipped": 2066,
+=======
+    "count": 84,
+    "skipped": 2,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "year_range": "1945–1980"
   },
   {
     "slug": "oistrakh",
     "name": "David Oistrakh",
+<<<<<<< HEAD
     "count": 699,
     "skipped": 2021,
+=======
+    "count": 757,
+    "skipped": 1,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "year_range": "1934–1974"
   },
   {
@@ -45,7 +65,11 @@
     "slug": "rabin",
     "name": "Michael Rabin",
     "count": 214,
+<<<<<<< HEAD
     "skipped": 995,
+=======
+    "skipped": 1,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "year_range": "1947–1971"
   },
   {

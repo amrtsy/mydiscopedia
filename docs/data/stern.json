@@ -44,6 +44,28 @@
     "reference": null
   },
   {
+    "id": 2,
+    "composer": "Lalo, Édouard",
+    "composer_id": "130",
+    "work": "Symphonie espagnole, Op.21",
+    "date_display": "1945",
+    "date_sort": "1945-01-01",
+    "accompanists": [
+      {
+        "name": "Stokowski, Leopold",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Hollywood Bowl Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 3,
     "composer": "Mendelssohn, Felix",
     "composer_id": 147.0,
@@ -88,6 +110,28 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 4,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
+    "date_display": "1945/04/26,30",
+    "date_sort": "1945-04-26",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 5,
@@ -332,6 +376,28 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 15,
+    "composer": "Sarasate, Pablo de",
+    "composer_id": "199",
+    "work": "Zigeunerweisen, Op. 20 No. 1",
+    "date_display": "1946/08/14,16",
+    "date_sort": "1946-08-14",
+    "accompanists": [
+      {
+        "name": "Waxman, Franz",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "Liederkranz Hall, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 16,
@@ -800,6 +866,28 @@
     "reference": null
   },
   {
+    "id": 36,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Violin Sonata No. 1, Sz. 75",
+    "date_display": "1949/05/02-03",
+    "date_sort": "1949-05-02",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 37,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": 156.0,
@@ -937,7 +1025,11 @@
   {
     "id": 43,
     "composer": "Bach, Johann Sebastian",
+<<<<<<< HEAD
     "composer_id": 10.0,
+=======
+    "composer_id": "10",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Trio Sonata in G major, BWV 1038",
     "date_display": "1950/06",
     "date_sort": "1950-06-01",
@@ -951,19 +1043,31 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Église Saint-Pierre, Prades",
     "labels": [
       "Sony Classical"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 44,
     "composer": "Bach, Johann Sebastian",
+<<<<<<< HEAD
     "composer_id": 10.0,
+=======
+    "composer_id": "10",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Concerto for Two Violins in D minor, BWV 1043",
     "date_display": "1950/06",
     "date_sort": "1950-06-01",
@@ -984,7 +1088,11 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 45,
@@ -1214,6 +1322,32 @@
     "reference": null
   },
   {
+    "id": 54,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Sinfonia Concertante in E-flat major, K. 364",
+    "date_display": "1951/07/05,07-08",
+    "date_sort": "1951-07-05",
+    "accompanists": [
+      {
+        "name": "Casals, Pablo",
+        "role": "conductor"
+      },
+      {
+        "name": "Primrose, William",
+        "role": "viola"
+      }
+    ],
+    "orchestra": "Perpignan Festival Orchestra",
+    "location": "Perpignan",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
     "id": 55,
     "composer": "Mendelssohn, Felix",
     "composer_id": 147.0,
@@ -1238,7 +1372,11 @@
   {
     "id": 56,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1951/11/05-06,09",
     "date_sort": "1951-11-05",
@@ -1255,7 +1393,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 57,
@@ -1554,6 +1696,216 @@
     "is_live": true,
     "notes": "live",
     "reference": null
+  },
+  {
+    "id": 61,
+    "composer": "Schubert, François",
+    "composer_id": "209",
+    "work": "The Bee, Op. 13 No. 9",
+    "date_display": "1952/03/07,08/08",
+    "date_sort": "1952-03-07",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 62,
+    "composer": "Dvořák, Antonín",
+    "composer_id": "69",
+    "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 46 No. 2",
+    "date_display": "1952/03/07,08/08,08/12",
+    "date_sort": "1952-03-07",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 63,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "String Quintet No. 2 in G major, Op. 111",
+    "date_display": "1952/06",
+    "date_sort": "1952-06-01",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "violin"
+      },
+      {
+        "name": "Katims, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Thomas, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Tortelier, Paul",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Église Saint-Pierre, Prades",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 64,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Piano Quintet in E-flat major, Op. 44",
+    "date_display": "1952/06",
+    "date_sort": "1952-06-01",
+    "accompanists": [
+      {
+        "name": "Hess, Myra",
+        "role": "piano"
+      },
+      {
+        "name": "Schneider, Alexander",
+        "role": "viola"
+      },
+      {
+        "name": "Thomas, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Tortelier, Paul",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Église Saint-Pierre, Prades",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 65,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Sextet No. 1 in B-flat major, Op. 18",
+    "date_display": "1952/06/23,07/02-03",
+    "date_sort": "1952-06-23",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "violin"
+      },
+      {
+        "name": "Katims, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Thomas, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Foley, Madeline",
+        "role": "cello"
+      },
+      {
+        "name": "Casals, Pablo",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Église Saint-Pierre, Prades",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 66,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Piano Trio No. 1 in B major, Op. 8",
+    "date_display": "1952/06/30-07/01",
+    "date_sort": "1952-06-30",
+    "accompanists": [
+      {
+        "name": "Hess, Myra",
+        "role": "piano"
+      },
+      {
+        "name": "Casals, Pablo",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Église Saint-Pierre, Prades",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
+  },
+  {
+    "id": 67,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "String Quintet in C major, D. 956",
+    "date_display": "1952/07/01-02",
+    "date_sort": "1952-07-01",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "violin"
+      },
+      {
+        "name": "Katims, Milton",
+        "role": "viola"
+      },
+      {
+        "name": "Tortelier, Paul",
+        "role": "cello"
+      },
+      {
+        "name": "Casals, Pablo",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Église Saint-Pierre, Prades",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
   },
   {
     "id": 68,
@@ -2123,6 +2475,50 @@
     "reference": null
   },
   {
+    "id": 92,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": "179",
+    "work": "Violin Sonata No. 2 in D major, Op. 94bis",
+    "date_display": "1953/05/25-26",
+    "date_sort": "1953-05-25",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 93,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": "179",
+    "work": "Violin Sonata No. 1 in F minor, Op. 80",
+    "date_display": "1953/05/27-28",
+    "date_sort": "1953-05-27",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 94,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
@@ -2275,6 +2671,138 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 95,
+    "composer": "Dietrich, Albert",
+    "composer_id": "61",
+    "work": "Allegro from F.A.E. Sonata",
+    "date_display": "1953/08/04-05",
+    "date_sort": "1953-08-04",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 96,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Intermezzo from F.A.E. Sonata",
+    "date_display": "1953/08/04-05",
+    "date_sort": "1953-08-04",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 97,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Scherzo from F.A.E. Sonata",
+    "date_display": "1953/08/04-05",
+    "date_sort": "1953-08-04",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 98,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Finale from F.A.E. Sonata",
+    "date_display": "1953/08/04-05",
+    "date_sort": "1953-08-04",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 99,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Sonata in E minor, BWV 1023",
+    "date_display": "1953/08/05-06",
+    "date_sort": "1953-08-05",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 100,
+    "composer": "Handel, George Frideric",
+    "composer_id": "108",
+    "work": "Violin Sonata in D major, HWV 371",
+    "date_display": "1953/08/05-06",
+    "date_sort": "1953-08-05",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 101,
@@ -2655,6 +3183,28 @@
     ],
     "orchestra": "Orchestre du Théâtre de la Fenice",
     "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Festival Semaine Musicale à Venise",
+    "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89031755/festival-semaine-musicale-a-venise?rang=3"
+  },
+  {
+    "id": 117,
+    "composer": "Bernstein, Leonard",
+    "composer_id": "24",
+    "work": "Serenade after Plato's 'Symposium'",
+    "date_display": "1954/09",
+    "date_sort": "1954-09-01",
+    "accompanists": [
+      {
+        "name": "Bernstein, Leonard",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre du Théâtre de la Fenice",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -4040,7 +4590,11 @@
   {
     "id": 180,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Quartet in E-flat major, K. 493",
     "date_display": "1957/04/22,05/08",
     "date_sort": "1957-04-22",
@@ -4058,14 +4612,22 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "University of Puerto Rico, San Juan",
     "labels": [
       "Sony Classical"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 181,
@@ -4137,6 +4699,28 @@
     "id": 184,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1957/12/19-21",
+    "date_sort": "1957-12-19",
+    "accompanists": [
+      {
+        "name": "Shaw, Robert",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cleveland Orchestra",
+    "location": "Severance Hall, Cleveland",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Isaac Stern plays Brahms Violin Concerto in D (Cleveland, 1957)"
+  },
+  {
+    "id": 184,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1957/12/19-21",
     "date_sort": "1957-12-19",
@@ -4242,6 +4826,28 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 188,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": "147",
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1958/03/23-24",
+    "date_sort": "1958-03-23",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Broadwood Hotel, Philadelphia",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 189,
@@ -4682,6 +5288,28 @@
     "reference": null
   },
   {
+    "id": 207,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1959/11/01-02",
+    "date_sort": "1959-11-01",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Broadwood Hotel, Philadelphia",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 208,
     "composer": "Bach, Johann Sebastian",
     "composer_id": 10.0,
@@ -4906,6 +5534,50 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 216,
+    "composer": "Bloch, Ernest",
+    "composer_id": "27",
+    "work": "Violin Sonata No. 1",
+    "date_display": "1959/12/22-23,28",
+    "date_sort": "1959-12-22",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 217,
+    "composer": "Franck, César",
+    "composer_id": "84",
+    "work": "Violin Sonata in A major",
+    "date_display": "1959/12/22-23,28",
+    "date_sort": "1959-12-22",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 218,
@@ -5421,6 +6093,28 @@
     "reference": null
   },
   {
+    "id": 240,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Sonata No. 1 in G major, Op. 78",
+    "date_display": "1960/12/23,1961/1/3",
+    "date_sort": "1960-12-23",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 241,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
@@ -5575,6 +6269,50 @@
     "reference": null
   },
   {
+    "id": 246,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1961/01/21-22",
+    "date_sort": "1961-01-21",
+    "accompanists": [
+      {
+        "name": "Szell, George",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cleveland Orchestra",
+    "location": "Severance Hall, Cleveland",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 247,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 1 in B-flat major, K. 207",
+    "date_display": "1961/01/22-23",
+    "date_sort": "1961-01-22",
+    "accompanists": [
+      {
+        "name": "Szell, George",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Columbia Symphony Orchestra",
+    "location": "Severance Hall, Cleveland",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 248,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
@@ -5671,7 +6409,11 @@
   {
     "id": 252,
     "composer": "Stravinsky, Igor",
+<<<<<<< HEAD
     "composer_id": 229.0,
+=======
+    "composer_id": "229",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto in D major",
     "date_display": "1961/06/29-30",
     "date_sort": "1961-06-29",
@@ -5688,7 +6430,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 253,
@@ -6448,6 +7194,58 @@
     "reference": null
   },
   {
+    "id": 283,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Triple Concerto in C major, Op. 56",
+    "date_display": "1964/04/16,12/31",
+    "date_sort": "1964-04-16",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      },
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "Town Hall, Philadelphia",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 284,
+    "composer": "Hindemith, Paul",
+    "composer_id": "111",
+    "work": "Violin Concerto",
+    "date_display": "1964/04/25-27",
+    "date_sort": "1964-04-25",
+    "accompanists": [
+      {
+        "name": "Bernstein, Leonard",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Manhattan Center, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 285,
     "composer": "Barbar, Samuel",
     "composer_id": 13.0,
@@ -6494,6 +7292,32 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 286,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Trio No. 1 in B-flat major, D. 898",
+    "date_display": "1964/08/15-17",
+    "date_sort": "1964-08-15",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 287,
@@ -6579,6 +7403,50 @@
       }
     ],
     "orchestra": null,
+    "location": "Paris",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Isaac Stern plays Kreisler Schön Rosmarin (1965)"
+  },
+  {
+    "id": 289,
+    "composer": "Geminiami, Francesco",
+    "composer_id": "88",
+    "work": "Violin Sonata in D minor, Op. 1 No. 12",
+    "date_display": "1965",
+    "date_sort": "1965-01-01",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Paris",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Geminiani - Sonata for violin and Basso Continuo in D minor, op.1 no.12 - Stern"
+  },
+  {
+    "id": 290,
+    "composer": "Kreisler, Fritz",
+    "composer_id": "128",
+    "work": "Schön Rosmarin",
+    "date_display": "1965",
+    "date_sort": "1965-01-01",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
     "location": "Paris",
     "labels": [
       "unissued"
@@ -7240,7 +8108,11 @@
   {
     "id": 317,
     "composer": "Bach, Johann Sebastian",
+<<<<<<< HEAD
     "composer_id": 10.0,
+=======
+    "composer_id": "10",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
     "date_display": "1966/06/24-25",
     "date_sort": "1966-06-24",
@@ -7257,12 +8129,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 318,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Sinfonia Concertante in E-flat major, K. 364",
     "date_display": "1966/06/24-25",
     "date_sort": "1966-06-24",
@@ -7283,7 +8163,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 319,
@@ -7332,7 +8216,11 @@
   {
     "id": 321,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio No. 1 in B major, Op. 8",
     "date_display": "1966/09/26-27",
     "date_sort": "1966-09-26",
@@ -7346,19 +8234,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 322,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio No. 3 in C minor, Op. 101",
     "date_display": "1966/09/27-28",
     "date_sort": "1966-09-27",
@@ -7372,19 +8272,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 323,
     "composer": "Mendelssohn, Felix",
+<<<<<<< HEAD
     "composer_id": 147.0,
+=======
+    "composer_id": "147",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio No. 1 in D minor, Op. 49",
     "date_display": "1966/11/02-03",
     "date_sort": "1966-11-02",
@@ -7398,14 +8310,22 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 324,
@@ -7458,6 +8378,32 @@
     "is_live": true,
     "notes": "live",
     "reference": null
+  },
+  {
+    "id": 325,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Trio No. 1 in B-flat major, D. 898",
+    "date_display": "1967",
+    "date_sort": "1967-01-01",
+    "accompanists": [
+      {
+        "name": "Rubinstein, Artur",
+        "role": "piano"
+      },
+      {
+        "name": "Tortelier, Paul",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Doremi"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": ""
   },
   {
     "id": 326,
@@ -7726,7 +8672,11 @@
   {
     "id": 338,
     "composer": "Copland, Aaron",
+<<<<<<< HEAD
     "composer_id": 50.0,
+=======
+    "composer_id": "50",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata",
     "date_display": "1968/01/16-17",
     "date_sort": "1968-01-16",
@@ -7736,14 +8686,22 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 339,
@@ -7818,6 +8776,54 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 340,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in G major, Op. 1 No. 2",
+    "date_display": "1968/06/11,1969/07/11,12/18-19",
+    "date_sort": "1968-06-11",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 341,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Clarinet Sonata No. 2 in E-flat major(arr. for Violin), Op. 120-2",
+    "date_display": "1968/06/12,1969/02/03",
+    "date_sort": "1968-06-12",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 342,
@@ -8081,6 +9087,84 @@
       }
     ],
     "orchestra": null,
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": "https://genome.ch.bbc.co.uk/d002b66452f17b8b3d04fa3c339619ad"
+  },
+  {
+    "id": 350,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in C minor, Op. 1 No. 3",
+    "date_display": "1969",
+    "date_sort": "1969-01-01",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": "https://genome.ch.bbc.co.uk/d002b66452f17b8b3d04fa3c339619ad"
+  },
+  {
+    "id": 351,
+    "composer": "Haydn, Joseph",
+    "composer_id": "110",
+    "work": "Piano Trio No. 10 in in E-flat major, Hob. XV: 10",
+    "date_display": "1969",
+    "date_sort": "1969-01-01",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Usher Hall, Edinburgh",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live at Edinburgh Festival",
+    "reference": "https://genome.ch.bbc.co.uk/d002b66452f17b8b3d04fa3c339619ad"
+  },
+  {
+    "id": 352,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Piano Trio No. 1 in B-flat major, D. 898",
+    "date_display": "1969",
+    "date_sort": "1969-01-01",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "unissued"
@@ -8414,6 +9498,50 @@
     "reference": null
   },
   {
+    "id": 365,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
+    "date_display": "1969/07/15-19",
+    "date_sort": "1969-07-15",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 366,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
+    "date_display": "1969/07/15-19",
+    "date_sort": "1969-07-15",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 367,
     "composer": "Brahms, Johannes",
     "composer_id": 34.0,
@@ -8427,7 +9555,11 @@
       }
     ],
     "orchestra": "Toronto Symphony Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "Massey Hall, Toronto",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Tahra"
     ],
@@ -8460,7 +9592,11 @@
   {
     "id": 369,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Flute Quartet in D major, K. 285",
     "date_display": "1969/12/22-23",
     "date_sort": "1969-12-22",
@@ -8478,19 +9614,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 370,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Flute Quartet in G major, K. 285a",
     "date_display": "1969/12/22-23",
     "date_sort": "1969-12-22",
@@ -8508,19 +9656,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 371,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Flute Quartet in C major, K. 285b",
     "date_display": "1969/12/22-23",
     "date_sort": "1969-12-22",
@@ -8538,19 +9698,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 372,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Flute Quartet in A major, K. 298",
     "date_display": "1969/12/22-23",
     "date_sort": "1969-12-22",
@@ -8568,13 +9740,18 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
   },
   {
@@ -8601,6 +9778,12 @@
   },
   {
     "id": 374,
+=======
+    "reference": ""
+  },
+  {
+    "id": 373,
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "composer": "Beethoven, Ludwig van",
     "composer_id": 16.0,
     "work": "Violin Concerto in D major, Op. 61",
@@ -8620,6 +9803,28 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHF06050283/concert-de-l-orchestre-national-de-l-ortf-direction-jean-martinon-cycle-ludwig-van-beethoven?rang=52"
+  },
+  {
+    "id": 374,
+    "composer": "Sibelius, Jean",
+    "composer_id": "220",
+    "work": "Violin Concerto in D minor, Op. 47",
+    "date_display": "1970/03/14",
+    "date_sort": "1970-03-14",
+    "accompanists": [
+      {
+        "name": "Rudolf, Max",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cincinnati Symphony Orchestra",
+    "location": "Music Hall, Cincinnati",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://youtu.be/NHhNAC-B5JA?si=vPvbiThC-ruzNqxs"
   },
   {
     "id": 375,
@@ -8700,7 +9905,11 @@
   {
     "id": 378,
     "composer": "Mendelssohn, Felix",
+<<<<<<< HEAD
     "composer_id": 147.0,
+=======
+    "composer_id": "147",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1970/04/15-18",
     "date_sort": "1970-04-15",
@@ -8818,6 +10027,58 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 381,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, Op. 1 No. 1",
+    "date_display": "1970/05/13,27",
+    "date_sort": "1970-05-13",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 382,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in E-flat major, Op. 70 No. 2",
+    "date_display": "1970/05/26-27",
+    "date_sort": "1970-05-26",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Columbia 30th Street Studios, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 383,
@@ -9130,6 +10391,186 @@
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
   },
   {
+    "id": 388,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
+    "date_display": "1970/10",
+    "date_sort": "1970-10-01",
+    "accompanists": [
+      {
+        "name": "Istomin, Eugene",
+        "role": "piano"
+      },
+      {
+        "name": "Rose, Leonard",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "",
+    "location": "Queen Elizabeth Hall, London",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://genome.ch.bbc.co.uk/c69684bf0085594bd32efa3c5da97631"
+  },
+  {
+    "id": 389,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1971/03/13-14",
+    "date_sort": "1971-03-13",
+    "accompanists": [
+      {
+        "name": "Schippers, Thomas",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Cincinnati Symphony Orchestra",
+    "location": "Music Hall, Cincinnati",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Bruch Violin Concerto No 1 (Isaac Stern/Thomas Schippers)"
+  },
+  {
+    "id": 390,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata in A major 'Duo', D. 574",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
+    "id": 391,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
+    "id": 392,
+    "composer": "Bartók, Béla",
+    "composer_id": "14",
+    "work": "Violin Sonata No. 2, Sz. 76",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
+    "id": 393,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": "179",
+    "work": "Violin Sonata No. 2 in D major, Op. 94bis",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
+    "id": 394,
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Intermezzo from F.A.E. Sonata",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
+    "id": 395,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Scherzo from F.A.E. Sonata",
+    "date_display": "1971/4/29-30",
+    "date_sort": "1971-04-29",
+    "accompanists": [
+      {
+        "name": "Zakin, Alexander",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Coolidge Auditorium of the Library of Congress, Washington D.C.",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://researchworks.oclc.org/archivegrid/collection/data/37197455"
+  },
+  {
     "id": 396,
     "composer": "Webern, Anton",
     "composer_id": 259.0,
@@ -9302,7 +10743,11 @@
   {
     "id": 403,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Sinfonia Concertante in E-flat major, K. 364",
     "date_display": "1971/11/03-04",
     "date_sort": "1971-11-03",
@@ -9323,12 +10768,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 404,
     "composer": "Stamitz, Carl",
+<<<<<<< HEAD
     "composer_id": 308.0,
+=======
+    "composer_id": "308",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Sinfonia Concertante in D major",
     "date_display": "1971/11/03-04",
     "date_sort": "1971-11-03",
@@ -9349,7 +10802,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 405,
@@ -9376,7 +10833,11 @@
   {
     "id": 406,
     "composer": "Chopin, Frédéric François",
+<<<<<<< HEAD
     "composer_id": 48.0,
+=======
+    "composer_id": "48",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Nocturne in E-flat major, Op. 9 No. 2",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9393,12 +10854,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 407,
     "composer": "Mendelssohn, Felix",
+<<<<<<< HEAD
     "composer_id": 147.0,
+=======
+    "composer_id": "147",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9415,12 +10884,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 408,
     "composer": "Rubinstein, Anton",
+<<<<<<< HEAD
     "composer_id": 195.0,
+=======
+    "composer_id": "195",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Romance in E-flat major(Arr. by Harris), Op. 44 No. 1",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9437,12 +10914,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 409,
     "composer": "Wieniawski, Henryk",
+<<<<<<< HEAD
     "composer_id": 262.0,
+=======
+    "composer_id": "262",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Romance from Violin Concerto No. 2 in D minor, Op. 22",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9459,12 +10944,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 410,
     "composer": "Schubert, Franz",
+<<<<<<< HEAD
     "composer_id": 210.0,
+=======
+    "composer_id": "210",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Ständchen from Schwanengesang, D. 957",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9481,12 +10974,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 411,
     "composer": "Debussy, Claude",
+<<<<<<< HEAD
     "composer_id": 58.0,
+=======
+    "composer_id": "58",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9503,12 +11004,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 412,
     "composer": "Rachmaninov, Sergei",
+<<<<<<< HEAD
     "composer_id": 183.0,
+=======
+    "composer_id": "183",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Vocalise, Op. 34 No. 14",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9525,12 +11034,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 413,
     "composer": "Borodin, Alexander",
+<<<<<<< HEAD
     "composer_id": 33.0,
+=======
+    "composer_id": "33",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Notturno from String Quartet No. 2",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9547,12 +11064,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 414,
     "composer": "Satie, Erik",
+<<<<<<< HEAD
     "composer_id": 201.0,
+=======
+    "composer_id": "201",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Gymnopédie No. 3",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9569,12 +11094,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 415,
     "composer": "Tchaikovsky, Pyotr Ilyich",
+<<<<<<< HEAD
     "composer_id": 238.0,
+=======
+    "composer_id": "238",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Sérénade mélancolique in B-flat minor, Op. 26",
     "date_display": "1972/01/17-18",
     "date_sort": "1972-01-17",
@@ -9591,7 +11124,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 416,
@@ -9679,6 +11216,50 @@
     ],
     "orchestra": "Philadelphia Orchestra",
     "location": null,
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
+  },
+  {
+    "id": 418,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 1 in B-flat major, K. 207",
+    "date_display": "1972/09/28-10/03",
+    "date_sort": "1972-09-28",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
+  },
+  {
+    "id": 419,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": "179",
+    "work": "Violin Concerto No. 1 in D minor, Op. 19",
+    "date_display": "1972/09/28-10/03",
+    "date_sort": "1972-09-28",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -9997,7 +11578,11 @@
   {
     "id": 434,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Concertone in C major, K. 190",
     "date_display": "1973/10/23-24",
     "date_sort": "1973-10-23",
@@ -10018,12 +11603,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 435,
     "composer": "Pleyel, Ignaz",
+<<<<<<< HEAD
     "composer_id": 173.0,
+=======
+    "composer_id": "173",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Symphonie Concertante in B-flat major, B112",
     "date_display": "1973/10/23-24",
     "date_sort": "1973-10-23",
@@ -10044,7 +11637,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 436,
@@ -10134,6 +11731,28 @@
     "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
   },
   {
+    "id": 439,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1974/05/09-14",
+    "date_sort": "1974-05-09",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
+  },
+  {
     "id": 440,
     "composer": "Beethoven, Ludwig van",
     "composer_id": 16.0,
@@ -10180,7 +11799,11 @@
   {
     "id": 442,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
     "date_display": "1975",
     "date_sort": "1975-01-01",
@@ -10190,8 +11813,13 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "unissued"
     ],
@@ -10202,7 +11830,11 @@
   {
     "id": 443,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 1 in G major, Op. 78",
     "date_display": "1975",
     "date_sort": "1975-01-01",
@@ -10212,7 +11844,11 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Puerto Rico",
     "labels": [
       "unissued"
@@ -10312,7 +11948,11 @@
   {
     "id": 448,
     "composer": "Prokofiev, Sergei",
+<<<<<<< HEAD
     "composer_id": 179.0,
+=======
+    "composer_id": "179",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
     "date_display": "1975/09/25-27",
     "date_sort": "1975-09-25",
@@ -10323,7 +11963,11 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "unissued"
     ],
@@ -10334,7 +11978,11 @@
   {
     "id": 449,
     "composer": "Prokofiev, Sergei",
+<<<<<<< HEAD
     "composer_id": 179.0,
+=======
+    "composer_id": "179",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
     "date_display": "1975/10",
     "date_sort": "1975-10-01",
@@ -10345,13 +11993,21 @@
       }
     ],
     "orchestra": "Israel Philharmonic Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "helicon"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 450,
@@ -10408,7 +12064,11 @@
   {
     "id": 452,
     "composer": "Mozart, Wolfgang Amadeus",
+<<<<<<< HEAD
     "composer_id": 156.0,
+=======
+    "composer_id": "156",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto No. 3 in G major, K. 216",
     "date_display": "1976",
     "date_sort": "1976-01-01",
@@ -10425,7 +12085,11 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 453,
@@ -10646,6 +12310,182 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 455,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 2 in D major, K. 211",
+    "date_display": "1976/02/17-24",
+    "date_sort": "1976-02-17",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "English Chamber Orchestra",
+    "location": "CBS Studios, London",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 456,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 4 in D major, K. 218",
+    "date_display": "1976/02/17-24",
+    "date_sort": "1976-02-17",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "English Chamber Orchestra",
+    "location": "CBS Studios, London",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 457,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Serenade in D major 'Haffner': Rondeau allegro, K. 250",
+    "date_display": "1976/02/17-24",
+    "date_sort": "1976-02-17",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "English Chamber Orchestra",
+    "location": "CBS Studios, London",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 458,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Adagio in E major, K. 261",
+    "date_display": "1976/02/17-24",
+    "date_sort": "1976-02-17",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "English Chamber Orchestra",
+    "location": "CBS Studios, London",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 459,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Rondo in C major, K. 373",
+    "date_display": "1976/02/17-24",
+    "date_sort": "1976-02-17",
+    "accompanists": [
+      {
+        "name": "Schneider, Alexander",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "English Chamber Orchestra",
+    "location": "CBS Studios, London",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 460,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Violin Concerto No. 3 in B minor, Op. 61",
+    "date_display": "1976/03/05-06,08",
+    "date_sort": "1976-03-05",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de Paris",
+    "location": "Église Notre-Dame du Liban, Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 461,
+    "composer": "Chausson, Amédée-Ernest",
+    "composer_id": "46",
+    "work": "Poème, Op. 25",
+    "date_display": "1976/03/05-06,08",
+    "date_sort": "1976-03-05",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de Paris",
+    "location": "Église Notre-Dame du Liban, Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 462,
+    "composer": "Fauré, Gabriel",
+    "composer_id": "76",
+    "work": "Berceuse, Op. 16",
+    "date_display": "1976/03/05-06,08",
+    "date_sort": "1976-03-05",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre de Paris",
+    "location": "Église Notre-Dame du Liban, Paris",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 463,
@@ -11104,6 +12944,190 @@
     "reference": null
   },
   {
+    "id": 475,
+    "composer": "Chausson, Amédée-Ernest",
+    "composer_id": "46",
+    "work": "Poème, Op. 25",
+    "date_display": "1977/05/20-21",
+    "date_sort": "1977-05-20",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
+  },
+  {
+    "id": 476,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1977/05/20-21",
+    "date_sort": "1977-05-20",
+    "accompanists": [
+      {
+        "name": "Ormandy, Eugene",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Philadelphia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.1479.4"
+  },
+  {
+    "id": 477,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Concerto for 2 Violins in D minor, RV 514",
+    "date_display": "1977/06",
+    "date_sort": "1977-06-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "violin"
+      },
+      {
+        "name": "Rampal, Jean-Pierre",
+        "role": "flute"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 478,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Concerto for 2 Violins in C minor, RV 509",
+    "date_display": "1977/06",
+    "date_sort": "1977-06-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "violin"
+      },
+      {
+        "name": "Rampal, Jean-Pierre",
+        "role": "flute"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 479,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
+    "date_display": "1977/10",
+    "date_sort": "1977-10-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 480,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
+    "date_display": "1977/10",
+    "date_sort": "1977-10-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 481,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
+    "date_display": "1977/10",
+    "date_sort": "1977-10-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 482,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
+    "date_display": "1977/10",
+    "date_sort": "1977-10-01",
+    "accompanists": [
+      {
+        "name": "Stern, Isaac",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Jerusalem Music Center Chamber Orchestra",
+    "location": "Jerusalem Music Center, Jerusalem",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 483,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": 238.0,
@@ -11264,7 +13288,11 @@
   {
     "id": 490,
     "composer": "Rochberg, George",
+<<<<<<< HEAD
     "composer_id": 192.0,
+=======
+    "composer_id": "192",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto",
     "date_display": "1978/10/05-07",
     "date_sort": "1978-10-05",
@@ -11275,7 +13303,11 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "unissued"
     ],
@@ -11356,7 +13388,11 @@
   {
     "id": 494,
     "composer": "Mendelssohn, Felix",
+<<<<<<< HEAD
     "composer_id": 147.0,
+=======
+    "composer_id": "147",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio No. 2 in C minor, Op. 66",
     "date_display": "1979/07/19-20",
     "date_sort": "1979-07-19",
@@ -11370,19 +13406,31 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 495,
     "composer": "Mendelssohn, Felix",
+<<<<<<< HEAD
     "composer_id": 147.0,
+=======
+    "composer_id": "147",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1980/02",
     "date_sort": "1980-02-01",
@@ -11399,12 +13447,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 496,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Romance No. 1 in G major, Op. 40",
     "date_display": "1980/02",
     "date_sort": "1980-02-01",
@@ -11421,12 +13477,20 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 497,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Romance No. 2 in F major, Op. 50",
     "date_display": "1980/02",
     "date_sort": "1980-02-01",
@@ -11443,7 +13507,11 @@
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 498,
@@ -12010,7 +14078,11 @@
   {
     "id": 521,
     "composer": "Dvořák, Antonín",
+<<<<<<< HEAD
     "composer_id": 69.0,
+=======
+    "composer_id": "69",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Concerto in A minor, Op. 53",
     "date_display": "1981/10/23-24",
     "date_sort": "1981-10-23",
@@ -12021,7 +14093,11 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "unissued"
     ],
@@ -12218,6 +14294,84 @@
     "reference": null
   },
   {
+    "id": 527,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Two Violins in D minor, BWV 1043",
+    "date_display": "1982",
+    "date_sort": "1982-01-01",
+    "accompanists": [
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "conductor"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "St. Paul Chamber Orchestra",
+    "location": "",
+    "labels": [
+      "CBS"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 528,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
+    "date_display": "1982",
+    "date_sort": "1982-01-01",
+    "accompanists": [
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "conductor"
+      },
+      {
+        "name": "Killmer, Richard",
+        "role": "oboe"
+      }
+    ],
+    "orchestra": "St. Paul Chamber Orchestra",
+    "location": "",
+    "labels": [
+      "CBS"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 529,
+    "composer": "Vivaldi, Antonio",
+    "composer_id": "253",
+    "work": "Violin Concerto in A minor, Op. 3 No. 8 RV 522",
+    "date_display": "1982",
+    "date_sort": "1982-01-01",
+    "accompanists": [
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "conductor"
+      },
+      {
+        "name": "Zukerman, Pinchas",
+        "role": "violin"
+      }
+    ],
+    "orchestra": "St. Paul Chamber Orchestra",
+    "location": "",
+    "labels": [
+      "CBS"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 530,
     "composer": "Prokofiev, Sergei",
     "composer_id": 179.0,
@@ -12260,6 +14414,28 @@
     "is_live": false,
     "notes": null,
     "reference": null
+  },
+  {
+    "id": 531,
+    "composer": "Prokofiev, Sergei",
+    "composer_id": "179",
+    "work": "Violin Concerto No. 1 in D minor, Op. 19",
+    "date_display": "1982/01/11,19",
+    "date_sort": "1982-01-11",
+    "accompanists": [
+      {
+        "name": "Mehta, Zubin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
   },
   {
     "id": 532,
@@ -12416,7 +14592,11 @@
   {
     "id": 538,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 6 in A major, Op. 30 No. 1",
     "date_display": "1982/11",
     "date_sort": "1982-11-01",
@@ -12426,19 +14606,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 539,
     "composer": "Bach, Johann Sebastian",
+<<<<<<< HEAD
     "composer_id": 10.0,
+=======
+    "composer_id": "10",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Concerto for Two Violins in D minor, BWV 1043",
     "date_display": "1982/12/13-19",
     "date_sort": "1982-12-13",
@@ -12453,18 +14646,30 @@
       }
     ],
     "orchestra": "Israel Philharmonic Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "helicon"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 540,
     "composer": "Vivaldi, Antonio",
+<<<<<<< HEAD
     "composer_id": 253.0,
+=======
+    "composer_id": "253",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Concerto for 3 Violins in F major, RV 551",
     "date_display": "1982/12/13-19",
     "date_sort": "1982-12-13",
@@ -12483,18 +14688,30 @@
       }
     ],
     "orchestra": "Israel Philharmonic Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "helicon"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 541,
     "composer": "Vivaldi, Antonio",
+<<<<<<< HEAD
     "composer_id": 253.0,
+=======
+    "composer_id": "253",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Concerto for 4 Violins in B minor, RV 580",
     "date_display": "1982/12/13-19",
     "date_sort": "1982-12-13",
@@ -12517,18 +14734,30 @@
       }
     ],
     "orchestra": "Israel Philharmonic Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "helicon"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 545,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 2 in A major, Op. 12 No. 2",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12538,19 +14767,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 546,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12560,19 +14802,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 547,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 4 in A major, Op. 23",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12582,19 +14837,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 548,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12604,19 +14872,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 549,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12626,19 +14907,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 550,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12648,19 +14942,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 551,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 10 in G major, Op. 96",
     "date_display": "1983/02,12",
     "date_sort": "1983-02-01",
@@ -12670,14 +14977,23 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 542,
@@ -13164,7 +15480,11 @@
   {
     "id": 571,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Quartet No. 3 in C minor, Op. 60",
     "date_display": "1986/11/19-21",
     "date_sort": "1986-11-19",
@@ -13182,14 +15502,23 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 572,
@@ -13220,7 +15549,11 @@
   {
     "id": 573,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Double Concerto in A minor, Op. 102",
     "date_display": "1986/12",
     "date_sort": "1986-12-01",
@@ -13235,13 +15568,21 @@
       }
     ],
     "orchestra": "Israel Philharmonic Orchestra",
+<<<<<<< HEAD
     "location": null,
+=======
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "helicon"
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 574,
@@ -13402,6 +15743,94 @@
     "reference": null
   },
   {
+    "id": 577,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 1 in D major, D. 384",
+    "date_display": "1988/02/28-03/01",
+    "date_sort": "1988-02-28",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 578,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 2 in A minor, D. 385",
+    "date_display": "1988/02/28-03/01",
+    "date_sort": "1988-02-28",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 579,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 3 in G minor, D. 408",
+    "date_display": "1988/02/28-03/01",
+    "date_sort": "1988-02-28",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
+    "id": 580,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Fantasy in C major, D. 934",
+    "date_display": "1988/02/28-03/01",
+    "date_sort": "1988-02-28",
+    "accompanists": [
+      {
+        "name": "Barenboim, Daniel",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": ""
+  },
+  {
     "id": 581,
     "composer": "Schubert, Franz",
     "composer_id": 210.0,
@@ -13514,7 +15943,11 @@
   {
     "id": 586,
     "composer": "Schubert, Franz",
+<<<<<<< HEAD
     "composer_id": 210.0,
+=======
+    "composer_id": "210",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata in A major 'Duo', D. 574",
     "date_display": "1988/12/16-18",
     "date_sort": "1988-12-16",
@@ -13524,19 +15957,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 587,
     "composer": "Schubert, Franz",
+<<<<<<< HEAD
     "composer_id": 210.0,
+=======
+    "composer_id": "210",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Rondeau brilliant in B minor, D. 895",
     "date_display": "1988/12/16-18",
     "date_sort": "1988-12-16",
@@ -13546,19 +15992,32 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 588,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Quartet No. 1 in G minor, Op. 25",
     "date_display": "1989/12/11-16",
     "date_sort": "1989-12-11",
@@ -13576,19 +16035,32 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 589,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Quartet No. 2 in A major, Op. 26",
     "date_display": "1989/12/11-16",
     "date_sort": "1989-12-11",
@@ -13606,14 +16078,23 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
     "location": null,
+=======
+    "orchestra": "",
+    "location": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 590,
@@ -13758,7 +16239,11 @@
   {
     "id": 596,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 1 in G major, Op. 78",
     "date_display": "1991/12/18-19",
     "date_sort": "1991-12-18",
@@ -13768,19 +16253,31 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Pushkin Musium, Moscow",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 597,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 2 in A major, Op. 100",
     "date_display": "1991/12/18-19",
     "date_sort": "1991-12-18",
@@ -13790,19 +16287,31 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Pushkin Musium, Moscow",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 598,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
     "date_display": "1991/12/18-19",
     "date_sort": "1991-12-18",
@@ -13812,19 +16321,31 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Pushkin Musium, Moscow",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 599,
     "composer": "Brahms, Johannes",
+<<<<<<< HEAD
     "composer_id": 34.0,
+=======
+    "composer_id": "34",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Scherzo from F.A.E. Sonata",
     "date_display": "1991/12/18-19",
     "date_sort": "1991-12-18",
@@ -13834,19 +16355,31 @@
         "role": "piano"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Pushkin Musium, Moscow",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   },
   {
     "id": 600,
     "composer": "Beethoven, Ludwig van",
+<<<<<<< HEAD
     "composer_id": 16.0,
+=======
+    "composer_id": "16",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
     "date_display": "1992",
     "date_sort": "1992-01-01",
@@ -13860,7 +16393,11 @@
         "role": "cello"
       }
     ],
+<<<<<<< HEAD
     "orchestra": null,
+=======
+    "orchestra": "",
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
     "location": "Théatre Du Châtelet, Paris",
     "labels": [
       "Sony Classical"
@@ -14038,6 +16575,10 @@
     ],
     "is_live": true,
     "notes": "live",
+<<<<<<< HEAD
     "reference": null
+=======
+    "reference": ""
+>>>>>>> dc09e6e0d351dd97c5a49fc075facbaa2a677079
   }
 ]
