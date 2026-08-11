@@ -3751,7 +3751,7 @@
     "id": 172,
     "composer": "Bruch, Max",
     "composer_id": "37",
-    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "work": "Finale from Violin Concerto No. 1 in G minor, Op. 26",
     "date_display": "1952/04/28",
     "date_sort": "1952-04-28",
     "accompanists": [
@@ -3766,7 +3766,7 @@
       "Doremi"
     ],
     "is_live": true,
-    "notes": "live; 3rd movement",
+    "notes": "live",
     "reference": ""
   },
   {
