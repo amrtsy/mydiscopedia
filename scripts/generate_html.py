@@ -46,8 +46,8 @@ def site_nav(base, active):
     <div class="site-nav-links">
       {link('index.html', 'Home', 'home')}
       {link('about.html', 'About', 'about')}
-      {link('references.html', 'References', 'references')}
       {link('contact.html', 'Contact', 'contact')}
+      {link('references.html', 'References', 'references')}
     </div>
   </div>
 </nav>"""
@@ -58,8 +58,8 @@ def site_footer(base):
   <div class="site-footer-links">
     <a href="{base}index.html">Home</a>
     <a href="{base}about.html">About</a>
-    <a href="{base}references.html">References</a>
     <a href="{base}contact.html">Contact</a>
+    <a href="{base}references.html">References</a>
   </div>
   <div class="site-footer-copyright">
     Copyright &copy; <span class="copyright-year"></span> MyDiscopedia. All rights reserved.
@@ -247,8 +247,14 @@ REF_ENTRY_TEMPLATE = """    <div class="ref-entry">
 
 
 def render_references(references):
+    # Keep the sheet's category order, but always push "Other Resources"
+    # (or any category literally named "Other") to the very end.
+    def sort_key(cat):
+        return (1, cat["category"]) if cat["category"].strip().lower() in ("other resources", "other") else (0, "")
+    ordered = sorted(references, key=sort_key)
+
     blocks = []
-    for cat in references:
+    for cat in ordered:
         entries = []
         for site in cat["sites"]:
             desc_html = f'<div class="ref-desc">{site["description"]}</div>' if site["description"] else ""
