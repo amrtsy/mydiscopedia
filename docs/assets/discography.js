@@ -87,7 +87,7 @@
       header.innerHTML = `
         <div>Date</div>
         <div>Type</div>
-        <div>Performers</div>
+        <div>Accompanists</div>
         <div>Location</div>
         <div>Label</div>
       `;
@@ -106,7 +106,7 @@
       row.innerHTML = `
         <div class="cell cell-date"><span class="cell-label">Date</span>${d.date_display ?? 'undated'}</div>
         <div class="cell cell-type"><span class="cell-label">Type</span>${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}</div>
-        <div class="cell cell-performers"><span class="cell-label">Performers</span><span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}</div>
+        <div class="cell cell-performers"><span class="cell-label">Accompanists</span><span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}</div>
         <div class="cell cell-location"><span class="cell-label">Location</span>${d.location ?? ''}</div>
         <div class="cell cell-labelcol"><span class="cell-label">Label</span>${labelWithNotes}</div>
       `;

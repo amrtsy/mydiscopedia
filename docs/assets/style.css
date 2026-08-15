@@ -201,7 +201,7 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   display:grid;
   grid-template-columns:88px 52px 1.3fr 1fr 130px;
   gap:10px;
-  align-items:baseline;
+  align-items:start;
   padding:6px 0;
   border-bottom:1px dotted var(--rule-light);
   font-size:13px;
@@ -226,6 +226,9 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
 }
 .rec-row .cell-performers{
   color:var(--ink);
+  overflow:visible;
+  text-overflow:clip;
+  white-space:normal;
 }
 .rec-row .cell-performers .orch{
   color:var(--ink-soft);
