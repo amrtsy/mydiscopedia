@@ -62,7 +62,7 @@ h1{
   gap:12px;
   align-items:flex-end;
   position:sticky;
-  top:0;
+  top:48px;
   background:var(--paper);
   z-index:10;
   padding-bottom:14px;
@@ -241,11 +241,15 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
 /* site-wide nav + footer */
 .site-nav{
   background:var(--wine);
+  position:sticky;
+  top:0;
+  z-index:30;
 }
 .site-nav-inner{
   max-width:1000px;
   margin:0 auto;
-  padding:12px 24px;
+  height:48px;
+  padding:0 24px;
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -403,5 +407,20 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   .count{
     margin-top:8px;
     margin-left:0;
+  }
+}
+
+@media (max-width:480px){
+  .site-nav-brand{
+    display:none;
+  }
+  .site-nav-inner{
+    justify-content:center;
+  }
+  .site-nav-links{
+    gap:14px;
+  }
+  .site-nav-links a{
+    font-size:10.5px;
   }
 }

@@ -157,7 +157,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 
 <header>
   <div class="eyebrow">MyDiscopedia</div>
-  <h1>20th-Century String Virtuosi</h1>
+  <h1>String Virtuosi</h1>
   <div class="sub">A discography reference for violin &amp; cello recordings</div>
 </header>
 
