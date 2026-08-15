@@ -135,6 +135,30 @@ def build_records(rows):
     return records, skipped
 
 
+def build_references(rows):
+    """Convert References sheet rows (Category, SiteName, URL, Description)
+    into a list grouped by category, in first-seen category order."""
+    order = []
+    grouped = {}
+    skipped = 0
+    for r in rows:
+        category, site_name, url, description = (list(r) + [None] * (4 - len(r)))[:4]
+        if not category or not site_name or not url:
+            skipped += 1
+            continue
+        category = str(category).strip()
+        if category not in grouped:
+            grouped[category] = []
+            order.append(category)
+        grouped[category].append({
+            "site_name": str(site_name).strip(),
+            "url": str(url).strip(),
+            "description": str(description).strip() if description else None,
+        })
+    result = [{"category": c, "sites": grouped[c]} for c in order]
+    return result, skipped
+
+
 # ---------- data sources ----------
 
 def rows_from_xlsx(xlsx_path, sheet_name):
@@ -225,6 +249,25 @@ def main():
     # write a manifest the index page can use
     with open(DATA_OUT / "manifest.json", "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
+
+    # --- References sheet (not a performer; always built) ---
+    if args.xlsx:
+        ref_rows = rows_from_xlsx(args.xlsx, "References")
+    elif args.sheet_id and args.gids:
+        if "references" not in gid_map:
+            sys.exit(f"No gid configured for 'references' in {args.gids}")
+        ref_rows = rows_from_csv_export(args.sheet_id, gid_map["references"])
+    else:
+        import urllib.parse
+        url = args.csv_base + urllib.parse.quote("References")
+        ref_rows = rows_from_csv_url(url)
+
+    references, ref_skipped = build_references(ref_rows)
+    with open(DATA_OUT / "references.json", "w", encoding="utf-8") as f:
+        json.dump(references, f, ensure_ascii=False, indent=2)
+    total_refs = sum(len(c["sites"]) for c in references)
+    print(f"[references     ] {total_refs:5d} entries written  "
+          f"(skipped {ref_skipped} incomplete rows)  categories {len(references)}")
 
 
 def _default_sheet_name(slug):

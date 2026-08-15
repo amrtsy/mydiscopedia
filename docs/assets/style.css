@@ -326,6 +326,48 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   text-decoration:none;
 }
 
+/* references page */
+.page-content--wide{
+  max-width:1000px;
+}
+.ref-category{
+  padding:18px 0;
+  border-bottom:1px solid var(--rule-light);
+}
+.ref-category:last-child{
+  border-bottom:none;
+}
+.ref-category-title{
+  font-family:"Fraunces", serif;
+  font-weight:600;
+  font-size:18px;
+  margin:0 0 12px;
+  color:var(--wine);
+}
+.ref-entry{
+  padding:8px 0;
+  border-top:1px dotted var(--rule-light);
+}
+.ref-entry:first-of-type{
+  border-top:none;
+}
+.ref-name{
+  font-size:15px;
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid var(--rule);
+}
+.ref-name:hover{
+  border-bottom-color:var(--wine);
+  color:var(--wine);
+}
+.ref-desc{
+  margin-top:3px;
+  font-size:13px;
+  color:var(--ink-soft);
+  line-height:1.6;
+}
+
 @media (max-width:640px){
   h1{font-size:28px;}
   .count{margin-left:0;}

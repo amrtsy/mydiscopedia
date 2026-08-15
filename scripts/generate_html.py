@@ -46,6 +46,7 @@ def site_nav(base, active):
     <div class="site-nav-links">
       {link('index.html', 'Home', 'home')}
       {link('about.html', 'About', 'about')}
+      {link('references.html', 'References', 'references')}
       {link('contact.html', 'Contact', 'contact')}
     </div>
   </div>
@@ -57,6 +58,7 @@ def site_footer(base):
   <div class="site-footer-links">
     <a href="{base}index.html">Home</a>
     <a href="{base}about.html">About</a>
+    <a href="{base}references.html">References</a>
     <a href="{base}contact.html">Contact</a>
   </div>
   <div class="site-footer-copyright">
@@ -203,6 +205,62 @@ ABOUT_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
+REFERENCES_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>References — MyDiscopedia</title>
+{fonts}
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+{nav}
+
+<header>
+  <div class="eyebrow">MyDiscopedia</div>
+  <h1>References</h1>
+  <div class="sub">Archives and resources used to research this discography</div>
+</header>
+
+<div class="page-content page-content--wide">
+{categories}
+</div>
+
+{footer}
+
+</body>
+</html>
+"""
+
+REF_CATEGORY_TEMPLATE = """  <section class="ref-category">
+    <h2 class="ref-category-title">{category}</h2>
+{entries}
+  </section>"""
+
+REF_ENTRY_TEMPLATE = """    <div class="ref-entry">
+      <a class="ref-name" href="{url}" target="_blank" rel="noopener noreferrer">{site_name}</a>
+      {desc_html}
+    </div>"""
+
+
+def render_references(references):
+    blocks = []
+    for cat in references:
+        entries = []
+        for site in cat["sites"]:
+            desc_html = f'<div class="ref-desc">{site["description"]}</div>' if site["description"] else ""
+            entries.append(REF_ENTRY_TEMPLATE.format(
+                url=site["url"], site_name=site["site_name"], desc_html=desc_html
+            ))
+        blocks.append(REF_CATEGORY_TEMPLATE.format(
+            category=cat["category"], entries="\n".join(entries)
+        ))
+    return "\n".join(blocks)
+
+
 CONTACT_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -273,6 +331,14 @@ def main():
     )
     (ROOT / "docs" / "contact.html").write_text(contact_html, encoding="utf-8")
     print("wrote docs/contact.html")
+
+    references = json.loads((DATA_DIR / "references.json").read_text(encoding="utf-8"))
+    references_html = REFERENCES_TEMPLATE.format(
+        fonts=FONTS_LINK, nav=site_nav("", "references"), footer=site_footer(""),
+        categories=render_references(references),
+    )
+    (ROOT / "docs" / "references.html").write_text(references_html, encoding="utf-8")
+    print("wrote docs/references.html")
 
 
 if __name__ == "__main__":
