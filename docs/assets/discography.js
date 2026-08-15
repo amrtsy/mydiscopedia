@@ -97,9 +97,6 @@
     function renderRecLine(d) {
       const row = document.createElement('div');
       row.className = 'rec-row';
-      row.tabIndex = 0;
-      row.setAttribute('role', 'button');
-      row.setAttribute('aria-expanded', 'false');
       const labelStr = d.labels.join(' / ');
       const labelWithNotes = [labelStr, (d.notes && !d.is_live) ? d.notes : null]
         .filter(Boolean).join(' · ');
@@ -110,14 +107,6 @@
         <div class="cell cell-location"><span class="cell-label">Location</span>${d.location ?? ''}</div>
         <div class="cell cell-labelcol"><span class="cell-label">Label</span>${labelWithNotes}</div>
       `;
-      function toggle() {
-        const isOpen = row.classList.toggle('expanded');
-        row.setAttribute('aria-expanded', String(isOpen));
-      }
-      row.addEventListener('click', toggle);
-      row.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
-      });
       return row;
     }
 

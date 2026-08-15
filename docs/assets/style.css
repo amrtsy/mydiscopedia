@@ -206,18 +206,14 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   border-bottom:1px dotted var(--rule-light);
   font-size:13px;
   line-height:1.5;
-  cursor:pointer;
 }
 .rec-row:last-child{
   border-bottom:none;
 }
-.rec-row:hover{
-  background:rgba(109,42,59,0.04);
-}
 .rec-row .cell{
-  overflow:hidden;
-  text-overflow:ellipsis;
-  white-space:nowrap;
+  overflow:visible;
+  text-overflow:clip;
+  white-space:normal;
 }
 .rec-row .cell-date{
   font-family:"IBM Plex Mono", monospace;
@@ -226,9 +222,6 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
 }
 .rec-row .cell-performers{
   color:var(--ink);
-  overflow:visible;
-  text-overflow:clip;
-  white-space:normal;
 }
 .rec-row .cell-performers .orch{
   color:var(--ink-soft);
@@ -246,11 +239,6 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
 }
 .rec-row .cell-label{
   display:none;
-}
-.rec-row.expanded .cell{
-  overflow:visible;
-  text-overflow:clip;
-  white-space:normal;
 }
 .live-mark{
   font-family:"IBM Plex Mono", monospace;
