@@ -122,12 +122,42 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   padding:0 24px;
 }
 .composer-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  width:100%;
   font-family:"Fraunces", serif;
   font-weight:600;
   font-size:20px;
-  margin:26px 0 4px;
-  padding-bottom:4px;
+  margin:14px 0 0;
+  padding:10px 2px;
+  border:none;
   border-bottom:1px solid var(--rule);
+  background:none;
+  color:var(--ink);
+  cursor:pointer;
+  text-align:left;
+}
+.composer-head:hover{
+  color:var(--wine);
+}
+.composer-arrow{
+  font-size:14px;
+  color:var(--ink-faint);
+  transition:transform 0.15s ease;
+  flex-shrink:0;
+  margin-left:12px;
+}
+.composer-head.expanded .composer-arrow{
+  transform:rotate(180deg);
+  color:var(--wine);
+}
+.composer-section{
+  display:none;
+  padding-bottom:6px;
+}
+.composer-section.open{
+  display:block;
 }
 .work-group{
   padding:10px 0 8px;

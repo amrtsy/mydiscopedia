@@ -81,16 +81,18 @@
 
     listEl.innerHTML = '';
 
-    const header = document.createElement('div');
-    header.className = 'rec-table-header';
-    header.innerHTML = `
-      <div>Date</div>
-      <div>Type</div>
-      <div>Performers</div>
-      <div>Location</div>
-      <div>Label</div>
-    `;
-    listEl.appendChild(header);
+    function renderTableHeader() {
+      const header = document.createElement('div');
+      header.className = 'rec-table-header';
+      header.innerHTML = `
+        <div>Date</div>
+        <div>Type</div>
+        <div>Performers</div>
+        <div>Location</div>
+        <div>Label</div>
+      `;
+      return header;
+    }
 
     function renderRecLine(d) {
       const row = document.createElement('div');
@@ -119,9 +121,28 @@
       return row;
     }
 
+    function renderWorkGroup(g, showComposerInTitle) {
+      const wrap = document.createElement('div');
+      wrap.className = 'work-group';
+
+      const titleRow = document.createElement('div');
+      titleRow.className = 'work-title-row';
+      const countBadge = g.recs.length > 1
+        ? `<span class="work-count multi">${g.recs.length} recordings</span>`
+        : `<span class="work-count">${g.recs.length}</span>`;
+      titleRow.innerHTML = (showComposerInTitle
+        ? `<span class="work-title">${g.composer} — ${g.work}</span>`
+        : `<span class="work-title">${g.work}</span>`) + countBadge;
+      wrap.appendChild(titleRow);
+
+      g.recs.forEach(d => wrap.appendChild(renderRecLine(d)));
+      return wrap;
+    }
+
     if (sortMode === 'date') {
       // Flat chronological list — no work grouping, since the point is to
       // browse across works in the order they were recorded.
+      listEl.appendChild(renderTableHeader());
       const sorted = [...filtered].sort((a, b) => a.date_sort.localeCompare(b.date_sort));
       sorted.forEach(d => {
         const wrap = document.createElement('div');
@@ -148,37 +169,40 @@
 
     if (sortMode === 'count') {
       groupList.sort((a, b) => b.recs.length - a.recs.length || a.composer.localeCompare(b.composer, 'en'));
-    } else {
-      groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || a.work.localeCompare(b.work, 'en'));
+      listEl.appendChild(renderTableHeader());
+      groupList.forEach(g => listEl.appendChild(renderWorkGroup(g, true)));
+      return;
     }
 
-    let lastComposer = null;
+    // sortMode === 'composer': collapsed accordion, one section per composer.
+    groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || a.work.localeCompare(b.work, 'en'));
 
+    const byComposer = new Map();
     groupList.forEach(g => {
-      if (sortMode === 'composer' && g.composer !== lastComposer) {
-        const h = document.createElement('div');
-        h.className = 'composer-head';
-        h.textContent = g.composer;
-        listEl.appendChild(h);
-        lastComposer = g.composer;
-      }
+      if (!byComposer.has(g.composer)) byComposer.set(g.composer, []);
+      byComposer.get(g.composer).push(g);
+    });
 
-      const wrap = document.createElement('div');
-      wrap.className = 'work-group';
+    byComposer.forEach((works, composer) => {
+      const head = document.createElement('button');
+      head.type = 'button';
+      head.className = 'composer-head';
+      head.setAttribute('aria-expanded', 'false');
+      head.innerHTML = `<span>${composer}</span><span class="composer-arrow" aria-hidden="true">&#9662;</span>`;
 
-      const titleRow = document.createElement('div');
-      titleRow.className = 'work-title-row';
-      const countBadge = g.recs.length > 1
-        ? `<span class="work-count multi">${g.recs.length} recordings</span>`
-        : `<span class="work-count">${g.recs.length}</span>`;
-      titleRow.innerHTML = (sortMode === 'count'
-        ? `<span class="work-title">${g.composer} — ${g.work}</span>`
-        : `<span class="work-title">${g.work}</span>`) + countBadge;
-      wrap.appendChild(titleRow);
+      const section = document.createElement('div');
+      section.className = 'composer-section';
+      section.appendChild(renderTableHeader());
+      works.forEach(g => section.appendChild(renderWorkGroup(g, false)));
 
-      g.recs.forEach(d => wrap.appendChild(renderRecLine(d)));
+      head.addEventListener('click', () => {
+        const isOpen = section.classList.toggle('open');
+        head.classList.toggle('expanded', isOpen);
+        head.setAttribute('aria-expanded', String(isOpen));
+      });
 
-      listEl.appendChild(wrap);
+      listEl.appendChild(head);
+      listEl.appendChild(section);
     });
   }
 
