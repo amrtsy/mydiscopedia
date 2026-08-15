@@ -81,19 +81,42 @@
 
     listEl.innerHTML = '';
 
+    const header = document.createElement('div');
+    header.className = 'rec-table-header';
+    header.innerHTML = `
+      <div>Date</div>
+      <div>Type</div>
+      <div>Performers</div>
+      <div>Location</div>
+      <div>Label</div>
+    `;
+    listEl.appendChild(header);
+
     function renderRecLine(d) {
-      const line = document.createElement('div');
-      line.className = 'rec-line';
+      const row = document.createElement('div');
+      row.className = 'rec-row';
+      row.tabIndex = 0;
+      row.setAttribute('role', 'button');
+      row.setAttribute('aria-expanded', 'false');
       const labelStr = d.labels.join(' / ');
-      line.innerHTML = `
-        <div class="rec-top">${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}<span class="date">${d.date_display ?? 'undated'}</span>${d.location ? `<span class="loc-sep">|</span><span class="loc">${d.location}</span>` : ''}</div>
-        <div class="rec-detail">
-          <span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}
-          ${labelStr ? `<span class="label"> | ${labelStr}</span>` : ''}
-          ${d.notes && !d.is_live ? `<span class="label"> | ${d.notes}</span>` : ''}
-        </div>
+      const labelWithNotes = [labelStr, (d.notes && !d.is_live) ? d.notes : null]
+        .filter(Boolean).join(' · ');
+      row.innerHTML = `
+        <div class="cell cell-date"><span class="cell-label">Date</span>${d.date_display ?? 'undated'}</div>
+        <div class="cell cell-type"><span class="cell-label">Type</span>${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}</div>
+        <div class="cell cell-performers"><span class="cell-label">Performers</span><span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}</div>
+        <div class="cell cell-location"><span class="cell-label">Location</span>${d.location ?? ''}</div>
+        <div class="cell cell-labelcol"><span class="cell-label">Label</span>${labelWithNotes}</div>
       `;
-      return line;
+      function toggle() {
+        const isOpen = row.classList.toggle('expanded');
+        row.setAttribute('aria-expanded', String(isOpen));
+      }
+      row.addEventListener('click', toggle);
+      row.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+      });
+      return row;
     }
 
     if (sortMode === 'date') {
