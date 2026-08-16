@@ -5,32 +5,32 @@
       {
         "site_name": "BBC Genome Archive",
         "url": "https://genome.ch.bbc.co.uk/",
-        "description": "Searchable digitisation of BBC Radio Times listings from 1923 to 2009; useful for confirming the broadcast dates of BBC performances."
+        "description": null
       },
       {
         "site_name": "Inathèque",
         "url": "https://catalogue.ina.fr/",
-        "description": "Catalogue of France's national audiovisual archive (INA), covering historic French radio and television broadcasts."
+        "description": null
       },
       {
         "site_name": "Rai Teche",
         "url": "http://www.osn.teche.rai.it/Search.aspx?lang=en",
-        "description": "Search portal for the historic radio and television archive of Rai, Italy's state broadcaster."
+        "description": null
       },
       {
         "site_name": "Beeld & Geluid",
         "url": "https://zoeken.beeldengeluid.nl/",
-        "description": "Catalogue of the Netherlands Institute for Sound and Vision, the Dutch national broadcast archive."
+        "description": null
       },
       {
         "site_name": "Svensk Mediedatabas",
         "url": "https://smdb.kb.se/",
-        "description": "Swedish National Library's database of radio, television and film holdings, including broadcast recordings."
+        "description": null
       },
       {
         "site_name": "Swiss National Sound Archives",
         "url": "http://www.fonoteca.ch/",
-        "description": "Switzerland's national sound archive, cataloguing historic recordings including radio broadcasts."
+        "description": null
       }
     ]
   },
@@ -40,122 +40,22 @@
       {
         "site_name": "Newspapers.com",
         "url": "https://www.newspapers.com/",
-        "description": "Subscription database of digitised historic newspapers, useful for locating concert reviews and listings."
+        "description": null
       },
       {
         "site_name": "The Times Archive",
         "url": "https://www.thetimes.com/archive",
-        "description": "Searchable digital archive of The Times (UK) dating back to 1785, useful for concert reviews and listings."
+        "description": null
       },
       {
         "site_name": "Papers Past",
         "url": "https://paperspast.natlib.govt.nz/newspapers/all",
-        "description": "Free archive of historic New Zealand newspapers maintained by the National Library of New Zealand."
+        "description": null
       },
       {
         "site_name": "Radiocorriere",
         "url": "http://www.radiocorriere.teche.rai.it/Archivio.aspx",
-        "description": "Archive of Rai's weekly programme guide (Italy's equivalent of Radio Times), useful for confirming Italian broadcast dates."
-      }
-    ]
-  },
-  {
-    "category": "Festival Archive",
-    "sites": [
-      {
-        "site_name": "Prague Spring",
-        "url": "https://festival.cz/en/about-us/festival-events-archive/",
-        "description": "Archive of past programmes from the Prague Spring International Music Festival."
-      },
-      {
-        "site_name": "Wiener Festwochen Archiv",
-        "url": "https://archiv.festwochen.at/",
-        "description": "Archive of the Vienna Festival (Wiener Festwochen) programme history."
-      },
-      {
-        "site_name": "Lucerne Festival",
-        "url": "https://442hz.com/de/ensembles/Lucerne_Festival/werkarchiv/",
-        "description": "Works archive listing repertoire performed at the Lucerne Festival."
-      },
-      {
-        "site_name": "Aldeburgh Festival",
-        "url": "https://www.brittenpearsarts.org/aldeburgh-festival-of-music-and-the-arts-festival-programme-books",
-        "description": "Digitised programme books from the Aldeburgh Festival, hosted by Britten Pears Arts."
-      },
-      {
-        "site_name": "Salzburg Festival",
-        "url": "https://www.salzburgerfestspiele.at/en/archive",
-        "description": "Official performance archive of the Salzburg Festival."
-      }
-    ]
-  },
-  {
-    "category": "Orchestra Archive",
-    "sites": [
-      {
-        "site_name": "NY Phil archives",
-        "url": "https://archives.nyphil.org/",
-        "description": "New York Philharmonic's Leon Levy Digital Archives, with searchable performance history back to 1842."
-      },
-      {
-        "site_name": "Archief Concertgebouworkest",
-        "url": "https://archief.concertgebouworkest.nl/en/archive/search/",
-        "description": "Royal Concertgebouw Orchestra's searchable concert archive."
-      },
-      {
-        "site_name": "Boston Symphony Orchestra",
-        "url": "https://archives.bso.org/",
-        "description": "Boston Symphony Orchestra's digital performance history archive."
-      },
-      {
-        "site_name": "Orchestre de la Suisse Romande",
-        "url": "https://www.osr.ch/en/concerts-tickets/archives",
-        "description": "Orchestre de la Suisse Romande's concert archive."
-      },
-      {
-        "site_name": "Chicago Symphony Orchestra",
-        "url": "https://oldtheodore.cso.org/",
-        "description": "Chicago Symphony Orchestra's Rosenthal Archives performance history database."
-      },
-      {
-        "site_name": "Gewandhaus Orchestra",
-        "url": "https://www.gewandhausorchester.de/en/archive/",
-        "description": "Leipzig Gewandhaus Orchestra's concert archive."
-      },
-      {
-        "site_name": "The Hallé",
-        "url": "https://archive.halle.co.uk/",
-        "description": "Performance archive of the Hallé Orchestra, Manchester."
-      },
-      {
-        "site_name": "Vienna Philharmonic Orchestra",
-        "url": "https://www.wienerphilharmoniker.at/en/konzert-archiv",
-        "description": "Vienna Philharmonic's concert archive."
-      }
-    ]
-  },
-  {
-    "category": "Hall Archive",
-    "sites": [
-      {
-        "site_name": "Carnegie Hall",
-        "url": "https://www.carnegiehall.org/About/History/Performance-History-Search",
-        "description": "Carnegie Hall's Performance History Search database, covering concerts held there since 1891."
-      },
-      {
-        "site_name": "100 лет Санкт-Петербургской филармонии",
-        "url": "https://100philharmonia.spb.ru/",
-        "description": "Centenary archive site for the St Petersburg Philharmonic, with historical concert records."
-      },
-      {
-        "site_name": "Wiener Konzerthaus",
-        "url": "https://konzerthaus.at/en",
-        "description": "Official site of the Vienna Konzerthaus, including its concert history."
-      },
-      {
-        "site_name": "Tokyo Bunka Kaikan",
-        "url": "https://i.t-bunka.jp/",
-        "description": "Performance database for Tokyo Bunka Kaikan, a major concert hall in Tokyo."
+        "description": null
       }
     ]
   },
@@ -165,22 +65,122 @@
       {
         "site_name": "CHARM",
         "url": "https://charm.rhul.ac.uk/index.html",
-        "description": "Online discography and library of digitised 78rpm recordings from the AHRC Research Centre for the History and Analysis of Recorded Music, hosted by Royal Holloway."
+        "description": null
       },
       {
         "site_name": "ArchiveGrid",
         "url": "https://researchworks.oclc.org/archivegrid/",
-        "description": "OCLC's aggregated index of archival collection descriptions from libraries, museums and archives worldwide; useful for locating performers' personal papers."
+        "description": null
       },
       {
         "site_name": "Operabase",
         "url": "https://www.operabase.com/en",
-        "description": "Database tracking opera and concert performances worldwide, useful for cross-referencing live performance dates."
+        "description": null
       },
       {
         "site_name": "Classite",
         "url": "https://classite.com/",
-        "description": "Large collaborative online database of classical music recordings and performer discographies, with a collectors' marketplace."
+        "description": null
+      }
+    ]
+  },
+  {
+    "category": "Festival Archive",
+    "sites": [
+      {
+        "site_name": "Prague Spring",
+        "url": "https://festival.cz/en/about-us/festival-events-archive/",
+        "description": null
+      },
+      {
+        "site_name": "Wiener Festwochen Archiv",
+        "url": "https://archiv.festwochen.at/",
+        "description": null
+      },
+      {
+        "site_name": "Lucerne Festival",
+        "url": "https://442hz.com/de/ensembles/Lucerne_Festival/werkarchiv/",
+        "description": null
+      },
+      {
+        "site_name": "Aldeburgh Festival",
+        "url": "https://www.brittenpearsarts.org/aldeburgh-festival-of-music-and-the-arts-festival-programme-books",
+        "description": null
+      },
+      {
+        "site_name": "Salzburg Festival",
+        "url": "https://www.salzburgerfestspiele.at/en/archive",
+        "description": null
+      }
+    ]
+  },
+  {
+    "category": "Orchestra Archive",
+    "sites": [
+      {
+        "site_name": "NY Phil archives",
+        "url": "https://archives.nyphil.org/",
+        "description": null
+      },
+      {
+        "site_name": "Archief Concertgebouworkest",
+        "url": "https://archief.concertgebouworkest.nl/en/archive/search/",
+        "description": null
+      },
+      {
+        "site_name": "Boston Symphony Orchestra",
+        "url": "https://archives.bso.org/",
+        "description": null
+      },
+      {
+        "site_name": "Orchestre de la Suisse Romande",
+        "url": "https://www.osr.ch/en/concerts-tickets/archives",
+        "description": null
+      },
+      {
+        "site_name": "Chicago Symphony Orchestra",
+        "url": "https://oldtheodore.cso.org/",
+        "description": null
+      },
+      {
+        "site_name": "Gewandhaus Orchestra",
+        "url": "https://www.gewandhausorchester.de/en/archive/",
+        "description": null
+      },
+      {
+        "site_name": "The Hallé",
+        "url": "https://archive.halle.co.uk/",
+        "description": null
+      },
+      {
+        "site_name": "Vienna Philharmonic Orchestra",
+        "url": "https://www.wienerphilharmoniker.at/en/konzert-archiv",
+        "description": null
+      }
+    ]
+  },
+  {
+    "category": "Hall Archive",
+    "sites": [
+      {
+        "site_name": "Carnegie Hall",
+        "url": "https://www.carnegiehall.org/About/History/Performance-History-Search",
+        "description": null
+      },
+      {
+        "site_name": "100 лет Санкт-Петербургской филармонии",
+        "url": "https://100philharmonia.spb.ru/",
+        "description": null
+      },
+      {
+        "site_name": "Wiener Konzerthaus",
+        "url": "https://konzerthaus.at/en",
+        "description": null
+      },
+      {
+        "site_name": "Tokyo Bunka Kaikan",
+        "url": "https://i.t-bunka.jp/",
+        "description": null
       }
     ]
   }
