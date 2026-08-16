@@ -101,28 +101,15 @@ PERFORMER_TEMPLATE = """<!DOCTYPE html>
       <select id="f-composer"><option value="">All</option></select>
     </div>
     <div class="field">
-      <label for="f-label">Label</label>
-      <select id="f-label"><option value="">All</option></select>
-    </div>
-    <div class="field">
-      <label for="f-live">Type</label>
-      <select id="f-live">
-        <option value="">All</option>
-        <option value="live">Live</option>
-        <option value="studio">Studio</option>
-      </select>
-    </div>
-    <div class="field">
       <label for="f-sort">Sort by</label>
       <select id="f-sort">
         <option value="composer">Composer / work</option>
-        <option value="count">Most recorded works first</option>
         <option value="date">Recording date</option>
       </select>
     </div>
     <div class="field">
       <label for="f-search">Search (work, performers, notes)</label>
-      <input type="text" id="f-search" placeholder="e.g. Elgar, Barenboim">
+      <input type="text" id="f-search" placeholder="">
     </div>
   </div>
   <div class="count" id="count"></div>

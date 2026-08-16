@@ -12,8 +12,6 @@
   const listEl = document.getElementById('list');
   const countEl = document.getElementById('count');
   const fComposer = document.getElementById('f-composer');
-  const fLabel = document.getElementById('f-label');
-  const fLive = document.getElementById('f-live');
   const fSort = document.getElementById('f-sort');
   const fSearch = document.getElementById('f-search');
 
@@ -33,10 +31,6 @@
     const o = document.createElement('option'); o.value = c; o.textContent = c;
     fComposer.appendChild(o);
   });
-  unique(DATA.flatMap(d => d.labels)).forEach(l => {
-    const o = document.createElement('option'); o.value = l; o.textContent = l;
-    fLabel.appendChild(o);
-  });
 
   function peopleStr(people) {
     return people.map(p => p.role ? `${p.name}(${p.role})` : p.name).join(', ');
@@ -54,16 +48,11 @@
 
   function render() {
     const c = fComposer.value;
-    const l = fLabel.value;
-    const live = fLive.value;
     const q = fSearch.value.trim().toLowerCase();
     const sortMode = fSort.value;
 
     const filtered = DATA.filter(d => {
       if (c && d.composer !== c) return false;
-      if (l && !d.labels.includes(l)) return false;
-      if (live === 'live' && !d.is_live) return false;
-      if (live === 'studio' && d.is_live) return false;
       if (q) {
         const hay = [d.composer, d.work, peopleStr(d.accompanists), d.orchestra, d.notes, d.location]
           .filter(Boolean).join(' ').toLowerCase();
@@ -201,12 +190,6 @@
 
     let groupList = [...groups.values()];
 
-    if (sortMode === 'count') {
-      groupList.sort((a, b) => b.recs.length - a.recs.length || a.composer.localeCompare(b.composer, 'en'));
-      groupList.forEach(g => listEl.appendChild(renderWorkGroup(g, true)));
-      return;
-    }
-
     // sortMode === 'composer': collapsed accordion, one section per composer.
     groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || a.work.localeCompare(b.work, 'en'));
 
@@ -223,7 +206,7 @@
     });
   }
 
-  [fComposer, fLabel, fLive, fSort].forEach(el => el.addEventListener('change', render));
+  [fComposer, fSort].forEach(el => el.addEventListener('change', render));
   fSearch.addEventListener('input', render);
 
   render();
