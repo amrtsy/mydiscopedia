@@ -5,32 +5,32 @@
       {
         "site_name": "BBC Genome Archive",
         "url": "https://genome.ch.bbc.co.uk/",
-        "description": null
+        "description": "Searchable digitisation of BBC Radio Times listings from 1923 to 2009; useful for confirming the broadcast dates of BBC performances."
       },
       {
         "site_name": "Inathèque",
         "url": "https://catalogue.ina.fr/",
-        "description": null
+        "description": "Catalogue of France's national audiovisual archive (INA), covering historic French radio and television broadcasts."
       },
       {
         "site_name": "Rai Teche",
         "url": "http://www.osn.teche.rai.it/Search.aspx?lang=en",
-        "description": null
+        "description": "Search portal for the historic radio and television archive of Rai, Italy's state broadcaster."
       },
       {
         "site_name": "Beeld & Geluid",
         "url": "https://zoeken.beeldengeluid.nl/",
-        "description": null
+        "description": "Catalogue of the Netherlands Institute for Sound and Vision, the Dutch national broadcast archive."
       },
       {
         "site_name": "Svensk Mediedatabas",
         "url": "https://smdb.kb.se/",
-        "description": null
+        "description": "Swedish National Library's database of radio, television and film holdings, including broadcast recordings."
       },
       {
         "site_name": "Swiss National Sound Archives",
         "url": "http://www.fonoteca.ch/",
-        "description": null
+        "description": "Switzerland's national sound archive, cataloguing historic recordings including radio broadcasts."
       }
     ]
   },
@@ -40,47 +40,22 @@
       {
         "site_name": "Newspapers.com",
         "url": "https://www.newspapers.com/",
-        "description": null
+        "description": "Subscription database of digitised historic newspapers, useful for locating concert reviews and listings."
       },
       {
         "site_name": "The Times Archive",
         "url": "https://www.thetimes.com/archive",
-        "description": null
+        "description": "Searchable digital archive of The Times (UK) dating back to 1785, useful for concert reviews and listings."
       },
       {
         "site_name": "Papers Past",
         "url": "https://paperspast.natlib.govt.nz/newspapers/all",
-        "description": null
+        "description": "Free archive of historic New Zealand newspapers maintained by the National Library of New Zealand."
       },
       {
         "site_name": "Radiocorriere",
         "url": "http://www.radiocorriere.teche.rai.it/Archivio.aspx",
-        "description": null
-      }
-    ]
-  },
-  {
-    "category": "Other Resources",
-    "sites": [
-      {
-        "site_name": "CHARM",
-        "url": "https://charm.rhul.ac.uk/index.html",
-        "description": null
-      },
-      {
-        "site_name": "ArchiveGrid",
-        "url": "https://researchworks.oclc.org/archivegrid/",
-        "description": null
-      },
-      {
-        "site_name": "Operabase",
-        "url": "https://www.operabase.com/en",
-        "description": null
-      },
-      {
-        "site_name": "Classite",
-        "url": "https://classite.com/",
-        "description": null
+        "description": "Archive of Rai's weekly programme guide (Italy's equivalent of Radio Times), useful for confirming Italian broadcast dates."
       }
     ]
   },
@@ -90,27 +65,27 @@
       {
         "site_name": "Prague Spring",
         "url": "https://festival.cz/en/about-us/festival-events-archive/",
-        "description": null
+        "description": "Archive of past programmes from the Prague Spring International Music Festival."
       },
       {
         "site_name": "Wiener Festwochen Archiv",
         "url": "https://archiv.festwochen.at/",
-        "description": null
+        "description": "Archive of the Vienna Festival (Wiener Festwochen) programme history."
       },
       {
         "site_name": "Lucerne Festival",
         "url": "https://442hz.com/de/ensembles/Lucerne_Festival/werkarchiv/",
-        "description": null
+        "description": "Works archive listing repertoire performed at the Lucerne Festival."
       },
       {
         "site_name": "Aldeburgh Festival",
         "url": "https://www.brittenpearsarts.org/aldeburgh-festival-of-music-and-the-arts-festival-programme-books",
-        "description": null
+        "description": "Digitised programme books from the Aldeburgh Festival, hosted by Britten Pears Arts."
       },
       {
         "site_name": "Salzburg Festival",
         "url": "https://www.salzburgerfestspiele.at/en/archive",
-        "description": null
+        "description": "Official performance archive of the Salzburg Festival."
       }
     ]
   },
@@ -120,42 +95,42 @@
       {
         "site_name": "NY Phil archives",
         "url": "https://archives.nyphil.org/",
-        "description": null
+        "description": "New York Philharmonic's Leon Levy Digital Archives, with searchable performance history back to 1842."
       },
       {
         "site_name": "Archief Concertgebouworkest",
         "url": "https://archief.concertgebouworkest.nl/en/archive/search/",
-        "description": null
+        "description": "Royal Concertgebouw Orchestra's searchable concert archive."
       },
       {
         "site_name": "Boston Symphony Orchestra",
         "url": "https://archives.bso.org/",
-        "description": null
+        "description": "Boston Symphony Orchestra's digital performance history archive."
       },
       {
         "site_name": "Orchestre de la Suisse Romande",
         "url": "https://www.osr.ch/en/concerts-tickets/archives",
-        "description": null
+        "description": "Orchestre de la Suisse Romande's concert archive."
       },
       {
         "site_name": "Chicago Symphony Orchestra",
         "url": "https://oldtheodore.cso.org/",
-        "description": null
+        "description": "Chicago Symphony Orchestra's Rosenthal Archives performance history database."
       },
       {
         "site_name": "Gewandhaus Orchestra",
         "url": "https://www.gewandhausorchester.de/en/archive/",
-        "description": null
+        "description": "Leipzig Gewandhaus Orchestra's concert archive."
       },
       {
         "site_name": "The Hallé",
         "url": "https://archive.halle.co.uk/",
-        "description": null
+        "description": "Performance archive of the Hallé Orchestra, Manchester."
       },
       {
         "site_name": "Vienna Philharmonic Orchestra",
         "url": "https://www.wienerphilharmoniker.at/en/konzert-archiv",
-        "description": null
+        "description": "Vienna Philharmonic's concert archive."
       }
     ]
   },
@@ -165,22 +140,47 @@
       {
         "site_name": "Carnegie Hall",
         "url": "https://www.carnegiehall.org/About/History/Performance-History-Search",
-        "description": null
+        "description": "Carnegie Hall's Performance History Search database, covering concerts held there since 1891."
       },
       {
         "site_name": "100 лет Санкт-Петербургской филармонии",
         "url": "https://100philharmonia.spb.ru/",
-        "description": null
+        "description": "Centenary archive site for the St Petersburg Philharmonic, with historical concert records."
       },
       {
         "site_name": "Wiener Konzerthaus",
         "url": "https://konzerthaus.at/en",
-        "description": null
+        "description": "Official site of the Vienna Konzerthaus, including its concert history."
       },
       {
         "site_name": "Tokyo Bunka Kaikan",
         "url": "https://i.t-bunka.jp/",
-        "description": null
+        "description": "Performance database for Tokyo Bunka Kaikan, a major concert hall in Tokyo."
+      }
+    ]
+  },
+  {
+    "category": "Other Resources",
+    "sites": [
+      {
+        "site_name": "CHARM",
+        "url": "https://charm.rhul.ac.uk/index.html",
+        "description": "Online discography and library of digitised 78rpm recordings from the AHRC Research Centre for the History and Analysis of Recorded Music, hosted by Royal Holloway."
+      },
+      {
+        "site_name": "ArchiveGrid",
+        "url": "https://researchworks.oclc.org/archivegrid/",
+        "description": "OCLC's aggregated index of archival collection descriptions from libraries, museums and archives worldwide; useful for locating performers' personal papers."
+      },
+      {
+        "site_name": "Operabase",
+        "url": "https://www.operabase.com/en",
+        "description": "Database tracking opera and concert performances worldwide, useful for cross-referencing live performance dates."
+      },
+      {
+        "site_name": "Classite",
+        "url": "https://classite.com/",
+        "description": "Large collaborative online database of classical music recordings and performer discographies, with a collectors' marketplace."
       }
     ]
   }
