@@ -1150,12 +1150,7 @@
     "work": "Adagio from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
-    "accompanists": [
-      {
-        "name": "Lambert, Raymond",
-        "role": "piano"
-      }
-    ],
+    "accompanists": [],
     "orchestra": "",
     "location": "Town Hall, Sydney",
     "labels": [
@@ -1172,12 +1167,7 @@
     "work": "Fuga from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
-    "accompanists": [
-      {
-        "name": "Lambert, Raymond",
-        "role": "piano"
-      }
-    ],
+    "accompanists": [],
     "orchestra": "",
     "location": "Town Hall, Sydney",
     "labels": [
@@ -4594,8 +4584,8 @@
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
-    "date_display": "1969",
-    "date_sort": "1969-01-01",
+    "date_display": "1969/02/25-26",
+    "date_sort": "1969-02-25",
     "accompanists": [
       {
         "name": "Decker, Franz-Paul",
@@ -4603,7 +4593,7 @@
       }
     ],
     "orchestra": "Montreal Symphony Orchestra",
-    "location": "",
+    "location": "Salle Wilfrid-Pelletier, Montreal",
     "labels": [
       "Podium"
     ],
