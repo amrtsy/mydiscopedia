@@ -412,6 +412,18 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   font-size:15px;
   line-height:1.8;
 }
+.page-content p + p{
+  margin-top:1em;
+}
+.page-content a{
+  color:var(--wine);
+  border-bottom:1px solid var(--wine);
+  text-decoration:none;
+}
+.page-content a:hover{
+  color:var(--ink);
+  border-bottom-color:var(--ink);
+}
 .contact-email{
   font-family:"IBM Plex Mono", monospace;
   font-size:14px;

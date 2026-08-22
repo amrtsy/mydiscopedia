@@ -183,7 +183,13 @@ ABOUT_TEMPLATE = """<!DOCTYPE html>
 </header>
 
 <div class="page-content">
-  <p>More information coming soon.</p>
+  <p>MyDiscopedia is a discography reference dedicated to the great string virtuosi of the twentieth century — violinists and cellists whose recordings, broadcasts, and live performances shaped the way we hear the repertoire today. For each performer, it catalogues individual recordings by composer and work, noting the date, accompanists, orchestra, venue, label, and whether the performance was a studio session or a live broadcast.</p>
+
+  <p>The project grew out of a simple fascination: the same work can sound remarkably different across five, ten, or seventeen recordings by a single artist over a lifetime, and there was no single place to trace that. MyDiscopedia is an attempt to build one.</p>
+
+  <p>Entries are compiled from broadcast archives, orchestra and concert hall archives, newspaper archives, and existing discographies — a full list is available on the <a href="references.html">References</a> page. Where a recording's existence is documented but its details remain uncertain, this is noted rather than guessed at.</p>
+
+  <p>This is very much a living project rather than a finished catalogue: new performers, recordings, and corrections are added on an ongoing basis. If you notice an error, or know of a recording that belongs here, please <a href="contact.html">get in touch</a>.</p>
 </div>
 
 {footer}
