@@ -2,7 +2,7 @@
   {
     "id": 1,
     "composer": "Ravel, Maurice",
-    "composer_id": 188.0,
+    "composer_id": "188",
     "work": "Tzigane",
     "date_display": "1945/06/13",
     "date_sort": "1945-06-13",
@@ -12,19 +12,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": null,
-    "reference": null
+    "reference": ""
   },
   {
     "id": 2,
     "composer": "Walton, William",
-    "composer_id": 256.0,
+    "composer_id": "256",
     "work": "Violin Concerto in B minor",
     "date_display": "1945/08/21",
     "date_sort": "1945-08-21",
@@ -46,7 +46,7 @@
   {
     "id": 3,
     "composer": "Walton, William",
-    "composer_id": 256.0,
+    "composer_id": "256",
     "work": "Violin Concerto in B minor",
     "date_display": "1945/09/26",
     "date_sort": "1945-09-26",
@@ -68,7 +68,7 @@
   {
     "id": 4,
     "composer": "Franck, César",
-    "composer_id": 84.0,
+    "composer_id": "84",
     "work": "Violin Sonata in A major",
     "date_display": "1946/05/30",
     "date_sort": "1946-05-30",
@@ -78,7 +78,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Broadcasting House, London",
     "labels": [
       "unissued"
@@ -90,7 +90,7 @@
   {
     "id": 5,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in E-flat major, K. 302",
     "date_display": "1946/08/04",
     "date_sort": "1946-08-04",
@@ -100,7 +100,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Broadcasting House, London",
     "labels": [
       "unissued"
@@ -112,7 +112,7 @@
   {
     "id": 6,
     "composer": "Fauré, Gabriel",
-    "composer_id": 76.0,
+    "composer_id": "76",
     "work": "Violin Sonata No. 1 in A minor, Op. 13",
     "date_display": "1946/08/04",
     "date_sort": "1946-08-04",
@@ -122,7 +122,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Broadcasting House, London",
     "labels": [
       "unissued"
@@ -134,7 +134,7 @@
   {
     "id": 7,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1946/08/08",
     "date_sort": "1946-08-08",
@@ -156,7 +156,7 @@
   {
     "id": 8,
     "composer": "Veracini, Francesco Maria",
-    "composer_id": 247.0,
+    "composer_id": "247",
     "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
     "date_display": "1946/11/21",
     "date_sort": "1946-11-21",
@@ -166,7 +166,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Broadcasting House, London",
     "labels": [
       "unissued"
@@ -178,7 +178,7 @@
   {
     "id": 9,
     "composer": "Debussy, Claude",
-    "composer_id": 58.0,
+    "composer_id": "58",
     "work": "Violin Sonata in G minor",
     "date_display": "1946/11/21",
     "date_sort": "1946-11-21",
@@ -188,7 +188,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Broadcasting House, London",
     "labels": [
       "unissued"
@@ -200,7 +200,7 @@
   {
     "id": 10,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
     "date_display": "1946/11/24",
     "date_sort": "1946-11-24",
@@ -211,7 +211,7 @@
       }
     ],
     "orchestra": "Welbeck String Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -222,7 +222,7 @@
   {
     "id": 11,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
     "date_display": "1946/11/26",
     "date_sort": "1946-11-26",
@@ -232,7 +232,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Home Service",
     "labels": [
       "unissued"
@@ -244,7 +244,7 @@
   {
     "id": 12,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 454",
     "date_display": "1946/12/08",
     "date_sort": "1946-12-08",
@@ -254,8 +254,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -266,7 +266,7 @@
   {
     "id": 13,
     "composer": "Walton, William",
-    "composer_id": 256.0,
+    "composer_id": "256",
     "work": "Violin Concerto in B minor",
     "date_display": "1947/01/23",
     "date_sort": "1947-01-23",
@@ -288,7 +288,7 @@
   {
     "id": 14,
     "composer": "Prokofiev, Sergei",
-    "composer_id": 179.0,
+    "composer_id": "179",
     "work": "Violin Sonata No. 2 in D major, Op. 94bis",
     "date_display": "1947/11/21",
     "date_sort": "1947-11-21",
@@ -298,7 +298,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC broadcast",
     "labels": [
       "unissued"
@@ -310,12 +310,12 @@
   {
     "id": 15,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": 267.0,
+    "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1947/11/21",
     "date_sort": "1947-11-21",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC broadcast",
     "labels": [
       "unissued"
@@ -327,7 +327,7 @@
   {
     "id": 16,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Violin Concerto in D major",
     "date_display": "1948/03/25",
     "date_sort": "1948-03-25",
@@ -338,7 +338,7 @@
       }
     ],
     "orchestra": "BBC Symphony Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -349,7 +349,7 @@
   {
     "id": 17,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
     "date_display": "1948/07/29",
     "date_sort": "1948-07-29",
@@ -359,8 +359,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -371,7 +371,7 @@
   {
     "id": 18,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Divertimento",
     "date_display": "1948/07/29",
     "date_sort": "1948-07-29",
@@ -381,8 +381,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -393,7 +393,7 @@
   {
     "id": 19,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Violin Concerto in D major",
     "date_display": "1950/05/31",
     "date_sort": "1950-05-31",
@@ -404,7 +404,7 @@
       }
     ],
     "orchestra": "Belgian National Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -415,7 +415,7 @@
   {
     "id": 20,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
     "date_display": "1951/03/02",
     "date_sort": "1951-03-02",
@@ -425,8 +425,8 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -437,7 +437,7 @@
   {
     "id": 21,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
     "date_display": "1951/04/23",
     "date_sort": "1951-04-23",
@@ -454,12 +454,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 22,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1951/05/29",
     "date_sort": "1951-05-29",
@@ -470,7 +470,7 @@
       }
     ],
     "orchestra": "Belgian National Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -481,7 +481,7 @@
   {
     "id": 23,
     "composer": "Veracini, Francesco Maria",
-    "composer_id": 247.0,
+    "composer_id": "247",
     "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
     "date_display": "1953/04/07",
     "date_sort": "1953-04-07",
@@ -491,8 +491,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -503,7 +503,7 @@
   {
     "id": 24,
     "composer": "Ravel, Maurice",
-    "composer_id": 188.0,
+    "composer_id": "188",
     "work": "Tzigane",
     "date_display": "1953/04/07",
     "date_sort": "1953-04-07",
@@ -513,19 +513,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 25,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Violin Concerto in D major",
     "date_display": "1953/07/16",
     "date_sort": "1953-07-16",
@@ -536,18 +536,18 @@
       }
     ],
     "orchestra": "WDR Symphony Orchestra Cologne",
-    "location": null,
+    "location": "",
     "labels": [
       "Archipel"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 26,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
     "date_display": "1954/07/07",
     "date_sort": "1954-07-07",
@@ -558,18 +558,18 @@
       }
     ],
     "orchestra": "Stuttgart Radio Symphony Orchestra(-2016)",
-    "location": null,
+    "location": "",
     "labels": [
       "SWR Classic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 27,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
     "date_display": "1955/09/06",
     "date_sort": "1955-09-06",
@@ -579,19 +579,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Salle du Parlement, Besançon",
     "labels": [
       "RTVE"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 28,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 378",
     "date_display": "1955/09/06",
     "date_sort": "1955-09-06",
@@ -601,7 +601,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Salle du Parlement, Besançon",
     "labels": [
       "Doremi",
@@ -609,12 +609,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 29,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
     "date_display": "1955/09/06",
     "date_sort": "1955-09-06",
@@ -624,19 +624,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Salle du Parlement, Besançon",
     "labels": [
       "RTVE"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 30,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
     "date_display": "1955/09/07",
     "date_sort": "1955-09-07",
@@ -658,7 +658,7 @@
   {
     "id": 31,
     "composer": "Bartók, Béla",
-    "composer_id": 14.0,
+    "composer_id": "14",
     "work": "Violin Concerto No. 2",
     "date_display": "1956/02/23",
     "date_sort": "1956-02-23",
@@ -668,24 +668,24 @@
         "role": "conductor"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre des Champs-Elysées, Paris",
     "labels": [
       "Forgotten Records"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 32,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": 267.0,
+    "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1956/02/23",
     "date_sort": "1956-02-23",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre des Champs-Elysées, Paris",
     "labels": [
       "Forgotten Records",
@@ -693,12 +693,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 33,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 454",
     "date_display": "1956/06/19",
     "date_sort": "1956-06-19",
@@ -708,19 +708,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Palais des Fêtes, Strasbourg",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 34,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in F major, K. 376",
     "date_display": "1956/06/19",
     "date_sort": "1956-06-19",
@@ -730,19 +730,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Palais des Fêtes, Strasbourg",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 35,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
     "date_display": "1956/06/19",
     "date_sort": "1956-06-19",
@@ -752,19 +752,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Palais des Fêtes, Strasbourg",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 36,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in A major, K. 526",
     "date_display": "1956/06/19",
     "date_sort": "1956-06-19",
@@ -774,19 +774,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Palais des Fêtes, Strasbourg",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 37,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Adagio con molta espressione from Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
     "date_display": "1956/06/19",
     "date_sort": "1956-06-19",
@@ -796,7 +796,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Palais des Fêtes, Strasbourg",
     "labels": [
       "meloclassic",
@@ -804,12 +804,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 38,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 454",
     "date_display": "1957/09/18",
     "date_sort": "1957-09-18",
@@ -819,7 +819,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre municipal, Besançon",
     "labels": [
       "Music & Arts",
@@ -828,12 +828,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 39,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
     "date_display": "1957/09/18",
     "date_sort": "1957-09-18",
@@ -843,7 +843,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre municipal, Besançon",
     "labels": [
       "Music & Arts",
@@ -851,12 +851,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 40,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
     "date_display": "1957/09/18",
     "date_sort": "1957-09-18",
@@ -866,7 +866,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre municipal, Besançon",
     "labels": [
       "Music & Arts",
@@ -875,12 +875,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 41,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
     "date_display": "1957/09/18",
     "date_sort": "1957-09-18",
@@ -890,7 +890,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Théâtre municipal, Besançon",
     "labels": [
       "Music & Arts",
@@ -898,12 +898,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 42,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Violin Concerto in D major",
     "date_display": "1958/09/08",
     "date_sort": "1958-09-08",
@@ -925,7 +925,7 @@
   {
     "id": 43,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
     "date_display": "1959/09/12",
     "date_sort": "1959-09-12",
@@ -935,8 +935,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -947,7 +947,7 @@
   {
     "id": 44,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
     "date_display": "1959/09/12",
     "date_sort": "1959-09-12",
@@ -957,8 +957,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -969,13 +969,13 @@
   {
     "id": 45,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": 267.0,
+    "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1959/09/12",
     "date_sort": "1959-09-12",
     "accompanists": [],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -986,7 +986,7 @@
   {
     "id": 46,
     "composer": "Bartók, Béla",
-    "composer_id": 14.0,
+    "composer_id": "14",
     "work": "Romanian Folk Dances, Sz. 56",
     "date_display": "1959/09/12",
     "date_sort": "1959-09-12",
@@ -996,8 +996,8 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1008,7 +1008,7 @@
   {
     "id": 47,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1960/01/27",
     "date_sort": "1960-01-27",
@@ -1023,12 +1023,12 @@
     "labels": [],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 48,
     "composer": "Veracini, Francesco Maria",
-    "composer_id": 247.0,
+    "composer_id": "247",
     "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
     "date_display": "1960/04/26",
     "date_sort": "1960-04-26",
@@ -1038,7 +1038,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Swedish Academy of Music, Stockholm",
     "labels": [
       "Valkyrie Disc"
@@ -1050,7 +1050,7 @@
   {
     "id": 49,
     "composer": "Bartók, Béla",
-    "composer_id": 14.0,
+    "composer_id": "14",
     "work": "Romanian Folk Dances, Sz. 56",
     "date_display": "1960/04/26",
     "date_sort": "1960-04-26",
@@ -1060,7 +1060,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Swedish Academy of Music, Stockholm",
     "labels": [
       "Valkyrie Disc"
@@ -1072,7 +1072,7 @@
   {
     "id": 50,
     "composer": "Falla, Manuel de",
-    "composer_id": 75.0,
+    "composer_id": "75",
     "work": "Jota from Seven Popular Spanish Songs(Arr. by Kochanski)",
     "date_display": "1960/04/26",
     "date_sort": "1960-04-26",
@@ -1082,7 +1082,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Swedish Academy of Music, Stockholm",
     "labels": [
       "Valkyrie Disc"
@@ -1094,7 +1094,7 @@
   {
     "id": 51,
     "composer": "Ravel, Maurice",
-    "composer_id": 188.0,
+    "composer_id": "188",
     "work": "Pièce en Forme de Habanera",
     "date_display": "1960/04/26",
     "date_sort": "1960-04-26",
@@ -1104,7 +1104,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Swedish Academy of Music, Stockholm",
     "labels": [
       "Valkyrie Disc"
@@ -1116,7 +1116,7 @@
   {
     "id": 52,
     "composer": "Fiocco, Joseph Hector",
-    "composer_id": 79.0,
+    "composer_id": "79",
     "work": "Allegro",
     "date_display": "1960/04/26",
     "date_sort": "1960-04-26",
@@ -1126,7 +1126,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Swedish Academy of Music, Stockholm",
     "labels": [
       "Valkyrie Disc"
@@ -1138,7 +1138,7 @@
   {
     "id": 53,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
     "date_display": "1960/11/09",
     "date_sort": "1960-11-09",
@@ -1155,12 +1155,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 54,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
     "date_display": "1964/04/10",
     "date_sort": "1964-04-10",
@@ -1181,12 +1181,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 55,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1965",
     "date_sort": "1965-01-01",
@@ -1197,7 +1197,7 @@
       }
     ],
     "orchestra": "Belgian National Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1208,7 +1208,7 @@
   {
     "id": 56,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1966/11/05",
     "date_sort": "1966-11-05",
@@ -1225,12 +1225,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 57,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1967/10/11",
     "date_sort": "1967-10-11",
@@ -1241,7 +1241,7 @@
       }
     ],
     "orchestra": "Orchestre de la Suisse Romande",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1252,7 +1252,7 @@
   {
     "id": 58,
     "composer": "Haydn, Michael",
-    "composer_id": 312.0,
+    "composer_id": "312",
     "work": "Violin Concerto in A major, MH 207",
     "date_display": "1968/07/05",
     "date_sort": "1968-07-05",
@@ -1274,7 +1274,7 @@
   {
     "id": 59,
     "composer": "Ravel, Maurice",
-    "composer_id": 188.0,
+    "composer_id": "188",
     "work": "Tzigane",
     "date_display": "1968/07/05",
     "date_sort": "1968-07-05",
@@ -1296,7 +1296,7 @@
   {
     "id": 60,
     "composer": "Berg, Alban",
-    "composer_id": 20.0,
+    "composer_id": "20",
     "work": "Violin Concerto",
     "date_display": "1968/10/12",
     "date_sort": "1968-10-12",
@@ -1313,12 +1313,12 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null
+    "reference": ""
   },
   {
     "id": 61,
     "composer": "Stravinsky, Igor",
-    "composer_id": 229.0,
+    "composer_id": "229",
     "work": "Violin Concerto in D major",
     "date_display": "1969/01/19",
     "date_sort": "1969-01-19",
@@ -1340,7 +1340,7 @@
   {
     "id": 62,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
     "date_display": "1969/06/17",
     "date_sort": "1969-06-17",
@@ -1362,7 +1362,7 @@
   {
     "id": 63,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
     "date_display": "1971/02/19",
     "date_sort": "1971-02-19",
@@ -1379,7 +1379,7 @@
   {
     "id": 64,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
     "date_display": "1971/02/19",
     "date_sort": "1971-02-19",
@@ -1396,7 +1396,7 @@
   {
     "id": 65,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Adagio in E major, K. 261",
     "date_display": "1971/02/19",
     "date_sort": "1971-02-19",
@@ -1413,7 +1413,7 @@
   {
     "id": 66,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Rondo in C major, K. 373",
     "date_display": "1971/02/19",
     "date_sort": "1971-02-19",
@@ -1430,7 +1430,7 @@
   {
     "id": 67,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1973/09/12",
     "date_sort": "1973-09-12",
@@ -1441,7 +1441,7 @@
       }
     ],
     "orchestra": "Staatskapelle Dresden",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1452,7 +1452,7 @@
   {
     "id": 68,
     "composer": "Bruch, Max",
-    "composer_id": 37.0,
+    "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
     "date_display": "1973/09/27",
     "date_sort": "1973-09-27",
@@ -1474,7 +1474,7 @@
   {
     "id": 69,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1973/11/25",
     "date_sort": "1973-11-25",
@@ -1496,7 +1496,7 @@
   {
     "id": 70,
     "composer": "Berg, Alban",
-    "composer_id": 20.0,
+    "composer_id": "20",
     "work": "Violin Concerto",
     "date_display": "1974/10/17",
     "date_sort": "1974-10-17",
@@ -1507,7 +1507,7 @@
       }
     ],
     "orchestra": "Frankfurt Radio Symphony Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1518,7 +1518,7 @@
   {
     "id": 71,
     "composer": "Bruch, Max",
-    "composer_id": 37.0,
+    "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
     "date_display": "1976",
     "date_sort": "1976-01-01",
@@ -1540,7 +1540,7 @@
   {
     "id": 72,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
     "date_display": "1977",
     "date_sort": "1977-01-01",
@@ -1551,7 +1551,7 @@
       }
     ],
     "orchestra": "Frankfurt Radio Symphony Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1562,7 +1562,7 @@
   {
     "id": 73,
     "composer": "Vivaldi, Antonio",
-    "composer_id": 253.0,
+    "composer_id": "253",
     "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
     "date_display": "1978/08/26",
     "date_sort": "1978-08-26",
@@ -1584,7 +1584,7 @@
   {
     "id": 74,
     "composer": "Vivaldi, Antonio",
-    "composer_id": 253.0,
+    "composer_id": "253",
     "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
     "date_display": "1978/08/26",
     "date_sort": "1978-08-26",
@@ -1606,7 +1606,7 @@
   {
     "id": 75,
     "composer": "Vivaldi, Antonio",
-    "composer_id": 253.0,
+    "composer_id": "253",
     "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
     "date_display": "1978/08/26",
     "date_sort": "1978-08-26",
@@ -1628,7 +1628,7 @@
   {
     "id": 76,
     "composer": "Vivaldi, Antonio",
-    "composer_id": 253.0,
+    "composer_id": "253",
     "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
     "date_display": "1978/08/26",
     "date_sort": "1978-08-26",
@@ -1650,7 +1650,7 @@
   {
     "id": 77,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
     "date_display": "1980/03/04",
     "date_sort": "1980-03-04",
@@ -1672,7 +1672,7 @@
   {
     "id": 78,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
     "date_display": "1980/03/04",
     "date_sort": "1980-03-04",
@@ -1694,7 +1694,7 @@
   {
     "id": 79,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
     "date_display": "1980/03/04",
     "date_sort": "1980-03-04",
@@ -1716,7 +1716,7 @@
   {
     "id": 80,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
     "date_display": "1980/03/06",
     "date_sort": "1980-03-06",
@@ -1738,7 +1738,7 @@
   {
     "id": 81,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Rondo in C major, K. 373",
     "date_display": "1980/03/06",
     "date_sort": "1980-03-06",
@@ -1760,7 +1760,7 @@
   {
     "id": 82,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
     "date_display": "1980/03/09",
     "date_sort": "1980-03-09",
@@ -1782,7 +1782,7 @@
   {
     "id": 83,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": 156.0,
+    "composer_id": "156",
     "work": "Rondo in C major, K. 373",
     "date_display": "1980/03/09",
     "date_sort": "1980-03-09",
@@ -1804,12 +1804,12 @@
   {
     "id": 84,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
     "date_display": "1980/03/09",
     "date_sort": "1980-03-09",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Volkshaus, Basel",
     "labels": [
       "unissued"
