@@ -1073,7 +1073,7 @@
     "id": 46,
     "composer": "Schubert, Franz",
     "composer_id": "210",
-    "work": "Quintet in C major, D. 956",
+    "work": "String Quintet in C major, D. 956",
     "date_display": "1965/07/17",
     "date_sort": "1965-07-17",
     "accompanists": [
@@ -1102,8 +1102,8 @@
     "is_live": true,
     "notes": "live at Spoleto Festival",
     "reference": "Schubert: Quintetto in do mag op 163 | Quartetto Guarneri & Jacqueline Du Prè (Spoleto 17.7.1965)",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 956.0
   },
   {
     "id": 47,

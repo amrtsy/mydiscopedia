@@ -14279,7 +14279,7 @@
   {
     "id": 587,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "",
+    "composer_id": "10",
     "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
     "date_display": "1976/12/20",
     "date_sort": "1976-12-20",
@@ -14297,8 +14297,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "Henryk Szeryng, 1976 violin recital | 92Y Concerts",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1002.0
   },
   {
     "id": 588,

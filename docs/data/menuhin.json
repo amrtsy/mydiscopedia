@@ -15907,7 +15907,7 @@
   {
     "id": 649,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": "",
+    "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1966/01/21-22,24-25",
     "date_sort": "1966-01-21",
@@ -15926,8 +15926,8 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 61.0
   },
   {
     "id": 650,
