@@ -2,7 +2,7 @@
   {
     "id": 1,
     "composer": "Falla, Manuel de",
-    "composer_id": 75.0,
+    "composer_id": "75",
     "work": "Seven Popular Spanish Songs(Arr. by Maréchal)",
     "date_display": "1961/03/22",
     "date_sort": "1961-03-22",
@@ -12,7 +12,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -20,14 +20,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 2,
     "composer": "Handel, George Frideric",
-    "composer_id": 108.0,
+    "composer_id": "108",
     "work": "Cello Sonata in G minor(Arr. by Slatter), HWV 287",
     "date_display": "1961/03/22",
     "date_sort": "1961-03-22",
@@ -37,7 +37,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -45,14 +45,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 287.0
   },
   {
     "id": 3,
     "composer": "Granados, Enrique",
-    "composer_id": 100.0,
+    "composer_id": "100",
     "work": "Intermezzo from Goyescas(Arr. by Cassadò)",
     "date_display": "1962",
     "date_sort": "1962-01-01",
@@ -62,19 +62,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [],
     "is_live": false,
     "notes": "broadcasted on BBC Television on 4th Feb, 1962",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 4,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Song without Words in D major, Op. 109",
     "date_display": "1962",
     "date_sort": "1962-01-01",
@@ -84,19 +84,19 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [],
     "is_live": false,
     "notes": "broadcasted on BBC Television on 4th Feb, 1962",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 109.0
   },
   {
     "id": 5,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Allegro appationato, Op. 43",
     "date_display": "1962",
     "date_sort": "1962-01-01",
@@ -106,24 +106,24 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [],
     "is_live": false,
     "notes": "broadcasted on BBC Television on 4th Feb, 1962",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 43.0
   },
   {
     "id": 6,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Suite No. 1 in G major, BWV 1007",
     "date_display": "1962/01/07",
     "date_sort": "1962-01-07",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -131,19 +131,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1007.0
   },
   {
     "id": 7,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Suite No. 2 in D minor, BWV 1008",
     "date_display": "1962/01/26",
     "date_sort": "1962-01-26",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -151,14 +151,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1008.0
   },
   {
     "id": 8,
     "composer": "Ibert, Jacques",
-    "composer_id": 117.0,
+    "composer_id": "117",
     "work": "Cello Concerto",
     "date_display": "1962/02/12",
     "date_sort": "1962-02-12",
@@ -175,14 +175,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": null
   },
   {
     "id": 9,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1962/06/26",
     "date_sort": "1962-06-26",
@@ -199,14 +199,14 @@
     ],
     "is_live": true,
     "notes": "live at Chester Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 10,
     "composer": "Rubbra, Edmund",
-    "composer_id": 301.0,
+    "composer_id": "301",
     "work": "Sonata in G Minor, Op. 60",
     "date_display": "1962/07/06",
     "date_sort": "1962-07-06",
@@ -216,21 +216,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "BBC Legends"
     ],
     "is_live": true,
     "notes": "live at Cheltenham Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 60.0
   },
   {
     "id": 11,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Adagio(Arr. by Siloti), BWV 564",
     "date_display": "1962/07/15",
     "date_sort": "1962-07-15",
@@ -240,7 +240,7 @@
         "role": "organ"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -248,14 +248,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 564.0
   },
   {
     "id": 12,
     "composer": "Bruch, Max",
-    "composer_id": 37.0,
+    "composer_id": "37",
     "work": "Kol Nidrei, Op. 47",
     "date_display": "1962/07/15",
     "date_sort": "1962-07-15",
@@ -265,7 +265,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -273,14 +273,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 47.0
   },
   {
     "id": 13,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Song without Words in D major, Op. 109",
     "date_display": "1962/07/15",
     "date_sort": "1962-07-15",
@@ -290,7 +290,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -298,14 +298,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 109.0
   },
   {
     "id": 14,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Sonata No. 2 in D major, BWV 1028",
     "date_display": "1962/07/15-16",
     "date_sort": "1962-07-15",
@@ -315,21 +315,21 @@
         "role": "harpsichord"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "Warner"
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1028.0
   },
   {
     "id": 15,
     "composer": "Paradies, Maria Theresia von",
-    "composer_id": 168.0,
+    "composer_id": "168",
     "work": "Sicilienne(Arr. by Dushkin)",
     "date_display": "1962/07/16",
     "date_sort": "1962-07-16",
@@ -339,7 +339,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -347,14 +347,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 16,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Fantasiestücke, Op. 73",
     "date_display": "1962/07/16",
     "date_sort": "1962-07-16",
@@ -364,7 +364,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -372,14 +372,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 73.0
   },
   {
     "id": 17,
     "composer": "Falla, Manuel de",
-    "composer_id": 75.0,
+    "composer_id": "75",
     "work": "Seven Popular Spanish Songs(Arr. by Maréchal)",
     "date_display": "1962/07/21",
     "date_sort": "1962-07-21",
@@ -389,7 +389,7 @@
         "role": "guitar"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -397,14 +397,14 @@
     ],
     "is_live": false,
     "notes": "excerpt(Jota)",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 18,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "The Swan",
     "date_display": "1962/07/21",
     "date_sort": "1962-07-21",
@@ -414,7 +414,7 @@
         "role": "harp"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -422,14 +422,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 19,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1962/08/14",
     "date_sort": "1962-08-14",
@@ -446,14 +446,14 @@
     ],
     "is_live": true,
     "notes": "live at BBC Proms",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 20,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1962/09/03",
     "date_sort": "1962-09-03",
@@ -463,7 +463,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Freeman's Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -471,14 +471,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 99.0
   },
   {
     "id": 21,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1962/10/24",
     "date_sort": "1962-10-24",
@@ -495,14 +495,14 @@
     ],
     "is_live": true,
     "notes": "live; UN day concert",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 22,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1962/12/02",
     "date_sort": "1962-12-02",
@@ -519,14 +519,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 129.0
   },
   {
     "id": 23,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1963/03/05",
     "date_sort": "1963-03-05",
@@ -543,14 +543,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 129.0
   },
   {
     "id": 24,
     "composer": "Couperin, François",
-    "composer_id": 52.0,
+    "composer_id": "52",
     "work": "Concert No. 13 in G major 'Les Goûts réunis'",
     "date_display": "1963/03/17",
     "date_sort": "1963-03-17",
@@ -560,7 +560,7 @@
         "role": "cello"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -568,14 +568,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 25,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1963/08/22",
     "date_sort": "1963-08-22",
@@ -592,14 +592,14 @@
     ],
     "is_live": true,
     "notes": "live at BBC Proms",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 26,
     "composer": "Paradies, Maria Theresia von",
-    "composer_id": 168.0,
+    "composer_id": "168",
     "work": "Sicilienne(Arr. by Dushkin)",
     "date_display": "1963/10/08",
     "date_sort": "1963-10-08",
@@ -609,7 +609,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -617,14 +617,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 27,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Fantasiestücke, Op. 73",
     "date_display": "1963/10/08",
     "date_sort": "1963-10-08",
@@ -634,7 +634,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -642,14 +642,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 73.0
   },
   {
     "id": 28,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1964/09/03",
     "date_sort": "1964-09-03",
@@ -666,14 +666,14 @@
     ],
     "is_live": true,
     "notes": "live at BBC Proms",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 29,
     "composer": "Rainier, Priaulx",
-    "composer_id": 184.0,
+    "composer_id": "184",
     "work": "Cello Concerto",
     "date_display": "1964/09/03",
     "date_sort": "1964-09-03",
@@ -690,33 +690,33 @@
     ],
     "is_live": true,
     "notes": "live at BBC Proms",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": null
   },
   {
     "id": 30,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Suite No. 5 in C minor, BWV 1011",
     "date_display": "1964/09/29",
     "date_sort": "1964-09-29",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Westminster Abbey, London",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1011.0
   },
   {
     "id": 31,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Sonata No. 3 in G minor, BWV 1029",
     "date_display": "1964/09/29",
     "date_sort": "1964-09-29",
@@ -726,21 +726,21 @@
         "role": "harpsichord"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Westminster Abbey, London",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1029.0
   },
   {
     "id": 32,
     "composer": "Rubbra, Edmund",
-    "composer_id": 301.0,
+    "composer_id": "301",
     "work": "Soliloquy, Op. 57",
     "date_display": "1965",
     "date_sort": "1965-01-01",
@@ -751,20 +751,20 @@
       }
     ],
     "orchestra": "Newbury String Players",
-    "location": null,
+    "location": "",
     "labels": [
       "Cello Classics"
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 57.0
   },
   {
     "id": 33,
     "composer": "Delius, Frederick",
-    "composer_id": 60.0,
+    "composer_id": "60",
     "work": "Cello Concerto",
     "date_display": "1965/01/12&14",
     "date_sort": "1965-01-12",
@@ -782,14 +782,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 34,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1965/02/09",
     "date_sort": "1965-02-09",
@@ -806,14 +806,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 35,
     "composer": "Britten, Benjamin",
-    "composer_id": 36.0,
+    "composer_id": "36",
     "work": "Cello Sonata in C major, Op. 65",
     "date_display": "1965/02/25",
     "date_sort": "1965-02-25",
@@ -823,7 +823,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "BBC Studios, London",
     "labels": [
       "EMI",
@@ -831,14 +831,14 @@
     ],
     "is_live": false,
     "notes": "excerpt(Marcia & Scherzo)",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 65.0
   },
   {
     "id": 36,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1965/05/11",
     "date_sort": "1965-05-11",
@@ -862,26 +862,26 @@
   {
     "id": 37,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Suite No. 3 in C major, BWV 1009",
     "date_display": "1965/06/11",
     "date_sort": "1965-06-11",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Schloss Ettlingen, Ettlingen",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1009.0
   },
   {
     "id": 38,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
     "date_display": "1965/06/11",
     "date_sort": "1965-06-11",
@@ -891,21 +891,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Schloss Ettlingen, Ettlingen",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 102.2
   },
   {
     "id": 39,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Fantasiestücke, Op. 73",
     "date_display": "1965/06/11",
     "date_sort": "1965-06-11",
@@ -915,21 +915,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Schloss Ettlingen, Ettlingen",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 73.0
   },
   {
     "id": 40,
     "composer": "Britten, Benjamin",
-    "composer_id": 36.0,
+    "composer_id": "36",
     "work": "Cello Sonata in C major, Op. 65",
     "date_display": "1965/06/11",
     "date_sort": "1965-06-11",
@@ -939,21 +939,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Schloss Ettlingen, Ettlingen",
     "labels": [
       "meloclassic"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 65.0
   },
   {
     "id": 41,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
     "date_display": "1965/06/23",
     "date_sort": "1965-06-23",
@@ -970,33 +970,33 @@
     ],
     "is_live": true,
     "notes": "live; BBC Home Service",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 7.1
   },
   {
     "id": 42,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Suite No. 3 in C major, BWV 1009",
     "date_display": "1965/07/10",
     "date_sort": "1965-07-10",
     "accompanists": [],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik"
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1009.0
   },
   {
     "id": 43,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
     "date_display": "1965/07/13",
     "date_sort": "1965-07-13",
@@ -1006,21 +1006,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik"
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 102.2
   },
   {
     "id": 44,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 70 No. 2",
     "date_display": "1965/07/14",
     "date_sort": "1965-07-14",
@@ -1034,7 +1034,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "unissued"
@@ -1048,7 +1048,7 @@
   {
     "id": 45,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 3 in A major, Op. 69",
     "date_display": "1965/07/15",
     "date_sort": "1965-07-15",
@@ -1058,21 +1058,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik"
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 69.0
   },
   {
     "id": 46,
     "composer": "Schubert, Franz",
-    "composer_id": 210.0,
+    "composer_id": "210",
     "work": "Quintet in C major, D. 956",
     "date_display": "1965/07/17",
     "date_sort": "1965-07-17",
@@ -1094,7 +1094,7 @@
         "role": "cello"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "unissued"
@@ -1108,7 +1108,7 @@
   {
     "id": 47,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Fantasiestücke, Op. 73",
     "date_display": "1965/07/18",
     "date_sort": "1965-07-18",
@@ -1118,7 +1118,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik",
@@ -1126,14 +1126,14 @@
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 73.0
   },
   {
     "id": 48,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Piano Trio No. 1 in D minor, Op. 49",
     "date_display": "1965/07/18",
     "date_sort": "1965-07-18",
@@ -1147,7 +1147,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik",
@@ -1155,14 +1155,14 @@
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 49.0
   },
   {
     "id": 49,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1965/08/19",
     "date_sort": "1965-08-19",
@@ -1180,14 +1180,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 50,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1965/09/01",
     "date_sort": "1965-09-01",
@@ -1211,7 +1211,7 @@
   {
     "id": 51,
     "composer": "Bloch, Ernest",
-    "composer_id": 27.0,
+    "composer_id": "27",
     "work": "Schelomo: Rhapsodie Hébraïque",
     "date_display": "1965/09/03",
     "date_sort": "1965-09-03",
@@ -1235,7 +1235,7 @@
   {
     "id": 52,
     "composer": "Bruch, Max",
-    "composer_id": 37.0,
+    "composer_id": "37",
     "work": "Kol Nidrei, Op. 47",
     "date_display": "1965/09/09",
     "date_sort": "1965-09-09",
@@ -1253,14 +1253,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 47.0
   },
   {
     "id": 53,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 3 in A major, Op. 69",
     "date_display": "1965/12/19-23",
     "date_sort": "1965-12-19",
@@ -1270,7 +1270,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Abbey Road Studios, London",
     "labels": [
       "EMI",
@@ -1278,14 +1278,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 69.0
   },
   {
     "id": 54,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
     "date_display": "1965/12/19-23",
     "date_sort": "1965-12-19",
@@ -1295,7 +1295,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Abbey Road Studios, London",
     "labels": [
       "EMI",
@@ -1303,14 +1303,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 102.2
   },
   {
     "id": 55,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": 10.0,
+    "composer_id": "10",
     "work": "Cello Sonata No. 2 in D major, BWV 1028",
     "date_display": "1966/07/08",
     "date_sort": "1966-07-08",
@@ -1320,7 +1320,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "unissued"
@@ -1334,7 +1334,7 @@
   {
     "id": 56,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Piano Trio No. 2 in C major, Op. 87",
     "date_display": "1966/07/10",
     "date_sort": "1966-07-10",
@@ -1348,21 +1348,21 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik"
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 87.0
   },
   {
     "id": 57,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "String Trio in G major, Op. 9 No. 1",
     "date_display": "1966/07/12",
     "date_sort": "1966-07-12",
@@ -1376,7 +1376,7 @@
         "role": "viola"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik",
@@ -1384,14 +1384,14 @@
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9.1
   },
   {
     "id": 58,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1966/07/13",
     "date_sort": "1966-07-13",
@@ -1401,7 +1401,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Teatro Caio Melisso, Spoleto",
     "labels": [
       "Karna Musik",
@@ -1409,14 +1409,14 @@
     ],
     "is_live": true,
     "notes": "live at Spoleto Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 99.0
   },
   {
     "id": 59,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 3 in A major, Op. 69",
     "date_display": "1966/11/07",
     "date_sort": "1966-11-07",
@@ -1426,7 +1426,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
@@ -1440,7 +1440,7 @@
   {
     "id": 60,
     "composer": "Debussy, Claude",
-    "composer_id": 58.0,
+    "composer_id": "58",
     "work": "Cello Sonata in D minor",
     "date_display": "1966/11/07",
     "date_sort": "1966-11-07",
@@ -1450,7 +1450,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
@@ -1464,7 +1464,7 @@
   {
     "id": 61,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1966/11/07",
     "date_sort": "1966-11-07",
@@ -1474,7 +1474,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
@@ -1488,7 +1488,7 @@
   {
     "id": 72,
     "composer": "Schubert, Franz",
-    "composer_id": 210.0,
+    "composer_id": "210",
     "work": "Piano Trio No. 1 in B-flat major, D. 898",
     "date_display": "1967",
     "date_sort": "1967-01-01",
@@ -1502,21 +1502,21 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live; BBC One",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 898.0
   },
   {
     "id": 73,
     "composer": "Mendelssohn, Felix",
-    "composer_id": 147.0,
+    "composer_id": "147",
     "work": "Piano Trio No. 1 in D minor, Op. 49",
     "date_display": "1967",
     "date_sort": "1967-01-01",
@@ -1530,21 +1530,21 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live; BBC One",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 49.0
   },
   {
     "id": 74,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Piano Trio No. 2 in C major, Op. 87",
     "date_display": "1967",
     "date_sort": "1967-01-01",
@@ -1558,21 +1558,21 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live; BBC One",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 87.0
   },
   {
     "id": 62,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1967/01/03",
     "date_sort": "1967-01-03",
@@ -1589,14 +1589,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 63,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1967/01/07",
     "date_sort": "1967-01-07",
@@ -1614,14 +1614,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 64,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
     "date_display": "1967/02/16",
     "date_sort": "1967-02-16",
@@ -1645,7 +1645,7 @@
   {
     "id": 65,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1967/02/24",
     "date_sort": "1967-02-24",
@@ -1663,14 +1663,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 66,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1967/03/03",
     "date_sort": "1967-03-03",
@@ -1689,14 +1689,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 129.0
   },
   {
     "id": 67,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
     "date_display": "1967/04/17",
     "date_sort": "1967-04-17",
@@ -1714,14 +1714,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 7.1
   },
   {
     "id": 68,
     "composer": "Boccherini, Luigi",
-    "composer_id": 28.0,
+    "composer_id": "28",
     "work": "Cello Concerto in B-flat major",
     "date_display": "1967/04/24",
     "date_sort": "1967-04-24",
@@ -1739,14 +1739,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": null
   },
   {
     "id": 69,
     "composer": "Shostakovich, Dmitri",
-    "composer_id": 219.0,
+    "composer_id": "219",
     "work": "Cello Concerto No. 1 in E-flat major, Op. 107",
     "date_display": "1967/04/30",
     "date_sort": "1967-04-30",
@@ -1757,20 +1757,20 @@
       }
     ],
     "orchestra": "City of Birmingham Symphony Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC broadcast",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 107.0
   },
   {
     "id": 70,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1967/08/15",
     "date_sort": "1967-08-15",
@@ -1794,7 +1794,7 @@
   {
     "id": 71,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 1 in E minor, Op. 38",
     "date_display": "1967/08/20",
     "date_sort": "1967-08-20",
@@ -1804,7 +1804,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Queen Elizabeth Hall, London",
     "labels": [
       "unissued"
@@ -1818,7 +1818,7 @@
   {
     "id": 75,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1967/09/13",
     "date_sort": "1967-09-13",
@@ -1835,14 +1835,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 76,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1967/11/26",
     "date_sort": "1967-11-26",
@@ -1859,14 +1859,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 77,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Cello Concerto No. 2 in D major, Hob. VIIb:2",
     "date_display": "1967/12/13",
     "date_sort": "1967-12-13",
@@ -1884,14 +1884,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 7.2
   },
   {
     "id": 78,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Clarinet Trio in A minor, Op. 114",
     "date_display": "1968",
     "date_sort": "1968-01-01",
@@ -1905,21 +1905,21 @@
         "role": "clarinet"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Abbey Road Studios, London",
     "labels": [
       "Warner"
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 114.0
   },
   {
     "id": 79,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1968",
     "date_sort": "1968-01-01",
@@ -1929,7 +1929,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "RAI",
     "labels": [
       "unissued"
@@ -1943,7 +1943,7 @@
   {
     "id": 80,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1968/02/16-17",
     "date_sort": "1968-02-16",
@@ -1954,7 +1954,7 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -1967,7 +1967,7 @@
   {
     "id": 81,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 1 in E minor, Op. 38",
     "date_display": "1968/04",
     "date_sort": "1968-04-01",
@@ -1977,7 +1977,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "EMI",
@@ -1985,14 +1985,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 38.0
   },
   {
     "id": 82,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1968/04",
     "date_sort": "1968-04-01",
@@ -2002,7 +2002,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "EMI",
@@ -2010,14 +2010,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 99.0
   },
   {
     "id": 83,
     "composer": "Strauss, Richard",
-    "composer_id": 228.0,
+    "composer_id": "228",
     "work": "Don Juan, Op. 20",
     "date_display": "1968/04/06-07&09",
     "date_sort": "1968-04-06",
@@ -2043,14 +2043,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 20.0
   },
   {
     "id": 84,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1968/04/8-9,5/11",
     "date_sort": "1968-04-08",
@@ -2068,14 +2068,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 129.0
   },
   {
     "id": 85,
     "composer": "Goehr, Alexander",
-    "composer_id": 302.0,
+    "composer_id": "302",
     "work": "Romanza for Cello and Orchestra, Op. 24",
     "date_display": "1968/04/28",
     "date_sort": "1968-04-28",
@@ -2099,7 +2099,7 @@
   {
     "id": 86,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 1 in E minor, Op. 38",
     "date_display": "1968/05/20&08/18",
     "date_sort": "1968-05-20",
@@ -2109,7 +2109,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2117,14 +2117,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 38.0
   },
   {
     "id": 87,
     "composer": "Brahms, Johannes",
-    "composer_id": 34.0,
+    "composer_id": "34",
     "work": "Cello Sonata No. 2 in F major, Op. 99",
     "date_display": "1968/05/20&08/18",
     "date_sort": "1968-05-20",
@@ -2134,7 +2134,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2142,14 +2142,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 99.0
   },
   {
     "id": 88,
     "composer": "Bruch, Max",
-    "composer_id": 37.0,
+    "composer_id": "37",
     "work": "Kol Nidrei, Op. 47",
     "date_display": "1968/06",
     "date_sort": "1968-06-01",
@@ -2167,14 +2167,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 47.0
   },
   {
     "id": 89,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1968/06/04",
     "date_sort": "1968-06-04",
@@ -2198,7 +2198,7 @@
   {
     "id": 90,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1968/07/18",
     "date_sort": "1968-07-18",
@@ -2215,14 +2215,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 33.0
   },
   {
     "id": 91,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1968/08/04",
     "date_sort": "1968-08-04",
@@ -2240,14 +2240,14 @@
     ],
     "is_live": true,
     "notes": "live at Salzburg Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 92,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1968/09/02",
     "date_sort": "1968-09-02",
@@ -2271,7 +2271,7 @@
   {
     "id": 93,
     "composer": "Monn, Matthias Georg",
-    "composer_id": 303.0,
+    "composer_id": "303",
     "work": "Cello Concerto in G minor",
     "date_display": "1968/09/20",
     "date_sort": "1968-09-20",
@@ -2289,14 +2289,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": null
   },
   {
     "id": 94,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1968/09/24",
     "date_sort": "1968-09-24",
@@ -2314,14 +2314,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 33.0
   },
   {
     "id": 95,
     "composer": "Goehr, Alexander",
-    "composer_id": 302.0,
+    "composer_id": "302",
     "work": "Romanza for Cello and Orchestra, Op. 24",
     "date_display": "1968/10/22",
     "date_sort": "1968-10-22",
@@ -2338,14 +2338,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 24.0
   },
   {
     "id": 96,
     "composer": "Schumann, Robert",
-    "composer_id": 212.0,
+    "composer_id": "212",
     "work": "Cello Concerto in A minor, Op. 129",
     "date_display": "1969/01/24",
     "date_sort": "1969-01-24",
@@ -2363,14 +2363,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 129.0
   },
   {
     "id": 97,
     "composer": "Fauré, Gabriel",
-    "composer_id": 76.0,
+    "composer_id": "76",
     "work": "Elégie in C minor, Op. 24",
     "date_display": "1969/04/01",
     "date_sort": "1969-04-01",
@@ -2380,7 +2380,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2388,14 +2388,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 24.0
   },
   {
     "id": 98,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1969/07/25",
     "date_sort": "1969-07-25",
@@ -2412,14 +2412,14 @@
     ],
     "is_live": true,
     "notes": "live at BBC Proms",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 99,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 1 No. 1",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2433,7 +2433,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2441,14 +2441,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1.1
   },
   {
     "id": 100,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in G major, Op. 1 No. 2",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2462,7 +2462,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2470,14 +2470,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1.2
   },
   {
     "id": 101,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2491,7 +2491,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2499,14 +2499,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1.3
   },
   {
     "id": 102,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2520,7 +2520,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2528,14 +2528,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 70.1
   },
   {
     "id": 103,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 70 No. 2",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2549,7 +2549,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2557,14 +2557,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 70.2
   },
   {
     "id": 104,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2578,7 +2578,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2586,14 +2586,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 97.0
   },
   {
     "id": 105,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major, WoO 38",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2607,7 +2607,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2615,14 +2615,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9038.0
   },
   {
     "id": 106,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Variations in G major 'Ich bin der Schneider Kakadu', Op. 121a",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2636,7 +2636,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2644,14 +2644,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 121.0
   },
   {
     "id": 107,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in B-flat major(Allegretto), WoO 39",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2665,7 +2665,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2673,14 +2673,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9039.0
   },
   {
     "id": 108,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major(Allegretto), Hess 48",
     "date_display": "1969/07/29-30,1970/1/3",
     "date_sort": "1969-07-29",
@@ -2694,7 +2694,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2702,14 +2702,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 8048.0
   },
   {
     "id": 109,
     "composer": "Schubert, Franz",
-    "composer_id": 210.0,
+    "composer_id": "210",
     "work": "Piano Quintet in A major 'Trout', D. 667",
     "date_display": "1969/08",
     "date_sort": "1969-08-01",
@@ -2731,21 +2731,21 @@
         "role": "contrabass"
       }
     ],
-    "orchestra": null,
-    "location": null,
+    "orchestra": "",
+    "location": "",
     "labels": [
       "The Christopher Nupen Films"
     ],
     "is_live": true,
     "notes": "live; video material",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 667.0
   },
   {
     "id": 110,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1969/08/03",
     "date_sort": "1969-08-03",
@@ -2763,14 +2763,14 @@
     ],
     "is_live": true,
     "notes": "live at Tanglewood Festival ",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 111,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1969/09/11",
     "date_sort": "1969-09-11",
@@ -2787,14 +2787,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 112,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Variations from Magic Flute in E-flat major, WoO 46",
     "date_display": "1969/09/26",
     "date_sort": "1969-09-26",
@@ -2804,21 +2804,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Berlin",
     "labels": [
       "Lanne Historical Collection"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9046.0
   },
   {
     "id": 113,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in B-flat major, Op. 11",
     "date_display": "1970/01/30",
     "date_sort": "1970-01-30",
@@ -2832,7 +2832,7 @@
         "role": "clarinet"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -2840,14 +2840,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 11.0
   },
   {
     "id": 114,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1970/03/05",
     "date_sort": "1970-03-05",
@@ -2871,7 +2871,7 @@
   {
     "id": 115,
     "composer": "Haydn, Joseph",
-    "composer_id": 110.0,
+    "composer_id": "110",
     "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
     "date_display": "1970/03/05",
     "date_sort": "1970-03-05",
@@ -2895,7 +2895,7 @@
   {
     "id": 116,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
     "date_display": "1970/05/06-17",
     "date_sort": "1970-05-06",
@@ -2909,7 +2909,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "Arkadia",
@@ -2917,14 +2917,14 @@
     ],
     "is_live": true,
     "notes": "live at Brighton Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 1.3
   },
   {
     "id": 117,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 70 No. 2",
     "date_display": "1970/05/06-17",
     "date_sort": "1970-05-06",
@@ -2938,7 +2938,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "Arkadia",
@@ -2946,14 +2946,14 @@
     ],
     "is_live": true,
     "notes": "live at Brighton Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 70.2
   },
   {
     "id": 118,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
     "date_display": "1970/05/06-17",
     "date_sort": "1970-05-06",
@@ -2967,7 +2967,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "Arkadia",
@@ -2975,14 +2975,14 @@
     ],
     "is_live": true,
     "notes": "live at Brighton Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 97.0
   },
   {
     "id": 119,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in B-flat major, Op. 11",
     "date_display": "1970/05/06-17",
     "date_sort": "1970-05-06",
@@ -2996,7 +2996,7 @@
         "role": "clarinet"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "London",
     "labels": [
       "Arkadia",
@@ -3004,14 +3004,14 @@
     ],
     "is_live": true,
     "notes": "live at Brighton Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 11.0
   },
   {
     "id": 120,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
     "date_display": "1970/05/12",
     "date_sort": "1970-05-12",
@@ -3025,7 +3025,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "St John 's Smith Square, London",
     "labels": [
       "The Christopher Nupen Films"
@@ -3039,7 +3039,7 @@
   {
     "id": 121,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 1 in F major, Op. 5 No. 1",
     "date_display": "1970/08/25",
     "date_sort": "1970-08-25",
@@ -3049,7 +3049,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3057,14 +3057,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 5.1
   },
   {
     "id": 122,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 3 in A major, Op. 69",
     "date_display": "1970/08/25",
     "date_sort": "1970-08-25",
@@ -3074,7 +3074,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3082,14 +3082,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 69.0
   },
   {
     "id": 123,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 4 in C major, Op. 102 No. 1",
     "date_display": "1970/08/25",
     "date_sort": "1970-08-25",
@@ -3099,7 +3099,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3107,14 +3107,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 102.1
   },
   {
     "id": 124,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Variations from  Handel's Judas Maccabaeus in G major, WoO 45",
     "date_display": "1970/08/25",
     "date_sort": "1970-08-25",
@@ -3124,7 +3124,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3132,14 +3132,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9045.0
   },
   {
     "id": 125,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 2 in G major, Op. 5 No. 2",
     "date_display": "1970/08/26",
     "date_sort": "1970-08-26",
@@ -3149,7 +3149,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3157,14 +3157,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 5.2
   },
   {
     "id": 126,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Cello Sonata No. 5 in D major, Op. 102 No. 2",
     "date_display": "1970/08/26",
     "date_sort": "1970-08-26",
@@ -3174,7 +3174,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3182,14 +3182,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 102.2
   },
   {
     "id": 127,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Variations from Magic Flute in E-flat major, WoO 46",
     "date_display": "1970/08/26",
     "date_sort": "1970-08-26",
@@ -3199,7 +3199,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3207,14 +3207,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 9046.0
   },
   {
     "id": 128,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": 16.0,
+    "composer_id": "16",
     "work": "Variations from Magic Flute in F major, Op. 66",
     "date_display": "1970/08/26",
     "date_sort": "1970-08-26",
@@ -3224,7 +3224,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Usher Hall, Edinburgh",
     "labels": [
       "EMI",
@@ -3232,14 +3232,14 @@
     ],
     "is_live": true,
     "notes": "live at Edinburgh Festival",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 66.0
   },
   {
     "id": 129,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1970/09/19",
     "date_sort": "1970-09-19",
@@ -3256,14 +3256,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 130,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1970/09/27",
     "date_sort": "1970-09-27",
@@ -3281,14 +3281,14 @@
     ],
     "is_live": true,
     "notes": "live at Saratoga Springs",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 33.0
   },
   {
     "id": 131,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Silent Woods from the Bohemian forest, Op. 68",
     "date_display": "1970/11/11",
     "date_sort": "1970-11-11",
@@ -3306,14 +3306,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 68.0
   },
   {
     "id": 132,
     "composer": "Dvořák, Antonín",
-    "composer_id": 69.0,
+    "composer_id": "69",
     "work": "Cello Concerto in B minor, Op104",
     "date_display": "1970/11/11",
     "date_sort": "1970-11-11",
@@ -3331,14 +3331,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 104.0
   },
   {
     "id": 133,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1970/11/13",
     "date_sort": "1970-11-13",
@@ -3349,7 +3349,7 @@
       }
     ],
     "orchestra": "Cincinnati Symphony Orchestra",
-    "location": null,
+    "location": "",
     "labels": [
       "unissued"
     ],
@@ -3362,7 +3362,7 @@
   {
     "id": 134,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1970/11/27-28",
     "date_sort": "1970-11-27",
@@ -3379,14 +3379,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   },
   {
     "id": 135,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": 197.0,
+    "composer_id": "197",
     "work": "Cello Concerto No. 1 in A minor, Op. 33",
     "date_display": "1971/01/23",
     "date_sort": "1971-01-23",
@@ -3405,14 +3405,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 33.0
   },
   {
     "id": 136,
     "composer": "Chopin, Frédéric François",
-    "composer_id": 48.0,
+    "composer_id": "48",
     "work": "Cello Sonata in G minor, Op. 65",
     "date_display": "1971/12/10-11",
     "date_sort": "1971-12-10",
@@ -3422,7 +3422,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -3430,14 +3430,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 65.0
   },
   {
     "id": 137,
     "composer": "Franck, César",
-    "composer_id": 84.0,
+    "composer_id": "84",
     "work": "Cello Sonata in A major(Arr. by Delsart)",
     "date_display": "1971/12/10-11",
     "date_sort": "1971-12-10",
@@ -3447,7 +3447,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "No. 1 Studio, Abbey Road, London",
     "labels": [
       "EMI",
@@ -3455,14 +3455,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": null
   },
   {
     "id": 138,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": 238.0,
+    "composer_id": "238",
     "work": "Piano Trio in A minor, Op. 50",
     "date_display": "1972/07",
     "date_sort": "1972-07-01",
@@ -3476,7 +3476,7 @@
         "role": "violin"
       }
     ],
-    "orchestra": null,
+    "orchestra": "",
     "location": "Mann Auditorium, Tel Aviv",
     "labels": [
       "EMI",
@@ -3484,14 +3484,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 1,
     "sort_key": 50.0
   },
   {
     "id": 139,
     "composer": "Lalo, Édouard",
-    "composer_id": 130.0,
+    "composer_id": "130",
     "work": "Cello Concerto in D minor",
     "date_display": "1973/01/04&06",
     "date_sort": "1973-01-04",
@@ -3509,14 +3509,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": null
   },
   {
     "id": 140,
     "composer": "Elgar, Edward",
-    "composer_id": 71.0,
+    "composer_id": "71",
     "work": "Cello Concerto in E minor, Op. 85",
     "date_display": "1973/02/08",
     "date_sort": "1973-02-08",
@@ -3533,7 +3533,7 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": null,
+    "reference": "",
     "category_id": 2,
     "sort_key": 85.0
   }
