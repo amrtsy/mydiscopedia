@@ -183,7 +183,12 @@
     const groups = new Map();
     filtered.forEach(d => {
       const key = d.composer + '|' + d.work;
-      if (!groups.has(key)) groups.set(key, { composer: d.composer, work: d.work, recs: [] });
+      if (!groups.has(key)) {
+        groups.set(key, {
+          composer: d.composer, work: d.work, recs: [],
+          category_id: d.category_id, sort_key: d.sort_key,
+        });
+      }
       groups.get(key).recs.push(d);
     });
     groups.forEach(g => g.recs.sort((a, b) => a.date_sort.localeCompare(b.date_sort)));
@@ -191,7 +196,24 @@
     let groupList = [...groups.values()];
 
     // sortMode === 'composer': collapsed accordion, one section per composer.
-    groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || a.work.localeCompare(b.work, 'en'));
+    // Within each composer, order chamber/solo works first (category_id 1),
+    // then orchestral works (category_id 2), then anything not yet
+    // classified in the Works master — each block ordered by sort_key
+    // (works without a sort_key fall to the end of their block, A–Z).
+    function categoryRank(categoryId) {
+      if (categoryId === 1) return 0;
+      if (categoryId === 2) return 1;
+      return 2;
+    }
+    function compareWorks(a, b) {
+      const rankDiff = categoryRank(a.category_id) - categoryRank(b.category_id);
+      if (rankDiff !== 0) return rankDiff;
+      if (a.sort_key != null && b.sort_key != null) return a.sort_key - b.sort_key;
+      if (a.sort_key != null) return -1;
+      if (b.sort_key != null) return 1;
+      return a.work.localeCompare(b.work, 'en');
+    }
+    groupList.sort((a, b) => a.composer.localeCompare(b.composer, 'en') || compareWorks(a, b));
 
     const byComposer = new Map();
     groupList.forEach(g => {

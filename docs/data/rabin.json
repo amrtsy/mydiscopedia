@@ -2,7 +2,7 @@
   {
     "id": 1,
     "composer": "Lalo, Édouard",
-    "composer_id": "130",
+    "composer_id": 130.0,
     "work": "Symphonie espagnole, Op.21",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
@@ -12,87 +12,97 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 21.0
   },
   {
     "id": 2,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.05
   },
   {
     "id": 3,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 11 in C major",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.11
   },
   {
     "id": 4,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.17
   },
   {
     "id": 5,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.24
   },
   {
     "id": 6,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
@@ -102,19 +112,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 7,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Schön Rosmarin",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
@@ -124,19 +136,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 8,
     "composer": "Schalit, Heinrich",
-    "composer_id": "206",
+    "composer_id": 206.0,
     "work": "Serenadecafter a jewish folk song",
     "date_display": "1947/12/14",
     "date_sort": "1947-12-14",
@@ -146,19 +160,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 9,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1949/05/20",
     "date_sort": "1949-05-20",
@@ -168,36 +184,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live; excerpt",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 77.0
   },
   {
     "id": 10,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Partita for Solo Violin No. 2 in D minor, BWV 1004",
     "date_display": "1949/05/20",
     "date_sort": "1949-05-20",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 11,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1949/05/20",
     "date_sort": "1949-05-20",
@@ -207,36 +227,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 12,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
     "date_display": "1949/05/20",
     "date_sort": "1949-05-20",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.05
   },
   {
     "id": 13,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
     "date_display": "1950/04/07",
     "date_sort": "1950-04-07",
@@ -253,199 +277,223 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 14.0
   },
   {
     "id": 14,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 1 in E major",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.01
   },
   {
     "id": 15,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.05
   },
   {
     "id": 16,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 9 in E major",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.09
   },
   {
     "id": 17,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 11 in C major",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.11
   },
   {
     "id": 18,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 13 in B-flat major",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.13
   },
   {
     "id": 19,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 16 in G Minor",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.16
   },
   {
     "id": 20,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 18 in C major",
     "date_display": "1950/05/19",
     "date_sort": "1950-05-19",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.18
   },
   {
     "id": 21,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 14 in E-flat major",
     "date_display": "1950/05/25",
     "date_sort": "1950-05-25",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.14
   },
   {
     "id": 22,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
     "date_display": "1950/05/25",
     "date_sort": "1950-05-25",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.17
   },
   {
     "id": 23,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 21 in A major",
     "date_display": "1950/05/25",
     "date_sort": "1950-05-25",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.21
   },
   {
     "id": 24,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
     "date_display": "1950/05/25",
     "date_sort": "1950-05-25",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.24
   },
   {
     "id": 25,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
     "date_display": "1950/08/07",
     "date_sort": "1950-08-07",
@@ -456,7 +504,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -464,12 +512,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 34.2
   },
   {
     "id": 26,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
     "date_display": "1950/08/07",
     "date_sort": "1950-08-07",
@@ -480,7 +530,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -488,12 +538,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.17
   },
   {
     "id": 27,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1950/08/07",
     "date_sort": "1950-08-07",
@@ -504,19 +556,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 64.0
   },
   {
     "id": 28,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "May Breezes, Op. 62 No. 1",
     "date_display": "1950/12/11",
     "date_sort": "1950-12-11",
@@ -527,7 +581,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -535,12 +589,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 62.1
   },
   {
     "id": 29,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Tambourin Chinois, Op. 3",
     "date_display": "1950/12/11",
     "date_sort": "1950-12-11",
@@ -551,19 +607,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 3.0
   },
   {
     "id": 30,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1950/12/11",
     "date_sort": "1950-12-11",
@@ -574,19 +632,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 31,
     "composer": "Dvořák, Antonín",
-    "composer_id": "69",
+    "composer_id": 69.0,
     "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
     "date_display": "1951/07/09",
     "date_sort": "1951-07-09",
@@ -605,12 +665,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 72.2
   },
   {
     "id": 32,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1951/07/09",
     "date_sort": "1951-07-09",
@@ -629,12 +691,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 33,
     "composer": "Lalo, Édouard",
-    "composer_id": "130",
+    "composer_id": 130.0,
     "work": "Symphonie espagnole, Op.21",
     "date_display": "1951/07/09",
     "date_sort": "1951-07-09",
@@ -653,12 +717,14 @@
     ],
     "is_live": true,
     "notes": "live; 5th movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 21.0
   },
   {
     "id": 34,
     "composer": "Godowsky, Leopold",
-    "composer_id": "97",
+    "composer_id": 97.0,
     "work": "Alt Wien(Arr. by Heifetz)",
     "date_display": "1951/10/22",
     "date_sort": "1951-10-22",
@@ -669,7 +735,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -677,12 +743,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 35,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1951/10/22",
     "date_sort": "1951-10-22",
@@ -693,19 +761,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live; 1st movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 36,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
     "date_display": "1951/12/02",
     "date_sort": "1951-12-02",
@@ -722,12 +792,14 @@
     ],
     "is_live": true,
     "notes": "live\nhttps://youtu.be/GDraRNRnYhA?si=GcwbjIpZLG1lenWR",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 14.0
   },
   {
     "id": 37,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Contemplation(Arr. by Heifetz), Op. 105 No. 1",
     "date_display": "1951/12/17",
     "date_sort": "1951-12-17",
@@ -745,12 +817,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 105.1
   },
   {
     "id": 38,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Caprice Viennois, Op. 2",
     "date_display": "1951/12/17",
     "date_sort": "1951-12-17",
@@ -769,12 +843,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 2.0
   },
   {
     "id": 39,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1951/12/17",
     "date_sort": "1951-12-17",
@@ -792,29 +868,33 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 40,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
     "date_display": "1952/01/11",
     "date_sort": "1952-01-11",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Julliard Concert Hall, New York",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "Michael Rabin plays Bach Sonata in C Major, BWV 1005 - Live, 1952"
+    "reference": "Michael Rabin plays Bach Sonata in C Major, BWV 1005 - Live, 1952",
+    "category_id": 1,
+    "sort_key": 1005.0
   },
   {
     "id": 41,
     "composer": "Dvořák, Antonín",
-    "composer_id": "69",
+    "composer_id": 69.0,
     "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 46 No. 2",
     "date_display": "1952/03/05",
     "date_sort": "1952-03-05",
@@ -824,19 +904,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 46.2
   },
   {
     "id": 42,
     "composer": "Engel, Carl",
-    "composer_id": "73",
+    "composer_id": 73.0,
     "work": "Sea Shell(Arr. by Zimbalist)",
     "date_display": "1952/03/05",
     "date_sort": "1952-03-05",
@@ -846,19 +928,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 43,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1952/03/05",
     "date_sort": "1952-03-05",
@@ -868,19 +952,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 44,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
     "date_display": "1952/03/18",
     "date_sort": "1952-03-18",
@@ -890,19 +976,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 18.41
   },
   {
     "id": 45,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Carmen Fantasy, Op.25",
     "date_display": "1952/03/18",
     "date_sort": "1952-03-18",
@@ -912,19 +1000,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 25.0
   },
   {
     "id": 46,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "La Chasse, Caprice in the style of Cartier",
     "date_display": "1952/03/18",
     "date_sort": "1952-03-18",
@@ -934,19 +1024,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Columbia 30th Street Studios, New York",
     "labels": [
       "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 47,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Concerto for Two Violins in D minor, BWV 1043",
     "date_display": "1952/04/28",
     "date_sort": "1952-04-28",
@@ -961,19 +1053,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; 1st movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1043.0
   },
   {
     "id": 48,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1952/06/09",
     "date_sort": "1952-06-09",
@@ -990,12 +1084,14 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 49,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Sweet Remembrance, Op. 19 No. 1",
     "date_display": "1952/06/09",
     "date_sort": "1952-06-09",
@@ -1012,12 +1108,14 @@
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as July 9th.",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 19.1
   },
   {
     "id": 50,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Etude-Caprice in A minor, Op. 18 No. 4",
     "date_display": "1952/06/09",
     "date_sort": "1952-06-09",
@@ -1035,12 +1133,14 @@
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as July 9th.",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 18.4
   },
   {
     "id": 51,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Polonaise Brilliante in D major, Op. 4",
     "date_display": "1952/06/09",
     "date_sort": "1952-06-09",
@@ -1058,12 +1158,14 @@
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as July 9th.",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 4.0
   },
   {
     "id": 52,
     "composer": "Franck, César",
-    "composer_id": "84",
+    "composer_id": 84.0,
     "work": "Violin Sonata in A major",
     "date_display": "1952/07/02",
     "date_sort": "1952-07-02",
@@ -1073,36 +1175,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 53,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
     "date_display": "1952/07/02",
     "date_sort": "1952-07-02",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1005.0
   },
   {
     "id": 54,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Polonaise Brilliante in D major, Op. 4",
     "date_display": "1952/07/02",
     "date_sort": "1952-07-02",
@@ -1112,19 +1218,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 4.0
   },
   {
     "id": 55,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1952/07/02",
     "date_sort": "1952-07-02",
@@ -1134,53 +1242,59 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 56,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Adagio from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "https://www.newspapers.com/image/990884608/?match=1&terms=michael%20rabin&search-id=92d2f3a2-4442-4e48-b5b6-d64178e5f9c6&search-rank=67"
+    "reference": "https://www.newspapers.com/image/990884608/?match=1&terms=michael%20rabin&search-id=92d2f3a2-4442-4e48-b5b6-d64178e5f9c6&search-rank=67",
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 57,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Fuga from Sonata for Solo Violin No. 1 in G minor, BWV 1001",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 58,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1190,70 +1304,78 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 108.0
   },
   {
     "id": 59,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 11 in C major",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.11
   },
   {
     "id": 60,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 16 in G Minor",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.16
   },
   {
     "id": 61,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 21 in A major",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.21
   },
   {
     "id": 62,
     "composer": "Scriabin, Alexander",
-    "composer_id": "214",
+    "composer_id": 214.0,
     "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1263,19 +1385,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 8.1
   },
   {
     "id": 63,
     "composer": "Godowsky, Leopold",
-    "composer_id": "97",
+    "composer_id": 97.0,
     "work": "Alt Wien(Arr. by Heifetz)",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1285,19 +1409,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 64,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Tambourin Chinois, Op. 3",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1307,19 +1433,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 3.0
   },
   {
     "id": 65,
     "composer": "Ravel, Maurice",
-    "composer_id": "188",
+    "composer_id": 188.0,
     "work": "Tzigane",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1329,19 +1457,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": null
   },
   {
     "id": 66,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Chant d'autumne, Op. 37b No. 10",
     "date_display": "1952/07/08",
     "date_sort": "1952-07-08",
@@ -1351,36 +1481,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 37.1
   },
   {
     "id": 67,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Chaconne from Partita for Solo Violin No. 2 in D minor, BWV 1004",
     "date_display": "1952/07/10",
     "date_sort": "1952-07-10",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 68,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
+    "composer_id": 156.0,
     "work": "Violin Sonata in B-flat major, K. 378",
     "date_display": "1952/07/10",
     "date_sort": "1952-07-10",
@@ -1390,19 +1524,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 378.0
   },
   {
     "id": 69,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1952/07/10",
     "date_sort": "1952-07-10",
@@ -1412,19 +1548,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 70,
     "composer": "Tartini, Giuseppe",
-    "composer_id": "237",
+    "composer_id": 237.0,
     "work": "Fugue in A major(Arr. by Kreisler)",
     "date_display": "1952/07/10",
     "date_sort": "1952-07-10",
@@ -1434,19 +1572,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 71,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Introduction and Tarantelle, Op. 43",
     "date_display": "1952/07/10",
     "date_sort": "1952-07-10",
@@ -1456,19 +1596,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 43.0
   },
   {
     "id": 72,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
+    "composer_id": 16.0,
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
     "date_display": "1952/07/12",
     "date_sort": "1952-07-12",
@@ -1478,19 +1620,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 30.3
   },
   {
     "id": 73,
     "composer": "Chausson, Amédée-Ernest",
-    "composer_id": "46",
+    "composer_id": 46.0,
     "work": "Poème, Op. 25",
     "date_display": "1952/07/12",
     "date_sort": "1952-07-12",
@@ -1500,19 +1644,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 25.0
   },
   {
     "id": 74,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
+    "composer_id": 156.0,
     "work": "Adagio in E major, K. 261",
     "date_display": "1952/07/12",
     "date_sort": "1952-07-12",
@@ -1522,19 +1668,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 261.0
   },
   {
     "id": 75,
     "composer": "Bartók, Béla",
-    "composer_id": "14",
+    "composer_id": 14.0,
     "work": "Romanian Folk Dances, Sz. 56",
     "date_display": "1952/07/12",
     "date_sort": "1952-07-12",
@@ -1544,19 +1692,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Town Hall, Sydney",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 56.0
   },
   {
     "id": 76,
     "composer": "Chopin, Frédéric François",
-    "composer_id": "48",
+    "composer_id": 48.0,
     "work": "Nocturne No. 20 in C-sharp minor(Arr. by Milstein)",
     "date_display": "1952/11/10",
     "date_sort": "1952-11-10",
@@ -1567,19 +1717,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as September 10th.",
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 77,
     "composer": "Falla, Manuel de",
-    "composer_id": "75",
+    "composer_id": 75.0,
     "work": "Danse Espagnole from \"La Vida Breve\"",
     "date_display": "1952/11/10",
     "date_sort": "1952-11-10",
@@ -1590,19 +1742,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as September 10th.",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 78,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Zigeunerweisen, Op. 20 No. 1",
     "date_display": "1952/11/10",
     "date_sort": "1952-11-10",
@@ -1613,19 +1767,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; Parnassus indicates the date as September 10th.",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 20.1
   },
   {
     "id": 79,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
     "date_display": "1953",
     "date_sort": "1953-01-01",
@@ -1642,12 +1798,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 14.0
   },
   {
     "id": 80,
     "composer": "Nováček, Ottokar",
-    "composer_id": "163",
+    "composer_id": 163.0,
     "work": "Perpetuum Mobile, Op. 5 No. 4",
     "date_display": "1953/01/29",
     "date_sort": "1953-01-29",
@@ -1664,12 +1822,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 5.4
   },
   {
     "id": 81,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "Perpetuum Mobile, Op. 11",
     "date_display": "1953/01/29",
     "date_sort": "1953-01-29",
@@ -1686,12 +1846,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 11.0
   },
   {
     "id": 82,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Zigeunerweisen, Op. 20 No. 1",
     "date_display": "1953/01/29",
     "date_sort": "1953-01-29",
@@ -1708,12 +1870,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 20.1
   },
   {
     "id": 83,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1953/02/22",
     "date_sort": "1953-02-22",
@@ -1730,12 +1894,14 @@
     ],
     "is_live": true,
     "notes": "live; Standard Hour",
-    "reference": "https://www.newspapers.com/image/624918407/?match=1&terms=michael%20rabin%20wallenstein&search-id=bf658b50-57ac-40ac-a89c-f3344d805a30&search-rank=45"
+    "reference": "https://www.newspapers.com/image/624918407/?match=1&terms=michael%20rabin%20wallenstein&search-id=bf658b50-57ac-40ac-a89c-f3344d805a30&search-rank=45",
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 84,
     "composer": "Engel, Carl",
-    "composer_id": "73",
+    "composer_id": 73.0,
     "work": "Sea Shell(Arr. by Zimbalist)",
     "date_display": "1953/08/17",
     "date_sort": "1953-08-17",
@@ -1746,18 +1912,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 85,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Old Refrain",
     "date_display": "1953/08/17",
     "date_sort": "1953-08-17",
@@ -1768,19 +1936,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 86,
     "composer": "Scriabin, Alexander",
-    "composer_id": "214",
+    "composer_id": 214.0,
     "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
     "date_display": "1953/08/17",
     "date_sort": "1953-08-17",
@@ -1791,18 +1961,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 8.1
   },
   {
     "id": 87,
     "composer": "Vieuxtemps, Henri",
-    "composer_id": "249",
+    "composer_id": 249.0,
     "work": "Violin Concerto No. 5 in A minor, Op. 37",
     "date_display": "1953/08/17",
     "date_sort": "1953-08-17",
@@ -1813,18 +1985,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; Cadenza, Adagio & Allegro con fuoco",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 37.0
   },
   {
     "id": 88,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Carmen Fantasy, Op.25",
     "date_display": "1953/11/09",
     "date_sort": "1953-11-09",
@@ -1835,19 +2009,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 25.0
   },
   {
     "id": 89,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1953/11/09",
     "date_sort": "1953-11-09",
@@ -1858,18 +2034,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live; 1st movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 64.0
   },
   {
     "id": 90,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
     "date_display": "1954",
     "date_sort": "1954-01-01",
@@ -1879,36 +2057,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Carnegie Hall Digital Collection"
     ],
     "is_live": false,
     "notes": "video material",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 108.0
   },
   {
     "id": 91,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
     "date_display": "1954",
     "date_sort": "1954-01-01",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Carnegie Hall Digital Collection"
     ],
     "is_live": false,
     "notes": "video material",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.05
   },
   {
     "id": 92,
     "composer": "Schubert, Franz",
-    "composer_id": "210",
+    "composer_id": 210.0,
     "work": "Violin Sonata in A major 'Duo', D. 574",
     "date_display": "1954",
     "date_sort": "1954-01-01",
@@ -1918,19 +2100,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Carnegie Hall Digital Collection"
     ],
     "is_live": false,
     "notes": "video material",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 574.0
   },
   {
     "id": 93,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
     "date_display": "1954/02/02",
     "date_sort": "1954-02-02",
@@ -1941,18 +2125,20 @@
       }
     ],
     "orchestra": "Los Angeles Philharmonic",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 14.0
   },
   {
     "id": 94,
     "composer": "Mohaupt, Richard",
-    "composer_id": "153",
+    "composer_id": 153.0,
     "work": "Violin Concerto",
     "date_display": "1954/04/29",
     "date_sort": "1954-04-29",
@@ -1969,12 +2155,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": null
   },
   {
     "id": 95,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1954/05/02",
     "date_sort": "1954-05-02",
@@ -1992,12 +2180,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 96,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Havanaise, Op. 83",
     "date_display": "1954/05/10",
     "date_sort": "1954-05-10",
@@ -2014,12 +2204,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 83.0
   },
   {
     "id": 97,
     "composer": "Debussy, Claude",
-    "composer_id": "58",
+    "composer_id": 58.0,
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
     "date_display": "1954/05/10",
     "date_sort": "1954-05-10",
@@ -2037,12 +2229,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 98,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "Perpetuum Mobile, Op. 11",
     "date_display": "1954/05/10",
     "date_sort": "1954-05-10",
@@ -2059,12 +2253,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 11.0
   },
   {
     "id": 99,
     "composer": "Moszkowski, Moritz",
-    "composer_id": "155",
+    "composer_id": 155.0,
     "work": "Guitarre, Op. 45 No. 2",
     "date_display": "1954/08/23",
     "date_sort": "1954-08-23",
@@ -2075,19 +2271,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 45.2
   },
   {
     "id": 100,
     "composer": "Elgar, Edward",
-    "composer_id": "71",
+    "composer_id": 71.0,
     "work": "La capricieuse, Op. 17",
     "date_display": "1954/08/23",
     "date_sort": "1954-08-23",
@@ -2098,19 +2296,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 17.0
   },
   {
     "id": 101,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Liebesleid",
     "date_display": "1954/08/23",
     "date_sort": "1954-08-23",
@@ -2121,18 +2321,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 102,
     "composer": "Nováček, Ottokar",
-    "composer_id": "163",
+    "composer_id": 163.0,
     "work": "Perpetuum Mobile, Op. 5 No. 4",
     "date_display": "1954/08/23",
     "date_sort": "1954-08-23",
@@ -2143,18 +2345,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 5.4
   },
   {
     "id": 103,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1954/12/12",
     "date_sort": "1954-12-12",
@@ -2171,12 +2375,14 @@
     ],
     "is_live": true,
     "notes": "live; BBC Home Service",
-    "reference": "https://genome.ch.bbc.co.uk/9ea4cb0ca74e0439cc5cd2165be96efe"
+    "reference": "https://genome.ch.bbc.co.uk/9ea4cb0ca74e0439cc5cd2165be96efe",
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 104,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1954/12/17",
     "date_sort": "1954-12-17",
@@ -2194,12 +2400,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 105,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "Violin Concerto No. 1 in D major, Op. 6",
     "date_display": "1955/01/01",
     "date_sort": "1955-01-01",
@@ -2217,12 +2425,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 6.0
   },
   {
     "id": 106,
     "composer": "Rachmaninov, Sergei",
-    "composer_id": "183",
+    "composer_id": 183.0,
     "work": "Rhapsody on a Theme of Paganini(Arr. by Kreisler)",
     "date_display": "1955/03/28",
     "date_sort": "1955-03-28",
@@ -2233,18 +2443,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 107,
     "composer": "Suk, Josef",
-    "composer_id": "230",
+    "composer_id": 230.0,
     "work": "Burleska, Op. 17 No. 4",
     "date_display": "1955/03/28",
     "date_sort": "1955-03-28",
@@ -2255,18 +2467,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 17.4
   },
   {
     "id": 108,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1955/03/28",
     "date_sort": "1955-03-28",
@@ -2277,18 +2491,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 109,
     "composer": "Poldini, Ede",
-    "composer_id": "174",
+    "composer_id": 174.0,
     "work": "Dancing Doll(Arr. by Kreisler)",
     "date_display": "1955/05/16",
     "date_sort": "1955-05-16",
@@ -2299,18 +2515,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 110,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Caprice Viennois, Op. 2",
     "date_display": "1955/05/16",
     "date_sort": "1955-05-16",
@@ -2321,18 +2539,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 2.0
   },
   {
     "id": 111,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1955/05/16",
     "date_sort": "1955-05-16",
@@ -2343,7 +2563,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -2351,12 +2571,14 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 64.0
   },
   {
     "id": 112,
     "composer": "Massenet, Jules",
-    "composer_id": "144",
+    "composer_id": 144.0,
     "work": "Elegie, Op. 10 No. 5",
     "date_display": "1955/05/16",
     "date_sort": "1955-05-16",
@@ -2371,7 +2593,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus",
@@ -2379,12 +2601,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 10.5
   },
   {
     "id": 113,
     "composer": "Dvořák, Antonín",
-    "composer_id": "69",
+    "composer_id": 69.0,
     "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
     "date_display": "1955/06/13",
     "date_sort": "1955-06-13",
@@ -2395,19 +2619,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 72.2
   },
   {
     "id": 114,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "La Chasse, Caprice in the style of Cartier",
     "date_display": "1955/06/13",
     "date_sort": "1955-06-13",
@@ -2418,19 +2644,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 115,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1955/06/13",
     "date_sort": "1955-06-13",
@@ -2441,7 +2669,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -2449,66 +2677,74 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 77.0
   },
   {
     "id": 116,
     "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
+    "composer_id": 10.0,
     "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
     "date_display": "1955/09/30",
     "date_sort": "1955-09-30",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "EMI",
       "Warner"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1005.0
   },
   {
     "id": 117,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": "267",
+    "composer_id": 267.0,
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1955/09/30",
     "date_sort": "1955-09-30",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "EMI",
       "Warner"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 27.3
   },
   {
     "id": 118,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": "267",
+    "composer_id": 267.0,
     "work": "Sonata for Solo Violin in C minor, Op. 27 No. 4",
     "date_display": "1955/09/30",
     "date_sort": "1955-09-30",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "EMI",
       "Warner"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 27.4
   },
   {
     "id": 119,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
     "date_display": "1955/10/24",
     "date_sort": "1955-10-24",
@@ -2519,19 +2755,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 34.2
   },
   {
     "id": 120,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1955/10/24",
     "date_sort": "1955-10-24",
@@ -2542,19 +2780,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 121,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Zigeunerweisen, Op. 20 No. 1",
     "date_display": "1955/10/24",
     "date_sort": "1955-10-24",
@@ -2565,19 +2805,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 20.1
   },
   {
     "id": 122,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Andante cantabile from String Quartet No. 1",
     "date_display": "1955/10/24",
     "date_sort": "1955-10-24",
@@ -2588,18 +2830,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 123,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1956/06/11-12",
     "date_sort": "1956-06-11",
@@ -2617,12 +2861,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 124,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Havanaise, Op. 83",
     "date_display": "1956/06/12",
     "date_sort": "1956-06-12",
@@ -2640,12 +2886,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 83.0
   },
   {
     "id": 125,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1956/06/13",
     "date_sort": "1956-06-13",
@@ -2663,12 +2911,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 126,
     "composer": "Engel, Carl",
-    "composer_id": "73",
+    "composer_id": 73.0,
     "work": "Sea Shell(Arr. by Zimbalist)",
     "date_display": "1956/06/18",
     "date_sort": "1956-06-18",
@@ -2679,7 +2929,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus",
@@ -2687,12 +2937,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 127,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Sweet Remembrance, Op. 19 No. 1",
     "date_display": "1956/06/18",
     "date_sort": "1956-06-18",
@@ -2703,7 +2955,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus",
@@ -2711,12 +2963,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 19.1
   },
   {
     "id": 128,
     "composer": "Prokofiev, Sergei",
-    "composer_id": "179",
+    "composer_id": 179.0,
     "work": "March from 'The Love for Three Oranges'(Arr. by Heifetz)",
     "date_display": "1956/06/18",
     "date_sort": "1956-06-18",
@@ -2727,7 +2981,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus",
@@ -2735,12 +2989,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 129,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Caprice d'après l'Etudes en forme de Valse, Op. 52",
     "date_display": "1956/06/18",
     "date_sort": "1956-06-18",
@@ -2751,7 +3007,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Parnassus",
@@ -2759,12 +3015,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 52.0
   },
   {
     "id": 130,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Old Refrain",
     "date_display": "1956/09/10",
     "date_sort": "1956-09-10",
@@ -2775,19 +3033,21 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 131,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1956/09/10",
     "date_sort": "1956-09-10",
@@ -2798,7 +3058,7 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Tahra",
       "Parnassus",
@@ -2806,12 +3066,14 @@
     ],
     "is_live": true,
     "notes": "live; 1st movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 132,
     "composer": "Ravel, Maurice",
-    "composer_id": "188",
+    "composer_id": 188.0,
     "work": "Tzigane",
     "date_display": "1957/01/01",
     "date_sort": "1957-01-01",
@@ -2829,12 +3091,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": null
   },
   {
     "id": 133,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1957/01/02&04",
     "date_sort": "1957-01-02",
@@ -2852,12 +3116,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 64.0
   },
   {
     "id": 134,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 1 in F-sharp minor, Op. 14",
     "date_display": "1957/01/03&04",
     "date_sort": "1957-01-03",
@@ -2875,12 +3141,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 14.0
   },
   {
     "id": 135,
     "composer": "Bruch, Max",
-    "composer_id": "37",
+    "composer_id": 37.0,
     "work": "Scottish Fantasy in E-flat major, Op. 46",
     "date_display": "1957/01/04",
     "date_sort": "1957-01-04",
@@ -2898,12 +3166,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 46.0
   },
   {
     "id": 136,
     "composer": "Prokofiev, Sergei",
-    "composer_id": "179",
+    "composer_id": 179.0,
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
     "date_display": "1957/01/28",
     "date_sort": "1957-01-28",
@@ -2914,19 +3184,21 @@
       }
     ],
     "orchestra": "WDR Symphony Orchestra Cologne",
-    "location": "",
+    "location": null,
     "labels": [
       "Archipel",
       "Podium"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 63.0
   },
   {
     "id": 137,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1957/02/03",
     "date_sort": "1957-02-03",
@@ -2937,18 +3209,20 @@
       }
     ],
     "orchestra": "BBC Symphony Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "https://genome.ch.bbc.co.uk/d3285a885656ea32abb9a13487e2160c"
+    "reference": "https://genome.ch.bbc.co.uk/d3285a885656ea32abb9a13487e2160c",
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 138,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Romanza andaluza), Op. 22 No. 1",
     "date_display": "1957/06/03",
     "date_sort": "1957-06-03",
@@ -2965,12 +3239,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 22.1
   },
   {
     "id": 139,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
     "date_display": "1957/06/03",
     "date_sort": "1957-06-03",
@@ -2987,12 +3263,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 18.41
   },
   {
     "id": 140,
     "composer": "Bruch, Max",
-    "composer_id": "37",
+    "composer_id": 37.0,
     "work": "Scottish Fantasy in E-flat major, Op. 46",
     "date_display": "1957/06/03",
     "date_sort": "1957-06-03",
@@ -3009,46 +3287,52 @@
     ],
     "is_live": true,
     "notes": "live; 3rd & 4th movements",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 46.0
   },
   {
     "id": 141,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 9 in E major",
     "date_display": "1958",
     "date_sort": "1958-01-01",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 1,
+    "sort_key": 1.09
   },
   {
     "id": 142,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
     "date_display": "1958",
     "date_sort": "1958-01-01",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 1,
+    "sort_key": 1.17
   },
   {
     "id": 143,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Havanaise, Op. 83",
     "date_display": "1958",
     "date_sort": "1958-01-01",
@@ -3058,19 +3342,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 2,
+    "sort_key": 83.0
   },
   {
     "id": 144,
     "composer": "Suk, Josef",
-    "composer_id": "230",
+    "composer_id": 230.0,
     "work": "Burleska, Op. 17 No. 4",
     "date_display": "1958",
     "date_sort": "1958-01-01",
@@ -3080,19 +3366,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 1,
+    "sort_key": 17.4
   },
   {
     "id": 145,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Contemplation(Arr. by Heifetz), Op. 105 No. 1",
     "date_display": "1958",
     "date_sort": "1958-01-01",
@@ -3102,19 +3390,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 1,
+    "sort_key": 105.1
   },
   {
     "id": 146,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
     "date_display": "1958",
     "date_sort": "1958-01-01",
@@ -3124,19 +3414,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": "BBC Television",
-    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6"
+    "reference": "https://genome.ch.bbc.co.uk/5c4bf4cbc8f3dcb25548d15ffb69f1c6",
+    "category_id": 1,
+    "sort_key": 23.2
   },
   {
     "id": 147,
     "composer": "Godowsky, Leopold",
-    "composer_id": "97",
+    "composer_id": 97.0,
     "work": "Alt Wien(Arr. by Heifetz)",
     "date_display": "1958/02/03",
     "date_sort": "1958-02-03",
@@ -3153,12 +3445,14 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 148,
     "composer": "Gardner, Samuel",
-    "composer_id": "87",
+    "composer_id": 87.0,
     "work": "From the Canebreak",
     "date_display": "1958/02/03",
     "date_sort": "1958-02-03",
@@ -3175,12 +3469,14 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 149,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Habañera), Op. 21 No. 2",
     "date_display": "1958/02/03",
     "date_sort": "1958-02-03",
@@ -3197,12 +3493,14 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 21.2
   },
   {
     "id": 150,
     "composer": "Bruch, Max",
-    "composer_id": "37",
+    "composer_id": 37.0,
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
     "date_display": "1958/02/03",
     "date_sort": "1958-02-03",
@@ -3219,17 +3517,19 @@
     ],
     "is_live": true,
     "notes": "live; 3rd movement",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 26.0
   },
   {
     "id": 151,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices(Complete), Op. 1",
     "date_display": "1958/09/05-08",
     "date_sort": "1958-09-05",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3237,12 +3537,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.0
   },
   {
     "id": 152,
     "composer": "Ravel, Maurice",
-    "composer_id": "188",
+    "composer_id": 188.0,
     "work": "Pièce en Forme de Habanera",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3252,7 +3554,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3260,12 +3562,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 153,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3275,7 +3579,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3283,12 +3587,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 23.2
   },
   {
     "id": 154,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Habañera), Op. 21 No. 2",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3298,7 +3604,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3306,12 +3612,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 21.2
   },
   {
     "id": 155,
     "composer": "Chopin, Frédéric François",
-    "composer_id": "48",
+    "composer_id": 48.0,
     "work": "Nocturne in D-flat major(Arr. by Wilhelmj), Op. 27 No. 2",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3321,7 +3629,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3329,12 +3637,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 27.2
   },
   {
     "id": 156,
     "composer": "Mompou, Federico",
-    "composer_id": "154",
+    "composer_id": 154.0,
     "work": "Scenes d'enfants",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3344,7 +3654,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3352,12 +3662,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 157,
     "composer": "Prokofiev, Sergei",
-    "composer_id": "179",
+    "composer_id": 179.0,
     "work": "March from 'The Love for Three Oranges'(Arr. by Heifetz)",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3367,7 +3679,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3375,12 +3687,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 158,
     "composer": "Suk, Josef",
-    "composer_id": "230",
+    "composer_id": 230.0,
     "work": "Burleska, Op. 17 No. 4",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3390,7 +3704,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3398,12 +3712,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 17.4
   },
   {
     "id": 159,
     "composer": "Scriabin, Alexander",
-    "composer_id": "214",
+    "composer_id": 214.0,
     "work": "Etude(Arr. by Szigeti), Op. 8 No. 10",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3413,7 +3729,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3421,12 +3737,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 8.1
   },
   {
     "id": 160,
     "composer": "Elgar, Edward",
-    "composer_id": "71",
+    "composer_id": 71.0,
     "work": "La capricieuse, Op. 17",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3436,7 +3754,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3444,12 +3762,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 17.0
   },
   {
     "id": 161,
     "composer": "Engel, Carl",
-    "composer_id": "73",
+    "composer_id": 73.0,
     "work": "Sea Shell(Arr. by Zimbalist)",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3459,7 +3779,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3467,12 +3787,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 162,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
     "date_display": "1959/03/23&25",
     "date_sort": "1959-03-23",
@@ -3482,7 +3804,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3490,12 +3812,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 18.41
   },
   {
     "id": 163,
     "composer": "Debussy, Claude",
-    "composer_id": "58",
+    "composer_id": 58.0,
     "work": "La puls que lente",
     "date_display": "1959/04/30",
     "date_sort": "1959-04-30",
@@ -3505,7 +3829,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio A, Capitol 46th Street Studios, New York",
     "labels": [
       "EMI",
@@ -3513,12 +3837,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 164,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Caprice Viennois, Op. 2",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3536,12 +3862,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 2.0
   },
   {
     "id": 165,
     "composer": "Dinicu, Grigorias",
-    "composer_id": "62",
+    "composer_id": 62.0,
     "work": "Hora Staccato(Arr. by Heifetz)",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3559,12 +3887,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 166,
     "composer": "Massenet, Jules",
-    "composer_id": "144",
+    "composer_id": 144.0,
     "work": "Méditation from Thais",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3582,12 +3912,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 167,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Zigeunerweisen, Op. 20 No. 1",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3605,12 +3937,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 20.1
   },
   {
     "id": 168,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "Perpetuum Mobile, Op. 11",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3628,12 +3962,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 11.0
   },
   {
     "id": 169,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Old Refrain",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3651,12 +3987,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 170,
     "composer": "Rimsky-Korsakov, Nikolai",
-    "composer_id": "191",
+    "composer_id": 191.0,
     "work": "Flight of the Bumblebee",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3674,12 +4012,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 171,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1959/09/10-11",
     "date_sort": "1959-09-10",
@@ -3697,12 +4037,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 172,
     "composer": "Mozart, Wolfgang Amadeus",
-    "composer_id": "156",
+    "composer_id": 156.0,
     "work": "Violin Concerto No. 4 in D major, K. 218",
     "date_display": "1960/02/09",
     "date_sort": "1960-02-09",
@@ -3713,18 +4055,20 @@
       }
     ],
     "orchestra": "Denver Symphony Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 218.0
   },
   {
     "id": 173,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
+    "composer_id": 16.0,
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1960/03/01",
     "date_sort": "1960-03-01",
@@ -3742,12 +4086,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 61.0
   },
   {
     "id": 174,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Violin Concerto No. 2 in D minor, Op. 22",
     "date_display": "1960/05/13",
     "date_sort": "1960-05-13",
@@ -3765,12 +4111,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 22.0
   },
   {
     "id": 175,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "Violin Concerto No. 1 in D major, Op. 6",
     "date_display": "1960/05/14",
     "date_sort": "1960-05-14",
@@ -3788,12 +4136,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 6.0
   },
   {
     "id": 176,
     "composer": "Creston, Paul",
-    "composer_id": "53",
+    "composer_id": 53.0,
     "work": "Violin Concerto No. 2, Op. 78",
     "date_display": "1960/11/17",
     "date_sort": "1960-11-17",
@@ -3804,19 +4154,21 @@
       }
     ],
     "orchestra": "Los Angeles Philharmonic",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi",
       "Podium"
     ],
     "is_live": true,
     "notes": "live\nworld premier",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 78.0
   },
   {
     "id": 177,
     "composer": "Dvořák, Antonín",
-    "composer_id": "69",
+    "composer_id": 69.0,
     "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3826,19 +4178,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 72.2
   },
   {
     "id": 178,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Tambourin Chinois, Op. 3",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3848,19 +4202,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 3.0
   },
   {
     "id": 179,
     "composer": "Debussy, Claude",
-    "composer_id": "58",
+    "composer_id": 58.0,
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3870,19 +4226,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 180,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3892,19 +4250,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 181,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Introduction and Tarantelle, Op. 43",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3914,19 +4274,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 43.0
   },
   {
     "id": 182,
     "composer": "Falla, Manuel de",
-    "composer_id": "75",
+    "composer_id": 75.0,
     "work": "Danse Espagnole from \"La Vida Breve\"",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3936,19 +4298,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 183,
     "composer": "Schumann, Robert",
-    "composer_id": "212",
+    "composer_id": 212.0,
     "work": "Waldscenen: 'Bird as Prophet', Op. 82",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3958,19 +4322,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 82.0
   },
   {
     "id": 184,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "La Chasse, Caprice in the style of Cartier",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -3980,19 +4346,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 185,
     "composer": "Chopin, Frédéric François",
-    "composer_id": "48",
+    "composer_id": 48.0,
     "work": "Nocturne in E-flat major(Arr. by Sarasate), Op. 9 No. 2",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -4002,19 +4370,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 186,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Polonaise Brilliante in D major, Op. 4",
     "date_display": "1961/01/03",
     "date_sort": "1961-01-03",
@@ -4024,19 +4394,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 4.0
   },
   {
     "id": 187,
     "composer": "Creston, Paul",
-    "composer_id": "53",
+    "composer_id": 53.0,
     "work": "Violin Concerto No. 2, Op. 78",
     "date_display": "1961/01/27",
     "date_sort": "1961-01-27",
@@ -4047,18 +4419,20 @@
       }
     ],
     "orchestra": "Atlanta Symphony Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 78.0
   },
   {
     "id": 188,
     "composer": "Fauré, Gabriel",
-    "composer_id": "76",
+    "composer_id": 76.0,
     "work": "Violin Sonata No. 1 in A minor, Op. 13",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
@@ -4068,19 +4442,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 13.0
   },
   {
     "id": 189,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
@@ -4090,24 +4466,26 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 23.2
   },
   {
     "id": 190,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4115,17 +4493,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.05
   },
   {
     "id": 191,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 9 in E major",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4133,17 +4513,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.09
   },
   {
     "id": 192,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 13 in B-flat major",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4151,17 +4533,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.13
   },
   {
     "id": 193,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 14 in E-flat major",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4169,17 +4553,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.14
   },
   {
     "id": 194,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4187,17 +4573,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.17
   },
   {
     "id": 195,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4205,17 +4593,19 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.24
   },
   {
     "id": 196,
     "composer": "Ysaÿe, Eugène",
-    "composer_id": "267",
+    "composer_id": 267.0,
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1961/10/17",
     "date_sort": "1961-10-17",
     "accompanists": [],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Sender Fries, Berlin",
     "labels": [
       "Doremi",
@@ -4223,12 +4613,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 27.3
   },
   {
     "id": 197,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1961/11/10",
     "date_sort": "1961-11-10",
@@ -4239,18 +4631,20 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Philadelphia Orchestra Association"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 198,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Caprice Viennois, Op. 2",
     "date_display": "1962/02/02",
     "date_sort": "1962-02-02",
@@ -4261,18 +4655,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 2.0
   },
   {
     "id": 199,
     "composer": "Kreisler, Fritz",
-    "composer_id": "128",
+    "composer_id": 128.0,
     "work": "Tambourin Chinois, Op. 3",
     "date_display": "1962/02/02",
     "date_sort": "1962-02-02",
@@ -4283,18 +4679,20 @@
       }
     ],
     "orchestra": "Bell Telephone Hour Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Parnassus"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 3.0
   },
   {
     "id": 200,
     "composer": "Creston, Paul",
-    "composer_id": "53",
+    "composer_id": 53.0,
     "work": "Violin Concerto No. 2, Op. 78",
     "date_display": "1962/03/19",
     "date_sort": "1962-03-19",
@@ -4311,12 +4709,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 78.0
   },
   {
     "id": 201,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Violin Concerto No. 3 in B minor, Op. 61",
     "date_display": "1962/10/04",
     "date_sort": "1962-10-04",
@@ -4333,12 +4733,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 61.0
   },
   {
     "id": 202,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
+    "composer_id": 16.0,
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4348,20 +4750,22 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Doremi",
       "Podium"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 30.3
   },
   {
     "id": 203,
     "composer": "Engel, Carl",
-    "composer_id": "73",
+    "composer_id": 73.0,
     "work": "Sea Shell(Arr. by Zimbalist)",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4371,19 +4775,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 204,
     "composer": "Milhaud, Darius",
-    "composer_id": "151",
+    "composer_id": 151.0,
     "work": "Tijuca from Saudades do Brasil, Op. 67 No. 8",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4393,20 +4799,22 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Doremi",
       "Podium"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 67.8
   },
   {
     "id": 205,
     "composer": "Spalding, Albert",
-    "composer_id": "304",
+    "composer_id": 304.0,
     "work": "Dragonfly for Solo Violin",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4416,19 +4824,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 206,
     "composer": "Szymanowski, Karol",
-    "composer_id": "232",
+    "composer_id": 232.0,
     "work": "La Fontaine d'Aréthuse from Three Poems 'Mythes', Op. 30 No. 1",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4438,19 +4848,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 30.1
   },
   {
     "id": 207,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Havanaise, Op. 83",
     "date_display": "1962/10/30",
     "date_sort": "1962-10-30",
@@ -4460,19 +4872,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "audite"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 83.0
   },
   {
     "id": 209,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1964/10/29",
     "date_sort": "1964-10-29",
@@ -4483,18 +4897,20 @@
       }
     ],
     "orchestra": "Oslo Philharmonic Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 210,
     "composer": "Mendelssohn, Felix",
-    "composer_id": "147",
+    "composer_id": 147.0,
     "work": "Violin Concerto in E minor, Op. 64",
     "date_display": "1967/07/18",
     "date_sort": "1967-07-18",
@@ -4511,12 +4927,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 64.0
   },
   {
     "id": 211,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1967/08/03",
     "date_sort": "1967-08-03",
@@ -4533,12 +4951,14 @@
     ],
     "is_live": true,
     "notes": "live at Ravinia Festival",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 77.0
   },
   {
     "id": 212,
     "composer": "Glazunov, Aleksandr",
-    "composer_id": "91",
+    "composer_id": 91.0,
     "work": "Violin Concerto in A minor, Op. 82",
     "date_display": "1968/03/03",
     "date_sort": "1968-03-03",
@@ -4549,18 +4969,20 @@
       }
     ],
     "orchestra": "Swiss Radio Orchestra Beromünster",
-    "location": "",
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 82.0
   },
   {
     "id": 213,
     "composer": "Prokofiev, Sergei",
-    "composer_id": "179",
+    "composer_id": 179.0,
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
     "date_display": "1968/07/11",
     "date_sort": "1968-07-11",
@@ -4577,12 +4999,14 @@
     ],
     "is_live": true,
     "notes": "live at Ravinia Festival",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 63.0
   },
   {
     "id": 214,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Violin Concerto in D major, Op. 35",
     "date_display": "1969/02/25-26",
     "date_sort": "1969-02-25",
@@ -4599,12 +5023,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 35.0
   },
   {
     "id": 215,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1969/03/03",
     "date_sort": "1969-03-03",
@@ -4621,12 +5047,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 77.0
   },
   {
     "id": 216,
     "composer": "Kroll, William",
-    "composer_id": "129",
+    "composer_id": 129.0,
     "work": "Banjo and Fiddle",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4636,7 +5064,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4644,12 +5072,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   },
   {
     "id": 217,
     "composer": "Wieniawski, Henryk",
-    "composer_id": "262",
+    "composer_id": 262.0,
     "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4659,7 +5089,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4667,12 +5097,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 18.41
   },
   {
     "id": 218,
     "composer": "Tchaikovsky, Pyotr Ilyich",
-    "composer_id": "238",
+    "composer_id": 238.0,
     "work": "Meditation, Op. 42 No. 1",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4682,7 +5114,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4690,12 +5122,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 42.1
   },
   {
     "id": 219,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Carmen Fantasy, Op.25",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4705,7 +5139,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4713,12 +5147,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 25.0
   },
   {
     "id": 220,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Malagueña), Op. 21 No. 1",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4728,7 +5164,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4736,12 +5172,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 21.1
   },
   {
     "id": 221,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Habañera), Op. 21 No. 2",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4751,7 +5189,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4759,12 +5197,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 21.2
   },
   {
     "id": 222,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
     "date_display": "1969/06/12",
     "date_sort": "1969-06-12",
@@ -4774,7 +5214,7 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
+    "orchestra": null,
     "location": "Studio Lankwitz, Berlin",
     "labels": [
       "audite",
@@ -4782,12 +5222,14 @@
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 23.2
   },
   {
     "id": 223,
     "composer": "Bruch, Max",
-    "composer_id": "37",
+    "composer_id": 37.0,
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
     "date_display": "1969/06/16-17",
     "date_sort": "1969-06-16",
@@ -4806,12 +5248,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 26.0
   },
   {
     "id": 224,
     "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
+    "composer_id": 16.0,
     "work": "Violin Concerto in D major, Op. 61",
     "date_display": "1970/01/18",
     "date_sort": "1970-01-18",
@@ -4822,18 +5266,20 @@
       }
     ],
     "orchestra": "Grand Rapids Symphony Orchestra",
-    "location": "",
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 61.0
   },
   {
     "id": 225,
     "composer": "Saint-Saëns, Camille",
-    "composer_id": "197",
+    "composer_id": 197.0,
     "work": "Introduction et Rondo Capriccioso, Op. 28",
     "date_display": "1970/01/20",
     "date_sort": "1970-01-20",
@@ -4843,36 +5289,40 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 28.0
   },
   {
     "id": 226,
     "composer": "Paganini, Niccolò",
-    "composer_id": "165",
+    "composer_id": 165.0,
     "work": "24 Caprices, Op. 1 No. 9 in E major",
     "date_display": "1970/01/20",
     "date_sort": "1970-01-20",
     "accompanists": [],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Doremi"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 1.09
   },
   {
     "id": 227,
     "composer": "Sarasate, Pablo de",
-    "composer_id": "199",
+    "composer_id": 199.0,
     "work": "Spanish Dances(Habañera), Op. 21 No. 2",
     "date_display": "1970/01/20",
     "date_sort": "1970-01-20",
@@ -4882,19 +5332,21 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": 21.2
   },
   {
     "id": 228,
     "composer": "Brahms, Johannes",
-    "composer_id": "34",
+    "composer_id": 34.0,
     "work": "Violin Concerto in D major, Op. 77",
     "date_display": "1970/02/26",
     "date_sort": "1970-02-26",
@@ -4911,12 +5363,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 77.0
   },
   {
     "id": 229,
     "composer": "Bruch, Max",
-    "composer_id": "37",
+    "composer_id": 37.0,
     "work": "Scottish Fantasy in E-flat major, Op. 46",
     "date_display": "1971/02/25",
     "date_sort": "1971-02-25",
@@ -4933,12 +5387,14 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": ""
+    "reference": null,
+    "category_id": 2,
+    "sort_key": 46.0
   },
   {
     "id": 208,
     "composer": "Carpenter, John Alden",
-    "composer_id": "42",
+    "composer_id": 42.0,
     "work": "Violin Sonata",
     "date_display": "c1964",
     "date_sort": "9999-99-99",
@@ -4948,13 +5404,15 @@
         "role": "piano"
       }
     ],
-    "orchestra": "",
-    "location": "",
+    "orchestra": null,
+    "location": null,
     "labels": [
       "Testament"
     ],
     "is_live": false,
     "notes": null,
-    "reference": ""
+    "reference": null,
+    "category_id": 1,
+    "sort_key": null
   }
 ]
