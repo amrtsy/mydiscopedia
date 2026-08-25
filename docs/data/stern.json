@@ -118,8 +118,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 371.0
   },
   {
     "id": 6,
@@ -432,7 +432,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -724,7 +724,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -748,7 +748,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1043,8 +1043,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1038.0
   },
   {
     "id": 44,
@@ -1438,8 +1438,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 542.5
   },
   {
     "id": 60,
@@ -1546,8 +1546,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 111.0
   },
   {
     "id": 64,
@@ -1622,8 +1622,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 18.0
   },
   {
     "id": 66,
@@ -1854,8 +1854,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 9.33
   },
   {
     "id": 75,
@@ -2209,8 +2209,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 90,
@@ -2353,7 +2353,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -2449,8 +2449,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1023.0
   },
   {
     "id": 100,
@@ -2893,7 +2893,7 @@
     "is_live": true,
     "notes": "live at Festival Semaine Musicale à Venise",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89031755/festival-semaine-musicale-a-venise?rang=3",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -2936,8 +2936,8 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 120,
@@ -2955,8 +2955,8 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 121,
@@ -3182,7 +3182,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -3231,7 +3231,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -3500,7 +3500,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -3572,8 +3572,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 146,
@@ -3615,8 +3615,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 148,
@@ -3711,7 +3711,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -3735,7 +3735,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -3834,8 +3834,8 @@
     "is_live": true,
     "notes": "live at Festival de Menton",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011393/concert-de-musique-de-chambre-donne-le-14-aout-1956?rang=6",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1038.0
   },
   {
     "id": 157,
@@ -4055,8 +4055,8 @@
     "is_live": true,
     "notes": "live; 3rd movement",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 166,
@@ -5386,8 +5386,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 509.0
   },
   {
     "id": 220,
@@ -5410,8 +5410,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 517.0
   },
   {
     "id": 221,
@@ -5434,8 +5434,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 512.0
   },
   {
     "id": 222,
@@ -5628,8 +5628,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD88017306/recital-isaac-stern-et-alexander-zakin?rang=23",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 230,
@@ -5993,8 +5993,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 245,
@@ -7140,8 +7140,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "Geminiani - Sonata for violin and Basso Continuo in D minor, op.1 no.12 - Stern",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1.12
   },
   {
     "id": 290,
@@ -8370,8 +8370,8 @@
     "is_live": true,
     "notes": "live at Besançon Festival",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHF14009120/20eme-festival-de-besancon-recital-isaac-stern?rang=45",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 120.21
   },
   {
     "id": 337,
@@ -8498,8 +8498,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 120.21
   },
   {
     "id": 342,
@@ -8762,8 +8762,8 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": "https://genome.ch.bbc.co.uk/d002b66452f17b8b3d04fa3c339619ad",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 15.1
   },
   {
     "id": 352,
@@ -9038,8 +9038,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 15.1
   },
   {
     "id": 363,
@@ -9254,8 +9254,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 285.1
   },
   {
     "id": 371,
@@ -9286,8 +9286,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 285.0
   },
   {
     "id": 372,
@@ -9318,8 +9318,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 298.0
   },
   {
     "id": 373,
@@ -10156,7 +10156,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -10252,8 +10252,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 44.1
   },
   {
     "id": 409,
@@ -10276,8 +10276,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 22.2
   },
   {
     "id": 410,
@@ -10984,8 +10984,8 @@
     "is_live": true,
     "notes": "live for Sol Hurok funeral services",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 439,
@@ -11304,8 +11304,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHY03005361/concert-de-musique-de-chambre-au-benefice-de-la-fondation-etienne-vatelot?rang=98",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 53.1
   },
   {
     "id": 452,
@@ -11968,8 +11968,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 509.0
   },
   {
     "id": 479,
@@ -12136,7 +12136,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -12692,8 +12692,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86013738/quintette-n-2-sol-majeur-opus-111?rang=145",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 111.0
   },
   {
     "id": 508,
@@ -13396,8 +13396,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86013581/concert-de-l-orchestre-national-de-france-direction-jean-pierre-rampal-et-mstislav-rostropovitch?rang=180",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 512.0
   },
   {
     "id": 535,
@@ -13428,8 +13428,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86013581/concert-de-l-orchestre-national-de-france-direction-jean-pierre-rampal-et-mstislav-rostropovitch?rang=180",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 53.1
   },
   {
     "id": 536,
@@ -13456,8 +13456,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86013581/concert-de-l-orchestre-national-de-france-direction-jean-pierre-rampal-et-mstislav-rostropovitch?rang=180",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 4.1
   },
   {
     "id": 537,
@@ -14055,7 +14055,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -14131,7 +14131,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/c0c90d5402fccb1fd4b9b261733473e3",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -15253,7 +15253,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   }
 ]

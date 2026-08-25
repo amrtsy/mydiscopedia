@@ -1269,8 +1269,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.newspapers.com/image/990884608/?match=1&terms=michael%20rabin&search-id=92d2f3a2-4442-4e48-b5b6-d64178e5f9c6&search-rank=67",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 57,
@@ -1288,8 +1288,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 58,
@@ -1508,8 +1508,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 68,
@@ -1580,7 +1580,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1725,7 +1725,7 @@
     "is_live": true,
     "notes": "live; Parnassus indicates the date as September 10th.",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -4378,8 +4378,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 9.21
   },
   {
     "id": 186,
@@ -4832,7 +4832,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {

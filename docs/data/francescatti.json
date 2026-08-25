@@ -44,7 +44,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -500,7 +500,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -743,7 +743,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1543,7 +1543,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1738,8 +1738,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 74,
@@ -2626,8 +2626,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 34.0
   },
   {
     "id": 110,
@@ -2674,8 +2674,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/43993008",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 34.0
   },
   {
     "id": 112,
@@ -2819,8 +2819,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 34.0
   },
   {
     "id": 118,
@@ -3249,7 +3249,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -3489,7 +3489,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -4110,8 +4110,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 26.0
   },
   {
     "id": 173,
@@ -4306,8 +4306,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 32.0
   },
   {
     "id": 181,
@@ -5199,8 +5199,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 51.0
   },
   {
     "id": 218,
@@ -5483,7 +5483,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -5532,7 +5532,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -5770,8 +5770,8 @@
     "is_live": true,
     "notes": "live at Edinburgh International Festival",
     "reference": "https://genome.ch.bbc.co.uk/e58d4dc0d4504fe78d5eb3f6bcd97775",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 502.0
   },
   {
     "id": 240,
@@ -5990,7 +5990,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -6239,7 +6239,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -6335,7 +6335,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -6696,7 +6696,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -7890,7 +7890,7 @@
     "is_live": true,
     "notes": "live; video material",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8659,7 +8659,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -8733,7 +8733,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -9031,8 +9031,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 565.0
   },
   {
     "id": 375,
@@ -9894,8 +9894,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/82989294",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 34.0
   },
   {
     "id": 411,

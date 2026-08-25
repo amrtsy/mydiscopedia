@@ -44,7 +44,7 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -551,7 +551,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -833,7 +833,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1991,7 +1991,7 @@
     "is_live": false,
     "notes": null,
     "reference": "https://violinhistoricallive.blogspot.com/2006/04/david-oistrakh-unpublished-and-live.html",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -2308,8 +2308,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 9.1
   },
   {
     "id": 94,
@@ -2681,7 +2681,7 @@
     "is_live": false,
     "notes": "LP",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -2839,8 +2839,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 11.0
   },
   {
     "id": 115,
@@ -3401,8 +3401,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 12.2
   },
   {
     "id": 137,
@@ -3454,8 +3454,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 39.0
   },
   {
     "id": 139,
@@ -3526,8 +3526,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "David Oistrakh - Lalo Symphonie Espagnole Intermezzo - Vladimir Yampolsky,, piano 1953 Live",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 21.3
   },
   {
     "id": 142,
@@ -4691,7 +4691,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -4909,8 +4909,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.2
   },
   {
     "id": 197,
@@ -4933,8 +4933,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.33
   },
   {
     "id": 198,
@@ -6010,8 +6010,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 21.3
   },
   {
     "id": 242,
@@ -6524,7 +6524,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -7188,7 +7188,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8270,7 +8270,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8294,7 +8294,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8318,7 +8318,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8343,8 +8343,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 336,
@@ -8855,8 +8855,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "The Times on May 22, 1958",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 108.0
   },
   {
     "id": 356,
@@ -9752,8 +9752,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1042.0
   },
   {
     "id": 391,
@@ -9966,8 +9966,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://youtu.be/WMSMWmYheqc?si=1wvJA1xlxGduq1BQ",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 8.2
   },
   {
     "id": 399,
@@ -9994,8 +9994,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://youtu.be/WMSMWmYheqc?si=1wvJA1xlxGduq1BQ",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 49.3
   },
   {
     "id": 400,
@@ -10186,8 +10186,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 35.3
   },
   {
     "id": 408,
@@ -10775,8 +10775,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 432,
@@ -11332,7 +11332,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "Rare Documentary: David Oistrakh R.Gliere Romance - \"Bolshoy\" Orchestra - N.Anosov (1961)",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -12658,8 +12658,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://violinhistoricallive.blogspot.com/2006/04/david-oistrakh-unpublished-and-live.html",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.2
   },
   {
     "id": 507,
@@ -13234,8 +13234,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "David Oistrakh  Violin Concerto  Tchaikowski",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1041.0
   },
   {
     "id": 530,
@@ -13339,8 +13339,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://en.wikipedia.org/wiki/Festival_(Canadian_TV_series)_season_5",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 565.0
   },
   {
     "id": 534,
@@ -13756,8 +13756,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 87.1
   },
   {
     "id": 551,
@@ -14025,8 +14025,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 562,
@@ -14806,8 +14806,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/831f6202fe4cfd112c59ae5f78e7c87c",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 594,
@@ -14974,8 +14974,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 87.1
   },
   {
     "id": 601,
@@ -15079,8 +15079,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 127.0
   },
   {
     "id": 605,
@@ -15122,8 +15122,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 117.22
   },
   {
     "id": 607,
@@ -15367,7 +15367,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -15661,8 +15661,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.musica-classica.it/forum/index.php?/topic/13202-flautista-della-rai-cercasi/",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 629,
@@ -16006,8 +16006,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.12
   },
   {
     "id": 643,
@@ -16030,8 +16030,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.3
   },
   {
     "id": 644,
@@ -16175,8 +16175,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.12
   },
   {
     "id": 650,
@@ -16199,8 +16199,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.3
   },
   {
     "id": 651,
@@ -16223,7 +16223,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://violinhistoricallive.blogspot.com/2006/04/david-oistrakh-unpublished-and-live.html",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -16979,8 +16979,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.3
   },
   {
     "id": 682,
@@ -17003,8 +17003,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.12
   },
   {
     "id": 683,
@@ -17027,8 +17027,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 684,
@@ -17371,8 +17371,8 @@
     "is_live": true,
     "notes": "live; LP",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 698,
@@ -17417,8 +17417,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://violinhistoricallive.blogspot.com/2006/04/david-oistrakh-unpublished-and-live.html",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 117.22
   },
   {
     "id": 700,
@@ -17520,8 +17520,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 269.0
   },
   {
     "id": 704,
@@ -17749,8 +17749,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 713,
@@ -17873,8 +17873,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 574.0
   },
   {
     "id": 718,
@@ -17897,8 +17897,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 12.11
   },
   {
     "id": 719,
@@ -18269,8 +18269,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 574.0
   },
   {
     "id": 734,
@@ -18293,8 +18293,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 12.11
   },
   {
     "id": 735,
@@ -18883,8 +18883,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 408.0
   },
   {
     "id": 759,
@@ -18907,8 +18907,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 24.3
   },
   {
     "id": 49,

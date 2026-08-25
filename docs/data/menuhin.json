@@ -21,7 +21,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -46,7 +46,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -71,7 +71,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -146,8 +146,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 130.2
   },
   {
     "id": 7,
@@ -196,8 +196,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 216.2
   },
   {
     "id": 9,
@@ -221,8 +221,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 9.33
   },
   {
     "id": 10,
@@ -246,7 +246,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -271,7 +271,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -296,8 +296,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 62.2
   },
   {
     "id": 13,
@@ -488,7 +488,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -563,7 +563,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -888,8 +888,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1003.0
   },
   {
     "id": 37,
@@ -1072,8 +1072,8 @@
     "is_live": false,
     "notes": "78s",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 45,
@@ -1170,8 +1170,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 294.0
   },
   {
     "id": 49,
@@ -1437,8 +1437,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 26.0
   },
   {
     "id": 60,
@@ -1576,8 +1576,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 66,
@@ -2022,8 +2022,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.33
   },
   {
     "id": 84,
@@ -2244,8 +2244,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1003.0
   },
   {
     "id": 93,
@@ -2457,7 +2457,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -2590,8 +2590,8 @@
     "is_live": true,
     "notes": "live ",
     "reference": "Toscanini Legacy Collection",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 216.2
   },
   {
     "id": 107,
@@ -2762,7 +2762,7 @@
     "is_live": true,
     "notes": "live; Ford Sunday Evening Hour",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -2786,8 +2786,8 @@
     "is_live": true,
     "notes": "live; Ford Sunday Evening Hour",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 526.3
   },
   {
     "id": 115,
@@ -3170,7 +3170,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -3247,8 +3247,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 301.3
   },
   {
     "id": 133,
@@ -3272,8 +3272,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 378.2
   },
   {
     "id": 134,
@@ -3422,8 +3422,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 58.5
   },
   {
     "id": 140,
@@ -3593,8 +3593,8 @@
     "is_live": true,
     "notes": "live ",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 147,
@@ -3613,8 +3613,8 @@
     "is_live": true,
     "notes": "live ",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 148,
@@ -3776,8 +3776,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 155,
@@ -3922,8 +3922,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 161,
@@ -4112,8 +4112,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 169,
@@ -4327,8 +4327,8 @@
     "is_live": true,
     "notes": "live; NBC",
     "reference": "YEHUDI MENUHIN PLAYS  E MINOR CONCERTO felix mendelsson 1944",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 64.3
   },
   {
     "id": 178,
@@ -4721,8 +4721,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 334.1
   },
   {
     "id": 194,
@@ -4746,7 +4746,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -5141,8 +5141,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 211,
@@ -5601,8 +5601,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 230,
@@ -5856,8 +5856,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 241,
@@ -6363,8 +6363,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 262,
@@ -6383,8 +6383,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 263,
@@ -6431,8 +6431,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 47.0
   },
   {
     "id": 265,
@@ -6528,7 +6528,7 @@
     "is_live": true,
     "notes": "live; first performance",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -6552,7 +6552,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -6818,8 +6818,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 4.3
   },
   {
     "id": 281,
@@ -7007,8 +7007,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "Yehudi Menuhin : Live Concert 1951",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 289,
@@ -7045,8 +7045,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 291,
@@ -7458,7 +7458,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "Little Orchestra Society concert recordings collection",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -7994,8 +7994,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 8.06
   },
   {
     "id": 330,
@@ -8165,8 +8165,8 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": "https://genome.ch.bbc.co.uk/2765ead5395be81e3fade3fecf02cdb7",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 8.06
   },
   {
     "id": 337,
@@ -8527,7 +8527,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -8720,7 +8720,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -9417,8 +9417,8 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 388,
@@ -9436,8 +9436,8 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 389,
@@ -9744,8 +9744,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 18.0
   },
   {
     "id": 401,
@@ -10141,7 +10141,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -10165,8 +10165,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 13.0
   },
   {
     "id": 419,
@@ -10756,8 +10756,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.newspapers.com/image/1007340866/?match=1&terms=menuhin%20Aldeburgh&search-id=1d863e3c-6980-4606-b200-7e6c9fd6e3d4&search-rank=10",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 250.0
   },
   {
     "id": 444,
@@ -11351,7 +11351,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/54521879",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -11499,8 +11499,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 53.1
   },
   {
     "id": 475,
@@ -11523,7 +11523,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -11547,8 +11547,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 177.0
   },
   {
     "id": 477,
@@ -12214,8 +12214,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/5409cd497a22eb2b22212ec11a5d40bc",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1047.0
   },
   {
     "id": 504,
@@ -12238,8 +12238,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/5409cd497a22eb2b22212ec11a5d40bc",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1048.0
   },
   {
     "id": 505,
@@ -12334,8 +12334,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 15.32
   },
   {
     "id": 509,
@@ -12382,8 +12382,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 730.0
   },
   {
     "id": 511,
@@ -12406,7 +12406,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -12449,8 +12449,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/ebdb5c61199146d09e76f97cd8165a8f",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1046.0
   },
   {
     "id": 514,
@@ -13243,8 +13243,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1049.0
   },
   {
     "id": 545,
@@ -13644,8 +13644,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 1041.0
   },
   {
     "id": 561,
@@ -13711,8 +13711,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 564,
@@ -13730,8 +13730,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 565,
@@ -13750,8 +13750,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 566,
@@ -13793,8 +13793,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 568,
@@ -13860,8 +13860,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 571,
@@ -14028,8 +14028,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 47.0
   },
   {
     "id": 578,
@@ -14053,8 +14053,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 526.3
   },
   {
     "id": 579,
@@ -14078,8 +14078,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 481.2
   },
   {
     "id": 580,
@@ -14210,8 +14210,8 @@
     "is_live": true,
     "notes": "live at Bath Festival",
     "reference": "https://genome.ch.bbc.co.uk/f26f0a4513d2d58961f9cd65bc072f1e",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 581.0
   },
   {
     "id": 585,
@@ -14431,8 +14431,8 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": "https://genome.ch.bbc.co.uk/78e28267117d64318000385a7a90e924",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 18.0
   },
   {
     "id": 593,
@@ -14520,8 +14520,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 18.0
   },
   {
     "id": 595,
@@ -14648,7 +14648,7 @@
     "is_live": true,
     "notes": "live; BBC Television; Gala Performance",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -14830,8 +14830,8 @@
     "is_live": true,
     "notes": "live at Bath Festival",
     "reference": "https://genome.ch.bbc.co.uk/e6d790f4e87fcbf4c650d55484612efe",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 115.0
   },
   {
     "id": 607,
@@ -15105,8 +15105,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 36.0
   },
   {
     "id": 616,
@@ -15273,8 +15273,8 @@
     "is_live": true,
     "notes": "live; Bartók Radio",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 481.2
   },
   {
     "id": 623,
@@ -15448,8 +15448,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 471.0
   },
   {
     "id": 630,
@@ -15497,8 +15497,8 @@
     "is_live": true,
     "notes": "live; BBC Television",
     "reference": "https://genome.ch.bbc.co.uk/1c5b1867168e602f59253b4b65f6961f",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 216.2
   },
   {
     "id": 632,
@@ -15617,7 +15617,7 @@
     "is_live": true,
     "notes": "live at Bath Festival; First Performance",
     "reference": "https://genome.ch.bbc.co.uk/81ec9cbd3b8a9e0d2266d32e08864e5c",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -15666,7 +15666,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -15733,8 +15733,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 303.2
   },
   {
     "id": 642,
@@ -15757,7 +15757,7 @@
     "is_live": true,
     "notes": "live at Commonwealth Arts Festival",
     "reference": "https://genome.ch.bbc.co.uk/48402ad4b3b2c61245abf1faec700984",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -15901,8 +15901,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/95015a60f0cc52487cd13eea2eee84b1",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 77.2
   },
   {
     "id": 649,
@@ -16330,7 +16330,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -16809,7 +16809,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -16834,7 +16834,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -17056,8 +17056,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 28.0
   },
   {
     "id": 693,
@@ -17133,8 +17133,8 @@
     "is_live": true,
     "notes": "live at Bath Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 579.0
   },
   {
     "id": 696,
@@ -17646,8 +17646,8 @@
     "is_live": true,
     "notes": "live at Gala de l'UNICEF",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99259254/gala-de-l-unicef-du-20-novembre-1970?rang=94",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 716,
@@ -17885,8 +17885,8 @@
     "is_live": true,
     "notes": "live at Harold Craxton Memorial Concert",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 726,
@@ -18092,8 +18092,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 30.33
   },
   {
     "id": 735,
@@ -18116,8 +18116,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 108.0
   },
   {
     "id": 736,
@@ -18239,7 +18239,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -18338,7 +18338,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -18657,7 +18657,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -18705,7 +18705,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -18778,7 +18778,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -18850,7 +18850,7 @@
     "is_live": true,
     "notes": "live at Proms",
     "reference": "https://genome.ch.bbc.co.uk/4c12ccbe3ce98c90aa3270fcb6c28f7f",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -18869,7 +18869,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127818031?ac=dgtl%2Canlg&q=menuhin",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -19156,7 +19156,7 @@
     "is_live": true,
     "notes": "live at USA 200th Birthday Celebration",
     "reference": 705.0,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -19228,7 +19228,7 @@
     "is_live": true,
     "notes": "live at Malvern Festival 1977",
     "reference": "https://genome.ch.bbc.co.uk/347a889991263b31c08836698cd3f2e8",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -19304,7 +19304,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -19328,7 +19328,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99277339/concert-hommage-a-franck-martin-par-l-orchestre-de-chambre-de-zurich?rang=207",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -19352,8 +19352,8 @@
     "is_live": true,
     "notes": "live at School Prom",
     "reference": "https://genome.ch.bbc.co.uk/7fd5b6b56d94dc14151f43d644a133bd",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 8.06
   },
   {
     "id": 786,
@@ -19482,7 +19482,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -19972,7 +19972,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -20130,8 +20130,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1005.0
   },
   {
     "id": 818,
@@ -20149,8 +20149,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1005.0
   },
   {
     "id": 819,
@@ -20791,8 +20791,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 845,
@@ -20810,8 +20810,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 846,
@@ -21103,7 +21103,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   }
 ]

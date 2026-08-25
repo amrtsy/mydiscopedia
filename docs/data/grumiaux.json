@@ -92,8 +92,8 @@
     "is_live": true,
     "notes": "live; BBC Home Service",
     "reference": "https://genome.ch.bbc.co.uk/2a6bcda979dfca9e11cd7c4f88f0d96a",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 302.0
   },
   {
     "id": 5,
@@ -853,8 +853,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 12.31
   },
   {
     "id": 37,
@@ -1164,7 +1164,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://smdb.kb.se/catalog/search?q=grumiaux+sellergren&x=0&y=0",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1360,8 +1360,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127034631?ac=dgtl%2Canlg&q=grumiaux",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 207.0
   },
   {
     "id": 58,
@@ -1959,7 +1959,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2010.046&LNG_ID=ITA",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   }
 ]

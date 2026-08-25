@@ -107,14 +107,17 @@ def build_works_index(rows):
     convention). sort_key: manually-assigned ordering number (float), or
     None if not yet assigned.
 
-    Only rows with a work_id (i.e. "linked"/complete master rows) are
-    indexed; the rest are treated as not-yet-classified.
+    Only rows with a composer_id and a "title+opus" value (the actual join
+    key used against performer sheets) are indexed. work_id is NOT required
+    — many rows have category_id/sort_key filled in without ever getting a
+    work_id assigned, and excluding those was a bug that silently dropped
+    otherwise-complete classification data.
     """
     index = {}
     for r in rows:
         # work_id, composer_id, name, title, opus_number, title+opus, type,
         # sort_key, arranger_id, parent_work_id, category_id
-        if len(r) < 11 or r[0] in (None, ""):
+        if len(r) < 11:
             continue
         composer_id, title_opus, sort_key_raw, category_id = r[1], r[5], r[7], r[10]
         if composer_id is None or not title_opus:

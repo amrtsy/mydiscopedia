@@ -46,8 +46,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 287.0
   },
   {
     "id": 3,
@@ -68,7 +68,7 @@
     "is_live": false,
     "notes": "broadcasted on BBC Television on 4th Feb, 1962",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -112,8 +112,8 @@
     "is_live": false,
     "notes": "broadcasted on BBC Television on 4th Feb, 1962",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 43.0
   },
   {
     "id": 6,
@@ -176,7 +176,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -224,8 +224,8 @@
     "is_live": true,
     "notes": "live at Cheltenham Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 60.0
   },
   {
     "id": 11,
@@ -274,8 +274,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 47.0
   },
   {
     "id": 13,
@@ -323,8 +323,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1028.0
   },
   {
     "id": 15,
@@ -423,7 +423,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -691,7 +691,7 @@
     "is_live": true,
     "notes": "live at BBC Proms",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -758,8 +758,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 57.0
   },
   {
     "id": 33,
@@ -971,8 +971,8 @@
     "is_live": true,
     "notes": "live; BBC Home Service",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.1
   },
   {
     "id": 42,
@@ -1229,7 +1229,7 @@
     "is_live": true,
     "notes": "live at BBC Proms",
     "reference": "https://www.bbc.co.uk/events/ed8v2m",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -1254,8 +1254,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 47.0
   },
   {
     "id": 53,
@@ -1328,8 +1328,8 @@
     "is_live": true,
     "notes": "live at Spoleto Festival",
     "reference": "J.S. Bach: Sonata BWV 1028 | Jacqueline Du Prè & Richard Goode (Spoleto 8.7.1966)",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1028.0
   },
   {
     "id": 56,
@@ -1458,7 +1458,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/a2a3496e6778b3d90639fdb63b2c69dd",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1639,8 +1639,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://pastdaily.com/2025/05/21/jacqueline-du-pre-lawrence-foster-los-angeles-philharmonic-music-beethoven-goehr-haydn-1967-past-daily-mid-week-concert/",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.1
   },
   {
     "id": 65,
@@ -1715,8 +1715,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.1
   },
   {
     "id": 68,
@@ -1885,8 +1885,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.2
   },
   {
     "id": 78,
@@ -2093,8 +2093,8 @@
     "is_live": true,
     "notes": "live at Brighton Festival\nworld premiere performance",
     "reference": "Alexander Goehr: Romanza for Cello and Orchestra, Op. 24 (1968)",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 24.0
   },
   {
     "id": 86,
@@ -2168,8 +2168,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 47.0
   },
   {
     "id": 89,
@@ -2290,7 +2290,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -2339,8 +2339,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 24.0
   },
   {
     "id": 96,
@@ -2889,8 +2889,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "The Philadelphia Inquirer",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 7.1
   },
   {
     "id": 116,
@@ -3133,8 +3133,8 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 9045.0
   },
   {
     "id": 125,
@@ -3233,8 +3233,8 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 66.0
   },
   {
     "id": 129,
@@ -3307,8 +3307,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 68.0
   },
   {
     "id": 132,

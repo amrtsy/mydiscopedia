@@ -44,8 +44,8 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 62.4
   },
   {
     "id": 3,
@@ -68,8 +68,8 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 14.0
   },
   {
     "id": 4,
@@ -165,8 +165,8 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 71.6
   },
   {
     "id": 8,
@@ -189,7 +189,7 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -213,7 +213,7 @@
     "is_live": false,
     "notes": "78rpm",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -449,8 +449,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 20,
@@ -2138,8 +2138,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 7.0
   },
   {
     "id": 91,
@@ -2329,8 +2329,8 @@
     "is_live": false,
     "notes": "video material",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 99,
@@ -2617,8 +2617,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 111,
@@ -3027,8 +3027,8 @@
     "is_live": true,
     "notes": "live at Besançon Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 128,
@@ -3168,8 +3168,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 134,
@@ -3383,8 +3383,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 143,
@@ -3618,8 +3618,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 32.3
   },
   {
     "id": 153,
@@ -5141,8 +5141,8 @@
     "is_live": true,
     "notes": "live at Festival de Besançon",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHZ16045817/16eme-festival-de-besancon-recital-d-henryk-szeryng-et-aldo-ciccolini?rang=47",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 481.2
   },
   {
     "id": 215,
@@ -5525,8 +5525,8 @@
     "is_live": true,
     "notes": "live; LP",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1003.0
   },
   {
     "id": 231,
@@ -5597,7 +5597,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -5736,8 +5736,8 @@
     "is_live": false,
     "notes": "video material",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 240,
@@ -6283,7 +6283,7 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -6614,8 +6614,8 @@
     "is_live": false,
     "notes": null,
     "reference": "https://oldtheodore.cso.org/dbtw-wpd/exec/dbtwpub.dll?AC=GET_RECORD&XC=/dbtw-wpd/exec/dbtwpub.dll&BU=https%3A%2F%2Foldtheodore.cso.org%2F&GI=&TN=CSO_Archives&SN=AUTO14590&SE=1454&RN=33&MR=0&TR=0&TX=1000&ES=0&XP=&RF=short+report+web&EF=Andrea%27s+scores&DF=All+formats+web&RL=1&EL=1&DL=1&NP=3&ID=&MF=&DT=&ST=0&IR=2579&NR=0&NB=0&SV=0&SS=1&BG=&FG=&QS=publicsearch",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 276,
@@ -6638,7 +6638,7 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -6662,7 +6662,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/876e5e9fd671948e4810b1a267e560cd",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -6786,7 +6786,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://oldtheodore.cso.org/dbtw-wpd/exec/dbtwpub.dll?AC=GET_RECORD&XC=/dbtw-wpd/exec/dbtwpub.dll&BU=https%3A%2F%2Foldtheodore.cso.org%2F&GI=&TN=CSO_Archives&SN=AUTO14590&SE=1454&RN=34&MR=0&TR=0&TX=1000&ES=0&XP=&RF=short+report+web&EF=Andrea%27s+scores&DF=All+formats+web&RL=1&EL=1&DL=1&NP=3&ID=&MF=&DT=&ST=0&IR=2649&NR=0&NB=0&SV=0&SS=1&BG=&FG=&QS=publicsearch",
-    "category_id": null,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -7371,8 +7371,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1004.0
   },
   {
     "id": 309,
@@ -7494,8 +7494,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99278026/orchestre-de-chambre-de-la-rtb-du-10-mai-1968?rang=69",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 314,
@@ -7965,8 +7965,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "Szeryng Live 1968 (Bartok No 2)",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1001.0
   },
   {
     "id": 334,
@@ -9548,8 +9548,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 269.0
   },
   {
     "id": 396,
@@ -9717,8 +9717,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1.0
   },
   {
     "id": 403,
@@ -11567,8 +11567,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 302.0
   },
   {
     "id": 477,
@@ -11592,8 +11592,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 380.0
   },
   {
     "id": 478,
@@ -11617,8 +11617,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 547.0
   },
   {
     "id": 479,
@@ -13368,8 +13368,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99259198/france-musique-recoit-henryk-szeryng-derniere-emission?rang=130",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1017.0
   },
   {
     "id": 550,
@@ -13556,8 +13556,8 @@
     "is_live": true,
     "notes": "live at Ascona Festival",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 108.0
   },
   {
     "id": 558,
@@ -13830,8 +13830,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1014.0
   },
   {
     "id": 569,
@@ -15064,8 +15064,8 @@
     "is_live": true,
     "notes": "live at Dubrovnik Summer Festival",
     "reference": "https://smdb.kb.se/catalog/search?q=szeryng&sort=OLDEST#",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 2,
+    "sort_key": 216.2
   },
   {
     "id": 620,
@@ -15210,8 +15210,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "Henryk Szeryng, James Tocco, Salzburg Aug 1 1979 Live Complete Recital Encores by Mozart & Brahms",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 481.2
   },
   {
     "id": 626,
@@ -15355,8 +15355,8 @@
     "is_live": false,
     "notes": null,
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 47.0
   },
   {
     "id": 632,
@@ -16285,8 +16285,8 @@
     "is_live": true,
     "notes": "live",
     "reference": null,
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1006.0
   },
   {
     "id": 671,
@@ -16884,7 +16884,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://smdb.kb.se/catalog/search?q=szeryng&sort=OLDEST#",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -17970,8 +17970,8 @@
     "is_live": true,
     "notes": "live",
     "reference": "http://www.henrykszeryng.net/audio",
-    "category_id": null,
-    "sort_key": null
+    "category_id": 1,
+    "sort_key": 1.0
   },
   {
     "id": 741,
