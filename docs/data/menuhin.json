@@ -2491,7 +2491,7 @@
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Violin Concerto in A minor, Op. 53",
-    "date_display": "1936/02/26&28",
+    "date_display": "1936/02/26,28",
     "date_sort": "1936-02-26",
     "accompanists": [
       {
@@ -4225,8 +4225,8 @@
       "A Classical Record",
       "Doremi"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 1,
     "sort_key": 1014.0
@@ -4250,8 +4250,8 @@
       "A Classical Record",
       "Doremi"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 1,
     "sort_key": 1015.0
@@ -4275,8 +4275,8 @@
       "A Classical Record",
       "Doremi"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 1,
     "sort_key": 1016.0
@@ -4300,8 +4300,8 @@
       "A Classical Record",
       "Doremi"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 1,
     "sort_key": 1018.0
