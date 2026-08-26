@@ -1432,7 +1432,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9005.0
   },
   {
     "id": 59,
@@ -1456,7 +1456,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9008.0
   },
   {
     "id": 60,
@@ -3033,7 +3033,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9007.0
   },
   {
     "id": 123,
@@ -4131,7 +4131,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9005.0
   },
   {
     "id": 166,
@@ -4537,7 +4537,7 @@
     "notes": "live",
     "reference": "https://classite.com/disk/melodiya-m10-46361-q504",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9007.0
   },
   {
     "id": 182,
@@ -4561,7 +4561,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9008.0
   },
   {
     "id": 183,
@@ -4585,7 +4585,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9009.0
   },
   {
     "id": 184,
@@ -4609,7 +4609,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9020.0
   },
   {
     "id": 185,
@@ -8464,7 +8464,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 9017.1
   },
   {
     "id": 341,
@@ -13511,7 +13511,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": null
   },
   {
