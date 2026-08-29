@@ -967,7 +967,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -1123,7 +1123,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -2797,7 +2797,7 @@
     "is_live": true,
     "notes": "live at Edinburgh Festival",
     "reference": "https://genome.ch.bbc.co.uk/56cfd78c6b653afdb65e30252a9b192b",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -3379,7 +3379,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -3858,7 +3858,7 @@
     "is_live": true,
     "notes": "live at Festival de Menton",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011394/concert-de-musique-de-chambre?rang=5",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -4127,7 +4127,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90010945/semaines-musicales-d-ascona-concert-de-l-orchestre-de-la-radio-suisse-italienne?rang=8",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -4664,7 +4664,7 @@
     "is_live": true,
     "notes": "live at Festival de musique de Strasbourg",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -5116,7 +5116,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -5165,7 +5165,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -6316,7 +6316,7 @@
     "is_live": false,
     "notes": "BBC Television",
     "reference": "https://genome.ch.bbc.co.uk/1ea0d32659ae41fd897deb0f540e55dc",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -6448,7 +6448,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89031845/orchestre-de-chambre-de-nice-emission-du-2-juin-1962?rang=25",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -6520,7 +6520,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -7890,7 +7890,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -11352,7 +11352,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -11816,7 +11816,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -12184,7 +12184,7 @@
     "is_live": true,
     "notes": "live at a concert for 30th anniversary of the State of Israel",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA79053215/concert-dans-les-jardins-de-jerusalem?rang=120",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {

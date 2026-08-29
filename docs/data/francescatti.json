@@ -261,7 +261,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 12,
@@ -1251,7 +1251,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://concertannals.blogspot.com/search?updated-max=2018-12-10T15:55:00-08:00&max-results=7&start=1&by-date=false",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -9648,7 +9648,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {

@@ -8171,7 +8171,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -9136,7 +9136,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -9488,7 +9488,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -10823,7 +10823,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -12850,7 +12850,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -13535,7 +13535,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -14510,7 +14510,7 @@
     "is_live": true,
     "notes": "live at Vienna Festival",
     "reference": "https://genome.ch.bbc.co.uk/cbb9bce04ba0cd3b672327b03286abd9",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -14757,7 +14757,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -15198,7 +15198,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/387c4b13728f3105d3d0817f0d5ca444",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -16554,7 +16554,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {

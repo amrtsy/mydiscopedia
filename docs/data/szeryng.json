@@ -619,7 +619,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -4141,7 +4141,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89028413/concert-donne-le-4-juin-1962?rang=36",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -5415,7 +5415,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -5536,7 +5536,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/8ec9119f4eddcffa0326d9da3a28893d",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -6082,7 +6082,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -6678,7 +6678,7 @@
     "is_live": true,
     "notes": "live at Festival de Bordeaux",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99277366/festival-de-bordeaux?rang=58",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -10538,7 +10538,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -10731,7 +10731,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -12538,7 +12538,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86006345/festival-strings-de-lucerne-emission-du-31-aout-1973?rang=111",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -14104,7 +14104,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -14184,7 +14184,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 584,
@@ -14690,7 +14690,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -16400,7 +16400,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD86015389/concert-de-l-orchestre-de-paris-donne-le-20-janvier-1982?rang=151",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -16534,7 +16534,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140128675531?ac=dgtl%2Canlg&q=szeryng",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -16606,7 +16606,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/759607036",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {

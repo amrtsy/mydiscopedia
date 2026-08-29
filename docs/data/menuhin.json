@@ -2331,7 +2331,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -3802,7 +3802,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 156,
@@ -4400,7 +4400,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 181,
@@ -4648,7 +4648,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 190,
@@ -6222,7 +6222,7 @@
     "notes": "live; Standard Hour",
     "reference": "",
     "category_id": 1,
-    "sort_key": 1068.0
+    "sort_key": 1068.1
   },
   {
     "id": 256,
@@ -8114,7 +8114,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -9368,7 +9368,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/7322f6c444034ad3aaf753405025696c",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -9440,7 +9440,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/62209448",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -11024,7 +11024,7 @@
     "is_live": true,
     "notes": "live at Bach Festival 1957",
     "reference": "https://genome.ch.bbc.co.uk/c42984a42c57830b1b7ce649581dcd2a",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -11454,7 +11454,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -12055,7 +12055,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -15473,7 +15473,7 @@
     "is_live": true,
     "notes": "live at Budapest Music Weeks",
     "reference": "https://genome.ch.bbc.co.uk/74a9e4dc24ef374cb33cc18e33f325f9",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -15642,7 +15642,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -15667,7 +15667,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -19596,7 +19596,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/45a1da46d53d427a4e391a5b40e13795",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -19784,7 +19784,7 @@
     "is_live": true,
     "notes": "live at Schwetzingen Festival",
     "reference": "https://genome.ch.bbc.co.uk/48f2de5b7131cb85cb449fd6643cb7b8",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -20113,7 +20113,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
@@ -22159,7 +22159,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1041.0
   },
   {
