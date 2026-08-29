@@ -181,6 +181,11 @@
         "site_name": "Classite",
         "url": "https://classite.com/",
         "description": "Large collaborative online database of classical music recordings and performer discographies, with a collectors' marketplace."
+      },
+      {
+        "site_name": "Digitale Sammlungen des Staatlichen Instituts für Musikforschung Preußischer Kulturbesitz",
+        "url": "https://digital.sim.spk-berlin.de/viewer/index/",
+        "description": "The digitized concert and historical collection of the State Institute for Music Research (SIMPK) in Berlin, including performance history and program archives."
       }
     ]
   }
