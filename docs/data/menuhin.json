@@ -18926,6 +18926,120 @@
     "sort_key": null
   },
   {
+    "id": 771,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1001.0
+  },
+  {
+    "id": 772,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1002.0
+  },
+  {
+    "id": 773,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 2 in A minor, BWV 1003",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1003.0
+  },
+  {
+    "id": 774,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Partita for Solo Violin No. 2 in D minor, BWV 1004",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1004.0
+  },
+  {
+    "id": 775,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1005.0
+  },
+  {
+    "id": 776,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Partita for Solo Violin No. 3 in E major, BWV 1006",
+    "date_display": "1973-1975",
+    "date_sort": "1973-01-01",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "No. 1 Studio, Abbey Road, London",
+    "labels": [
+      "EMI"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 1006.0
+  },
+  {
     "id": 769,
     "composer": "Elgar, Edward",
     "composer_id": "71",
@@ -18972,120 +19086,6 @@
     "reference": "",
     "category_id": 2,
     "sort_key": 61.0
-  },
-  {
-    "id": 771,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1001.0
-  },
-  {
-    "id": 772,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1002.0
-  },
-  {
-    "id": 773,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Sonata for Solo Violin No. 2 in A minor, BWV 1003",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1003.0
-  },
-  {
-    "id": 774,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Partita for Solo Violin No. 2 in D minor, BWV 1004",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1004.0
-  },
-  {
-    "id": 775,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Sonata for Solo Violin No. 3 in C major, BWV 1005",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1005.0
-  },
-  {
-    "id": 776,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Partita for Solo Violin No. 3 in E major, BWV 1006",
-    "date_display": "1973/03/05\n1974/01/04,02/05,07,11,13,15,26\n1975/01/17,07/15",
-    "date_sort": "1973-03-05",
-    "accompanists": [],
-    "orchestra": "",
-    "location": "No. 1 Studio, Abbey Road, London",
-    "labels": [
-      "EMI"
-    ],
-    "is_live": false,
-    "notes": null,
-    "reference": "",
-    "category_id": 1,
-    "sort_key": 1006.0
   },
   {
     "id": 777,
