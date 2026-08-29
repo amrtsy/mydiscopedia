@@ -4154,7 +4154,7 @@
       }
     ],
     "orchestra": "Los Angeles Philharmonic",
-    "location": "",
+    "location": "Philharmonic Auditorium, Los Angeles",
     "labels": [
       "Doremi",
       "Podium"
@@ -4167,6 +4167,30 @@
   },
   {
     "id": 177,
+    "composer": "Saint-Saëns, Camille",
+    "composer_id": "197",
+    "work": "Introduction et Rondo Capriccioso, Op. 28",
+    "date_display": "1960/11/17",
+    "date_sort": "1960-11-17",
+    "accompanists": [
+      {
+        "name": "Solti, Georg",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Los Angeles Philharmonic",
+    "location": "Philharmonic Auditorium, Los Angeles",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 28.0
+  },
+  {
+    "id": 178,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Slavonic Dance in E minor(Arr. by Kreisler), Op. 72 No. 2",
@@ -4190,7 +4214,7 @@
     "sort_key": 72.2
   },
   {
-    "id": 178,
+    "id": 179,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Tambourin Chinois, Op. 3",
@@ -4214,7 +4238,7 @@
     "sort_key": 3.0
   },
   {
-    "id": 179,
+    "id": 180,
     "composer": "Debussy, Claude",
     "composer_id": "58",
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
@@ -4238,7 +4262,7 @@
     "sort_key": null
   },
   {
-    "id": 180,
+    "id": 181,
     "composer": "Kroll, William",
     "composer_id": "129",
     "work": "Banjo and Fiddle",
@@ -4262,7 +4286,7 @@
     "sort_key": null
   },
   {
-    "id": 181,
+    "id": 182,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Introduction and Tarantelle, Op. 43",
@@ -4286,7 +4310,7 @@
     "sort_key": 43.0
   },
   {
-    "id": 182,
+    "id": 183,
     "composer": "Falla, Manuel de",
     "composer_id": "75",
     "work": "Danse Espagnole from \"La Vida Breve\"",
@@ -4310,7 +4334,7 @@
     "sort_key": null
   },
   {
-    "id": 183,
+    "id": 184,
     "composer": "Schumann, Robert",
     "composer_id": "212",
     "work": "Waldscenen: 'Bird as Prophet', Op. 82",
@@ -4334,7 +4358,7 @@
     "sort_key": 82.0
   },
   {
-    "id": 184,
+    "id": 185,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "La Chasse, Caprice in the style of Cartier",
@@ -4358,7 +4382,7 @@
     "sort_key": null
   },
   {
-    "id": 185,
+    "id": 186,
     "composer": "Chopin, Frédéric François",
     "composer_id": "48",
     "work": "Nocturne in E-flat major(Arr. by Sarasate), Op. 9 No. 2",
@@ -4382,7 +4406,7 @@
     "sort_key": 9.21
   },
   {
-    "id": 186,
+    "id": 187,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Polonaise Brilliante in D major, Op. 4",
@@ -4406,7 +4430,7 @@
     "sort_key": 4.0
   },
   {
-    "id": 187,
+    "id": 188,
     "composer": "Creston, Paul",
     "composer_id": "53",
     "work": "Violin Concerto No. 2, Op. 78",
@@ -4419,7 +4443,7 @@
       }
     ],
     "orchestra": "Atlanta Symphony Orchestra",
-    "location": "",
+    "location": "Tower Theater, Atlanta",
     "labels": [
       "Parnassus"
     ],
@@ -4430,7 +4454,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 188,
+    "id": 189,
     "composer": "Fauré, Gabriel",
     "composer_id": "76",
     "work": "Violin Sonata No. 1 in A minor, Op. 13",
@@ -4454,7 +4478,7 @@
     "sort_key": 13.0
   },
   {
-    "id": 189,
+    "id": 190,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
@@ -4478,7 +4502,7 @@
     "sort_key": 23.2
   },
   {
-    "id": 190,
+    "id": 191,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 5 in A minor",
@@ -4498,7 +4522,7 @@
     "sort_key": 1.05
   },
   {
-    "id": 191,
+    "id": 192,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 9 in E major",
@@ -4518,7 +4542,7 @@
     "sort_key": 1.09
   },
   {
-    "id": 192,
+    "id": 193,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 13 in B-flat major",
@@ -4538,7 +4562,7 @@
     "sort_key": 1.13
   },
   {
-    "id": 193,
+    "id": 194,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 14 in E-flat major",
@@ -4558,7 +4582,7 @@
     "sort_key": 1.14
   },
   {
-    "id": 194,
+    "id": 195,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 17 in E-flat major",
@@ -4578,7 +4602,7 @@
     "sort_key": 1.17
   },
   {
-    "id": 195,
+    "id": 196,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
@@ -4598,7 +4622,7 @@
     "sort_key": 1.24
   },
   {
-    "id": 196,
+    "id": 197,
     "composer": "Ysaÿe, Eugène",
     "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
@@ -4618,7 +4642,7 @@
     "sort_key": 27.3
   },
   {
-    "id": 197,
+    "id": 198,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -4642,7 +4666,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 198,
+    "id": 199,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Caprice Viennois, Op. 2",
@@ -4666,7 +4690,7 @@
     "sort_key": 2.0
   },
   {
-    "id": 199,
+    "id": 200,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Tambourin Chinois, Op. 3",
@@ -4690,7 +4714,7 @@
     "sort_key": 3.0
   },
   {
-    "id": 200,
+    "id": 201,
     "composer": "Creston, Paul",
     "composer_id": "53",
     "work": "Violin Concerto No. 2, Op. 78",
@@ -4714,7 +4738,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 201,
+    "id": 202,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Violin Concerto No. 3 in B minor, Op. 61",
@@ -4738,7 +4762,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 202,
+    "id": 203,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
@@ -4763,7 +4787,7 @@
     "sort_key": 30.3
   },
   {
-    "id": 203,
+    "id": 204,
     "composer": "Engel, Carl",
     "composer_id": "73",
     "work": "Sea Shell(Arr. by Zimbalist)",
@@ -4787,7 +4811,7 @@
     "sort_key": null
   },
   {
-    "id": 204,
+    "id": 205,
     "composer": "Milhaud, Darius",
     "composer_id": "151",
     "work": "Tijuca from Saudades do Brasil, Op. 67 No. 8",
@@ -4812,7 +4836,7 @@
     "sort_key": 67.8
   },
   {
-    "id": 205,
+    "id": 206,
     "composer": "Spalding, Albert",
     "composer_id": "304",
     "work": "Dragonfly for Solo Violin",
@@ -4836,7 +4860,7 @@
     "sort_key": null
   },
   {
-    "id": 206,
+    "id": 207,
     "composer": "Szymanowski, Karol",
     "composer_id": "232",
     "work": "La Fontaine d'Aréthuse from Three Poems 'Mythes', Op. 30 No. 1",
@@ -4860,7 +4884,7 @@
     "sort_key": 30.1
   },
   {
-    "id": 207,
+    "id": 208,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Havanaise, Op. 83",
@@ -4884,7 +4908,7 @@
     "sort_key": 83.0
   },
   {
-    "id": 209,
+    "id": 210,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -4908,7 +4932,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 210,
+    "id": 211,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4932,7 +4956,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 211,
+    "id": 212,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -4956,7 +4980,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 212,
+    "id": 213,
     "composer": "Glazunov, Aleksandr",
     "composer_id": "91",
     "work": "Violin Concerto in A minor, Op. 82",
@@ -4980,7 +5004,7 @@
     "sort_key": 82.0
   },
   {
-    "id": 213,
+    "id": 214,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -5004,7 +5028,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 214,
+    "id": 215,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -5028,7 +5052,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 215,
+    "id": 216,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5052,7 +5076,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 216,
+    "id": 217,
     "composer": "Kroll, William",
     "composer_id": "129",
     "work": "Banjo and Fiddle",
@@ -5077,7 +5101,7 @@
     "sort_key": null
   },
   {
-    "id": 217,
+    "id": 218,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Etude-Caprice in A minor(Arr. by Kreisler), Op. 18 No. 4",
@@ -5102,7 +5126,7 @@
     "sort_key": 18.41
   },
   {
-    "id": 218,
+    "id": 219,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Meditation, Op. 42 No. 1",
@@ -5127,7 +5151,7 @@
     "sort_key": 42.1
   },
   {
-    "id": 219,
+    "id": 220,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Carmen Fantasy, Op.25",
@@ -5152,7 +5176,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 220,
+    "id": 221,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Spanish Dances(Malagueña), Op. 21 No. 1",
@@ -5177,7 +5201,7 @@
     "sort_key": 21.1
   },
   {
-    "id": 221,
+    "id": 222,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Spanish Dances(Habañera), Op. 21 No. 2",
@@ -5202,7 +5226,7 @@
     "sort_key": 21.2
   },
   {
-    "id": 222,
+    "id": 223,
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Spanish Dances(Zapateado), Op. 23 No. 2",
@@ -5227,7 +5251,7 @@
     "sort_key": 23.2
   },
   {
-    "id": 223,
+    "id": 224,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -5251,30 +5275,6 @@
     "reference": "",
     "category_id": 2,
     "sort_key": 26.0
-  },
-  {
-    "id": 224,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1970/01/18",
-    "date_sort": "1970-01-18",
-    "accompanists": [
-      {
-        "name": "Malar, Gregory",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Grand Rapids Symphony Orchestra",
-    "location": "",
-    "labels": [
-      "unissued"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 2,
-    "sort_key": 61.0
   },
   {
     "id": 225,
@@ -5369,6 +5369,30 @@
   },
   {
     "id": 229,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1970/12/18",
+    "date_sort": "1970-12-18",
+    "accompanists": [
+      {
+        "name": "Millar, Gregory",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Grand Rapids Symphony Orchestra",
+    "location": "Civic Auditorium, Grand Rapids",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 230,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Scottish Fantasy in E-flat major, Op. 46",
@@ -5392,7 +5416,7 @@
     "sort_key": 46.0
   },
   {
-    "id": 208,
+    "id": 209,
     "composer": "Carpenter, John Alden",
     "composer_id": "42",
     "work": "Violin Sonata",

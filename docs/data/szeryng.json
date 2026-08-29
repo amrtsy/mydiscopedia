@@ -662,7 +662,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -686,7 +686,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -710,7 +710,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -734,7 +734,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -758,7 +758,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -782,7 +782,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -806,7 +806,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -830,7 +830,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -854,7 +854,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Theàtre Gil Vicente, Lourenc̜o Marques(Maputo)",
+    "location": "Theàtre Gil Vicente, Maputo",
     "labels": [
       "unissued"
     ],
@@ -1224,7 +1224,7 @@
   },
   {
     "id": 53,
-    "composer": "Nicolas Astrinidis",
+    "composer": "Astrinidis, Nicolas",
     "composer_id": "315",
     "work": "Concert Rhapsody \"Hellinik\"",
     "date_display": "1956",
@@ -1243,7 +1243,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": null
   },
   {
@@ -1312,8 +1312,8 @@
     "labels": [
       "SWR Classic"
     ],
-    "is_live": true,
-    "notes": "live",
+    "is_live": false,
+    "notes": null,
     "reference": "",
     "category_id": 2,
     "sort_key": 61.0
@@ -1337,8 +1337,8 @@
       "Arlecchino",
       "Forgotten Records"
     ],
-    "is_live": true,
-    "notes": "live",
+    "is_live": false,
+    "notes": null,
     "reference": "",
     "category_id": 2,
     "sort_key": null
@@ -4543,12 +4543,7 @@
     "work": "Recitative and Scherzo-Caprice, Op. 6",
     "date_display": "1963/01/22-23",
     "date_sort": "1963-01-22",
-    "accompanists": [
-      {
-        "name": "Reiner, Charles",
-        "role": "piano"
-      }
-    ],
+    "accompanists": [],
     "orchestra": "",
     "location": "Ballroom Studio A, New York",
     "labels": [
@@ -5692,9 +5687,9 @@
   },
   {
     "id": 238,
-    "composer": "Schuman, William",
-    "composer_id": "211",
-    "work": "Violin Concerto",
+    "composer": "Schumann, Robert",
+    "composer_id": "212",
+    "work": "Violin Concerto in D minor",
     "date_display": "1964/07/05",
     "date_sort": "1964-07-05",
     "accompanists": [
@@ -5712,7 +5707,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": null
   },
   {
@@ -12198,7 +12193,7 @@
       }
     ],
     "orchestra": "Seattle Symphony Orchestra",
-    "location": "",
+    "location": "Opera House, Seattle",
     "labels": [
       "Disco Archivia"
     ],
@@ -15543,7 +15538,7 @@
     "id": 640,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
-    "work": "Presto from Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
+    "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
     "date_display": "1979/12",
     "date_sort": "1979-12-01",
     "accompanists": [
