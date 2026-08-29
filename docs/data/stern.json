@@ -1071,7 +1071,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -1099,7 +1099,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -3886,7 +3886,7 @@
     "is_live": true,
     "notes": "live at Festival de Menton",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD90011394/concert-de-musique-de-chambre?rang=5",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -7533,7 +7533,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -7565,7 +7565,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -7593,7 +7593,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -7625,7 +7625,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -7842,7 +7842,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/d3d4990b0ed36b3617cada8e3d7544c2",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -10100,7 +10100,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://media.un.org/avlibrary/en/asset/d236/d2362972",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -11376,7 +11376,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -11596,7 +11596,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -12212,7 +12212,7 @@
     "is_live": true,
     "notes": "live at a concert for 30th anniversary of the State of Israel",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA79053215/concert-dans-les-jardins-de-jerusalem?rang=120",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -12312,7 +12312,7 @@
     "is_live": true,
     "notes": "live at Sir Robert Mayer's 100th Birthday Concert",
     "reference": "https://genome.ch.bbc.co.uk/d46ea74ccd8e49f6372ca21d8caca995",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -12876,7 +12876,7 @@
     "is_live": true,
     "notes": "live; video material",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -13216,7 +13216,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -13244,7 +13244,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -13536,7 +13536,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {

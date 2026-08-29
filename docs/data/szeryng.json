@@ -645,7 +645,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -1267,7 +1267,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -2187,7 +2187,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -2550,7 +2550,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -2978,7 +2978,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -3453,7 +3453,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -3831,7 +3831,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -4117,7 +4117,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89028416/orchestre-donne-le-1er-juin-1962?rang=10",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -5078,7 +5078,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -5222,7 +5222,7 @@
     "is_live": true,
     "notes": "live at Festival de Besançon",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD89028309/16eme-festival-de-besancon-concert-de-l-orchestre-philharmonique-de-la-rtf-dirige-par-d-chorafas?rang=46",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -6107,7 +6107,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -6136,7 +6136,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -6891,7 +6891,7 @@
     "is_live": true,
     "notes": "live; BBC Home Service",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -7227,7 +7227,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99261422/henryk-szeryng-et-l-orchestre-de-chambre-de-rouen?rang=68",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -7628,7 +7628,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD99278026/orchestre-de-chambre-de-la-rtb-du-10-mai-1968?rang=69",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -8315,7 +8315,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -9990,7 +9990,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -11322,7 +11322,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -11566,7 +11566,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -11595,7 +11595,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -11891,7 +11891,7 @@
     "is_live": true,
     "notes": "live at Prague Spring Festival",
     "reference": "https://genome.ch.bbc.co.uk/9d7134c9f87bb1d89fd0454bdff6ee4b",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -12881,7 +12881,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -13895,7 +13895,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -14129,7 +14129,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -14158,7 +14158,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -14184,7 +14184,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 1068.0
   },
   {
     "id": 584,
@@ -14714,7 +14714,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -14955,7 +14955,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "tkok",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -15483,7 +15483,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://smdb.kb.se/catalog/search?q=szeryng&sort=OLDEST",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -17156,7 +17156,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHD96001764/unesco-concert-hommage-a-henryk-szeryng?rang=157",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -17352,7 +17352,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://researchworks.oclc.org/archivegrid/collection/data/45307343",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {

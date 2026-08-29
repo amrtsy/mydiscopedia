@@ -212,7 +212,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/53c3996511c4d34410b6cac696b7e427",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -1475,7 +1475,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=1855.046&LNG_ID=ITA",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {

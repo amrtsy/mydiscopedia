@@ -261,7 +261,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 1068.0
   },
   {
     "id": 12,
@@ -4162,7 +4162,7 @@
     "is_live": true,
     "notes": "live; 1st movement",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -4354,7 +4354,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -9003,7 +9003,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -9672,7 +9672,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -9700,7 +9700,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {

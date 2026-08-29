@@ -247,7 +247,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -733,7 +733,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -925,7 +925,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -6941,7 +6941,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -8934,7 +8934,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -9111,7 +9111,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -9541,7 +9541,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -9602,7 +9602,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -10851,7 +10851,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -12365,7 +12365,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -13138,7 +13138,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -13933,7 +13933,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "Bach Double Concerto | David and Igor Oistrakh",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -14486,7 +14486,7 @@
     "is_live": true,
     "notes": "live at Vienna Festival",
     "reference": "https://genome.ch.bbc.co.uk/148f46d8849741fe8d9ced24d2f30505",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -14685,7 +14685,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -15174,7 +15174,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/387c4b13728f3105d3d0817f0d5ca444",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -15464,7 +15464,7 @@
     "is_live": true,
     "notes": "live at Proms",
     "reference": "https://genome.ch.bbc.co.uk/13acf1509313873e45fb6e8ac0453b46",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1042.0
   },
   {
@@ -16275,7 +16275,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140127183031?ac=dgtl%2Canlg&q=oistrakh",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -17151,7 +17151,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1060.0
   },
   {
@@ -17777,7 +17777,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
@@ -18738,7 +18738,7 @@
     "is_live": true,
     "notes": "live",
     "reference": "David & Igor Oistrakh – Bach: Double Violin Concerto in D minor BWV 1043 (Vienna, 23 May 1974)",
-    "category_id": 1,
+    "category_id": 2,
     "sort_key": 1043.0
   },
   {
