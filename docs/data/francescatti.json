@@ -1863,7 +1863,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 79,
@@ -2338,7 +2338,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 99,
@@ -3755,7 +3755,7 @@
     "notes": "live at Edinburgh International Festival",
     "reference": "https://genome.ch.bbc.co.uk/3f93181141014ac1981520c5cf5c1cd8",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 158,

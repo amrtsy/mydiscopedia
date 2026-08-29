@@ -3955,7 +3955,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 167,
@@ -12491,7 +12491,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 515,
@@ -16377,7 +16377,7 @@
     "notes": "live at Ascona Festival",
     "reference": "https://genome.ch.bbc.co.uk/2a93b024cc70faac85b42e077219a706",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 675,
@@ -16990,7 +16990,7 @@
     "notes": "live",
     "reference": "https://smdb.kb.se/catalog/search?q=szeryng&sort=OLDEST#",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 701,

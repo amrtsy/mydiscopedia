@@ -4043,7 +4043,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 163,
@@ -4886,7 +4886,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 196,
@@ -5692,7 +5692,7 @@
     "notes": null,
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 229,
@@ -8760,7 +8760,7 @@
     "notes": "live",
     "reference": "https://genome.ch.bbc.co.uk/31785ff14e069383def4e14b409be96f",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 352,
@@ -9083,7 +9083,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 365,
@@ -9412,7 +9412,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 378,
@@ -12406,7 +12406,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Assembly Hall, New York",
+    "location": "United Nations General Assembly Hall, New York",
     "labels": [
       "unissued"
     ],
@@ -14269,7 +14269,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 572,
@@ -15537,7 +15537,7 @@
     "notes": "live",
     "reference": "The Times(1968.9.7)",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 624,
@@ -15957,7 +15957,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 641,
@@ -16128,7 +16128,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": null
+    "sort_key": 8.0
   },
   {
     "id": 648,
@@ -17898,7 +17898,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": 12.11
+    "sort_key": 12.13
   },
   {
     "id": 719,
@@ -18294,7 +18294,7 @@
     "notes": "live",
     "reference": "",
     "category_id": 1,
-    "sort_key": 12.11
+    "sort_key": 12.13
   },
   {
     "id": 735,
