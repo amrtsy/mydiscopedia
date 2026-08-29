@@ -489,8 +489,10 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   }
   .rec-row{
     display:flex;
-    flex-direction:column;
-    gap:2px;
+    flex-wrap:wrap;
+    align-items:baseline;
+    row-gap:2px;
+    column-gap:8px;
     padding:8px 0;
   }
   .rec-row .cell{
@@ -498,6 +500,15 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
     text-overflow:clip;
     white-space:normal;
     overflow-wrap:anywhere;
+  }
+  .rec-row .cell-date,
+  .rec-row .cell-type{
+    flex:0 0 auto;
+  }
+  .rec-row .cell-performers,
+  .rec-row .cell-location,
+  .rec-row .cell-labelcol{
+    flex:1 0 100%;
   }
   .rec-row .cell-label{
     display:inline;
@@ -507,6 +518,9 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
     text-transform:uppercase;
     color:var(--ink-faint);
     margin-right:6px;
+  }
+  .rec-row .cell-type .cell-label{
+    display:none;
   }
   .rec-row .cell-labelcol{
     text-align:left;
