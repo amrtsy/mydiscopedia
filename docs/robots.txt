@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amrtsy.github.io/mydiscopedia/sitemap.xml
+Sitemap: https://mydiscopedia.com/sitemap.xml
