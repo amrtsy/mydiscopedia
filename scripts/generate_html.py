@@ -13,6 +13,7 @@ DATA_DIR = ROOT / "docs" / "data"
 PERFORMERS_DIR = ROOT / "docs" / "performers"
 
 CONTACT_EMAIL = "mydiscopedia@gmail.com"
+SITE_BASE_URL = "https://amrtsy.github.io/mydiscopedia"
 
 # Performer lifespans (birth–death), shown on the site instead of the
 # recording-activity date range. Source: standard biographical references.
@@ -77,7 +78,8 @@ PERFORMER_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
+<meta name="description" content="{name}'s complete discography: recordings organised by composer and work, with dates, accompanists, venues, and labels.">
 <title>{name} — Discography</title>
 {fonts}
 <link rel="stylesheet" href="../assets/style.css">
@@ -133,7 +135,8 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
+<meta name="description" content="A discography reference for 20th-century violin and cello virtuosi, cataloguing recordings by composer, work, recording date, accompanists, and label.">
 <title>MyDiscopedia</title>
 {fonts}
 <link rel="stylesheet" href="assets/style.css">
@@ -168,7 +171,8 @@ ABOUT_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
+<meta name="description" content="About MyDiscopedia, a discography reference for 20th-century string virtuosi.">
 <title>About — MyDiscopedia</title>
 {fonts}
 <link rel="stylesheet" href="assets/style.css">
@@ -203,7 +207,8 @@ REFERENCES_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Archives and resources used to research the MyDiscopedia discography, including broadcast archives, orchestra archives, and newspaper archives.">
 <title>References — MyDiscopedia</title>
 {fonts}
 <link rel="stylesheet" href="assets/style.css">
@@ -265,7 +270,8 @@ CONTACT_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Contact MyDiscopedia with corrections, additions, or questions about the discography.">
 <title>Contact — MyDiscopedia</title>
 {fonts}
 <link rel="stylesheet" href="assets/style.css">
@@ -338,6 +344,30 @@ def main():
     )
     (ROOT / "docs" / "references.html").write_text(references_html, encoding="utf-8")
     print("wrote docs/references.html")
+
+    # --- robots.txt: allow crawling, point to the sitemap ---
+    robots_txt = (
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        f"Sitemap: {SITE_BASE_URL}/sitemap.xml\n"
+    )
+    (ROOT / "docs" / "robots.txt").write_text(robots_txt, encoding="utf-8")
+    print("wrote docs/robots.txt")
+
+    # --- sitemap.xml ---
+    urls = ["", "about.html", "contact.html", "references.html"]
+    urls += [f"performers/{entry['slug']}.html" for entry in manifest]
+    url_entries = "\n".join(
+        f"  <url><loc>{SITE_BASE_URL}/{path}</loc></url>" for path in urls
+    )
+    sitemap_xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{url_entries}\n"
+        "</urlset>\n"
+    )
+    (ROOT / "docs" / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
+    print("wrote docs/sitemap.xml")
 
 
 if __name__ == "__main__":
