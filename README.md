@@ -85,6 +85,9 @@ python3 scripts/generate_html.py
 変更があれば自動的にコミット・公開する。
 
 事前に、リポジトリの Settings → Secrets and variables → Actions →
-Variables で `SHEET_ID` という名前の変数に、スプレッドシートのID
-（URLの `/d/` と `/edit` の間の文字列）を設定しておくこと。
+**Secrets**（Variablesではない）で `SHEET_ID` という名前のシークレットに、
+スプレッドシートのID（URLの `/d/` と `/edit` の間の文字列）を設定して
+おくこと。Publicリポジトリでは、Variablesに設定した値はActionsの実行
+ログにそのまま表示され誰でも閲覧できてしまうため、必ずSecretsを使う
+こと。
 `scripts/gids.json` はリポジトリに含まれているので追加設定は不要。

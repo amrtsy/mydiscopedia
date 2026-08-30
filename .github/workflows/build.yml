@@ -20,7 +20,7 @@ jobs:
 
       - name: Build data (from published Google Sheet, per-tab CSV export)
         run: |
-          python3 scripts/build.py --sheet-id "${{ vars.SHEET_ID }}" --gids scripts/gids.json
+          python3 scripts/build.py --sheet-id "${{ secrets.SHEET_ID }}" --gids scripts/gids.json
 
       - name: Generate HTML pages
         run: |
