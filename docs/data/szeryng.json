@@ -10483,7 +10483,7 @@
       }
     ],
     "orchestra": "Romanian National Radio Orchestra",
-    "location": "",
+    "location": "Bucharest",
     "labels": [
       "unissued"
     ],
@@ -10507,7 +10507,7 @@
       }
     ],
     "orchestra": "Romanian National Radio Orchestra",
-    "location": "",
+    "location": "Bucharest",
     "labels": [
       "unissued"
     ],
@@ -10579,13 +10579,13 @@
       }
     ],
     "orchestra": "American Symphony Orchestra",
-    "location": "",
+    "location": "Philharmonic Hall, New York",
     "labels": [
       "Disco Archivia"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "",
+    "reference": "249",
     "category_id": 2,
     "sort_key": 47.0
   },
@@ -10603,10 +10603,11 @@
       }
     ],
     "orchestra": "American Symphony Orchestra",
-    "location": "",
+    "location": "Philharmonic Hall, New York",
     "labels": [
       "Disco Archivia",
-      "Venezia"
+      "Venezia",
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",

@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://amrtsy.github.io/mydiscopedia/sitemap.xml
