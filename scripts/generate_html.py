@@ -13,7 +13,7 @@ DATA_DIR = ROOT / "docs" / "data"
 PERFORMERS_DIR = ROOT / "docs" / "performers"
 
 CONTACT_EMAIL = "mydiscopedia@gmail.com"
-SITE_BASE_URL = "https://amrtsy.github.io/mydiscopedia"
+SITE_BASE_URL = "https://mydiscopedia.com"
 
 # Performer lifespans (birth–death), shown on the site instead of the
 # recording-activity date range. Source: standard biographical references.
@@ -344,6 +344,10 @@ def main():
     )
     (ROOT / "docs" / "references.html").write_text(references_html, encoding="utf-8")
     print("wrote docs/references.html")
+
+    # --- CNAME: pins the custom domain so GitHub Pages keeps serving it ---
+    (ROOT / "docs" / "CNAME").write_text("mydiscopedia.com\n", encoding="utf-8")
+    print("wrote docs/CNAME")
 
     # --- robots.txt: allow crawling, point to the sitemap ---
     robots_txt = (
