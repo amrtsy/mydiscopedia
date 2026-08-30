@@ -70,7 +70,8 @@ def site_footer(base):
   document.querySelectorAll('.copyright-year').forEach(function(el){{
     el.textContent = new Date().getFullYear();
   }});
-</script>"""
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "b9a97dcd81da4359a59337e5ae99e20b"}}'></script><!-- End Cloudflare Web Analytics -->"""
 
 
 PERFORMER_TEMPLATE = """<!DOCTYPE html>
