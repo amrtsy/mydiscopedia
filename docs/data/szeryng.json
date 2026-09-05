@@ -11856,6 +11856,10 @@
     "date_sort": "1972-05-26",
     "accompanists": [
       {
+        "name": "Vlach Josef",
+        "role": "conductor"
+      },
+      {
         "name": "Suk, Josef",
         "role": "violin"
       }
@@ -11879,6 +11883,10 @@
     "date_display": "1972/05/26",
     "date_sort": "1972-05-26",
     "accompanists": [
+      {
+        "name": "Vlach Josef",
+        "role": "conductor"
+      },
       {
         "name": "Suk, Josef",
         "role": "violin"
@@ -14392,6 +14400,10 @@
       {
         "name": "Alpenheim, Ilse von",
         "role": "piano"
+      },
+      {
+        "name": "National Symphony String Quartet",
+        "role": null
       }
     ],
     "orchestra": "",

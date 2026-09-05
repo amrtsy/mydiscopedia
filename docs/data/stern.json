@@ -8370,8 +8370,8 @@
     "is_live": true,
     "notes": "live at Besançon Festival",
     "reference": "https://catalogue.ina.fr/doc/TV-RADIO/PH_PHF14009120/20eme-festival-de-besancon-recital-isaac-stern?rang=45",
-    "category_id": 1,
-    "sort_key": 120.21
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 337,
@@ -8498,8 +8498,8 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": 1,
-    "sort_key": 120.21
+    "category_id": null,
+    "sort_key": null
   },
   {
     "id": 342,
