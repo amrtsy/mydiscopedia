@@ -78,18 +78,32 @@ def parse_date(raw):
 
 
 def parse_people(raw):
+    """Parse the Accompanists cell into a list of {name, role}.
+
+    The convention in the sheet is: entries whose name contains a comma
+    (e.g. "Barenboim, Daniel(piano)") are wrapped in double quotes so the
+    comma isn't mistaken for the list separator. Entries without a comma
+    (e.g. an ensemble name like "Pascal String Quartet") are sometimes left
+    unquoted. Parsing this as a CSV row (rather than only extracting
+    quoted substrings) handles both cases correctly.
+    """
     if not raw:
         return []
-    parts = re.findall(r'"([^"]+)"', raw)
-    if not parts:
-        parts = [raw]
+    reader = csv.reader(io.StringIO(raw), skipinitialspace=True)
+    try:
+        parts = next(reader)
+    except StopIteration:
+        parts = []
     people = []
     for p in parts:
-        m = re.match(r"(.+?)\(([^)]+)\)\s*$", p.strip())
+        p = p.strip()
+        if not p:
+            continue
+        m = re.match(r"(.+?)\(([^)]+)\)\s*$", p)
         if m:
             people.append({"name": m.group(1).strip(), "role": m.group(2).strip()})
         else:
-            people.append({"name": p.strip(), "role": None})
+            people.append({"name": p, "role": None})
     return people
 
 
