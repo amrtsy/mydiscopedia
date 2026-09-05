@@ -33,7 +33,7 @@
   });
 
   function peopleStr(people) {
-    return people.map(p => p.role ? `${p.name}(${p.role})` : p.name).join(', ');
+    return people.map(p => p.role ? `${p.name}(${p.role})` : p.name).join(' \u00b7 ');
   }
 
   const menuToggle = document.getElementById('menu-toggle');
