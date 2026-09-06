@@ -137,7 +137,7 @@
         </li>`).join('');
       wrap.innerHTML = `
         <div class="ds-when">
-          <div class="ds-date">${s.is_live ? '<span class="live-mark">LIVE</span> ' : ''}${s.date_display ?? 'undated'}</div>
+          <div class="ds-date">${s.date_display ?? 'undated'}${s.is_live ? ' <span class="live-mark">LIVE</span>' : ''}</div>
           ${s.location ? `<div class="ds-loc">${s.location}</div>` : ''}
         </div>
         <ul class="ds-list">${items}</ul>
