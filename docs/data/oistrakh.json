@@ -6118,12 +6118,7 @@
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1954/11/10",
     "date_sort": "1954-11-10",
-    "accompanists": [
-      {
-        "name": "Yampolsky, Vladimir",
-        "role": "piano"
-      }
-    ],
+    "accompanists": [],
     "orchestra": "",
     "location": "Royal Albert Hall, London",
     "labels": [
@@ -6318,12 +6313,7 @@
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
     "date_display": "1955/02/23",
     "date_sort": "1955-02-23",
-    "accompanists": [
-      {
-        "name": "Yampolsky, Vladimir",
-        "role": "piano"
-      }
-    ],
+    "accompanists": [],
     "orchestra": "",
     "location": "Hibiya Public Hall, Tokyo",
     "labels": [
@@ -9424,7 +9414,8 @@
     "labels": [
       "Music & Arts",
       "Editura Casa Radio",
-      "St-Laurent Studio"
+      "St-Laurent Studio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
@@ -9448,7 +9439,8 @@
     "orchestra": "",
     "location": "Bucharest",
     "labels": [
-      "Editura Casa Radio"
+      "Editura Casa Radio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
@@ -9497,7 +9489,8 @@
     "location": "Bucharest",
     "labels": [
       "Testament",
-      "Editura Casa Radio"
+      "Editura Casa Radio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
@@ -9522,7 +9515,8 @@
     "location": "Bucharest",
     "labels": [
       "Testament",
-      "Editura Casa Radio"
+      "Editura Casa Radio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
@@ -9547,7 +9541,8 @@
     "location": "Bucharest",
     "labels": [
       "Testament",
-      "Editura Casa Radio"
+      "Editura Casa Radio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
@@ -9572,7 +9567,8 @@
     "location": "Bucharest",
     "labels": [
       "Testament",
-      "Editura Casa Radio"
+      "Editura Casa Radio",
+      "Mezhdunarodnaya Kniga"
     ],
     "is_live": true,
     "notes": "live",
