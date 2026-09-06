@@ -79,7 +79,7 @@
       row.innerHTML = `
         <div class="cell cell-date"><span class="cell-label">Date</span>${d.date_display ?? 'undated'}</div>
         <div class="cell cell-type"><span class="cell-label">Type</span>${d.is_live ? '<span class="live-mark">LIVE</span>' : ''}</div>
-        <div class="cell cell-performers"><span class="cell-label">Accompanists</span><span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}</div>
+        <div class="cell cell-performers"><span class="cell-label">Accompanists</span><span class="people">${peopleStr(d.accompanists) || '(unaccompanied)'}</span>${d.orchestra ? ` \u00b7 <span class="orch">${d.orchestra}</span>` : ''}</div>
         <div class="cell cell-location"><span class="cell-label">Location</span>${d.location ?? ''}</div>
         <div class="cell cell-labelcol"><span class="cell-label">Label</span>${labelWithNotes}</div>
       `;
@@ -132,12 +132,12 @@
       wrap.className = 'date-session';
       const items = s.recs.map(d => `
         <li>
-          ${d.is_live ? '<span class="live-mark">LIVE</span> ' : ''}<span class="ds-work">${d.composer} — ${d.work}</span>
-          <span class="ds-acc"> — ${peopleStr(d.accompanists) || '(unaccompanied)'}${d.orchestra ? `, <span class="orch">${d.orchestra}</span>` : ''}</span>
+          <span class="ds-work">${d.composer} — ${d.work}</span>
+          <span class="ds-acc"> — ${peopleStr(d.accompanists) || '(unaccompanied)'}${d.orchestra ? ` \u00b7 <span class="orch">${d.orchestra}</span>` : ''}</span>
         </li>`).join('');
       wrap.innerHTML = `
         <div class="ds-when">
-          <div class="ds-date">${s.date_display ?? 'undated'}</div>
+          <div class="ds-date">${s.is_live ? '<span class="live-mark">LIVE</span> ' : ''}${s.date_display ?? 'undated'}</div>
           ${s.location ? `<div class="ds-loc">${s.location}</div>` : ''}
         </div>
         <ul class="ds-list">${items}</ul>
@@ -147,7 +147,8 @@
 
     if (sortMode === 'date') {
       // Accordion by year; within a year, recordings sharing the exact
-      // same date and location are grouped into one session entry.
+      // same date, location, and live/studio status are grouped into one
+      // session entry.
       const byYear = new Map();
       filtered.forEach(d => {
         const key = d.date_sort.startsWith('9999') ? 'Undated' : d.date_sort.slice(0, 4);
@@ -165,9 +166,12 @@
         const records = byYear.get(year);
         const sessions = new Map();
         records.forEach(d => {
-          const key = (d.date_display ?? '\u0000') + '||' + (d.location ?? '');
+          const key = (d.date_display ?? '\u0000') + '||' + (d.location ?? '') + '||' + (d.is_live ? '1' : '0');
           if (!sessions.has(key)) {
-            sessions.set(key, { date_display: d.date_display, location: d.location, sortKey: d.date_sort, recs: [] });
+            sessions.set(key, {
+              date_display: d.date_display, location: d.location, is_live: d.is_live,
+              sortKey: d.date_sort, recs: [],
+            });
           }
           sessions.get(key).recs.push(d);
         });
