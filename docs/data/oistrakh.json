@@ -116,7 +116,7 @@
     "is_live": false,
     "notes": null,
     "reference": "",
-    "category_id": null,
+    "category_id": 1,
     "sort_key": 33.2
   },
   {
@@ -6505,7 +6505,7 @@
     "id": 262,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
-    "work": "Intermezzo from Symphonie espagnole, Op.21",
+    "work": "Symphonie espagnole, Op.21",
     "date_display": "1954/11/13-14",
     "date_sort": "1954-11-13",
     "accompanists": [
@@ -6525,7 +6525,7 @@
     "notes": null,
     "reference": "",
     "category_id": 2,
-    "sort_key": 21.3
+    "sort_key": 21.0
   },
   {
     "id": 263,
@@ -7100,7 +7100,7 @@
       }
     ],
     "orchestra": "Munich Philharmonic Orchestra",
-    "location": "",
+    "location": "Deutsches museum, Munich",
     "labels": [
       "Topazio",
       "Archipel"
@@ -7345,7 +7345,7 @@
       }
     ],
     "orchestra": "Leningrad Philharmonic Orchestra(-1991)",
-    "location": "",
+    "location": "Philarmonic Hall, Leningrad",
     "labels": [
       "St-Laurent Studio"
     ],
@@ -8427,7 +8427,8 @@
     "orchestra": "Leipzig Gewandhaus Orchestra",
     "location": "Kongresshalle, Leipzig",
     "labels": [
-      "Berlin Classics"
+      "Berlin Classics",
+      "Archipel"
     ],
     "is_live": false,
     "notes": null,
