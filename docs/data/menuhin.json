@@ -18148,6 +18148,10 @@
       {
         "name": "Rakha, Alla",
         "role": "tabla"
+      },
+      {
+        "name": "Chakravarty, Kamala",
+        "role": "tambura"
       }
     ],
     "orchestra": "",
@@ -18157,7 +18161,7 @@
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "",
+    "reference": "https://youtu.be/mrUU7hgRNo0?si=PMI7VyZXe5c-tJL2",
     "category_id": 1,
     "sort_key": null
   },
