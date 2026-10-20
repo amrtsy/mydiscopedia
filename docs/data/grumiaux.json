@@ -1450,6 +1450,30 @@
   },
   {
     "id": 62,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
+    "date_display": "1962/06/12",
+    "date_sort": "1962-06-12",
+    "accompanists": [
+      {
+        "name": "Baumgartner, Rudolf",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Festival Strings Lucerne",
+    "location": "Bordeux",
+    "labels": [
+      "Forgotten Records"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 219.0
+  },
+  {
+    "id": 63,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -1477,7 +1501,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 63,
+    "id": 64,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
@@ -1501,7 +1525,31 @@
     "sort_key": 28.0
   },
   {
-    "id": 64,
+    "id": 65,
+    "composer": "Bruch, Max",
+    "composer_id": "37",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "date_display": "1965/10/25",
+    "date_sort": "1965-10-25",
+    "accompanists": [
+      {
+        "name": "Giulini, Carlo Maria",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608140126828831?ac=dgtl%2Canlg&q=grumiaux",
+    "category_id": 2,
+    "sort_key": 26.0
+  },
+  {
+    "id": 66,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1525,7 +1573,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 65,
+    "id": 67,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1549,7 +1597,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 66,
+    "id": 68,
     "composer": "Haydn, Michael",
     "composer_id": "312",
     "work": "Violin Concerto in A major, MH 207",
@@ -1573,7 +1621,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 67,
+    "id": 69,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
@@ -1597,7 +1645,7 @@
     "sort_key": null
   },
   {
-    "id": 68,
+    "id": 70,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1621,7 +1669,7 @@
     "sort_key": null
   },
   {
-    "id": 69,
+    "id": 71,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Violin Concerto in D major",
@@ -1645,7 +1693,7 @@
     "sort_key": null
   },
   {
-    "id": 70,
+    "id": 72,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1669,7 +1717,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 71,
+    "id": 73,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
@@ -1688,7 +1736,7 @@
     "sort_key": 1042.0
   },
   {
-    "id": 72,
+    "id": 74,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1707,7 +1755,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 73,
+    "id": 75,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -1726,7 +1774,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 74,
+    "id": 76,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -1745,7 +1793,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 75,
+    "id": 77,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -1769,7 +1817,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 76,
+    "id": 78,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1793,7 +1841,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 77,
+    "id": 79,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -1817,7 +1865,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 78,
+    "id": 80,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1841,7 +1889,7 @@
     "sort_key": null
   },
   {
-    "id": 79,
+    "id": 81,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1865,7 +1913,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 80,
+    "id": 82,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -1889,7 +1937,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 81,
+    "id": 83,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
@@ -1913,7 +1961,7 @@
     "sort_key": 8.01
   },
   {
-    "id": 82,
+    "id": 84,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
@@ -1937,7 +1985,7 @@
     "sort_key": 8.02
   },
   {
-    "id": 83,
+    "id": 85,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
@@ -1961,7 +2009,7 @@
     "sort_key": 8.03
   },
   {
-    "id": 84,
+    "id": 86,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
@@ -1985,7 +2033,7 @@
     "sort_key": 8.04
   },
   {
-    "id": 85,
+    "id": 87,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -2009,7 +2057,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 86,
+    "id": 88,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -2033,7 +2081,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 87,
+    "id": 89,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -2057,7 +2105,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 88,
+    "id": 90,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
@@ -2081,7 +2129,7 @@
     "sort_key": 40.0
   },
   {
-    "id": 89,
+    "id": 91,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -2105,7 +2153,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 90,
+    "id": 92,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -2129,7 +2177,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 91,
+    "id": 93,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -2153,7 +2201,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 92,
+    "id": 94,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
