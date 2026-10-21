@@ -16207,7 +16207,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Banqueting Room of the Guildhall, London",
+    "location": "Assembly Rooms, Bath",
     "labels": [
       "EMI"
     ],
@@ -16235,7 +16235,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Banqueting Room of the Guildhall, London",
+    "location": "Assembly Rooms, Bath",
     "labels": [
       "unissued"
     ],
@@ -16249,7 +16249,7 @@
     "id": 665,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
-    "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
+    "work": "Piano Trio in E-flat major, Op. 70 No. 2",
     "date_display": "1964/06/07",
     "date_sort": "1964-06-07",
     "accompanists": [
@@ -16263,7 +16263,7 @@
       }
     ],
     "orchestra": "",
-    "location": "Banqueting Room of the Guildhall, London",
+    "location": "Assembly Rooms, Bath",
     "labels": [
       "unissued"
     ],
@@ -16271,7 +16271,7 @@
     "notes": "live at Bath Festival",
     "reference": "https://www.thetimes.com/tto/archive/article/1964-06-08/7/1.html#start%3D1964-06-01%26end%3D1964-06-15%26terms%3Dmenuhin%26back%3D/tto/archive/find/menuhin/w:1964-06-01%7E1964-06-15/1%26prev%3D/tto/archive/frame/goto/menuhin/w:1964-06-01%7E1964-06-15/3%26next%3D/tto/archive/frame/goto/menuhin/w:1964-06-01%7E1964-06-15/5",
     "category_id": 1,
-    "sort_key": 70.1
+    "sort_key": 70.2
   },
   {
     "id": 666,
