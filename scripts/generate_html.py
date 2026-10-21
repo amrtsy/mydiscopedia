@@ -32,7 +32,7 @@ FONTS_LINK = (
     '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
     '<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;'
     '9..144,600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:'
-    'wght@400;500&display=swap" rel="stylesheet">'
+    'wght@400;500;600&display=swap" rel="stylesheet">'
 )
 
 

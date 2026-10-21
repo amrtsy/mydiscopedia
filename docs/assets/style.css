@@ -278,6 +278,10 @@ select:focus, input:focus{outline:2px solid var(--wine); outline-offset:1px;}
   color:var(--ink-soft);
   text-align:right;
 }
+.rec-row .label-released{
+  font-weight:600;
+  color:var(--ink);
+}
 .rec-row .cell-label{
   display:none;
 }

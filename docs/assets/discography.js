@@ -74,7 +74,13 @@
       const row = document.createElement('div');
       row.className = 'rec-row';
       const labelStr = d.labels.join(' / ');
-      const labelWithNotes = [labelStr, (d.notes && !d.is_live) ? d.notes : null]
+      // Labels that don't include "unissued" mean the recording has been
+      // released in some form — show those in bold.
+      const isUnissued = d.labels.some(l => /unissued/i.test(l));
+      const labelHtml = labelStr
+        ? (isUnissued ? labelStr : `<span class="label-released">${labelStr}</span>`)
+        : '';
+      const labelWithNotes = [labelHtml, (d.notes && !d.is_live) ? d.notes : null]
         .filter(Boolean).join(' · ');
       row.innerHTML = `
         <div class="cell cell-date"><span class="cell-label">Date</span>${d.date_display ?? 'undated'}</div>
