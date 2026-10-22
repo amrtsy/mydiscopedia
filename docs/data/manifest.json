@@ -16,16 +16,16 @@
   {
     "slug": "menuhin",
     "name": "Yehudi Menuhin",
-    "count": 972,
+    "count": 975,
     "skipped": 1,
     "year_range": "1928–1990"
   },
   {
     "slug": "grumiaux",
     "name": "Arthur Grumiaux",
-    "count": 94,
+    "count": 119,
     "skipped": 2,
-    "year_range": "1945–1980"
+    "year_range": "1945–1984"
   },
   {
     "slug": "oistrakh",
@@ -37,7 +37,7 @@
   {
     "slug": "francescatti",
     "name": "Zino Francescatti",
-    "count": 420,
+    "count": 421,
     "skipped": 1,
     "year_range": "1922–1975"
   },

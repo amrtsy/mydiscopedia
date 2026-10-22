@@ -1001,7 +1001,7 @@
     ],
     "is_live": true,
     "notes": "live; Armed Forces Radio Sevice Hosted by Lionel Barrymore",
-    "reference": "https://youtu.be/K7vYhArzE_0?si=25W66RLRVJJEGshO",
+    "reference": "Zino Francescatti Paganini Violin Concerto no. 1 Concert Hall Radio Broadcast, Lionel Barrymore 1947",
     "category_id": 2,
     "sort_key": 6.0
   },
@@ -2358,8 +2358,8 @@
     "labels": [
       "Sony Classical"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 1,
     "sort_key": 108.0
@@ -3535,8 +3535,8 @@
       "Bruno Walter Society",
       "Premiere"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 2,
     "sort_key": 77.0
@@ -5304,7 +5304,7 @@
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Concerto for Violin, Piano and String Quartet, Op. 21",
-    "date_display": "1954/12/1",
+    "date_display": "1954/12/01",
     "date_sort": "1954-12-01",
     "accompanists": [
       {
@@ -5346,7 +5346,7 @@
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Hungarian Dance No. 5(Arr. by Joachim)",
-    "date_display": "1955/1/10",
+    "date_display": "1955/01/10",
     "date_sort": "1955-01-10",
     "accompanists": [
       {
@@ -5370,7 +5370,7 @@
     "composer": "Schumann, Robert",
     "composer_id": "212",
     "work": "Waldscenen: 'Bird as Prophet', Op. 82",
-    "date_display": "1955/1/10",
+    "date_display": "1955/01/10",
     "date_sort": "1955-01-10",
     "accompanists": [
       {
@@ -5394,7 +5394,7 @@
     "composer": "Sarasate, Pablo de",
     "composer_id": "199",
     "work": "Carmen Fantasy, Op.25",
-    "date_display": "1955/1/10",
+    "date_display": "1955/01/10",
     "date_sort": "1955-01-10",
     "accompanists": [
       {
@@ -5418,7 +5418,7 @@
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
-    "date_display": "1955/1/10",
+    "date_display": "1955/01/10",
     "date_sort": "1955-01-10",
     "accompanists": [
       {
@@ -5442,7 +5442,7 @@
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Violin Sonata",
-    "date_display": "1955/1/11",
+    "date_display": "1955/01/11",
     "date_sort": "1955-01-11",
     "accompanists": [
       {
@@ -5467,7 +5467,7 @@
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Kaddisch",
-    "date_display": "1955/1/11",
+    "date_display": "1955/01/11",
     "date_sort": "1955-01-11",
     "accompanists": [
       {
@@ -5492,7 +5492,7 @@
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
-    "date_display": "1955/1/11",
+    "date_display": "1955/01/11",
     "date_sort": "1955-01-11",
     "accompanists": [
       {
@@ -5516,7 +5516,7 @@
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Berceuse sur le nom de Gabriel Fauré",
-    "date_display": "1955/1/11",
+    "date_display": "1955/01/11",
     "date_sort": "1955-01-11",
     "accompanists": [
       {
@@ -5541,7 +5541,7 @@
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Pièce en Forme de Habanera",
-    "date_display": "1955/1/11",
+    "date_display": "1955/01/11",
     "date_sort": "1955-01-11",
     "accompanists": [
       {
@@ -7718,10 +7718,10 @@
     "orchestra": "",
     "location": "Paris",
     "labels": [
-      "Columbia"
+      "Columbia(LP)"
     ],
     "is_live": false,
-    "notes": "LP",
+    "notes": null,
     "reference": "",
     "category_id": 1,
     "sort_key": 934.0
@@ -7742,10 +7742,10 @@
     "orchestra": "",
     "location": "Paris",
     "labels": [
-      "Columbia"
+      "Columbia(LP)"
     ],
     "is_live": false,
-    "notes": "LP",
+    "notes": null,
     "reference": "",
     "category_id": 1,
     "sort_key": 384.0
@@ -7766,10 +7766,10 @@
     "orchestra": "",
     "location": "Paris",
     "labels": [
-      "Columbia"
+      "Columbia(LP)"
     ],
     "is_live": false,
-    "notes": "LP",
+    "notes": null,
     "reference": "",
     "category_id": 1,
     "sort_key": 408.0
@@ -8690,31 +8690,6 @@
   },
   {
     "id": 361,
-    "composer": "Beethoven, Ludwig van",
-    "composer_id": "16",
-    "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1966",
-    "date_sort": "1966-01-01",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Montreal Symphony Orchestra",
-    "location": "Place des Arts, Monreal",
-    "labels": [
-      "Classical Recordings Archive of America",
-      "St-Laurent Studio"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 2,
-    "sort_key": 61.0
-  },
-  {
-    "id": 362,
     "composer": "Bernstein, Leonard",
     "composer_id": "24",
     "work": "Serenade after Plato's 'Symposium'",
@@ -8738,7 +8713,7 @@
     "sort_key": null
   },
   {
-    "id": 363,
+    "id": 362,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -8762,7 +8737,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 364,
+    "id": 363,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -8786,7 +8761,56 @@
     "sort_key": 77.0
   },
   {
+    "id": 364,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1966/03/01",
+    "date_sort": "1966-03-01",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Montreal Symphony Orchestra",
+    "location": "Place des Arts, Monreal",
+    "labels": [
+      "Classical Recordings Archive of America",
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
     "id": 365,
+    "composer": "Mendelssohn, Felix",
+    "composer_id": "147",
+    "work": "Violin Concerto in E minor, Op. 64",
+    "date_display": "1966/03/17",
+    "date_sort": "1966-03-17",
+    "accompanists": [
+      {
+        "name": "Martinon, Jean",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Chicago Symphony Orchestra",
+    "location": "Orchestra Hall, Chicago",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "https://www.newspapers.com/image/376224707/?match=3&terms=francescatti%20chicago&search-id=5637697b-3315-42e2-8efc-9a9495e909f7&search-rank=29",
+    "category_id": 2,
+    "sort_key": 64.0
+  },
+  {
+    "id": 366,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
@@ -8799,7 +8823,7 @@
       }
     ],
     "orchestra": "Chicago Symphony Orchestra",
-    "location": "",
+    "location": "Orchestra Hall, Chicago",
     "labels": [
       "Chicago Symphony Orchestra",
       "St-Laurent Studio"
@@ -8811,7 +8835,7 @@
     "sort_key": null
   },
   {
-    "id": 366,
+    "id": 367,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -8835,7 +8859,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 367,
+    "id": 368,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "I Palpiti, Op. 13",
@@ -8859,7 +8883,7 @@
     "sort_key": 13.0
   },
   {
-    "id": 368,
+    "id": 369,
     "composer": "Tartini, Giuseppe",
     "composer_id": "237",
     "work": "Violin Concerto in D minor, D. 45",
@@ -8883,7 +8907,7 @@
     "sort_key": 45.0
   },
   {
-    "id": 369,
+    "id": 370,
     "composer": "Tartini, Giuseppe",
     "composer_id": "237",
     "work": "Variations on a Theme of Corelli(Arr. by Francescatti)",
@@ -8907,7 +8931,7 @@
     "sort_key": null
   },
   {
-    "id": 370,
+    "id": 371,
     "composer": "Vitali, Tomaso Antonio",
     "composer_id": "252",
     "work": "Chaconne in G minor(Arr. by Charlier)",
@@ -8931,7 +8955,7 @@
     "sort_key": null
   },
   {
-    "id": 371,
+    "id": 372,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -8955,7 +8979,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 372,
+    "id": 373,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
     "work": "Symphonie espagnole, Op.21",
@@ -8980,7 +9004,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 373,
+    "id": 374,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -9008,7 +9032,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 374,
+    "id": 375,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins and Cello in D minor, RV 565",
@@ -9036,7 +9060,7 @@
     "sort_key": 565.0
   },
   {
-    "id": 375,
+    "id": 376,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
@@ -9058,7 +9082,7 @@
     "sort_key": 218.0
   },
   {
-    "id": 376,
+    "id": 377,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -9082,7 +9106,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 377,
+    "id": 378,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -9106,7 +9130,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 378,
+    "id": 379,
     "composer": "Vitali, Tomaso Antonio",
     "composer_id": "252",
     "work": "Chaconne in G minor(Arr. by Charlier)",
@@ -9130,7 +9154,7 @@
     "sort_key": null
   },
   {
-    "id": 379,
+    "id": 380,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Recitative and Scherzo-Caprice, Op. 6",
@@ -9150,7 +9174,7 @@
     "sort_key": 6.0
   },
   {
-    "id": 380,
+    "id": 381,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -9174,7 +9198,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 381,
+    "id": 382,
     "composer": "Walton, William",
     "composer_id": "256",
     "work": "Violin Concerto in B minor",
@@ -9199,7 +9223,7 @@
     "sort_key": null
   },
   {
-    "id": 382,
+    "id": 383,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
     "work": "Symphonie espagnole, Op.21",
@@ -9212,7 +9236,7 @@
       }
     ],
     "orchestra": "Detroit Symphony Orchestra",
-    "location": "",
+    "location": "Ford Auditorium, Detroit",
     "labels": [
       "Classical Recordings Archive of America",
       "St-Laurent Studio"
@@ -9224,7 +9248,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 383,
+    "id": 384,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 2 in D major, K. 211",
@@ -9248,7 +9272,7 @@
     "sort_key": 211.0
   },
   {
-    "id": 384,
+    "id": 385,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -9272,7 +9296,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 385,
+    "id": 386,
     "composer": "Massenet, Jules",
     "composer_id": "144",
     "work": "Méditation from Thais",
@@ -9296,7 +9320,7 @@
     "sort_key": null
   },
   {
-    "id": 386,
+    "id": 387,
     "composer": "Debussy, Claude",
     "composer_id": "58",
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
@@ -9320,7 +9344,7 @@
     "sort_key": null
   },
   {
-    "id": 387,
+    "id": 388,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
@@ -9344,7 +9368,7 @@
     "sort_key": 28.0
   },
   {
-    "id": 388,
+    "id": 389,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -9369,7 +9393,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 389,
+    "id": 390,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -9394,7 +9418,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 390,
+    "id": 391,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -9418,7 +9442,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 391,
+    "id": 392,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 9 in E major",
@@ -9442,7 +9466,7 @@
     "sort_key": 1.09
   },
   {
-    "id": 392,
+    "id": 393,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
@@ -9466,7 +9490,7 @@
     "sort_key": 1.24
   },
   {
-    "id": 393,
+    "id": 394,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -9485,7 +9509,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 394,
+    "id": 395,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
@@ -9509,7 +9533,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 395,
+    "id": 396,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -9533,7 +9557,7 @@
     "sort_key": 96.0
   },
   {
-    "id": 396,
+    "id": 397,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -9557,7 +9581,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 397,
+    "id": 398,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 9 in E major",
@@ -9581,7 +9605,7 @@
     "sort_key": 1.09
   },
   {
-    "id": 398,
+    "id": 399,
     "composer": "Paganini, Niccolò",
     "composer_id": "165",
     "work": "24 Caprices, Op. 1 No. 24 in A minor",
@@ -9605,7 +9629,7 @@
     "sort_key": 1.24
   },
   {
-    "id": 399,
+    "id": 400,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9629,7 +9653,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 400,
+    "id": 401,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -9653,7 +9677,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 401,
+    "id": 402,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
@@ -9677,7 +9701,7 @@
     "sort_key": 1042.0
   },
   {
-    "id": 402,
+    "id": 403,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -9705,7 +9729,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 403,
+    "id": 404,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9729,7 +9753,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 404,
+    "id": 405,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -9754,7 +9778,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 405,
+    "id": 406,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9778,7 +9802,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 406,
+    "id": 407,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9802,7 +9826,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 407,
+    "id": 408,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -9827,7 +9851,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 408,
+    "id": 409,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -9851,7 +9875,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 409,
+    "id": 410,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9875,7 +9899,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 410,
+    "id": 411,
     "composer": "Casadesus, Robert",
     "composer_id": "306",
     "work": "Violin Sonata No. 2, Op. 34",
@@ -9899,7 +9923,7 @@
     "sort_key": 34.0
   },
   {
-    "id": 411,
+    "id": 412,
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Concerto for Violin, Piano and String Quartet, Op. 21",
@@ -9939,7 +9963,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 412,
+    "id": 413,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
@@ -9963,7 +9987,7 @@
     "sort_key": 218.0
   },
   {
-    "id": 413,
+    "id": 414,
     "composer": "Vitali, Tomaso Antonio",
     "composer_id": "252",
     "work": "Chaconne in G minor(Arr. by Charlier)",
@@ -9987,7 +10011,7 @@
     "sort_key": null
   },
   {
-    "id": 414,
+    "id": 415,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
@@ -10011,7 +10035,7 @@
     "sort_key": 218.0
   },
   {
-    "id": 415,
+    "id": 416,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -10035,7 +10059,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 416,
+    "id": 417,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -10060,7 +10084,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 417,
+    "id": 418,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -10084,7 +10108,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 418,
+    "id": 419,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Recitative and Scherzo-Caprice, Op. 6",
@@ -10103,7 +10127,7 @@
     "sort_key": 6.0
   },
   {
-    "id": 419,
+    "id": 420,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -10127,7 +10151,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 420,
+    "id": 421,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Violin Concerto No. 3 in B minor, Op. 61",

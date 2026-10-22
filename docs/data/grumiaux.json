@@ -883,6 +883,36 @@
   },
   {
     "id": 38,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Double Concerto in A minor, Op. 102",
+    "date_display": "1956/01/17",
+    "date_sort": "1956-01-17",
+    "accompanists": [
+      {
+        "name": "Müller-Kray, Hans",
+        "role": "conductor"
+      },
+      {
+        "name": "Gendron, Maurice",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "Stuttgart Radio Symphony Orchestra(-2016)",
+    "location": "Villa Berg, Stuttgart",
+    "labels": [
+      "St-Laurent Studio",
+      "meloclassic",
+      "SWR Classic"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 102.0
+  },
+  {
+    "id": 39,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -907,7 +937,7 @@
     "sort_key": null
   },
   {
-    "id": 39,
+    "id": 40,
     "composer": "Ysaÿe, Eugène",
     "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
@@ -926,7 +956,32 @@
     "sort_key": 27.3
   },
   {
-    "id": 40,
+    "id": 41,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1956/06/04",
+    "date_sort": "1956-06-04",
+    "accompanists": [
+      {
+        "name": "Van Beinum, Eduard",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "",
+    "labels": [
+      "Philips",
+      "Decca"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 42,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 454",
@@ -950,7 +1005,7 @@
     "sort_key": 454.0
   },
   {
-    "id": 41,
+    "id": 43,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in F major, K. 376",
@@ -974,7 +1029,7 @@
     "sort_key": 376.0
   },
   {
-    "id": 42,
+    "id": 44,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
@@ -998,7 +1053,7 @@
     "sort_key": 304.0
   },
   {
-    "id": 43,
+    "id": 45,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in A major, K. 526",
@@ -1022,7 +1077,7 @@
     "sort_key": 526.0
   },
   {
-    "id": 44,
+    "id": 46,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Adagio con molta espressione from Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
@@ -1047,7 +1102,7 @@
     "sort_key": 12.31
   },
   {
-    "id": 45,
+    "id": 47,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in B-flat major, K. 454",
@@ -1073,7 +1128,7 @@
     "sort_key": 454.0
   },
   {
-    "id": 46,
+    "id": 48,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
@@ -1098,7 +1153,7 @@
     "sort_key": 12.3
   },
   {
-    "id": 47,
+    "id": 49,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
@@ -1124,7 +1179,7 @@
     "sort_key": 304.0
   },
   {
-    "id": 48,
+    "id": 50,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -1149,7 +1204,80 @@
     "sort_key": 96.0
   },
   {
-    "id": 49,
+    "id": 51,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 1 in B-flat major, K. 207",
+    "date_display": "1957/11/28",
+    "date_sort": "1957-11-28",
+    "accompanists": [
+      {
+        "name": "Szell, George",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "Concertgebouw, Amsterdam",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 207.0
+  },
+  {
+    "id": 52,
+    "composer": "Chausson, Amédée-Ernest",
+    "composer_id": "46",
+    "work": "Poème, Op. 25",
+    "date_display": "1957/11/28",
+    "date_sort": "1957-11-28",
+    "accompanists": [
+      {
+        "name": "Szell, George",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "Concertgebouw, Amsterdam",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 25.0
+  },
+  {
+    "id": 53,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1958/07/03-05",
+    "date_sort": "1958-07-03",
+    "accompanists": [
+      {
+        "name": "Van Beinum, Eduard",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "",
+    "labels": [
+      "Philips",
+      "Decca"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 77.0
+  },
+  {
+    "id": 54,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Violin Concerto in D major",
@@ -1173,7 +1301,35 @@
     "sort_key": null
   },
   {
-    "id": 50,
+    "id": 55,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Double Concerto in A minor, Op. 102",
+    "date_display": "1959/08/19",
+    "date_sort": "1959-08-19",
+    "accompanists": [
+      {
+        "name": "Paray, Paul",
+        "role": "conductor"
+      },
+      {
+        "name": "Gendron, Maurice",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "Orchestre national de l'Opéra de Monte-Carlo",
+    "location": "",
+    "labels": [
+      "Forgotten Records"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 102.0
+  },
+  {
+    "id": 56,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
@@ -1197,7 +1353,7 @@
     "sort_key": 24.0
   },
   {
-    "id": 51,
+    "id": 57,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
@@ -1221,7 +1377,7 @@
     "sort_key": 100.0
   },
   {
-    "id": 52,
+    "id": 58,
     "composer": "Ysaÿe, Eugène",
     "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
@@ -1240,7 +1396,7 @@
     "sort_key": 27.3
   },
   {
-    "id": 53,
+    "id": 59,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Romanian Folk Dances, Sz. 56",
@@ -1264,7 +1420,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 54,
+    "id": 60,
     "composer": "Ysaÿe, Eugène",
     "composer_id": "267",
     "work": "Sonata for Solo Violin in D minor, Op. 27 No. 3",
@@ -1283,7 +1439,7 @@
     "sort_key": 27.3
   },
   {
-    "id": 55,
+    "id": 61,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -1297,7 +1453,10 @@
     ],
     "orchestra": "Orchestre de la Suisse Romande",
     "location": "Victoria Hall, Geneva",
-    "labels": [],
+    "labels": [
+      "Andromeda",
+      "St-Laurent Studio"
+    ],
     "is_live": true,
     "notes": "live",
     "reference": "",
@@ -1305,7 +1464,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 56,
+    "id": 62,
     "composer": "Veracini, Francesco Maria",
     "composer_id": "247",
     "work": "Violin Sonata in A major(Arr. by Castagnone), Op. 1 No. 7",
@@ -1329,7 +1488,7 @@
     "sort_key": 1.7
   },
   {
-    "id": 57,
+    "id": 63,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Romanian Folk Dances, Sz. 56",
@@ -1353,7 +1512,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 58,
+    "id": 64,
     "composer": "Falla, Manuel de",
     "composer_id": "75",
     "work": "Jota from Seven Popular Spanish Songs(Arr. by Kochanski)",
@@ -1377,7 +1536,7 @@
     "sort_key": null
   },
   {
-    "id": 59,
+    "id": 65,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Pièce en Forme de Habanera",
@@ -1401,7 +1560,7 @@
     "sort_key": null
   },
   {
-    "id": 60,
+    "id": 66,
     "composer": "Fiocco, Joseph Hector",
     "composer_id": "79",
     "work": "Allegro",
@@ -1425,7 +1584,7 @@
     "sort_key": null
   },
   {
-    "id": 61,
+    "id": 67,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -1449,7 +1608,31 @@
     "sort_key": 219.0
   },
   {
-    "id": 62,
+    "id": 68,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1961/01/26",
+    "date_sort": "1961-01-26",
+    "accompanists": [
+      {
+        "name": "Kubelík, Rafael",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre national de la RTF(1949-1964)",
+    "location": "",
+    "labels": [
+      "Forgotten Records"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 69,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -1473,7 +1656,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 63,
+    "id": 70,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -1492,7 +1675,8 @@
     "orchestra": "Orchestra Sinfonica di Milano della RAI(-1994)",
     "location": "Sala Verdi del Conservatorio, Milano",
     "labels": [
-      "St-Laurent Studio"
+      "St-Laurent Studio",
+      "Stradivarius"
     ],
     "is_live": true,
     "notes": "live",
@@ -1501,7 +1685,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 64,
+    "id": 71,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
@@ -1525,7 +1709,32 @@
     "sort_key": 28.0
   },
   {
-    "id": 65,
+    "id": 72,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1965/02/04",
+    "date_sort": "1965-02-04",
+    "accompanists": [
+      {
+        "name": "Doráti, Antal",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre national de l'ORTF(1964-1974)",
+    "location": "",
+    "labels": [
+      "World Music Express",
+      "Antal Doráti Society"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 73,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1549,7 +1758,128 @@
     "sort_key": 26.0
   },
   {
-    "id": 66,
+    "id": 74,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1966/03/22",
+    "date_sort": "1966-03-22",
+    "accompanists": [
+      {
+        "name": "Remootel, Édouard van",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre national de l'ORTF(1964-1974)",
+    "location": "Théâtre des Champs-Elysées, Paris",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 216.0
+  },
+  {
+    "id": 75,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 1 in D major, D. 384",
+    "date_display": "1966/04/13",
+    "date_sort": "1966-04-13",
+    "accompanists": [
+      {
+        "name": "Traey, Eugène",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Charleroi",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 384.0
+  },
+  {
+    "id": 76,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Sonata No. 2 in A major, Op. 100",
+    "date_display": "1966/04/13",
+    "date_sort": "1966-04-13",
+    "accompanists": [
+      {
+        "name": "Traey, Eugène",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Charleroi",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 100.0
+  },
+  {
+    "id": 77,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Sonata in B-flat major, K. 378",
+    "date_display": "1966/04/13",
+    "date_sort": "1966-04-13",
+    "accompanists": [
+      {
+        "name": "Traey, Eugène",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Charleroi",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 378.0
+  },
+  {
+    "id": 78,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1966/07/03-05",
+    "date_sort": "1966-07-03",
+    "accompanists": [
+      {
+        "name": "Galliera, Alceo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "Brent Town Hall, London",
+    "labels": [
+      "Philips",
+      "Decca"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 79,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1573,7 +1903,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 67,
+    "id": 80,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -1597,7 +1927,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 68,
+    "id": 81,
     "composer": "Haydn, Michael",
     "composer_id": "312",
     "work": "Violin Concerto in A major, MH 207",
@@ -1621,7 +1951,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 69,
+    "id": 82,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
@@ -1645,7 +1975,7 @@
     "sort_key": null
   },
   {
-    "id": 70,
+    "id": 83,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1669,7 +1999,7 @@
     "sort_key": null
   },
   {
-    "id": 71,
+    "id": 84,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Violin Concerto in D major",
@@ -1693,7 +2023,31 @@
     "sort_key": null
   },
   {
-    "id": 72,
+    "id": 85,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1969/03/12",
+    "date_sort": "1969-03-12",
+    "accompanists": [
+      {
+        "name": "Martinon, Jean",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre national de l'ORTF(1964-1974)",
+    "location": "",
+    "labels": [
+      "Spectrum Sound"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 77.0
+  },
+  {
+    "id": 86,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1717,7 +2071,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 73,
+    "id": 87,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
@@ -1736,7 +2090,7 @@
     "sort_key": 1042.0
   },
   {
-    "id": 74,
+    "id": 88,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -1755,7 +2109,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 75,
+    "id": 89,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -1774,7 +2128,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 76,
+    "id": 90,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -1793,7 +2147,56 @@
     "sort_key": 373.0
   },
   {
-    "id": 77,
+    "id": 91,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Violin Concerto in D major, Op. 77",
+    "date_display": "1971/09/07-08,10",
+    "date_sort": "1971-09-07",
+    "accompanists": [
+      {
+        "name": "Davis, Colin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "New Philharmonia Orchestra",
+    "location": "",
+    "labels": [
+      "Philips",
+      "Decca"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 77.0
+  },
+  {
+    "id": 92,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1973/09/01",
+    "date_sort": "1973-09-01",
+    "accompanists": [
+      {
+        "name": "Iwaki, Hiroyuki",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Orchestre philharmonique de l'ORTF(1964–1975)",
+    "location": "",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 93,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -1817,7 +2220,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 78,
+    "id": 94,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1841,7 +2244,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 79,
+    "id": 95,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -1865,7 +2268,32 @@
     "sort_key": 77.0
   },
   {
-    "id": 80,
+    "id": 96,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1974/01/07-09",
+    "date_sort": "1974-01-07",
+    "accompanists": [
+      {
+        "name": "Davis, Colin",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Concertgebouw Orchestra",
+    "location": "",
+    "labels": [
+      "Philips",
+      "Decca"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 97,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -1889,7 +2317,7 @@
     "sort_key": null
   },
   {
-    "id": 81,
+    "id": 98,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -1913,7 +2341,35 @@
     "sort_key": 26.0
   },
   {
-    "id": 82,
+    "id": 99,
+    "composer": "Brahms, Johannes",
+    "composer_id": "34",
+    "work": "Double Concerto in A minor, Op. 102",
+    "date_display": "1976/10/15",
+    "date_sort": "1976-10-15",
+    "accompanists": [
+      {
+        "name": "Wakasugi, Hiroshi",
+        "role": "conductor"
+      },
+      {
+        "name": "Gendron, Maurice",
+        "role": "cello"
+      }
+    ],
+    "orchestra": "WDR Symphony Orchestra Cologne",
+    "location": "Cologne",
+    "labels": [
+      "St-Laurent Studio"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 102.0
+  },
+  {
+    "id": 100,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -1937,7 +2393,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 83,
+    "id": 101,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
@@ -1961,7 +2417,7 @@
     "sort_key": 8.01
   },
   {
-    "id": 84,
+    "id": 102,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
@@ -1985,7 +2441,7 @@
     "sort_key": 8.02
   },
   {
-    "id": 85,
+    "id": 103,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
@@ -2009,7 +2465,7 @@
     "sort_key": 8.03
   },
   {
-    "id": 86,
+    "id": 104,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
@@ -2033,7 +2489,103 @@
     "sort_key": 8.04
   },
   {
-    "id": 87,
+    "id": 105,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata No. 3 in G minor, D. 408",
+    "date_display": "1979/09/11",
+    "date_sort": "1979-09-11",
+    "accompanists": [
+      {
+        "name": "Crossley,  Paul",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Collegio Papio, Ascona",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Arthur Grumiaux, Paul Crossley - Schubert, Mozart & Faure Sonatas - Ascona Festival Sept. 11, 1979",
+    "category_id": 1,
+    "sort_key": 408.0
+  },
+  {
+    "id": 106,
+    "composer": "Schubert, Franz",
+    "composer_id": "210",
+    "work": "Violin Sonata in A major 'Duo', D. 574",
+    "date_display": "1979/09/11",
+    "date_sort": "1979-09-11",
+    "accompanists": [
+      {
+        "name": "Crossley,  Paul",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Collegio Papio, Ascona",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Arthur Grumiaux, Paul Crossley - Schubert, Mozart & Faure Sonatas - Ascona Festival Sept. 11, 1979",
+    "category_id": 1,
+    "sort_key": 574.0
+  },
+  {
+    "id": 107,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Sonata in E minor, K. 304",
+    "date_display": "1979/09/11",
+    "date_sort": "1979-09-11",
+    "accompanists": [
+      {
+        "name": "Crossley,  Paul",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Collegio Papio, Ascona",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Arthur Grumiaux, Paul Crossley - Schubert, Mozart & Faure Sonatas - Ascona Festival Sept. 11, 1979",
+    "category_id": 1,
+    "sort_key": 304.0
+  },
+  {
+    "id": 108,
+    "composer": "Fauré, Gabriel",
+    "composer_id": "76",
+    "work": "Violin Sonata No. 1 in A minor, Op. 13",
+    "date_display": "1979/09/11",
+    "date_sort": "1979-09-11",
+    "accompanists": [
+      {
+        "name": "Crossley,  Paul",
+        "role": "piano"
+      }
+    ],
+    "orchestra": "",
+    "location": "Collegio Papio, Ascona",
+    "labels": [
+      "unissued"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "Arthur Grumiaux, Paul Crossley - Schubert, Mozart & Faure Sonatas - Ascona Festival Sept. 11, 1979",
+    "category_id": 1,
+    "sort_key": 13.0
+  },
+  {
+    "id": 109,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -2057,7 +2609,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 88,
+    "id": 110,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -2081,7 +2633,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 89,
+    "id": 111,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -2105,7 +2657,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 90,
+    "id": 112,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
@@ -2129,7 +2681,7 @@
     "sort_key": 40.0
   },
   {
-    "id": 91,
+    "id": 113,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -2153,7 +2705,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 92,
+    "id": 114,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -2177,7 +2729,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 93,
+    "id": 115,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -2201,7 +2753,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 94,
+    "id": 116,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
@@ -2218,5 +2770,56 @@
     "reference": "https://www.fonoteca.ch/cgi-bin/oecgi4.exe/inet_fnbasedetail?REC_ID=2010.046&LNG_ID=ITA",
     "category_id": 1,
     "sort_key": 1004.3
+  },
+  {
+    "id": 117,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Sonata in B-flat major, K. 378",
+    "date_display": "1984/11/12",
+    "date_sort": "1984-11-12",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 378.0
+  },
+  {
+    "id": 118,
+    "composer": "Fauré, Gabriel",
+    "composer_id": "76",
+    "work": "Violin Sonata No. 1 in A minor, Op. 13",
+    "date_display": "1984/11/12",
+    "date_sort": "1984-11-12",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": 13.0
+  },
+  {
+    "id": 119,
+    "composer": "Lekeu, Guillaume",
+    "composer_id": "133",
+    "work": "Violin Sonata in G major",
+    "date_display": "1984/11/12",
+    "date_sort": "1984-11-12",
+    "accompanists": [],
+    "orchestra": "",
+    "location": "",
+    "labels": [],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 1,
+    "sort_key": null
   }
 ]
