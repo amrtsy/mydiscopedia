@@ -4607,8 +4607,8 @@
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
-    "date_display": "1953/10/29",
-    "date_sort": "1953-10-29",
+    "date_display": "1953/10/28",
+    "date_sort": "1953-10-28",
     "accompanists": [
       {
         "name": "Sargent, Malcolm",
@@ -4616,7 +4616,7 @@
       }
     ],
     "orchestra": "BBC Symphony Orchestra",
-    "location": "",
+    "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
     ],
@@ -8968,13 +8968,13 @@
       }
     ],
     "orchestra": "San Francisco Symphony Orchestra",
-    "location": "",
+    "location": "Opera House, San Francisco",
     "labels": [
       "Classical Recordings Archive of America"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "",
+    "reference": "https://www.newspapers.com/image/994997675/?match=1&terms=krips%20francescatti&search-id=59b795f9-d1c9-4afd-87a5-7cf6003b595d&search-rank=1",
     "category_id": 2,
     "sort_key": 77.0
   },
@@ -9733,8 +9733,8 @@
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
-    "date_display": "1972",
-    "date_sort": "1972-01-01",
+    "date_display": "1971/12/14",
+    "date_sort": "1971-12-14",
     "accompanists": [
       {
         "name": "Groves, Charles",
@@ -9742,13 +9742,13 @@
       }
     ],
     "orchestra": "New Philharmonia Orchestra",
-    "location": "",
+    "location": "Royal Festival Hall, London",
     "labels": [
       "unissued"
     ],
     "is_live": true,
     "notes": "live; BBC Radio 3",
-    "reference": "",
+    "reference": "https://genome.ch.bbc.co.uk/679a6c1b2733cd5dc5427658a720415e",
     "category_id": 2,
     "sort_key": 61.0
   },
@@ -9967,8 +9967,8 @@
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
-    "date_display": "1974",
-    "date_sort": "1974-01-01",
+    "date_display": "1974/01/13",
+    "date_sort": "1974-01-13",
     "accompanists": [
       {
         "name": "Ormandy, Eugene",
@@ -9976,13 +9976,13 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
-    "location": "",
+    "location": "Academy of Music, Philadelphia",
     "labels": [
       "Classical Recordings Archive of America"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "",
+    "reference": "https://www.newspapers.com/image/238345104/?match=1&terms=ormandy%20%20francescatti&search-id=cafec130-cb92-4dbb-92e9-6915bfb82eea&search-rank=21",
     "category_id": 2,
     "sort_key": 218.0
   },
@@ -9991,8 +9991,8 @@
     "composer": "Vitali, Tomaso Antonio",
     "composer_id": "252",
     "work": "Chaconne in G minor(Arr. by Charlier)",
-    "date_display": "1974",
-    "date_sort": "1974-01-01",
+    "date_display": "1974/01/13",
+    "date_sort": "1974-01-13",
     "accompanists": [
       {
         "name": "Ormandy, Eugene",
@@ -10000,13 +10000,13 @@
       }
     ],
     "orchestra": "Philadelphia Orchestra",
-    "location": "",
+    "location": "Academy of Music, Philadelphia",
     "labels": [
       "Classical Recordings Archive of America"
     ],
     "is_live": true,
     "notes": "live",
-    "reference": "",
+    "reference": "https://www.newspapers.com/image/238345104/?match=1&terms=ormandy%20%20francescatti&search-id=cafec130-cb92-4dbb-92e9-6915bfb82eea&search-rank=21",
     "category_id": 1,
     "sort_key": null
   },
