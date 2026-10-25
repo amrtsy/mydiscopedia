@@ -2,7 +2,7 @@
   {
     "slug": "stern",
     "name": "Isaac Stern",
-    "count": 611,
+    "count": 613,
     "skipped": 2,
     "year_range": "1944–1997"
   },
@@ -16,21 +16,21 @@
   {
     "slug": "menuhin",
     "name": "Yehudi Menuhin",
-    "count": 975,
+    "count": 988,
     "skipped": 1,
     "year_range": "1928–1990"
   },
   {
     "slug": "grumiaux",
     "name": "Arthur Grumiaux",
-    "count": 123,
+    "count": 129,
     "skipped": 1,
     "year_range": "1945–1984"
   },
   {
     "slug": "oistrakh",
     "name": "David Oistrakh",
-    "count": 831,
+    "count": 839,
     "skipped": 1,
     "year_range": "1932–1974"
   },

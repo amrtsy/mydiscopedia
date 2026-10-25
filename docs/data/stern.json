@@ -1167,7 +1167,8 @@
     "orchestra": "Hollywood Bowl Symphony Orchestra",
     "location": "",
     "labels": [
-      "Doremi"
+      "Doremi",
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",
@@ -3764,6 +3765,54 @@
   },
   {
     "id": 154,
+    "composer": "Mozart, Wolfgang Amadeus",
+    "composer_id": "156",
+    "work": "Violin Concerto No. 3 in G major, K. 216",
+    "date_display": "1956/07/07",
+    "date_sort": "1956-07-07",
+    "accompanists": [
+      {
+        "name": "Freire López, Bernardo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "SODRE Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "World Music Express"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 216.0
+  },
+  {
+    "id": 155,
+    "composer": "Beethoven, Ludwig van",
+    "composer_id": "16",
+    "work": "Violin Concerto in D major, Op. 61",
+    "date_display": "1956/07/07",
+    "date_sort": "1956-07-07",
+    "accompanists": [
+      {
+        "name": "Freire López, Bernardo",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "SODRE Symphony Orchestra",
+    "location": "",
+    "labels": [
+      "World Music Express"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 61.0
+  },
+  {
+    "id": 156,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
@@ -3782,7 +3831,7 @@
     "sort_key": 1002.0
   },
   {
-    "id": 155,
+    "id": 157,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Trio Sonata in G major, BWV 1038",
@@ -3814,7 +3863,7 @@
     "sort_key": 1038.0
   },
   {
-    "id": 156,
+    "id": 158,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -3838,7 +3887,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 157,
+    "id": 159,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -3866,7 +3915,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 158,
+    "id": 160,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -3891,7 +3940,7 @@
     "sort_key": null
   },
   {
-    "id": 159,
+    "id": 161,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -3915,7 +3964,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 160,
+    "id": 162,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -3939,7 +3988,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 161,
+    "id": 163,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -3963,7 +4012,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 162,
+    "id": 164,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Sonata No. 1 in F minor, Op. 80",
@@ -3987,7 +4036,7 @@
     "sort_key": 80.0
   },
   {
-    "id": 163,
+    "id": 165,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -4011,7 +4060,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 164,
+    "id": 166,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -4035,7 +4084,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 165,
+    "id": 167,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Adagio from Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -4059,7 +4108,7 @@
     "sort_key": 7.2
   },
   {
-    "id": 166,
+    "id": 168,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -4083,7 +4132,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 167,
+    "id": 169,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -4107,7 +4156,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 168,
+    "id": 170,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -4131,7 +4180,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 169,
+    "id": 171,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -4156,7 +4205,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 170,
+    "id": 172,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -4180,7 +4229,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 171,
+    "id": 173,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Violin Concerto No. 2 in D minor, Op. 22",
@@ -4204,7 +4253,7 @@
     "sort_key": 22.0
   },
   {
-    "id": 172,
+    "id": 174,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -4228,7 +4277,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 173,
+    "id": 175,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -4252,7 +4301,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 174,
+    "id": 176,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -4276,7 +4325,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 175,
+    "id": 177,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Tzigane",
@@ -4300,7 +4349,7 @@
     "sort_key": null
   },
   {
-    "id": 176,
+    "id": 178,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
@@ -4324,7 +4373,7 @@
     "sort_key": 28.0
   },
   {
-    "id": 177,
+    "id": 179,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 1, Sz. 75",
@@ -4348,7 +4397,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 178,
+    "id": 180,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -4372,7 +4421,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 179,
+    "id": 181,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -4396,7 +4445,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 180,
+    "id": 182,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Piano Quartet in E-flat major, K. 493",
@@ -4428,7 +4477,7 @@
     "sort_key": 493.0
   },
   {
-    "id": 181,
+    "id": 183,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Violin Concerto No. 2 in D minor, Op. 22",
@@ -4452,7 +4501,7 @@
     "sort_key": 22.0
   },
   {
-    "id": 182,
+    "id": 184,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Schön Rosmarin",
@@ -4476,7 +4525,7 @@
     "sort_key": null
   },
   {
-    "id": 183,
+    "id": 185,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
     "work": "Symphonie espagnole, Op.21",
@@ -4500,7 +4549,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 184,
+    "id": 186,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -4524,7 +4573,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 185,
+    "id": 187,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 1",
@@ -4548,7 +4597,7 @@
     "sort_key": null
   },
   {
-    "id": 186,
+    "id": 188,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -4572,7 +4621,7 @@
     "sort_key": null
   },
   {
-    "id": 187,
+    "id": 189,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -4596,7 +4645,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 188,
+    "id": 190,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4620,7 +4669,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 189,
+    "id": 191,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4644,7 +4693,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 190,
+    "id": 192,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -4668,7 +4717,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 191,
+    "id": 193,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -4693,7 +4742,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 192,
+    "id": 194,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4717,7 +4766,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 193,
+    "id": 195,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -4741,7 +4790,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 194,
+    "id": 196,
     "composer": "Schuman, William",
     "composer_id": "211",
     "work": "Violin Concerto",
@@ -4765,7 +4814,7 @@
     "sort_key": null
   },
   {
-    "id": 195,
+    "id": 197,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4789,7 +4838,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 196,
+    "id": 198,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -4813,7 +4862,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 197,
+    "id": 199,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -4838,7 +4887,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 198,
+    "id": 200,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -4864,7 +4913,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 199,
+    "id": 201,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -4888,7 +4937,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 200,
+    "id": 202,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Piano Trio No. 1 in D minor, Op. 49",
@@ -4907,7 +4956,7 @@
     "orchestra": "",
     "location": "Puerto Rico",
     "labels": [
-      "unissued"
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",
@@ -4916,7 +4965,7 @@
     "sort_key": 49.0
   },
   {
-    "id": 201,
+    "id": 203,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -4944,7 +4993,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 202,
+    "id": 204,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -4968,7 +5017,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 203,
+    "id": 205,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Trio No. 1 in B major, Op. 8",
@@ -4987,7 +5036,7 @@
     "orchestra": "",
     "location": "San Juan, Puerto Rico",
     "labels": [
-      "unissued"
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",
@@ -4996,7 +5045,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 204,
+    "id": 206,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -5021,7 +5070,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 205,
+    "id": 207,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5047,7 +5096,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 206,
+    "id": 208,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -5072,7 +5121,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 207,
+    "id": 209,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5096,60 +5145,12 @@
     "sort_key": 77.0
   },
   {
-    "id": 208,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": "1959/11/06",
-    "date_sort": "1959-11-06",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Boston Symphony Orchestra",
-    "location": "Symphony Hall, Boston",
-    "labels": [
-      "BSO Archives"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 2,
-    "sort_key": 1041.0
-  },
-  {
-    "id": 209,
-    "composer": "Berg, Alban",
-    "composer_id": "20",
-    "work": "Violin Concerto",
-    "date_display": "1959/11/06",
-    "date_sort": "1959-11-06",
-    "accompanists": [
-      {
-        "name": "Munch, Charles",
-        "role": "conductor"
-      }
-    ],
-    "orchestra": "Boston Symphony Orchestra",
-    "location": "Symphony Hall, Boston",
-    "labels": [
-      "BSO Archives"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 1,
-    "sort_key": null
-  },
-  {
     "id": 210,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
-    "date_display": "1959/11/07",
-    "date_sort": "1959-11-07",
+    "date_display": "1959/11/06",
+    "date_sort": "1959-11-06",
     "accompanists": [
       {
         "name": "Munch, Charles",
@@ -5159,7 +5160,6 @@
     "orchestra": "Boston Symphony Orchestra",
     "location": "Symphony Hall, Boston",
     "labels": [
-      "Classical Recordings Archive of America",
       "BSO Archives"
     ],
     "is_live": true,
@@ -5173,6 +5173,55 @@
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
+    "date_display": "1959/11/06",
+    "date_sort": "1959-11-06",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "Symphony Hall, Boston",
+    "labels": [
+      "BSO Archives"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 1,
+    "sort_key": null
+  },
+  {
+    "id": 212,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 1 in A minor, BWV 1041",
+    "date_display": "1959/11/07",
+    "date_sort": "1959-11-07",
+    "accompanists": [
+      {
+        "name": "Munch, Charles",
+        "role": "conductor"
+      }
+    ],
+    "orchestra": "Boston Symphony Orchestra",
+    "location": "Symphony Hall, Boston",
+    "labels": [
+      "Classical Recordings Archive of America",
+      "BSO Archives"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 1041.0
+  },
+  {
+    "id": 213,
+    "composer": "Berg, Alban",
+    "composer_id": "20",
+    "work": "Violin Concerto",
     "date_display": "1959/11/07",
     "date_sort": "1959-11-07",
     "accompanists": [
@@ -5194,7 +5243,7 @@
     "sort_key": null
   },
   {
-    "id": 212,
+    "id": 214,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -5218,7 +5267,7 @@
     "sort_key": null
   },
   {
-    "id": 213,
+    "id": 215,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -5246,7 +5295,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 214,
+    "id": 216,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -5270,7 +5319,7 @@
     "sort_key": null
   },
   {
-    "id": 215,
+    "id": 217,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -5294,7 +5343,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 216,
+    "id": 218,
     "composer": "Bloch, Ernest",
     "composer_id": "27",
     "work": "Violin Sonata No. 1",
@@ -5318,7 +5367,7 @@
     "sort_key": null
   },
   {
-    "id": 217,
+    "id": 219,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -5342,7 +5391,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 218,
+    "id": 220,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in D minor, RV 514",
@@ -5366,7 +5415,7 @@
     "sort_key": 514.0
   },
   {
-    "id": 219,
+    "id": 221,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in C minor, RV 509",
@@ -5390,7 +5439,7 @@
     "sort_key": 509.0
   },
   {
-    "id": 220,
+    "id": 222,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in G minor, RV 517",
@@ -5414,7 +5463,7 @@
     "sort_key": 517.0
   },
   {
-    "id": 221,
+    "id": 223,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in D major, RV 512",
@@ -5438,7 +5487,7 @@
     "sort_key": 512.0
   },
   {
-    "id": 222,
+    "id": 224,
     "composer": "Debussy, Claude",
     "composer_id": "58",
     "work": "Violin Sonata in G minor",
@@ -5462,7 +5511,7 @@
     "sort_key": null
   },
   {
-    "id": 223,
+    "id": 225,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5486,7 +5535,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 224,
+    "id": 226,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5511,7 +5560,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 225,
+    "id": 227,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -5536,7 +5585,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 226,
+    "id": 228,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -5560,7 +5609,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 227,
+    "id": 229,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
@@ -5584,7 +5633,7 @@
     "sort_key": 12.1
   },
   {
-    "id": 228,
+    "id": 230,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Sonata No. 2 in D major, Op. 94bis",
@@ -5608,7 +5657,7 @@
     "sort_key": 94.0
   },
   {
-    "id": 229,
+    "id": 231,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Adagio from Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -5632,7 +5681,7 @@
     "sort_key": 7.2
   },
   {
-    "id": 230,
+    "id": 232,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5657,7 +5706,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 231,
+    "id": 233,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -5681,7 +5730,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 232,
+    "id": 234,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -5705,7 +5754,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 233,
+    "id": 235,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
@@ -5730,7 +5779,7 @@
     "sort_key": 100.0
   },
   {
-    "id": 234,
+    "id": 236,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 1 in D major, D. 384",
@@ -5755,7 +5804,7 @@
     "sort_key": 384.0
   },
   {
-    "id": 235,
+    "id": 237,
     "composer": "Ferguson, Howard",
     "composer_id": "77",
     "work": "Violin Sonata No. 2, Op. 10",
@@ -5780,7 +5829,7 @@
     "sort_key": 10.0
   },
   {
-    "id": 236,
+    "id": 238,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -5805,7 +5854,7 @@
     "sort_key": 96.0
   },
   {
-    "id": 237,
+    "id": 239,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -5829,7 +5878,7 @@
     "sort_key": null
   },
   {
-    "id": 238,
+    "id": 240,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -5853,7 +5902,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 239,
+    "id": 241,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
@@ -5877,7 +5926,7 @@
     "sort_key": 108.0
   },
   {
-    "id": 240,
+    "id": 242,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -5901,7 +5950,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 241,
+    "id": 243,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
@@ -5925,7 +5974,7 @@
     "sort_key": 100.0
   },
   {
-    "id": 242,
+    "id": 244,
     "composer": "Bloch, Ernest",
     "composer_id": "27",
     "work": "Baal shem: Three Pictures of Chassidic life",
@@ -5949,7 +5998,7 @@
     "sort_key": null
   },
   {
-    "id": 243,
+    "id": 245,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Scherzo from F.A.E. Sonata",
@@ -5973,7 +6022,7 @@
     "sort_key": null
   },
   {
-    "id": 244,
+    "id": 246,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Adagio from Violin Concerto No. 1 in C major, Hob. VIIa",
@@ -5997,7 +6046,7 @@
     "sort_key": 7.2
   },
   {
-    "id": 245,
+    "id": 247,
     "composer": "Schumann, Robert",
     "composer_id": "212",
     "work": "Intermezzo from F.A.E. Sonata",
@@ -6021,7 +6070,7 @@
     "sort_key": null
   },
   {
-    "id": 246,
+    "id": 248,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -6045,7 +6094,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 247,
+    "id": 249,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -6069,7 +6118,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 248,
+    "id": 250,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -6095,7 +6144,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 249,
+    "id": 251,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 1",
@@ -6119,7 +6168,7 @@
     "sort_key": null
   },
   {
-    "id": 250,
+    "id": 252,
     "composer": "Viotti, Giovanni Battista",
     "composer_id": "251",
     "work": "Violin Concerto No. 22 in A minor",
@@ -6143,7 +6192,7 @@
     "sort_key": null
   },
   {
-    "id": 251,
+    "id": 253,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Trio No. 2 in C major, Op. 87",
@@ -6171,7 +6220,7 @@
     "sort_key": 87.0
   },
   {
-    "id": 252,
+    "id": 254,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Violin Concerto in D major",
@@ -6195,7 +6244,7 @@
     "sort_key": null
   },
   {
-    "id": 253,
+    "id": 255,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -6219,7 +6268,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 254,
+    "id": 256,
     "composer": "Viotti, Giovanni Battista",
     "composer_id": "251",
     "work": "Violin Concerto No. 22 in A minor",
@@ -6246,7 +6295,7 @@
     "sort_key": null
   },
   {
-    "id": 255,
+    "id": 257,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 1",
@@ -6272,7 +6321,7 @@
     "sort_key": null
   },
   {
-    "id": 256,
+    "id": 258,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -6296,7 +6345,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 257,
+    "id": 259,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -6320,7 +6369,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 258,
+    "id": 260,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -6344,7 +6393,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 259,
+    "id": 261,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 70 No. 2",
@@ -6372,7 +6421,7 @@
     "sort_key": 70.2
   },
   {
-    "id": 260,
+    "id": 262,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Piano Trio No. 1 in D minor, Op. 49",
@@ -6400,7 +6449,7 @@
     "sort_key": 49.0
   },
   {
-    "id": 261,
+    "id": 263,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Piano Trio No. 1 in B-flat major, D. 898",
@@ -6428,7 +6477,7 @@
     "sort_key": 898.0
   },
   {
-    "id": 262,
+    "id": 264,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -6452,7 +6501,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 263,
+    "id": 265,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -6476,7 +6525,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 264,
+    "id": 266,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -6500,7 +6549,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 265,
+    "id": 267,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -6524,7 +6573,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 266,
+    "id": 268,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -6548,7 +6597,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 267,
+    "id": 269,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -6572,7 +6621,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 268,
+    "id": 270,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -6596,7 +6645,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 269,
+    "id": 271,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -6620,7 +6669,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 270,
+    "id": 272,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 1",
@@ -6644,7 +6693,7 @@
     "sort_key": null
   },
   {
-    "id": 271,
+    "id": 273,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 1",
@@ -6668,7 +6717,7 @@
     "sort_key": null
   },
   {
-    "id": 272,
+    "id": 274,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 2",
@@ -6692,7 +6741,7 @@
     "sort_key": null
   },
   {
-    "id": 273,
+    "id": 275,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -6716,7 +6765,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 274,
+    "id": 276,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -6740,7 +6789,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 275,
+    "id": 277,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -6764,7 +6813,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 276,
+    "id": 278,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -6788,7 +6837,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 277,
+    "id": 279,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
@@ -6816,7 +6865,7 @@
     "sort_key": 70.1
   },
   {
-    "id": 278,
+    "id": 280,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Piano Trio in A minor",
@@ -6844,7 +6893,7 @@
     "sort_key": null
   },
   {
-    "id": 279,
+    "id": 281,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -6876,7 +6925,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 280,
+    "id": 282,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -6908,7 +6957,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 281,
+    "id": 283,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -6932,7 +6981,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 282,
+    "id": 284,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -6960,7 +7009,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 283,
+    "id": 285,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -6992,7 +7041,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 284,
+    "id": 286,
     "composer": "Hindemith, Paul",
     "composer_id": "111",
     "work": "Violin Concerto",
@@ -7016,7 +7065,7 @@
     "sort_key": null
   },
   {
-    "id": 285,
+    "id": 287,
     "composer": "Barbar, Samuel",
     "composer_id": "13",
     "work": "Violin Concerto, Op. 14",
@@ -7040,7 +7089,7 @@
     "sort_key": 14.0
   },
   {
-    "id": 286,
+    "id": 288,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Piano Trio No. 1 in B-flat major, D. 898",
@@ -7068,7 +7117,7 @@
     "sort_key": 898.0
   },
   {
-    "id": 287,
+    "id": 289,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -7092,7 +7141,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 288,
+    "id": 290,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Trio No. 2 in C major, Op. 87",
@@ -7120,7 +7169,7 @@
     "sort_key": 87.0
   },
   {
-    "id": 289,
+    "id": 291,
     "composer": "Geminiami, Francesco",
     "composer_id": "88",
     "work": "Violin Sonata in D minor, Op. 1 No. 12",
@@ -7144,7 +7193,7 @@
     "sort_key": 1.12
   },
   {
-    "id": 290,
+    "id": 292,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Schön Rosmarin",
@@ -7168,7 +7217,7 @@
     "sort_key": null
   },
   {
-    "id": 291,
+    "id": 293,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -7192,7 +7241,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 292,
+    "id": 294,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Violin Concerto in A minor, Op. 53",
@@ -7216,7 +7265,7 @@
     "sort_key": null
   },
   {
-    "id": 293,
+    "id": 295,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -7240,7 +7289,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 294,
+    "id": 296,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
@@ -7268,7 +7317,7 @@
     "sort_key": 1.3
   },
   {
-    "id": 295,
+    "id": 297,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -7292,7 +7341,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 296,
+    "id": 298,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Violin Concerto in A minor, Op. 53",
@@ -7317,7 +7366,7 @@
     "sort_key": null
   },
   {
-    "id": 297,
+    "id": 299,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
@@ -7341,7 +7390,7 @@
     "sort_key": 40.0
   },
   {
-    "id": 298,
+    "id": 300,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -7365,7 +7414,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 299,
+    "id": 301,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -7397,7 +7446,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 300,
+    "id": 302,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -7421,7 +7470,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 301,
+    "id": 303,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
@@ -7449,7 +7498,7 @@
     "sort_key": 97.0
   },
   {
-    "id": 302,
+    "id": 304,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in A major, K. 305",
@@ -7473,7 +7522,7 @@
     "sort_key": 305.0
   },
   {
-    "id": 303,
+    "id": 305,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 4 Violins in B minor, RV 580",
@@ -7509,72 +7558,12 @@
     "sort_key": 580.0
   },
   {
-    "id": 304,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Violin Concerto No. 2 in E major, BWV 1042",
-    "date_display": "1966/02/05",
-    "date_sort": "1966-02-05",
-    "accompanists": [
-      {
-        "name": "Bernstein, Leonard",
-        "role": "conductor"
-      },
-      {
-        "name": "Bernstein, Leonard",
-        "role": "harpsichord"
-      }
-    ],
-    "orchestra": "New York Philharmonic",
-    "location": "Philharmonic Hall, New York",
-    "labels": [
-      "Rare Moth"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 2,
-    "sort_key": 1042.0
-  },
-  {
-    "id": 305,
-    "composer": "Bach, Johann Sebastian",
-    "composer_id": "10",
-    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
-    "date_display": "1966/02/05",
-    "date_sort": "1966-02-05",
-    "accompanists": [
-      {
-        "name": "Bernstein, Leonard",
-        "role": "conductor"
-      },
-      {
-        "name": "Gomberg, Harold",
-        "role": "oboe"
-      },
-      {
-        "name": "Bernstein, Leonard",
-        "role": "harpsichord"
-      }
-    ],
-    "orchestra": "New York Philharmonic",
-    "location": "Philharmonic Hall, New York",
-    "labels": [
-      "Rare Moth"
-    ],
-    "is_live": true,
-    "notes": "live",
-    "reference": "",
-    "category_id": 2,
-    "sort_key": 1060.0
-  },
-  {
     "id": 306,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
-    "date_display": "1966/02/16",
-    "date_sort": "1966-02-16",
+    "date_display": "1966/02/05",
+    "date_sort": "1966-02-05",
     "accompanists": [
       {
         "name": "Bernstein, Leonard",
@@ -7588,10 +7577,10 @@
     "orchestra": "New York Philharmonic",
     "location": "Philharmonic Hall, New York",
     "labels": [
-      "Sony Classical"
+      "Rare Moth"
     ],
-    "is_live": false,
-    "notes": null,
+    "is_live": true,
+    "notes": "live",
     "reference": "",
     "category_id": 2,
     "sort_key": 1042.0
@@ -7601,6 +7590,66 @@
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
+    "date_display": "1966/02/05",
+    "date_sort": "1966-02-05",
+    "accompanists": [
+      {
+        "name": "Bernstein, Leonard",
+        "role": "conductor"
+      },
+      {
+        "name": "Gomberg, Harold",
+        "role": "oboe"
+      },
+      {
+        "name": "Bernstein, Leonard",
+        "role": "harpsichord"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Philharmonic Hall, New York",
+    "labels": [
+      "Rare Moth"
+    ],
+    "is_live": true,
+    "notes": "live",
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 1060.0
+  },
+  {
+    "id": 308,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Violin Concerto No. 2 in E major, BWV 1042",
+    "date_display": "1966/02/16",
+    "date_sort": "1966-02-16",
+    "accompanists": [
+      {
+        "name": "Bernstein, Leonard",
+        "role": "conductor"
+      },
+      {
+        "name": "Bernstein, Leonard",
+        "role": "harpsichord"
+      }
+    ],
+    "orchestra": "New York Philharmonic",
+    "location": "Philharmonic Hall, New York",
+    "labels": [
+      "Sony Classical"
+    ],
+    "is_live": false,
+    "notes": null,
+    "reference": "",
+    "category_id": 2,
+    "sort_key": 1042.0
+  },
+  {
+    "id": 309,
+    "composer": "Bach, Johann Sebastian",
+    "composer_id": "10",
+    "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
     "date_display": "1966/02/16",
     "date_sort": "1966-02-16",
     "accompanists": [
@@ -7629,7 +7678,7 @@
     "sort_key": 1060.0
   },
   {
-    "id": 308,
+    "id": 310,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -7653,7 +7702,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 309,
+    "id": 311,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Romance in F major, Op. 11",
@@ -7677,7 +7726,7 @@
     "sort_key": 11.0
   },
   {
-    "id": 310,
+    "id": 312,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Violin Concerto in A minor, Op. 53",
@@ -7701,7 +7750,7 @@
     "sort_key": null
   },
   {
-    "id": 311,
+    "id": 313,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -7735,7 +7784,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 312,
+    "id": 314,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -7769,7 +7818,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 313,
+    "id": 315,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -7793,7 +7842,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 314,
+    "id": 316,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -7818,7 +7867,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 315,
+    "id": 317,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
@@ -7846,7 +7895,7 @@
     "sort_key": 1060.0
   },
   {
-    "id": 316,
+    "id": 318,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -7870,7 +7919,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 317,
+    "id": 319,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -7894,7 +7943,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 318,
+    "id": 320,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Sinfonia Concertante in E-flat major, K. 364",
@@ -7922,7 +7971,7 @@
     "sort_key": 364.0
   },
   {
-    "id": 319,
+    "id": 321,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -7946,7 +7995,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 320,
+    "id": 322,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -7970,7 +8019,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 321,
+    "id": 323,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Trio No. 1 in B major, Op. 8",
@@ -7998,7 +8047,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 322,
+    "id": 324,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Trio No. 3 in C minor, Op. 101",
@@ -8026,7 +8075,7 @@
     "sort_key": 101.0
   },
   {
-    "id": 323,
+    "id": 325,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Piano Trio No. 1 in D minor, Op. 49",
@@ -8054,7 +8103,7 @@
     "sort_key": 49.0
   },
   {
-    "id": 324,
+    "id": 326,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
@@ -8082,7 +8131,7 @@
     "sort_key": 1.3
   },
   {
-    "id": 325,
+    "id": 327,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Piano Trio No. 1 in B-flat major, D. 898",
@@ -8110,7 +8159,7 @@
     "sort_key": 898.0
   },
   {
-    "id": 326,
+    "id": 328,
     "composer": "Enescu, George",
     "composer_id": "72",
     "work": "Violin Sonata No. 3 in A minor, Op. 25",
@@ -8134,7 +8183,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 327,
+    "id": 329,
     "composer": "Hindemith, Paul",
     "composer_id": "111",
     "work": "Violin Concerto",
@@ -8158,7 +8207,7 @@
     "sort_key": null
   },
   {
-    "id": 328,
+    "id": 330,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
     "work": "Symphonie espagnole, Op.21",
@@ -8182,7 +8231,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 329,
+    "id": 331,
     "composer": "Lalo, Édouard",
     "composer_id": "130",
     "work": "Symphonie espagnole, Op.21",
@@ -8206,7 +8255,7 @@
     "sort_key": 21.0
   },
   {
-    "id": 330,
+    "id": 332,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 1, Sz. 75",
@@ -8230,7 +8279,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 331,
+    "id": 333,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -8254,7 +8303,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 332,
+    "id": 334,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -8278,7 +8327,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 333,
+    "id": 335,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -8302,7 +8351,7 @@
     "sort_key": null
   },
   {
-    "id": 334,
+    "id": 336,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -8326,7 +8375,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 335,
+    "id": 337,
     "composer": "Vitali, Tomaso Antonio",
     "composer_id": "252",
     "work": "Chaconne in G minor(Arr. by Charlier)",
@@ -8350,7 +8399,7 @@
     "sort_key": null
   },
   {
-    "id": 336,
+    "id": 338,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Clarinet Sonata No. 2 in E-flat major(arr. for Violin), Op. 120-2",
@@ -8374,7 +8423,7 @@
     "sort_key": null
   },
   {
-    "id": 337,
+    "id": 339,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Sonata No. 2 in D major, Op. 94bis",
@@ -8398,7 +8447,7 @@
     "sort_key": 94.0
   },
   {
-    "id": 338,
+    "id": 340,
     "composer": "Copland, Aaron",
     "composer_id": "50",
     "work": "Violin Sonata",
@@ -8422,7 +8471,7 @@
     "sort_key": null
   },
   {
-    "id": 339,
+    "id": 341,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Variations in G major 'Ich bin der Schneider Kakadu', Op. 121a",
@@ -8450,7 +8499,7 @@
     "sort_key": 121.0
   },
   {
-    "id": 340,
+    "id": 342,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in G major, Op. 1 No. 2",
@@ -8478,7 +8527,7 @@
     "sort_key": 1.2
   },
   {
-    "id": 341,
+    "id": 343,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Clarinet Sonata No. 2 in E-flat major(arr. for Violin), Op. 120-2",
@@ -8502,7 +8551,7 @@
     "sort_key": null
   },
   {
-    "id": 342,
+    "id": 344,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
@@ -8530,7 +8579,7 @@
     "sort_key": 1.3
   },
   {
-    "id": 343,
+    "id": 345,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 2 in A minor, D. 385",
@@ -8554,7 +8603,7 @@
     "sort_key": 385.0
   },
   {
-    "id": 344,
+    "id": 346,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -8578,7 +8627,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 345,
+    "id": 347,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
@@ -8602,7 +8651,7 @@
     "sort_key": 24.0
   },
   {
-    "id": 346,
+    "id": 348,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -8630,7 +8679,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 347,
+    "id": 349,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -8662,7 +8711,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 348,
+    "id": 350,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -8686,7 +8735,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 349,
+    "id": 351,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -8710,7 +8759,7 @@
     "sort_key": null
   },
   {
-    "id": 350,
+    "id": 352,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 2, Sz. 76",
@@ -8734,7 +8783,7 @@
     "sort_key": 76.0
   },
   {
-    "id": 351,
+    "id": 353,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in C minor, Op. 1 No. 3",
@@ -8762,7 +8811,7 @@
     "sort_key": 1.3
   },
   {
-    "id": 352,
+    "id": 354,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Piano Trio No. 10 in in E-flat major, Hob. XV: 10",
@@ -8790,7 +8839,7 @@
     "sort_key": 15.1
   },
   {
-    "id": 353,
+    "id": 355,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Piano Trio No. 1 in B-flat major, D. 898",
@@ -8818,7 +8867,7 @@
     "sort_key": 898.0
   },
   {
-    "id": 354,
+    "id": 356,
     "composer": "Tartini, Giuseppe",
     "composer_id": "237",
     "work": "Violin Sonata in G minor 'Devil's Trill'",
@@ -8842,7 +8891,7 @@
     "sort_key": null
   },
   {
-    "id": 355,
+    "id": 357,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
@@ -8866,7 +8915,7 @@
     "sort_key": 30.2
   },
   {
-    "id": 356,
+    "id": 358,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Sonata No. 2 in D major, Op. 94bis",
@@ -8890,7 +8939,7 @@
     "sort_key": 94.0
   },
   {
-    "id": 357,
+    "id": 359,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "4 Romantic Pieces, Op. 75",
@@ -8914,7 +8963,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 358,
+    "id": 360,
     "composer": "Suk, Josef",
     "composer_id": "230",
     "work": "Burleska, Op. 17 No. 4",
@@ -8938,7 +8987,7 @@
     "sort_key": 17.4
   },
   {
-    "id": 359,
+    "id": 361,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -8962,7 +9011,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 360,
+    "id": 362,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "4 Romantic Pieces, Op. 75",
@@ -8986,7 +9035,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 361,
+    "id": 363,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -9010,7 +9059,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 362,
+    "id": 364,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Piano Trio No. 2 in E-flat major, D. 929",
@@ -9038,7 +9087,7 @@
     "sort_key": 929.0
   },
   {
-    "id": 363,
+    "id": 365,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Piano Trio No. 10 in in E-flat major, Hob. XV: 10",
@@ -9066,7 +9115,7 @@
     "sort_key": 15.1
   },
   {
-    "id": 364,
+    "id": 366,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
@@ -9094,7 +9143,7 @@
     "sort_key": 70.1
   },
   {
-    "id": 365,
+    "id": 367,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in B-flat major, Op. 11",
@@ -9122,7 +9171,7 @@
     "sort_key": 11.0
   },
   {
-    "id": 366,
+    "id": 368,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
@@ -9146,7 +9195,7 @@
     "sort_key": 12.1
   },
   {
-    "id": 367,
+    "id": 369,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 7 in C minor, Op. 30 No. 2",
@@ -9170,7 +9219,7 @@
     "sort_key": 30.2
   },
   {
-    "id": 368,
+    "id": 370,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -9194,7 +9243,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 369,
+    "id": 371,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9218,7 +9267,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 370,
+    "id": 372,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Flute Quartet in D major, K. 285",
@@ -9250,7 +9299,7 @@
     "sort_key": 285.0
   },
   {
-    "id": 371,
+    "id": 373,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Flute Quartet in G major, K. 285a",
@@ -9282,7 +9331,7 @@
     "sort_key": 285.1
   },
   {
-    "id": 372,
+    "id": 374,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Flute Quartet in C major, K. 285b",
@@ -9314,7 +9363,7 @@
     "sort_key": 285.0
   },
   {
-    "id": 373,
+    "id": 375,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Flute Quartet in A major, K. 298",
@@ -9346,7 +9395,7 @@
     "sort_key": 298.0
   },
   {
-    "id": 374,
+    "id": 376,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9370,7 +9419,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 375,
+    "id": 377,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -9394,7 +9443,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 376,
+    "id": 378,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in E-flat major, WoO 38",
@@ -9422,7 +9471,7 @@
     "sort_key": 9038.0
   },
   {
-    "id": 377,
+    "id": 379,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in B-flat major(Allegretto), WoO 39",
@@ -9450,7 +9499,7 @@
     "sort_key": 9039.0
   },
   {
-    "id": 378,
+    "id": 380,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9476,7 +9525,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 379,
+    "id": 381,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -9500,7 +9549,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 380,
+    "id": 382,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -9524,7 +9573,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 381,
+    "id": 383,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "14 Variations in E-flat major, Op. 44",
@@ -9552,7 +9601,7 @@
     "sort_key": 44.0
   },
   {
-    "id": 382,
+    "id": 384,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 1 No. 1",
@@ -9580,7 +9629,7 @@
     "sort_key": 1.1
   },
   {
-    "id": 383,
+    "id": 385,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in E-flat major, Op. 70 No. 2",
@@ -9608,7 +9657,7 @@
     "sort_key": 70.2
   },
   {
-    "id": 384,
+    "id": 386,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -9631,7 +9680,7 @@
     "orchestra": "Casals Festival Orchestra",
     "location": "Puerto Rico",
     "labels": [
-      "unissued"
+      "World Music Express"
     ],
     "is_live": true,
     "notes": "live; video material",
@@ -9640,7 +9689,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 385,
+    "id": 387,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -9664,7 +9713,7 @@
     "sort_key": 96.0
   },
   {
-    "id": 387,
+    "id": 389,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -9688,7 +9737,7 @@
     "sort_key": 96.0
   },
   {
-    "id": 386,
+    "id": 388,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -9720,7 +9769,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 388,
+    "id": 390,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in G major, Op. 1 No. 2",
@@ -9748,7 +9797,7 @@
     "sort_key": 1.2
   },
   {
-    "id": 389,
+    "id": 391,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in B-flat major 'Archduke', Op. 97",
@@ -9776,7 +9825,7 @@
     "sort_key": 97.0
   },
   {
-    "id": 390,
+    "id": 392,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -9800,7 +9849,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 391,
+    "id": 393,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata in A major 'Duo', D. 574",
@@ -9824,7 +9873,7 @@
     "sort_key": 574.0
   },
   {
-    "id": 392,
+    "id": 394,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
@@ -9848,7 +9897,7 @@
     "sort_key": 1001.0
   },
   {
-    "id": 393,
+    "id": 395,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 2, Sz. 76",
@@ -9872,7 +9921,7 @@
     "sort_key": 76.0
   },
   {
-    "id": 394,
+    "id": 396,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Sonata No. 2 in D major, Op. 94bis",
@@ -9896,7 +9945,7 @@
     "sort_key": 94.0
   },
   {
-    "id": 395,
+    "id": 397,
     "composer": "Schumann, Robert",
     "composer_id": "212",
     "work": "Intermezzo from F.A.E. Sonata",
@@ -9920,7 +9969,7 @@
     "sort_key": null
   },
   {
-    "id": 396,
+    "id": 398,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Scherzo from F.A.E. Sonata",
@@ -9944,7 +9993,7 @@
     "sort_key": null
   },
   {
-    "id": 397,
+    "id": 399,
     "composer": "Webern, Anton",
     "composer_id": "259",
     "work": "Four Pieces for Violin and Piano, Op. 7",
@@ -9968,7 +10017,7 @@
     "sort_key": 7.0
   },
   {
-    "id": 398,
+    "id": 400,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -10000,7 +10049,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 399,
+    "id": 401,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -10032,7 +10081,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 400,
+    "id": 402,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -10056,7 +10105,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 401,
+    "id": 403,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -10080,7 +10129,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 402,
+    "id": 404,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -10104,7 +10153,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 403,
+    "id": 405,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -10128,7 +10177,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 404,
+    "id": 406,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Sinfonia Concertante in E-flat major, K. 364",
@@ -10156,7 +10205,7 @@
     "sort_key": 364.0
   },
   {
-    "id": 405,
+    "id": 407,
     "composer": "Stamitz, Carl",
     "composer_id": "308",
     "work": "Sinfonia Concertante in D major",
@@ -10184,7 +10233,7 @@
     "sort_key": null
   },
   {
-    "id": 406,
+    "id": 408,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -10208,7 +10257,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 407,
+    "id": 409,
     "composer": "Chopin, Frédéric François",
     "composer_id": "48",
     "work": "Nocturne in E-flat major, Op. 9 No. 2",
@@ -10232,7 +10281,7 @@
     "sort_key": 9.2
   },
   {
-    "id": 408,
+    "id": 410,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Auf Flügeln des Gesanges, Op. 34 No. 2",
@@ -10256,7 +10305,7 @@
     "sort_key": 34.2
   },
   {
-    "id": 409,
+    "id": 411,
     "composer": "Rubinstein, Anton",
     "composer_id": "195",
     "work": "Romance in E-flat major(Arr. by Harris), Op. 44 No. 1",
@@ -10280,7 +10329,7 @@
     "sort_key": 44.1
   },
   {
-    "id": 410,
+    "id": 412,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Romance from Violin Concerto No. 2 in D minor, Op. 22",
@@ -10304,7 +10353,7 @@
     "sort_key": 22.2
   },
   {
-    "id": 411,
+    "id": 413,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Ständchen from Schwanengesang, D. 957",
@@ -10328,7 +10377,7 @@
     "sort_key": 957.0
   },
   {
-    "id": 412,
+    "id": 414,
     "composer": "Debussy, Claude",
     "composer_id": "58",
     "work": "La fille aux cheveux de lin(Arr. by Hartmann)",
@@ -10352,7 +10401,7 @@
     "sort_key": null
   },
   {
-    "id": 413,
+    "id": 415,
     "composer": "Rachmaninov, Sergei",
     "composer_id": "183",
     "work": "Vocalise, Op. 34 No. 14",
@@ -10376,7 +10425,7 @@
     "sort_key": 34.14
   },
   {
-    "id": 414,
+    "id": 416,
     "composer": "Borodin, Alexander",
     "composer_id": "33",
     "work": "Notturno from String Quartet No. 2",
@@ -10400,7 +10449,7 @@
     "sort_key": null
   },
   {
-    "id": 415,
+    "id": 417,
     "composer": "Satie, Erik",
     "composer_id": "201",
     "work": "Gymnopédie No. 3",
@@ -10424,7 +10473,7 @@
     "sort_key": null
   },
   {
-    "id": 416,
+    "id": 418,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Sérénade mélancolique in B-flat minor, Op. 26",
@@ -10448,7 +10497,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 417,
+    "id": 419,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -10465,10 +10514,12 @@
       }
     ],
     "orchestra": "Orchestre national de l'ORTF(1964-1974)",
-    "location": "",
+    "location": "Paris",
     "labels": [
       "Ritardando",
-      "Doremi"
+      "Doremi",
+      "Vibrato",
+      "Lanne Historical Collection"
     ],
     "is_live": true,
     "notes": "live",
@@ -10477,7 +10528,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 418,
+    "id": 420,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -10490,9 +10541,10 @@
       }
     ],
     "orchestra": "Orchestre national de l'ORTF(1964-1974)",
-    "location": "",
+    "location": "Paris",
     "labels": [
-      "Ritardando"
+      "Ritardando",
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",
@@ -10501,7 +10553,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 419,
+    "id": 421,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -10525,7 +10577,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 420,
+    "id": 422,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -10549,7 +10601,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 421,
+    "id": 423,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Violin Concerto",
@@ -10573,7 +10625,7 @@
     "sort_key": null
   },
   {
-    "id": 422,
+    "id": 424,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -10597,7 +10649,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 423,
+    "id": 425,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -10621,7 +10673,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 424,
+    "id": 426,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -10645,7 +10697,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 425,
+    "id": 427,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -10669,7 +10721,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 426,
+    "id": 428,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -10693,7 +10745,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 427,
+    "id": 429,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -10717,7 +10769,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 428,
+    "id": 430,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -10741,7 +10793,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 429,
+    "id": 431,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -10765,7 +10817,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 430,
+    "id": 432,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -10789,7 +10841,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 431,
+    "id": 433,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
@@ -10813,7 +10865,7 @@
     "sort_key": 12.1
   },
   {
-    "id": 432,
+    "id": 434,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -10837,7 +10889,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 433,
+    "id": 435,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -10861,7 +10913,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 434,
+    "id": 436,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -10885,7 +10937,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 435,
+    "id": 437,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Concertone in C major, K. 190",
@@ -10913,7 +10965,7 @@
     "sort_key": 190.0
   },
   {
-    "id": 436,
+    "id": 438,
     "composer": "Pleyel, Ignaz",
     "composer_id": "173",
     "work": "Symphonie Concertante in B-flat major, B112",
@@ -10941,7 +10993,7 @@
     "sort_key": 112.0
   },
   {
-    "id": 437,
+    "id": 439,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -10965,7 +11017,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 438,
+    "id": 440,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Divertimento for Violin, Viola and Cello in E-flat major, K. 563",
@@ -10993,7 +11045,7 @@
     "sort_key": 563.0
   },
   {
-    "id": 439,
+    "id": 441,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sarabande from Partita for Solo Violin No. 2 in D minor, BWV 1004",
@@ -11012,7 +11064,7 @@
     "sort_key": 1004.3
   },
   {
-    "id": 440,
+    "id": 442,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -11036,7 +11088,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 441,
+    "id": 443,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -11060,7 +11112,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 442,
+    "id": 444,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -11084,7 +11136,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 443,
+    "id": 445,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
@@ -11108,7 +11160,7 @@
     "sort_key": 24.0
   },
   {
-    "id": 444,
+    "id": 446,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -11132,7 +11184,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 445,
+    "id": 447,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -11156,7 +11208,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 446,
+    "id": 448,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -11180,7 +11232,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 447,
+    "id": 449,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -11204,7 +11256,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 448,
+    "id": 450,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -11228,7 +11280,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 449,
+    "id": 451,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -11252,7 +11304,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 450,
+    "id": 452,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -11276,7 +11328,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 451,
+    "id": 453,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -11300,7 +11352,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 452,
+    "id": 454,
     "composer": "Telemann, Georg Philipp",
     "composer_id": "240",
     "work": "Concerto in A major for Flute, Violin and Cello, TWV 53:A2",
@@ -11332,7 +11384,7 @@
     "sort_key": 53.1
   },
   {
-    "id": 453,
+    "id": 455,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -11356,7 +11408,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 454,
+    "id": 456,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -11380,7 +11432,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 455,
+    "id": 457,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 2 in E major, BWV 1042",
@@ -11404,7 +11456,7 @@
     "sort_key": 1042.0
   },
   {
-    "id": 456,
+    "id": 458,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 2 in D major, K. 211",
@@ -11428,7 +11480,7 @@
     "sort_key": 211.0
   },
   {
-    "id": 457,
+    "id": 459,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 4 in D major, K. 218",
@@ -11452,7 +11504,7 @@
     "sort_key": 218.0
   },
   {
-    "id": 458,
+    "id": 460,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Serenade in D major 'Haffner': Rondeau allegro, K. 250",
@@ -11476,7 +11528,7 @@
     "sort_key": 250.0
   },
   {
-    "id": 459,
+    "id": 461,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -11500,7 +11552,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 460,
+    "id": 462,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -11524,7 +11576,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 461,
+    "id": 463,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Violin Concerto No. 3 in B minor, Op. 61",
@@ -11548,7 +11600,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 462,
+    "id": 464,
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Poème, Op. 25",
@@ -11572,7 +11624,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 463,
+    "id": 465,
     "composer": "Fauré, Gabriel",
     "composer_id": "76",
     "work": "Berceuse, Op. 16",
@@ -11596,7 +11648,7 @@
     "sort_key": 16.0
   },
   {
-    "id": 464,
+    "id": 466,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -11624,7 +11676,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 465,
+    "id": 467,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Piano Trio in A minor, Op. 50",
@@ -11652,7 +11704,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 466,
+    "id": 468,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -11676,7 +11728,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 467,
+    "id": 469,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -11700,7 +11752,7 @@
     "sort_key": null
   },
   {
-    "id": 468,
+    "id": 470,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -11724,7 +11776,7 @@
     "sort_key": null
   },
   {
-    "id": 469,
+    "id": 471,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -11748,7 +11800,7 @@
     "sort_key": null
   },
   {
-    "id": 470,
+    "id": 472,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -11772,7 +11824,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 471,
+    "id": 473,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -11796,7 +11848,7 @@
     "sort_key": null
   },
   {
-    "id": 472,
+    "id": 474,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -11820,7 +11872,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 473,
+    "id": 475,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -11844,7 +11896,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 474,
+    "id": 476,
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Poème, Op. 25",
@@ -11868,7 +11920,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 475,
+    "id": 477,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 1",
@@ -11892,7 +11944,7 @@
     "sort_key": null
   },
   {
-    "id": 476,
+    "id": 478,
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Poème, Op. 25",
@@ -11916,7 +11968,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 477,
+    "id": 479,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -11940,7 +11992,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 478,
+    "id": 480,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in D minor, RV 514",
@@ -11968,7 +12020,7 @@
     "sort_key": 514.0
   },
   {
-    "id": 479,
+    "id": 481,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in C minor, RV 509",
@@ -11996,7 +12048,7 @@
     "sort_key": 509.0
   },
   {
-    "id": 480,
+    "id": 482,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in E major, Op. 8 No. 1 RV 269",
@@ -12020,7 +12072,7 @@
     "sort_key": 8.01
   },
   {
-    "id": 481,
+    "id": 483,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in G minor, Op. 8 No. 2 RV 315",
@@ -12044,7 +12096,7 @@
     "sort_key": 8.02
   },
   {
-    "id": 482,
+    "id": 484,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F major, Op. 8 No. 3 RV 293",
@@ -12068,7 +12120,7 @@
     "sort_key": 8.03
   },
   {
-    "id": 483,
+    "id": 485,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in F minor, Op. 8 No. 4 RV 297",
@@ -12092,7 +12144,7 @@
     "sort_key": 8.04
   },
   {
-    "id": 484,
+    "id": 486,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -12116,7 +12168,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 485,
+    "id": 487,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Meditation, Op. 42 No. 1",
@@ -12140,7 +12192,7 @@
     "sort_key": 42.1
   },
   {
-    "id": 486,
+    "id": 488,
     "composer": "Penderecki, Krzysztof",
     "composer_id": "309",
     "work": "Violin Concerto",
@@ -12164,7 +12216,7 @@
     "sort_key": null
   },
   {
-    "id": 487,
+    "id": 489,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -12188,7 +12240,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 488,
+    "id": 490,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Violin Concerto No. 1 in A minor, BWV 1041",
@@ -12212,7 +12264,7 @@
     "sort_key": 1041.0
   },
   {
-    "id": 489,
+    "id": 491,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
@@ -12240,7 +12292,7 @@
     "sort_key": 1060.0
   },
   {
-    "id": 490,
+    "id": 492,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Fantasy in C major, D. 934",
@@ -12264,7 +12316,7 @@
     "sort_key": 934.0
   },
   {
-    "id": 491,
+    "id": 493,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -12288,7 +12340,7 @@
     "sort_key": null
   },
   {
-    "id": 492,
+    "id": 494,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -12312,7 +12364,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 493,
+    "id": 495,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -12340,7 +12392,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 494,
+    "id": 496,
     "composer": "Rochberg, George",
     "composer_id": "192",
     "work": "Violin Concerto",
@@ -12364,7 +12416,7 @@
     "sort_key": null
   },
   {
-    "id": 495,
+    "id": 497,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Piano Trio No. 2 in C minor, Op. 66",
@@ -12392,7 +12444,7 @@
     "sort_key": 66.0
   },
   {
-    "id": 496,
+    "id": 498,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -12416,7 +12468,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 497,
+    "id": 499,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 1 in G major, Op. 40",
@@ -12440,7 +12492,7 @@
     "sort_key": 40.0
   },
   {
-    "id": 498,
+    "id": 500,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -12464,7 +12516,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 499,
+    "id": 501,
     "composer": "Barbar, Samuel",
     "composer_id": "13",
     "work": "Violin Concerto, Op. 14",
@@ -12488,7 +12540,7 @@
     "sort_key": 14.0
   },
   {
-    "id": 500,
+    "id": 502,
     "composer": "Tchaikovsky, Pyotr Ilyich",
     "composer_id": "238",
     "work": "Violin Concerto in D major, Op. 35",
@@ -12512,7 +12564,7 @@
     "sort_key": 35.0
   },
   {
-    "id": 501,
+    "id": 503,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Rhapsody No. 1",
@@ -12536,7 +12588,7 @@
     "sort_key": null
   },
   {
-    "id": 502,
+    "id": 504,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -12560,7 +12612,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 503,
+    "id": 505,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -12588,7 +12640,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 504,
+    "id": 506,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -12612,7 +12664,7 @@
     "sort_key": null
   },
   {
-    "id": 505,
+    "id": 507,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -12636,7 +12688,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 506,
+    "id": 508,
     "composer": "Chausson, Amédée-Ernest",
     "composer_id": "46",
     "work": "Poème, Op. 25",
@@ -12660,7 +12712,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 507,
+    "id": 509,
     "composer": "Wieniawski, Henryk",
     "composer_id": "262",
     "work": "Violin Concerto No. 2 in D minor, Op. 22",
@@ -12684,7 +12736,7 @@
     "sort_key": 22.0
   },
   {
-    "id": 508,
+    "id": 510,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "String Quintet No. 2 in G major, Op. 111",
@@ -12720,7 +12772,7 @@
     "sort_key": 111.0
   },
   {
-    "id": 509,
+    "id": 511,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 5 in A major 'Turkish', K. 219",
@@ -12744,7 +12796,7 @@
     "sort_key": 219.0
   },
   {
-    "id": 510,
+    "id": 512,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -12768,7 +12820,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 511,
+    "id": 513,
     "composer": "Schumann, Robert",
     "composer_id": "212",
     "work": "Piano Quintet in E-flat major, Op. 44",
@@ -12804,7 +12856,7 @@
     "sort_key": 44.0
   },
   {
-    "id": 512,
+    "id": 514,
     "composer": "Sibelius, Jean",
     "composer_id": "220",
     "work": "Violin Concerto in D minor, Op. 47",
@@ -12828,7 +12880,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 513,
+    "id": 515,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Romance No. 2 in F major, Op. 50",
@@ -12852,7 +12904,7 @@
     "sort_key": 50.0
   },
   {
-    "id": 514,
+    "id": 516,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -12876,7 +12928,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 515,
+    "id": 517,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -12904,7 +12956,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 516,
+    "id": 518,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Sinfonia Concertante in E-flat major, K. 364",
@@ -12932,7 +12984,7 @@
     "sort_key": 364.0
   },
   {
-    "id": 517,
+    "id": 519,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 3 Violins in F major, RV 551",
@@ -12964,7 +13016,7 @@
     "sort_key": 551.0
   },
   {
-    "id": 518,
+    "id": 520,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Concerto in D major, Op. 77",
@@ -12988,7 +13040,7 @@
     "sort_key": 77.0
   },
   {
-    "id": 519,
+    "id": 521,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -13012,7 +13064,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 520,
+    "id": 522,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Sinfonia Concertante in B-flat, Op. 84, Hob. I/105",
@@ -13048,7 +13100,7 @@
     "sort_key": 105.0
   },
   {
-    "id": 521,
+    "id": 523,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -13072,7 +13124,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 522,
+    "id": 524,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Violin Concerto in A minor, Op. 53",
@@ -13096,7 +13148,7 @@
     "sort_key": null
   },
   {
-    "id": 523,
+    "id": 525,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 1, Sz. 75",
@@ -13120,7 +13172,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 524,
+    "id": 526,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Scherzo from F.A.E. Sonata",
@@ -13144,7 +13196,7 @@
     "sort_key": null
   },
   {
-    "id": 525,
+    "id": 527,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 3 in G minor, D. 408",
@@ -13168,7 +13220,7 @@
     "sort_key": 408.0
   },
   {
-    "id": 526,
+    "id": 528,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -13192,7 +13244,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 527,
+    "id": 529,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -13216,7 +13268,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 528,
+    "id": 530,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -13244,7 +13296,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 529,
+    "id": 531,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Violin and Oboe in C minor, BWV 1060",
@@ -13272,7 +13324,7 @@
     "sort_key": 1060.0
   },
   {
-    "id": 530,
+    "id": 532,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Violin Concerto in A minor, Op. 3 No. 8 RV 522",
@@ -13300,7 +13352,7 @@
     "sort_key": 3.08
   },
   {
-    "id": 531,
+    "id": 533,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 2 in G minor, Op. 63",
@@ -13324,7 +13376,7 @@
     "sort_key": 63.0
   },
   {
-    "id": 532,
+    "id": 534,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -13348,7 +13400,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 533,
+    "id": 535,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 1 in B-flat major, K. 207",
@@ -13372,7 +13424,7 @@
     "sort_key": 207.0
   },
   {
-    "id": 534,
+    "id": 536,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -13396,7 +13448,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 535,
+    "id": 537,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 2 Violins in D major, RV 512",
@@ -13424,7 +13476,7 @@
     "sort_key": 512.0
   },
   {
-    "id": 536,
+    "id": 538,
     "composer": "Telemann, Georg Philipp",
     "composer_id": "240",
     "work": "Concerto in A major for Flute, Violin and Cello, TWV 53:A2",
@@ -13456,7 +13508,7 @@
     "sort_key": 53.1
   },
   {
-    "id": 537,
+    "id": 539,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Trio in C major, Hob. IV:1",
@@ -13484,7 +13536,7 @@
     "sort_key": 4.1
   },
   {
-    "id": 538,
+    "id": 540,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -13512,7 +13564,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 539,
+    "id": 541,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 6 in A major, Op. 30 No. 1",
@@ -13536,7 +13588,7 @@
     "sort_key": 30.1
   },
   {
-    "id": 540,
+    "id": 542,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -13564,7 +13616,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 541,
+    "id": 543,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 3 Violins in F major, RV 551",
@@ -13596,7 +13648,7 @@
     "sort_key": 551.0
   },
   {
-    "id": 542,
+    "id": 544,
     "composer": "Vivaldi, Antonio",
     "composer_id": "253",
     "work": "Concerto for 4 Violins in B minor, RV 580",
@@ -13632,7 +13684,7 @@
     "sort_key": 580.0
   },
   {
-    "id": 546,
+    "id": 548,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 2 in A major, Op. 12 No. 2",
@@ -13656,7 +13708,7 @@
     "sort_key": 12.2
   },
   {
-    "id": 547,
+    "id": 549,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 3 in E-flat major, Op. 12 No. 3",
@@ -13680,7 +13732,7 @@
     "sort_key": 12.3
   },
   {
-    "id": 548,
+    "id": 550,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 4 in A major, Op. 23",
@@ -13704,7 +13756,7 @@
     "sort_key": 23.0
   },
   {
-    "id": 549,
+    "id": 551,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 5 in F major 'Spring', Op. 24",
@@ -13728,7 +13780,7 @@
     "sort_key": 24.0
   },
   {
-    "id": 550,
+    "id": 552,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 8 in G major, Op. 30 No. 3",
@@ -13752,7 +13804,7 @@
     "sort_key": 30.3
   },
   {
-    "id": 551,
+    "id": 553,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 9 in A major 'Kreutzer', Op. 47",
@@ -13776,7 +13828,7 @@
     "sort_key": 47.0
   },
   {
-    "id": 552,
+    "id": 554,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 10 in G major, Op. 96",
@@ -13800,7 +13852,7 @@
     "sort_key": 96.0
   },
   {
-    "id": 543,
+    "id": 545,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -13824,7 +13876,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 544,
+    "id": 546,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -13848,7 +13900,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 545,
+    "id": 547,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -13872,7 +13924,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 553,
+    "id": 555,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -13896,7 +13948,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 554,
+    "id": 556,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -13920,7 +13972,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 555,
+    "id": 557,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Scherzo from F.A.E. Sonata",
@@ -13944,7 +13996,7 @@
     "sort_key": null
   },
   {
-    "id": 556,
+    "id": 558,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in E minor, K. 304",
@@ -13968,7 +14020,7 @@
     "sort_key": 304.0
   },
   {
-    "id": 557,
+    "id": 559,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Partita for Solo Violin No. 1 in B minor, BWV 1002",
@@ -13987,7 +14039,7 @@
     "sort_key": 1002.0
   },
   {
-    "id": 558,
+    "id": 560,
     "composer": "Fauré, Gabriel",
     "composer_id": "76",
     "work": "Violin Sonata No. 1 in A minor, Op. 13",
@@ -14011,7 +14063,7 @@
     "sort_key": 13.0
   },
   {
-    "id": 559,
+    "id": 561,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Romanian Folk Dances, Sz. 56",
@@ -14035,7 +14087,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 560,
+    "id": 562,
     "composer": "Szymanowski, Karol",
     "composer_id": "232",
     "work": "La Fontaine d'Aréthuse from Three Poems 'Mythes', Op. 30 No. 1",
@@ -14059,7 +14111,7 @@
     "sort_key": 30.1
   },
   {
-    "id": 561,
+    "id": 563,
     "composer": "Ravel, Maurice",
     "composer_id": "188",
     "work": "Perpetuum mobile from Violin Sonata",
@@ -14083,7 +14135,7 @@
     "sort_key": null
   },
   {
-    "id": 562,
+    "id": 564,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 2",
@@ -14107,7 +14159,7 @@
     "sort_key": null
   },
   {
-    "id": 563,
+    "id": 565,
     "composer": "Mendelssohn, Felix",
     "composer_id": "147",
     "work": "Violin Concerto in E minor, Op. 64",
@@ -14131,7 +14183,7 @@
     "sort_key": 64.0
   },
   {
-    "id": 564,
+    "id": 566,
     "composer": "Berg, Alban",
     "composer_id": "20",
     "work": "Chamber Concerto for Piano and Violin with 13 Wind Instruments",
@@ -14159,7 +14211,7 @@
     "sort_key": null
   },
   {
-    "id": 565,
+    "id": 567,
     "composer": "Handel, George Frideric",
     "composer_id": "108",
     "work": "Violin Sonata in D major, HWV 371",
@@ -14183,7 +14235,7 @@
     "sort_key": 371.0
   },
   {
-    "id": 566,
+    "id": 568,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Sonata for Solo Violin No. 1 in G minor, BWV 1001",
@@ -14202,7 +14254,7 @@
     "sort_key": 1001.0
   },
   {
-    "id": 567,
+    "id": 569,
     "composer": "Hindemith, Paul",
     "composer_id": "111",
     "work": "Violin Sonata in C major",
@@ -14226,7 +14278,7 @@
     "sort_key": null
   },
   {
-    "id": 568,
+    "id": 570,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Romance in F major, Op. 11",
@@ -14250,7 +14302,7 @@
     "sort_key": 11.0
   },
   {
-    "id": 569,
+    "id": 571,
     "composer": "Stravinsky, Igor",
     "composer_id": "229",
     "work": "Suite Italienne",
@@ -14274,7 +14326,7 @@
     "sort_key": null
   },
   {
-    "id": 570,
+    "id": 572,
     "composer": "Kreisler, Fritz",
     "composer_id": "128",
     "work": "Liebesleid",
@@ -14298,7 +14350,7 @@
     "sort_key": null
   },
   {
-    "id": 571,
+    "id": 573,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -14326,7 +14378,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 572,
+    "id": 574,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Quartet No. 3 in C minor, Op. 60",
@@ -14358,7 +14410,7 @@
     "sort_key": 60.0
   },
   {
-    "id": 573,
+    "id": 575,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -14386,7 +14438,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 574,
+    "id": 576,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -14414,7 +14466,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 575,
+    "id": 577,
     "composer": "Prokofiev, Sergei",
     "composer_id": "179",
     "work": "Violin Concerto No. 1 in D minor, Op. 19",
@@ -14438,7 +14490,7 @@
     "sort_key": 19.0
   },
   {
-    "id": 576,
+    "id": 578,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Sonata No. 1 in D major, Op. 12 No. 1",
@@ -14462,7 +14514,7 @@
     "sort_key": 12.1
   },
   {
-    "id": 577,
+    "id": 579,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -14490,7 +14542,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 578,
+    "id": 580,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Double Concerto in A minor, Op. 102",
@@ -14518,7 +14570,7 @@
     "sort_key": 102.0
   },
   {
-    "id": 579,
+    "id": 581,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 1 in D major, D. 384",
@@ -14542,7 +14594,7 @@
     "sort_key": 384.0
   },
   {
-    "id": 580,
+    "id": 582,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 2 in A minor, D. 385",
@@ -14566,7 +14618,7 @@
     "sort_key": 385.0
   },
   {
-    "id": 581,
+    "id": 583,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 3 in G minor, D. 408",
@@ -14590,7 +14642,7 @@
     "sort_key": 408.0
   },
   {
-    "id": 582,
+    "id": 584,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Fantasy in C major, D. 934",
@@ -14614,7 +14666,7 @@
     "sort_key": 934.0
   },
   {
-    "id": 583,
+    "id": 585,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata No. 1 in D major, D. 384",
@@ -14638,7 +14690,7 @@
     "sort_key": 384.0
   },
   {
-    "id": 584,
+    "id": 586,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Sonata No. 1, Sz. 75",
@@ -14662,7 +14714,7 @@
     "sort_key": 75.0
   },
   {
-    "id": 585,
+    "id": 587,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -14686,7 +14738,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 586,
+    "id": 588,
     "composer": "Falla, Manuel de",
     "composer_id": "75",
     "work": "Seven Popular Spanish Songs(Arr. by Kochanski)",
@@ -14710,7 +14762,7 @@
     "sort_key": null
   },
   {
-    "id": 587,
+    "id": 589,
     "composer": "Saint-Saëns, Camille",
     "composer_id": "197",
     "work": "Introduction et Rondo Capriccioso, Op. 28",
@@ -14734,7 +14786,7 @@
     "sort_key": 28.0
   },
   {
-    "id": 588,
+    "id": 590,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Violin Sonata in A major 'Duo', D. 574",
@@ -14758,7 +14810,7 @@
     "sort_key": 574.0
   },
   {
-    "id": 589,
+    "id": 591,
     "composer": "Schubert, Franz",
     "composer_id": "210",
     "work": "Rondeau brilliant in B minor, D. 895",
@@ -14782,7 +14834,7 @@
     "sort_key": 895.0
   },
   {
-    "id": 590,
+    "id": 592,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Quartet No. 1 in G minor, Op. 25",
@@ -14814,7 +14866,7 @@
     "sort_key": 25.0
   },
   {
-    "id": 591,
+    "id": 593,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Piano Quartet No. 2 in A major, Op. 26",
@@ -14846,7 +14898,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 592,
+    "id": 594,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Adagio in E major, K. 261",
@@ -14870,7 +14922,7 @@
     "sort_key": 261.0
   },
   {
-    "id": 593,
+    "id": 595,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Rondo in C major, K. 373",
@@ -14894,7 +14946,7 @@
     "sort_key": 373.0
   },
   {
-    "id": 594,
+    "id": 596,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Triple Concerto in C major, Op. 56",
@@ -14926,7 +14978,7 @@
     "sort_key": 56.0
   },
   {
-    "id": 595,
+    "id": 597,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -14950,7 +15002,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 596,
+    "id": 598,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Violin Concerto in D major, Op. 61",
@@ -14974,7 +15026,7 @@
     "sort_key": 61.0
   },
   {
-    "id": 597,
+    "id": 599,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -14998,7 +15050,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 598,
+    "id": 600,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -15022,7 +15074,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 599,
+    "id": 601,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 2 in A major, Op. 100",
@@ -15046,7 +15098,7 @@
     "sort_key": 100.0
   },
   {
-    "id": 600,
+    "id": 602,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 3 in D minor, Op. 108",
@@ -15070,7 +15122,7 @@
     "sort_key": 108.0
   },
   {
-    "id": 601,
+    "id": 603,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Scherzo from F.A.E. Sonata",
@@ -15094,7 +15146,7 @@
     "sort_key": null
   },
   {
-    "id": 602,
+    "id": 604,
     "composer": "Beethoven, Ludwig van",
     "composer_id": "16",
     "work": "Piano Trio in D major 'Ghost', Op. 70 No. 1",
@@ -15122,7 +15174,7 @@
     "sort_key": 70.1
   },
   {
-    "id": 603,
+    "id": 605,
     "composer": "Brahms, Johannes",
     "composer_id": "34",
     "work": "Violin Sonata No. 1 in G major, Op. 78",
@@ -15146,7 +15198,7 @@
     "sort_key": 78.0
   },
   {
-    "id": 604,
+    "id": 606,
     "composer": "Bruch, Max",
     "composer_id": "37",
     "work": "Violin Concerto No. 1 in G minor, Op. 26",
@@ -15170,7 +15222,7 @@
     "sort_key": 26.0
   },
   {
-    "id": 605,
+    "id": 607,
     "composer": "Bartók, Béla",
     "composer_id": "14",
     "work": "Violin Concerto No. 1",
@@ -15194,7 +15246,7 @@
     "sort_key": null
   },
   {
-    "id": 606,
+    "id": 608,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Sonata in C major, K. 296",
@@ -15218,7 +15270,7 @@
     "sort_key": 296.0
   },
   {
-    "id": 607,
+    "id": 609,
     "composer": "Bach, Johann Sebastian",
     "composer_id": "10",
     "work": "Concerto for Two Violins in D minor, BWV 1043",
@@ -15242,7 +15294,7 @@
     "sort_key": 1043.0
   },
   {
-    "id": 608,
+    "id": 610,
     "composer": "Franck, César",
     "composer_id": "84",
     "work": "Violin Sonata in A major",
@@ -15266,7 +15318,7 @@
     "sort_key": 8.0
   },
   {
-    "id": 609,
+    "id": 611,
     "composer": "Dvořák, Antonín",
     "composer_id": "69",
     "work": "Romance in F major, Op. 11",
@@ -15290,7 +15342,7 @@
     "sort_key": 11.0
   },
   {
-    "id": 610,
+    "id": 612,
     "composer": "Mozart, Wolfgang Amadeus",
     "composer_id": "156",
     "work": "Violin Concerto No. 3 in G major, K. 216",
@@ -15314,7 +15366,7 @@
     "sort_key": 216.0
   },
   {
-    "id": 611,
+    "id": 613,
     "composer": "Haydn, Joseph",
     "composer_id": "110",
     "work": "Adagio from Violin Concerto No. 1 in C major, Hob. VIIa",

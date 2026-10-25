@@ -1857,7 +1857,8 @@
     "labels": [
       "Dante Records",
       "Music & Arts",
-      "Pearl"
+      "Pearl",
+      "Sony Classical"
     ],
     "is_live": false,
     "notes": null,
@@ -4230,7 +4231,8 @@
     "location": "Carnegie Hall, New York",
     "labels": [
       "Melodram",
-      "Archipel"
+      "Archipel",
+      "Vibrato"
     ],
     "is_live": true,
     "notes": "live",
@@ -7790,6 +7792,7 @@
     "orchestra": "Orchestre national de la RTF(1949-1964)",
     "location": "Palais des Fêtes",
     "labels": [
+      "INA(download)",
       "Spectrum Sound"
     ],
     "is_live": true,

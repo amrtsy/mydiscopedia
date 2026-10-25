@@ -3850,7 +3850,8 @@
     "location": "",
     "labels": [
       "Classical Recordings Archive of America",
-      "St-Laurent Studio"
+      "St-Laurent Studio",
+      "Rare Moth"
     ],
     "is_live": true,
     "notes": "live",
@@ -6673,6 +6674,7 @@
     "orchestra": "Bavarian Radio Symphony Orchestra",
     "location": "",
     "labels": [
+      "En Larmes",
       "St-Laurent Studio"
     ],
     "is_live": true,
@@ -7030,6 +7032,7 @@
     "orchestra": "Bavarian Radio Symphony Orchestra",
     "location": "Grosser Saal des Konzerthaus, Vienna",
     "labels": [
+      "En Larmes",
       "Orfeo"
     ],
     "is_live": true,
